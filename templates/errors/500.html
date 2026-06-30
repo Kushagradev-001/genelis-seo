@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="error-page">
+
+    <div class="error-card">
+
+        <div class="error-code">
+            500
+        </div>
+
+        <span class="error-badge">
+            SERVER ERROR
+        </span>
+
+        <h1>
+            Something went wrong while loading this page.
+        </h1>
+
+        <p>
+            Genelis ran into a temporary issue. Please try again, return home,
+            or open the learning platform directly.
+        </p>
+
+        <div class="error-actions">
+
+            <a href="/" class="btn btn-primary">
+                Back to Home
+            </a>
+
+            <a href="{{ CTA_LINKS.global_cta }}" class="btn btn-secondary">
+                Open Genelis
+            </a>
+
+        </div>
+
+        <div class="error-links">
+
+            <a href="/classes">Classes</a>
+            <a href="/learning-system">Learning System</a>
+            <a href="/pricing">Pricing</a>
+            <a href="/contact">Contact</a>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}

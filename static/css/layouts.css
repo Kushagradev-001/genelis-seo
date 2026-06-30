@@ -1,0 +1,83 @@
+/* =========================================================
+   GENELIS DESIGN LANGUAGE — LAYOUTS
+   Containers, grids, sections, hero layouts
+   ========================================================= */
+
+/* ---------- Section Spacing ---------- */
+
+.gdl-section {
+    width: 92%;
+    max-width: var(--container-xl);
+    margin: 0 auto var(--space-9);
+}
+
+.gdl-section-sm {
+    margin-bottom: var(--space-7);
+}
+
+.gdl-section-lg {
+    margin-bottom: 150px;
+}
+
+/* ---------- Grids ---------- */
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-5);
+}
+
+.grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-3);
+}
+
+.grid-4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-3);
+}
+
+/* ---------- Hero Layout ---------- */
+
+.hero-layout {
+    width: 92%;
+    max-width: var(--container-xl);
+    margin: 80px auto 120px;
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 70px;
+    align-items: center;
+    position: relative;
+}
+
+/* ---------- Split Section ---------- */
+
+.split-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-6);
+    align-items: center;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+    .grid-2,
+    .grid-3,
+    .grid-4,
+    .hero-layout,
+    .split-section {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-layout {
+        margin-top: 60px;
+        gap: var(--space-5);
+    }
+
+    .gdl-section {
+        margin-bottom: var(--space-7);
+    }
+}

@@ -1,0 +1,260 @@
+/* =========================================================
+   GENELIS DESIGN LANGUAGE — COMPONENTS
+   Buttons, badges, cards, navbar, section headings
+   ========================================================= */
+
+/* ---------- Containers ---------- */
+
+.gdl-container {
+    width: 92%;
+    max-width: var(--container-xl);
+    margin: 0 auto;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 15px 24px;
+    border-radius: var(--radius-md);
+    font-weight: 800;
+    transition: var(--transition-normal);
+    cursor: pointer;
+}
+
+.btn-primary {
+    background: var(--gradient-primary);
+    color: white;
+    box-shadow: var(--shadow-glow);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+}
+
+.btn-secondary {
+    background: var(--color-surface);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+}
+
+.btn-secondary:hover {
+    background: var(--color-surface-strong);
+    transform: translateY(-2px);
+}
+
+/* ---------- Badges ---------- */
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 14px;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    color: #bfdbfe;
+    font-size: 14px;
+    font-weight: 750;
+}
+
+/* ---------- Cards ---------- */
+
+.glass-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-card);
+    backdrop-filter: blur(20px);
+}
+
+.feature-card-base {
+    padding: 28px;
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    transition: var(--transition-normal);
+}
+
+.feature-card-base:hover {
+    transform: translateY(-6px);
+    background: var(--color-surface-strong);
+}
+
+/* ---------- Section Heading ---------- */
+
+.section-heading {
+    text-align: center;
+    max-width: 760px;
+    margin: 0 auto 44px;
+}
+
+.section-heading span {
+    color: #93c5fd;
+    font-weight: 800;
+}
+
+.section-heading h2 {
+    margin: 14px 0;
+}
+
+.section-heading p {
+    color: var(--color-text-muted);
+}
+
+/* ---------- Navbar Base ---------- */
+
+.navbar-base {
+    width: 92%;
+    max-width: var(--container-xl);
+    margin: 24px auto 0;
+    padding: 16px 20px;
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    backdrop-filter: blur(18px);
+    border-radius: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+}
+
+/* ---------- Brand ---------- */
+
+.brand-base {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.brand-mark-base {
+    width: 36px;
+    height: 36px;
+    border-radius: 12px;
+    display: grid;
+    place-items: center;
+    background: var(--gradient-primary);
+}
+/* ---------- Premium Navbar ---------- */
+
+.gdl-navbar {
+    width: 92%;
+    max-width: var(--container-xl);
+    margin: 24px auto 0;
+    padding: 16px 20px;
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    backdrop-filter: blur(18px);
+    border-radius: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 20;
+}
+
+.gdl-brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 850;
+    font-size: 22px;
+    letter-spacing: -0.4px;
+}
+
+.gdl-brand-mark {
+    width: 38px;
+    height: 38px;
+    border-radius: 13px;
+    display: grid;
+    place-items: center;
+    background: var(--gradient-primary);
+    color: white;
+    font-weight: 900;
+}
+
+.gdl-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    color: var(--color-text-muted);
+    font-weight: 650;
+}
+
+.gdl-nav-links a {
+    transition: var(--transition-fast);
+}
+
+.gdl-nav-links a:hover {
+    color: var(--color-text);
+}
+
+.gdl-nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+@media (max-width: 900px) {
+    .gdl-nav-links,
+    .gdl-nav-actions {
+        display: none;
+    }
+}
+/* =====================================================
+   GENELIS UI CARD
+===================================================== */
+
+.gdl-card {
+    position: relative;
+    background: rgba(255,255,255,.04);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-xl);
+    padding: 28px;
+    transition:
+        transform .3s ease,
+        border-color .3s ease,
+        background .3s ease,
+        box-shadow .3s ease;
+}
+
+.gdl-card:hover {
+    transform: translateY(-6px);
+    border-color: rgba(96,165,250,.45);
+    background: rgba(255,255,255,.06);
+    box-shadow: 0 18px 50px rgba(0,0,0,.22);
+}
+/* =====================================================
+   GENELIS GRID SYSTEM
+===================================================== */
+
+.gdl-grid {
+    display: grid;
+    gap: var(--space-3);
+}
+
+.gdl-grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.gdl-grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.gdl-grid-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 900px) {
+    .gdl-grid-2,
+    .gdl-grid-3,
+    .gdl-grid-4 {
+        grid-template-columns: 1fr;
+    }
+}

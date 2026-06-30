@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% with
+    badge=class_info.badge,
+    heading=class_info.heading,
+    subheading=class_info.subheading,
+    button_text="Start Learning",
+    button_link=CTA_LINKS.class_detail
+%}
+    {% include "partials/page-hero.html" %}
+{% endwith %}
+
+<section class="class-detail-section">
+    <div class="class-detail-content">
+        <span>Learning Focus</span>
+        <h3>{{ class_info.focus }}</h3>
+        <h2>What makes {{ class_info.badge }} different?</h2>
+        <p>{{ class_info.description }}</p>
+    </div>
+</section>
+
+<section class="class-detail-section" id="subjects">
+    {% with
+        section_badge="Subjects",
+        section_title="Subjects you can prepare with Genelis.",
+        section_description="Explore structured support across subjects with AI notes, practice questions, mock tests, and revision guidance."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="class-subject-grid gdl-grid gdl-grid-4">
+        {% for subject in class_info.subjects %}
+        <div class="class-subject-card gdl-card">
+            <span>{{ subject }}</span>
+            <h3>Everything you need to master {{ subject }}.</h3>
+
+            <ul class="subject-features">
+                <li>AI Notes</li>
+                <li>Practice Questions</li>
+                <li>Mock Tests</li>
+                <li>Revision Guidance</li>
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="class-detail-section">
+    <div class="class-experience-card gdl-card">
+        <span>Class Learning Experience</span>
+        <h2>From chapter selection to revision clarity.</h2>
+
+        <div class="class-experience-flow">
+            <div>Choose Chapter</div>
+            <div>Generate Notes</div>
+            <div>Practice Questions</div>
+            <div>Attempt Mock</div>
+            <div>Review Analytics</div>
+            <div>Revise Better</div>
+        </div>
+    </div>
+</section>
+
+<section class="class-detail-section">
+    <div class="class-learning-loop gdl-card">
+        <span>The Genelis Learning Loop™</span>
+        <h2>Every subject follows one connected learning experience.</h2>
+        <p>
+            Learn. Practice. Test. Analyse. Improve. Reinforce. Excel.
+        </p>
+
+        <a href="/learning-system" class="btn btn-secondary class-support-link">
+            Explore the Learning Loop
+        </a>
+    </div>
+</section>
+
+<section class="class-detail-section">
+    <div class="class-support-card gdl-card">
+        <span>One connected learning experience, personalized for every student.</span>
+        <h2>Everything works together.</h2>
+        <p>
+            Genelis connects learning material, practice, mock tests, performance insights,
+            and revision guidance so students know what to study, how to practice,
+            and what to improve next.
+        </p>
+
+        <a href="{{ CTA_LINKS.class_detail }}" class="btn btn-primary class-support-link">
+            Start Learning
+        </a>
+
+        <a href="/learning-system" class="btn btn-secondary class-support-link">
+            Explore the Genelis Learning System
+        </a>
+    </div>
+</section>
+
+<section class="class-detail-section">
+    {% with
+        section_badge="Frequently Asked Questions",
+        section_title="Questions students and parents may have.",
+        section_description="Simple answers before starting the Genelis learning journey."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="class-faq-grid gdl-grid gdl-grid-3">
+        {% for faq in class_info.faqs %}
+        <div class="class-faq-card gdl-card">
+            <span>FAQ</span>
+            <h3>{{ faq }}</h3>
+            <p>Genelis is designed to provide structured, AI-powered learning support for students.</p>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}

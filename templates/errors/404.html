@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="error-page">
+
+    <div class="error-card">
+
+        <div class="error-code">
+            404
+        </div>
+
+        <span class="error-badge">
+            PAGE NOT FOUND
+        </span>
+
+        <h1>
+            Looks like this page took the wrong chapter.
+        </h1>
+
+        <p>
+            The page you're looking for doesn't exist, may have been moved,
+            or the link might be incorrect.
+        </p>
+
+        <div class="error-actions">
+
+            <a href="/" class="btn btn-primary">
+                Back to Home
+            </a>
+
+            <a href="{{ CTA_LINKS.global_cta }}" class="btn btn-secondary">
+                Open Genelis
+            </a>
+
+        </div>
+
+        <div class="error-links">
+
+            <a href="/classes">Classes</a>
+
+            <a href="/learning-system">Learning System</a>
+
+            <a href="/pricing">Pricing</a>
+
+            <a href="/blog">Blog</a>
+
+            <a href="/contact">Contact</a>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}

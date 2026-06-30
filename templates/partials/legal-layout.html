@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="legal-page">
+
+    <div class="legal-header">
+        <span>{{ legal_badge }}</span>
+        <h1>{{ legal_title }}</h1>
+        <p>{{ legal_description }}</p>
+    </div>
+
+    <div class="legal-content">
+        {% block legal_content %}
+        {% endblock %}
+    </div>
+
+    <div class="legal-footer-note">
+        <p>© 2026 Genelis. All rights reserved.</p>
+    </div>
+
+</section>
+
+{% endblock %}

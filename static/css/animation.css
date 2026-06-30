@@ -1,0 +1,52 @@
+/* =========================================================
+   GENELIS DESIGN LANGUAGE — ANIMATIONS
+   Subtle motion, hover effects, fade-ins
+   ========================================================= */
+
+.fade-up {
+    opacity: 0;
+    transform: translateY(24px);
+    animation: fadeUp 0.8s ease forwards;
+}
+
+.fade-delay-1 {
+    animation-delay: 0.1s;
+}
+
+.fade-delay-2 {
+    animation-delay: 0.2s;
+}
+
+.fade-delay-3 {
+    animation-delay: 0.3s;
+}
+
+.float-soft {
+    animation: floatSoft 6s ease-in-out infinite;
+}
+
+.glow-hover {
+    transition: var(--transition-normal);
+}
+
+.glow-hover:hover {
+    box-shadow: var(--shadow-glow);
+    transform: translateY(-4px);
+}
+
+@keyframes fadeUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes floatSoft {
+    0%, 100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-12px);
+    }
+}

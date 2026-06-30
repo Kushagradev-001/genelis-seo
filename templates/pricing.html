@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% with
+    badge="PRICING",
+    heading="Simple plans for smarter preparation.",
+    subheading="Start free, upgrade monthly, or choose annual for the best value.",
+    button_text="Start Learning",
+    button_link=CTA_LINKS.pricing_free
+%}
+    {% include "partials/page-hero.html" %}
+{% endwith %}
+
+<section class="pricing-section">
+
+    <div class="pricing-grid gdl-grid gdl-grid-3">
+
+        <div class="pricing-card gdl-card">
+            <span>Free</span>
+            <h2>₹0</h2>
+            <p>Perfect for exploring Genelis with basic learning access.</p>
+
+            <ul>
+                <li>AI Notes — 10/day</li>
+                <li>AI Doubts — 10/day</li>
+                <li>Subject Mocks — 1/month</li>
+                <li>Chapter Mocks — 2/chapter</li>
+                <li>Wrong Question Notebook — Limited</li>
+                <li>Analytics Dashboard</li>
+                <li>AI Study Coach</li>
+                <li>Personalised Learning</li>
+            </ul>
+
+            <a href="{{ CTA_LINKS.pricing_free }}" class="btn btn-secondary">Get Started</a>
+        </div>
+
+        <div class="pricing-card gdl-card">
+            <span>Premium Monthly</span>
+            <h2>₹149<span>/mo</span></h2>
+            <p>Flexible monthly access for serious preparation.</p>
+
+            <ul>
+                <li>Unlimited AI Notes</li>
+                <li>Unlimited AI Doubts</li>
+                <li>Unlimited Subject Mocks</li>
+                <li>Unlimited Chapter Mocks</li>
+                <li>Unlimited Wrong Question Notebook</li>
+                <li>Reattempt Mocks</li>
+                <li>PDF Downloads</li>
+                <li>Special Features</li>
+            </ul>
+
+            <a href="{{ CTA_LINKS.pricing_monthly }}" class="btn btn-primary">Choose Monthly</a>
+        </div>
+
+        <div class="pricing-card pricing-featured gdl-card">
+            <span>Premium Annual ⭐</span>
+            <h2>₹1199<span>/yr</span></h2>
+            <p>Best value for students preparing throughout the year.</p>
+
+            <div class="save-badge">Save ₹589 yearly</div>
+
+            <ul>
+                <li>Everything in Premium Monthly</li>
+                <li>Unlimited AI Notes</li>
+                <li>Unlimited AI Doubt Solving</li>
+                <li>Unlimited Mocks</li>
+                <li>Advanced Analytics</li>
+                <li>PDF Downloads</li>
+                <li>Special Features</li>
+                <li>Personalised Learning</li>
+            </ul>
+
+            <a href="{{ CTA_LINKS.pricing_annual }}" class="btn btn-primary">Choose Annual</a>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="pricing-comparison-section">
+
+    <div class="section-heading">
+        <span>Plan Comparison</span>
+        <h2>Compare what each plan includes.</h2>
+        <p>Choose the plan that matches your preparation needs.</p>
+    </div>
+
+    <div class="pricing-table-wrap">
+        <table class="pricing-table">
+            <thead>
+                <tr>
+                    <th>Features</th>
+                    <th>Free</th>
+                    <th>Premium Monthly<br><span>₹149/mo</span></th>
+                    <th>Premium Annual ⭐<br><span>₹1199/yr</span></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr><td>AI Notes</td><td>10/day</td><td>Unlimited</td><td>Unlimited</td></tr>
+                <tr><td>AI Doubts</td><td>10/day</td><td>Unlimited</td><td>Unlimited</td></tr>
+                <tr><td>Subject Mocks</td><td>1/month</td><td>Unlimited</td><td>Unlimited</td></tr>
+                <tr><td>Chapter Mocks</td><td>2/chapter</td><td>Unlimited</td><td>Unlimited</td></tr>
+                <tr><td>Wrong Question Notebook</td><td>Limited</td><td>Unlimited</td><td>Unlimited</td></tr>
+                <tr><td>Analytics Dashboard</td><td>✅</td><td>✅</td><td>✅</td></tr>
+                <tr><td>Personalised Learning</td><td>✅</td><td>✅</td><td>✅</td></tr>
+                <tr><td>AI Study Coach</td><td>✅</td><td>✅</td><td>✅</td></tr>
+                <tr><td>Reattempt Mocks</td><td>❌</td><td>✅</td><td>✅</td></tr>
+                <tr><td>PDF Download</td><td>❌</td><td>✅</td><td>✅</td></tr>
+                <tr><td>Special Features</td><td>❌</td><td>✅</td><td>✅</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+</section>
+
+<section class="pricing-faq-section">
+    <div class="pricing-faq-card gdl-card">
+        <span>Billing Note</span>
+        <h2>Choose monthly for flexibility or annual for better value.</h2>
+        <p>
+            Monthly gives students flexible access. Annual gives the same premium features
+            at a lower yearly cost, making it ideal for full academic-year preparation.
+        </p>
+    </div>
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}

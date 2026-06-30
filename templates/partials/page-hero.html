@@ -1,0 +1,25 @@
+<section class="page-hero">
+
+    <div class="page-hero-content">
+
+        {% if badge %}
+        <span class="page-badge">
+            {{ badge }}
+        </span>
+        {% endif %}
+
+        <h1>{{ heading }}</h1>
+
+        <p>
+            {{ subheading }}
+        </p>
+
+        {% if button_text %}
+        <a href="{{ button_link }}" class="btn btn-primary">
+            {{ button_text }}
+        </a>
+        {% endif %}
+
+    </div>
+
+</section>

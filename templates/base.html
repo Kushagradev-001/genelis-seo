@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>{{ seo.title if seo is defined else title|default("Genelis") }}</title>
+    <meta name="description" content="{{ seo.description if seo is defined else description|default('AI-powered learning platform for students.') }}">
+    <meta name="keywords" content="{{ seo.keywords if seo is defined else '' }}">
+    <meta name="robots" content="{{ seo.robots if seo is defined else 'index, follow' }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="canonical" href="{{ seo.canonical if seo is defined else request.url }}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Genelis">
+    <meta property="og:title" content="{{ seo.og_title if seo is defined else title|default('Genelis') }}">
+    <meta property="og:description" content="{{ seo.og_description if seo is defined else description|default('AI-powered learning platform for students.') }}">
+    <meta property="og:url" content="{{ seo.og_url if seo is defined else request.url }}">
+    <meta property="og:image" content="{{ seo.og_image if seo is defined else '' }}">
+
+    <meta name="twitter:card" content="{{ seo.twitter_card if seo is defined else 'summary_large_image' }}">
+    <meta name="twitter:title" content="{{ seo.og_title if seo is defined else title|default('Genelis') }}">
+    <meta name="twitter:description" content="{{ seo.og_description if seo is defined else description|default('AI-powered learning platform for students.') }}">
+    <meta name="twitter:image" content="{{ seo.og_image if seo is defined else '' }}">
+
+    <meta name="theme-color" content="#0B1220">
+    <link rel="manifest" href="{{ url_for('static', filename='site.webmanifest') }}">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-192.png') }}">
+
+    {% if schemas is defined %}
+        {% for schema in schemas %}
+            <script type="application/ld+json">
+                {{ schema | tojson }}
+            </script>
+        {% endfor %}
+    {% endif %}
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E1NVV1QTQQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-E1NVV1QTQQ');
+    </script>
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;
+        t.src="https://www.clarity.ms/tag/" + i;
+        y=l.getElementsByTagName(r)[0];
+        y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "xbw2bwxd1r");
+    </script>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/design-system.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/components.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/layouts.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animations.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/pages/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    {% include "partials/navbar.html" %}
+
+    {% block content %}
+    {% endblock %}
+
+    {% include "partials/footer.html" %}
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const ctaLinks = document.querySelectorAll("a[href*='app.genelis.in']");
+
+        ctaLinks.forEach(function (link) {
+            link.addEventListener("click", function () {
+                const url = new URL(link.href);
+                const ctaSource = url.searchParams.get("utm_content") || "unknown_cta";
+
+                if (typeof gtag === "function") {
+                    gtag("event", "cta_click", {
+                        event_category: "engagement",
+                        event_label: ctaSource,
+                        cta_source: ctaSource,
+                        destination_url: link.href
+                    });
+                }
+            });
+        });
+    });
+    </script>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

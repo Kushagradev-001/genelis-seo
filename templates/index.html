@@ -1,0 +1,268 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<section class="gdl-hero">
+    <div class="gdl-hero-glow gdl-hero-glow-one"></div>
+    <div class="gdl-hero-glow gdl-hero-glow-two"></div>
+
+    <div class="gdl-hero-content fade-up">
+        <div class="badge">AI-powered learning workspace</div>
+
+        <h1>One connected learning experience, personalized for every student.</h1>
+
+        <p>
+            Genelis helps students learn, practice, test, analyse, improve,
+            reinforce, and excel — all inside one calm AI-powered workspace.
+        </p>
+
+        <div class="gdl-hero-actions">
+            <a href="{{ CTA_LINKS.homepage_hero }}" class="btn btn-primary">Start Learning</a>
+            <a href="/learning-system" class="btn btn-secondary">Explore Learning System</a>
+        </div>
+    </div>
+</section>
+
+<section class="atlas-workspace-section" id="workspace">
+    <div class="atlas-v2">
+
+        <div class="atlas-v2-header">
+            <div>
+                <span>Product Preview</span>
+                <h2>Inside the Genelis Workspace</h2>
+            </div>
+            <div class="atlas-v2-status">AI Workspace</div>
+        </div>
+
+        <div class="atlas-v2-body">
+
+            <aside class="atlas-v2-sidebar">
+                <div class="atlas-nav-label">Workspace</div>
+
+                <a class="active" data-atlas-tab="dashboard"><span>⌂</span>Dashboard</a>
+                <a data-atlas-tab="notes"><span>✦</span>AI Notes</a>
+                <a data-atlas-tab="questions"><span>?</span>Question Bank</a>
+                <a data-atlas-tab="mocks"><span>▣</span>Mock Tests</a>
+                <a data-atlas-tab="analytics"><span>↗</span>Analytics</a>
+                <a data-atlas-tab="coach"><span>◎</span>Study Coach</a>
+            </aside>
+
+            <div class="atlas-v2-preview" id="atlasPreview">
+                <div class="preview-toolbar">
+                    <span>Class 10</span>
+                    <span>Mathematics</span>
+                    <span>Sample Chapter</span>
+                </div>
+
+                <div class="preview-main-card">
+                    <span>Today’s Workspace</span>
+                    <h3>Build a complete study session in one place.</h3>
+                    <p>
+                        Generate notes, practice questions, mock tests, performance insights,
+                        and revision guidance from a single learning flow.
+                    </p>
+
+                    <div class="preview-actions">
+                        <a href="{{ CTA_LINKS.homepage_workspace }}">Generate AI Notes</a>
+                        <a href="{{ CTA_LINKS.homepage_workspace }}" class="secondary-action">Start Practice</a>
+                    </div>
+                </div>
+
+                <div class="preview-mini-grid">
+                    <div><span>AI Notes</span><strong>Structured revision</strong></div>
+                    <div><span>Questions</span><strong>Topic-wise practice</strong></div>
+                    <div><span>Mocks</span><strong>Exam-style testing</strong></div>
+                    <div><span>Analytics</span><strong>Weak area clarity</strong></div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="atlas-v2-recommendation">
+            <span>AI Recommendation</span>
+            <p>After revising notes, attempt a short mock to identify what needs more practice.</p>
+        </div>
+
+    </div>
+</section>
+
+<section class="gdl-problem-section" id="problem">
+    {% with
+        section_badge="The Student Problem",
+        section_title="Learning should not feel this scattered.",
+        section_description="Most students are not short on effort. They are short on clarity, structure, and the right guidance at the right time."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="problem-grid gdl-grid gdl-grid-4">
+        <div class="problem-card gdl-card">
+            <div class="problem-icon">01</div>
+            <h3>Too much syllabus</h3>
+            <p>Students often struggle to decide what to study first and how much to revise.</p>
+        </div>
+
+        <div class="problem-card gdl-card">
+            <div class="problem-icon">02</div>
+            <h3>Revision feels scattered</h3>
+            <p>Notes, questions, mocks, and weak areas usually stay disconnected.</p>
+        </div>
+
+        <div class="problem-card gdl-card">
+            <div class="problem-icon">03</div>
+            <h3>Mistakes are unclear</h3>
+            <p>Practice is useful only when students understand where they went wrong.</p>
+        </div>
+
+        <div class="problem-card gdl-card">
+            <div class="problem-icon">04</div>
+            <h3>No clear next step</h3>
+            <p>After studying or attempting mocks, students often do not know what to focus on next.</p>
+        </div>
+    </div>
+</section>
+
+<section class="gdl-transformation-section" id="transformation">
+    <div class="transformation-card">
+        <span>The Genelis Difference</span>
+        <h2>Scattered preparation becomes one connected learning flow.</h2>
+        <p>
+            Genelis connects notes, practice, mock tests, analytics, revision planning,
+            and AI guidance so students always know what to do next.
+        </p>
+
+        <a href="{{ CTA_LINKS.homepage_workspace }}" class="btn btn-primary">Start Learning</a>
+    </div>
+</section>
+
+<section class="learning-journey" id="how">
+    {% with
+        section_badge="The Genelis Learning Loop™",
+        section_title="Learn. Practice. Test. Analyse. Improve. Reinforce. Excel.",
+        section_description="A continuous learning loop designed to turn effort into measurable progress."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="journey-timeline">
+        <div class="journey-step gdl-card">
+            <span>01</span>
+            <h3>Learn</h3>
+            <p>Start with structured AI notes and clear explanations for the selected chapter.</p>
+        </div>
+
+        <div class="journey-step gdl-card">
+            <span>02</span>
+            <h3>Practice</h3>
+            <p>Apply concepts through topic-wise questions designed around the learning context.</p>
+        </div>
+
+        <div class="journey-step gdl-card">
+            <span>03</span>
+            <h3>Test</h3>
+            <p>Attempt focused mock tests to check preparation under exam-style conditions.</p>
+        </div>
+
+        <div class="journey-step gdl-card">
+            <span>04</span>
+            <h3>Analyse</h3>
+            <p>Review performance insights to identify weak areas and repeated mistakes.</p>
+        </div>
+
+        <div class="journey-step gdl-card">
+            <span>05</span>
+            <h3>Improve</h3>
+            <p>Use AI-guided recommendations to focus effort where it matters most.</p>
+        </div>
+
+        <div class="journey-step final-step gdl-card">
+            <span>06</span>
+            <h3>Reinforce & Excel</h3>
+            <p>Strengthen learning through revision and move forward with confidence.</p>
+        </div>
+    </div>
+</section>
+
+<section class="ai-engine-section">
+    {% with
+        section_badge="Genelis AI Engine",
+        section_title="From chapter selection to smarter preparation.",
+        section_description="Genelis understands the student’s learning context and turns it into notes, practice, tests, insights, and revision guidance."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="ai-engine-map">
+        <div class="engine-source">
+            <span>Input</span>
+            <h3>Class, Subject & Chapter</h3>
+            <p>The student selects what they want to study.</p>
+        </div>
+
+        <div class="engine-core">
+            <span>Genelis AI</span>
+            <h3>Understands learning context</h3>
+            <p>AI prepares study material, practice, revision, and performance support.</p>
+        </div>
+
+        <div class="engine-outputs">
+            <div>AI Notes</div>
+            <div>Questions</div>
+            <div>Mock Tests</div>
+            <div>Analytics</div>
+            <div>Revision Plan</div>
+        </div>
+    </div>
+</section>
+
+<section class="subjects-section">
+    {% with
+        section_badge="Learning Coverage",
+        section_title="Built for Classes 9–12.",
+        section_description="Explore AI-powered learning support across school classes with subject-wise notes, question banks, mock tests, revision plans, and performance insights."
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
+
+    <div class="subjects-grid gdl-grid gdl-grid-2">
+
+        <a href="/classes/9" class="class-card-link">
+            <div class="subject-card gdl-card">
+                <h3>Class 9</h3>
+                <p>Mathematics • Science • Social Science • English</p>
+            </div>
+        </a>
+
+        <a href="/classes/10" class="class-card-link">
+            <div class="subject-card gdl-card">
+                <h3>Class 10</h3>
+                <p>Mathematics • Science • Social Science • English</p>
+            </div>
+        </a>
+
+        <a href="/classes/11" class="class-card-link">
+            <div class="subject-card featured-subject gdl-card">
+                <h3>Class 11</h3>
+                <p>
+                    Physics • Chemistry • Biology • Mathematics •
+                    Economics • Business Studies • Accountancy • English
+                </p>
+            </div>
+        </a>
+
+        <a href="/classes/12" class="class-card-link">
+            <div class="subject-card gdl-card">
+                <h3>Class 12</h3>
+                <p>
+                    Physics • Chemistry • Biology • Mathematics •
+                    Economics • Business Studies • Accountancy • English
+                </p>
+            </div>
+        </a>
+
+    </div>
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}

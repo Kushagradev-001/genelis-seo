@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% with
+    badge="CONTACT",
+    heading="We're here to help.",
+    subheading="Whether you have a question, feedback, or simply want to learn more about Genelis, we'd love to hear from you.",
+    button_text="Start Learning",
+    button_link=CTA_LINKS.contact
+%}
+    {% include "partials/page-hero.html" %}
+{% endwith %}
+
+<section class="contact-section">
+
+    <div class="section-heading">
+        <span>Get in Touch</span>
+        <h2>Every conversation helps us build a better learning experience.</h2>
+        <p>
+            From product questions to partnership opportunities,
+            we're always happy to connect with students, parents,
+            educators, and schools.
+        </p>
+    </div>
+
+    <div class="contact-grid gdl-grid gdl-grid-3">
+
+        <div class="contact-card gdl-card">
+            <span>Support</span>
+            <h3>Need help?</h3>
+            <p>
+                Questions about your account, learning features,
+                subscriptions, or technical issues.
+            </p>
+        </div>
+
+        <div class="contact-card gdl-card">
+            <span>Feedback</span>
+            <h3>Help us improve</h3>
+            <p>
+                Every suggestion helps us build a smarter,
+                more effective learning platform for students.
+            </p>
+        </div>
+
+        <div class="contact-card gdl-card">
+            <span>Partnerships</span>
+            <h3>Let's collaborate</h3>
+            <p>
+                Interested in working with Genelis?
+                We'd love to hear from schools, educators,
+                and learning partners.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="contact-footer-card">
+        <h3>We'll do our best to respond as soon as possible.</h3>
+
+        <p>
+            For all enquiries, write to
+            <strong>hello@genelis.in</strong>.
+        </p>
+
+        <a href="mailto:hello@genelis.in" class="btn btn-secondary">
+            Email Us
+        </a>
+
+    </div>
+
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}

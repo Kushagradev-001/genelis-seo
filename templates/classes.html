@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% with
+    badge="CLASSES",
+    heading="Learning journeys built for every stage of school.",
+    subheading="Explore AI-powered learning experiences designed specifically for Classes 9 to 12, with structured guidance, smarter revision, and personalized preparation.",
+    button_text="Start Learning",
+    button_link=CTA_LINKS.classes
+%}
+    {% include "partials/page-hero.html" %}
+{% endwith %}
+
+<section class="classes-section">
+
+    <div class="section-heading">
+        <span>Choose Your Class</span>
+
+        <h2>Every class deserves a different learning experience.</h2>
+
+        <p>
+            As students progress through school, their learning needs evolve.
+            Genelis adapts with structured study support, AI-powered revision,
+            practice, analytics, and personalized guidance for every stage.
+        </p>
+    </div>
+
+    <div class="classes-grid gdl-grid gdl-grid-2">
+
+        {% for cls in classes_data %}
+
+        <a href="/classes/{{ cls.id }}" class="class-card-link">
+
+            <div class="class-card gdl-card">
+
+                <span>{{ cls.name }}</span>
+
+                <h3>{{ cls.headline }}</h3>
+
+                <p>{{ cls.description }}</p>
+
+                <div class="class-card-footer">
+                    <span class="class-card-cta">
+                        Explore {{ cls.name }}
+                    </span>
+
+                    <span class="arrow">→</span>
+                </div>
+
+            </div>
+
+        </a>
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}

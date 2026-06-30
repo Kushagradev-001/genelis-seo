@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% with
+    badge="GENELIS BLOG",
+    heading="Insights for smarter learning.",
+    subheading="Study strategies, AI learning, revision guidance, and exam preparation insights to help students learn with greater clarity and confidence.",
+    button_text="Start Learning",
+    button_link=CTA_LINKS.blog
+%}
+    {% include "partials/page-hero.html" %}
+{% endwith %}
+
+<section class="blog-section">
+
+    <div class="section-heading">
+        <span>Knowledge Hub</span>
+        <h2>Learn beyond the classroom.</h2>
+        <p>
+            The Genelis Blog brings together practical study advice,
+            AI-powered learning insights, revision strategies,
+            and exam preparation guidance designed for modern students.
+        </p>
+    </div>
+
+    <div class="blog-grid gdl-grid gdl-grid-3">
+
+        <article class="blog-card gdl-card">
+            <span>Study Strategy</span>
+            <h3>How to make revision feel less scattered</h3>
+            <p>
+                Discover practical ways to organize revision,
+                retain concepts longer, and study with greater confidence.
+            </p>
+        </article>
+
+        <article class="blog-card gdl-card">
+            <span>AI Learning</span>
+            <h3>How AI can support better preparation</h3>
+            <p>
+                Learn how AI can simplify learning,
+                personalize revision,
+                and complement—not replace—student effort.
+            </p>
+        </article>
+
+        <article class="blog-card gdl-card">
+            <span>Exam Preparation</span>
+            <h3>Why practice and analysis belong together</h3>
+            <p>
+                Understand how reviewing mistakes,
+                identifying weak areas,
+                and practising intentionally leads to stronger performance.
+            </p>
+        </article>
+
+    </div>
+
+    <div class="coming-soon-note">
+        <h3>More insights are on the way.</h3>
+        <p>
+            We're building a growing library of articles covering study techniques,
+            AI-powered learning, productivity, exam preparation, and student success.
+        </p>
+
+        <a href="{{ CTA_LINKS.blog }}" class="btn btn-primary">
+            Start Learning with Genelis
+        </a>
+    </div>
+
+</section>
+
+{% include "partials/cta.html" %}
+
+{% endblock %}
