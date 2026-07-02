@@ -685,8 +685,29 @@
 }
 
 @media (max-width: 900px) {
+    .journey-timeline::before {
+        display: none;
+    }
+
     .journey-step {
-        padding: 24px 24px 24px 76px;
+        padding: 24px;
+    }
+
+    .journey-step span {
+        position: static;
+        width: 44px;
+        height: 44px;
+        margin-bottom: 14px;
+    }
+
+    .journey-step h3 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .journey-step p {
+        font-size: 15px;
+        line-height: 1.7;
     }
 }
 /* ---------- AI Engine ---------- */
@@ -3075,6 +3096,9 @@
     display: grid;
     place-items: center;
     text-align: center;
+
+    padding-top: 130px;
+    padding-bottom: 10px;
 }
 
 .gls-hero div {
@@ -3106,11 +3130,13 @@
     line-height: 1.7;
 }
 
-.gls-fragment {
+..gls-fragment {
     display: grid;
     grid-template-columns: 0.9fr 1.1fr;
     align-items: center;
     gap: var(--space-6);
+
+    margin-top: -40px;
 }
 
 .gls-fragment-copy h2,
