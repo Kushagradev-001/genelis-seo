@@ -98,5 +98,19 @@
     </script>
 
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggle = document.getElementById("gdlMenuToggle");
+        const menu = document.getElementById("gdlNavMenu");
+
+        if (!toggle || !menu) return;
+
+        toggle.addEventListener("click", function () {
+            menu.classList.toggle("active");
+            toggle.textContent = menu.classList.contains("active") ? "✕" : "☰";
+        });
+    });
+    </script>
 </body>
 </html>

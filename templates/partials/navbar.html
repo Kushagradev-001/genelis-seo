@@ -4,7 +4,11 @@
         <span>Genelis</span>
     </a>
 
-    <nav class="gdl-nav-links">
+    <button class="gdl-menu-toggle" id="gdlMenuToggle" aria-label="Open menu">
+        ☰
+    </button>
+
+    <nav class="gdl-nav-links" id="gdlNavMenu">
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/classes">Classes</a>
@@ -12,6 +16,11 @@
         <a href="/pricing">Pricing</a>
         <a href="/blog">Blog</a>
         <a href="/contact">Contact</a>
+
+        <div class="gdl-mobile-actions">
+            <a href="{{ CTA_LINKS.login }}" class="btn btn-secondary">Login</a>
+            <a href="{{ CTA_LINKS.start_learning }}" class="btn btn-primary">Start Learning</a>
+        </div>
     </nav>
 
     <div class="gdl-nav-actions">
