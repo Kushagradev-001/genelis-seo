@@ -18,6 +18,7 @@ CTA_LINKS = {
     "navbar_start": tracked_app_link("navbar_start_learning"),
     "footer_start": tracked_app_link("footer_start_learning"),
     "global_cta": tracked_app_link("global_cta"),
+    "final_cta": tracked_app_link("final_cta"),
 
     "homepage_hero": tracked_app_link("homepage_hero"),
     "homepage_workspace": tracked_app_link("homepage_workspace"),
