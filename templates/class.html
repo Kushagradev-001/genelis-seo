@@ -97,26 +97,7 @@
     </div>
 </section>
 
-<section class="class-detail-section">
-    {% with
-        section_badge="Frequently Asked Questions",
-        section_title="Questions students and parents may have.",
-        section_description="Simple answers before starting the Genelis learning journey."
-    %}
-        {% include "partials/section-heading.html" %}
-    {% endwith %}
-
-    <div class="class-faq-grid gdl-grid gdl-grid-3">
-        {% for faq in class_info.faqs %}
-        <div class="class-faq-card gdl-card">
-            <span>FAQ</span>
-            <h3>{{ faq }}</h3>
-            <p>Genelis is designed to provide structured, AI-powered learning support for students.</p>
-        </div>
-        {% endfor %}
-    </div>
-</section>
-
+{% include "partials/faq.html" %}
 {% include "partials/cta.html" %}
 
 {% endblock %}

@@ -2,6 +2,7 @@ from flask import Flask, render_template
 from seo_data import SEO_DATA, get_class_seo
 from seo import build_seo, organization_schema, website_schema, webpage_schema
 from config import CTA_LINKS, tracked_app_link
+from faq_data import FAQ_DATA, build_faq_schema
 
 app = Flask(__name__)
 
@@ -97,8 +98,9 @@ def get_classes_data():
     ]
 
 
-def render_seo_template(template_name, seo_key, **kwargs):
+def render_seo_template(template_name, seo_key, faq_key=None, **kwargs):
     seo = build_seo(SEO_DATA[seo_key])
+
 
     schemas = [
         organization_schema(),
@@ -106,27 +108,38 @@ def render_seo_template(template_name, seo_key, **kwargs):
         webpage_schema(seo)
     ]
 
+    faq = None
+
+    if faq_key:
+        faq = FAQ_DATA[faq_key]
+        schemas.append(build_faq_schema(faq))
+
     return render_template(
         template_name,
         seo=seo,
         schemas=schemas,
+        faq=faq,
         **kwargs
     )
 
 
 @app.route("/")
 def home():
-    return render_seo_template("index.html", "home")
+    return render_seo_template("index.html", "home", faq_key="home")
 
 
 @app.route("/about")
 def about():
-    return render_seo_template("about.html", "about")
+    return render_seo_template("about.html", "about", faq_key="about")
 
 
 @app.route("/learning-system")
 def learning_system():
-    return render_seo_template("learning-system.html", "learning_system")
+    return render_seo_template(
+        "learning-system.html",
+        "learning_system",
+        faq_key="learning_system"
+    )
 
 
 @app.route("/classes")
@@ -134,6 +147,7 @@ def classes():
     return render_seo_template(
         "classes.html",
         "classes",
+        faq_key="classes",
         classes_data=get_classes_data()
     )
 
@@ -147,37 +161,47 @@ def class_detail(class_id):
 
     class_seo = build_seo(get_class_seo(class_id, class_info))
 
+    faq_key = f"class_{class_id.split('-')[-1]}"
+    faq = None
+
     schemas = [
         organization_schema(),
         website_schema(),
         webpage_schema(class_seo)
     ]
 
+    if faq_key:
+        faq = FAQ_DATA[faq_key]
+        schemas.append(build_faq_schema(faq))
+
     return render_template(
         "class.html",
         seo=class_seo,
         schemas=schemas,
-        class_info=class_info
+        class_info=class_info,
+        faq=faq
     )
 
 
 @app.route("/pricing")
 def pricing():
-    return render_seo_template("pricing.html", "pricing")
+    return render_seo_template("pricing.html", "pricing", faq_key="pricing")
 
 
 @app.route("/blog")
 def blog():
-    return render_seo_template("blog.html", "blog")
+    return render_seo_template("blog.html", "blog", faq_key="blog")
 
 
 @app.route("/contact")
 def contact():
-    return render_seo_template("contact.html", "contact")
+    return render_seo_template("contact.html", "contact", faq_key="contact")
+
 
 @app.route("/robots.txt")
 def robots_txt():
     return render_template("robots.txt"), 200, {"Content-Type": "text/plain"}
+
 
 @app.route("/sitemap.xml")
 def sitemap():
@@ -255,6 +279,7 @@ def sitemap():
         },
     )
 
+
 @app.route("/terms")
 def terms():
     return render_seo_template("legal/terms.html", "terms")
@@ -294,13 +319,16 @@ def childsafety():
 def responsibleAI():
     return render_seo_template("legal/responsibleAI.html", "responsibleAI")
 
+
 @app.errorhandler(500)
 def internal_server_error(e):
     return render_template("errors/500.html"), 500
 
+
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template("errors/404.html"), 404
+
 
 if __name__ == "__main__":
     app.run(debug=True)

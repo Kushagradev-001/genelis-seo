@@ -1,0 +1,33 @@
+{% if faq %}
+<section class="faq-section">
+    <div class="faq-heading">
+        <span>{{ faq.heading }}</span>
+        <h2>{{ faq.heading }}</h2>
+        <p>{{ faq.intro }}</p>
+    </div>
+
+    <div class="faq-accordion">
+        {% for item in faq["items"] %}
+        <div class="faq-item">
+            <button class="faq-question" type="button">
+                <span>{{ item.question }}</span>
+                <span class="faq-icon">+</span>
+            </button>
+
+            <div class="faq-answer">
+                <p>{{ item.answer }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="faq-cta">
+        <h3>{{ faq.cta_heading }}</h3>
+        <p>{{ faq.cta_text }}</p>
+
+        <a href="{{ CTA_LINKS[faq.cta_link_key] }}" class="btn btn-primary">
+            {{ faq.cta_button }}
+        </a>
+    </div>
+</section>
+{% endif %}
