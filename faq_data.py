@@ -105,8 +105,8 @@ FAQ_DATA["contact"] = section(
     "Whether you have a question about Genelis, need assistance with your account, want to report a technical issue, or simply wish to share feedback, we're here to help. Below are answers to some of the most common support-related questions.",
     "Still need assistance?",
     "We're committed to providing a helpful, respectful, and transparent support experience. If you couldn't find the answer you were looking for, please get in touch and we'll do our best to assist you.",
+    "Email Support",
     "Contact Support",
-    "contact_primary",
     [
         ("How can I contact Genelis?", "You can contact the Genelis Support Team by emailing support@genelis.in. Whether you have questions about your account, subscriptions, technical issues, AI-generated content, or general enquiries, our team will make reasonable efforts to assist you as promptly as possible."),
         ("What are your support hours?", "Our support team reviews enquiries during regular business hours. While response times may vary depending on the nature and volume of requests, we aim to respond as quickly as reasonably possible. Some complex technical, billing, or legal matters may require additional investigation before a complete response can be provided."),

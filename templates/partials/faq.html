@@ -1,10 +1,13 @@
 {% if faq %}
 <section class="faq-section">
-    <div class="faq-heading">
-        <span>{{ faq.heading }}</span>
-        <h2>{{ faq.heading }}</h2>
-        <p>{{ faq.intro }}</p>
-    </div>
+
+    {% with
+        section_badge="FAQs",
+        section_title=faq.heading,
+        section_description=faq.intro
+    %}
+        {% include "partials/section-heading.html" %}
+    {% endwith %}
 
     <div class="faq-accordion">
         {% for item in faq["items"] %}
@@ -25,7 +28,7 @@
         <h3>{{ faq.cta_heading }}</h3>
         <p>{{ faq.cta_text }}</p>
 
-        <a href="{{ CTA_LINKS[faq.cta_link_key] }}" class="btn btn-primary">
+        <a href="{{ CTA_LINKS.get(faq.cta_link_key, 'mailto:support@genelis.in') }}" class="btn btn-primary">
             {{ faq.cta_button }}
         </a>
     </div>

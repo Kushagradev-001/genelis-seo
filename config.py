@@ -41,6 +41,7 @@ CTA_LINKS = {
 
     "blog_primary": tracked_app_link("blog_primary"),
     "contact_primary": tracked_app_link("contact_primary"),
+    "contact_support": "mailto:support@genelis.in",
 
     "login": f"{APP_URL}/login",
     "signup": f"{APP_URL}/signup",

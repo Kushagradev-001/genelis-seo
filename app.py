@@ -1,8 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, abort
 from seo_data import SEO_DATA, get_class_seo
 from seo import build_seo, organization_schema, website_schema, webpage_schema
 from config import CTA_LINKS, tracked_app_link
 from faq_data import FAQ_DATA, build_faq_schema
+from blog_data import get_all_posts, get_post_by_slug, get_related_posts, get_prev_next_posts, get_featured_post
+from flask import Response
 
 app = Flask(__name__)
 
@@ -190,7 +192,16 @@ def pricing():
 
 @app.route("/blog")
 def blog():
-    return render_seo_template("blog.html", "blog", faq_key="blog")
+
+    posts = get_all_posts()
+
+    featured_post = get_featured_post()
+
+    return render_template(
+        "blog.html",
+        posts=posts,
+        featured_post=featured_post
+    )
 
 
 @app.route("/contact")
@@ -329,6 +340,88 @@ def internal_server_error(e):
 def page_not_found(e):
     return render_template("errors/404.html"), 404
 
+
+@app.route("/blog/<slug>")
+def blog_post(slug):
+    post = get_post_by_slug(slug)
+
+    if post is None:
+        abort(404)
+
+    related_posts = get_related_posts(slug)
+
+    previous_post, next_post = get_prev_next_posts(slug)
+
+    return render_template(
+        "blog_post.html",
+        post=post,
+        related_posts=related_posts,
+        previous_post=previous_post,
+        next_post=next_post
+    )
+@app.route("/blog-sitemap.xml")
+def blog_sitemap():
+
+    posts = get_all_posts()
+
+    xml = '''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+'''
+
+    for post in posts:
+
+        xml += f"""
+    <url>
+        <loc>https://genelis.in/blog/{post['slug']}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+"""
+
+    xml += "</urlset>"
+
+    return Response(xml, mimetype="application/xml")
+
+@app.route("/sitemap.xml")
+def main_sitemap():
+
+    static_pages = [
+        "",
+        "about",
+        "classes",
+        "learning-system",
+        "pricing",
+        "blog",
+        "contact"
+    ]
+
+    posts = get_all_posts()
+
+    xml = '''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+'''
+
+    for page in static_pages:
+        xml += f"""
+    <url>
+        <loc>https://genelis.in/{page}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+"""
+
+    for post in posts:
+        xml += f"""
+    <url>
+        <loc>https://genelis.in/blog/{post['slug']}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+"""
+
+    xml += "</urlset>"
+
+    return Response(xml, mimetype="application/xml")
 
 if __name__ == "__main__":
     app.run(debug=True)

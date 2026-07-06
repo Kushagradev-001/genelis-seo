@@ -12,61 +12,77 @@
     {% include "partials/page-hero.html" %}
 {% endwith %}
 
-<section class="blog-section">
+<section class="blog-home-section">
+
+    {% if featured_post %}
+    <div class="featured-blog-card">
+        <div>
+            <span>Featured Article</span>
+            <h2>
+                <a href="{{ url_for('blog_post', slug=featured_post.slug) }}">
+                    {{ featured_post.title }}
+                </a>
+            </h2>
+            <p>{{ featured_post.excerpt }}</p>
+
+            <div class="featured-blog-meta">
+                {{ featured_post.category }} · Class {{ featured_post.class }} · {{ featured_post.reading_time }}
+            </div>
+
+            <a href="{{ url_for('blog_post', slug=featured_post.slug) }}" class="btn btn-primary">
+                Read Featured Article
+            </a>
+        </div>
+    </div>
+    {% endif %}
+
+    <section class="blog-search-section">
+
+        <input
+            id="blogSearch"
+            type="text"
+            placeholder="Search articles, subjects, chapters..."
+        >
+
+    </section>
 
     <div class="section-heading">
-        <span>Knowledge Hub</span>
+        <span>Latest Articles</span>
         <h2>Learn beyond the classroom.</h2>
         <p>
-            The Genelis Blog brings together practical study advice,
-            AI-powered learning insights, revision strategies,
-            and exam preparation guidance designed for modern students.
+            Explore practical study advice, AI-powered learning insights,
+            revision strategies, and exam preparation guidance.
         </p>
     </div>
 
     <div class="blog-grid gdl-grid gdl-grid-3">
+        {% for post in posts %}
+        <article
+            class="blog-card gdl-card"
+            data-title="{{ post.title|lower }}"
+            data-category="{{ post.category|lower }}"
+            data-class="{{ post.class }}"
+            data-subject="{{ post.subject|lower }}"
+        >
+            <span>{{ post.category }}</span>
 
-        <article class="blog-card gdl-card">
-            <span>Study Strategy</span>
-            <h3>How to make revision feel less scattered</h3>
-            <p>
-                Discover practical ways to organize revision,
-                retain concepts longer, and study with greater confidence.
-            </p>
+            <h3>
+                <a href="{{ url_for('blog_post', slug=post.slug) }}">
+                    {{ post.title }}
+                </a>
+            </h3>
+
+            <p>{{ post.excerpt }}</p>
+
+            <div class="blog-card-meta">
+                Class {{ post.class }} · {{ post.subject }} · {{ post.reading_time }}
+            </div>
+
+            <a href="{{ url_for('blog_post', slug=post.slug) }}" class="blog-read-more">
+                Read Article →
+            </a>
         </article>
-
-        <article class="blog-card gdl-card">
-            <span>AI Learning</span>
-            <h3>How AI can support better preparation</h3>
-            <p>
-                Learn how AI can simplify learning,
-                personalize revision,
-                and complement—not replace—student effort.
-            </p>
-        </article>
-
-        <article class="blog-card gdl-card">
-            <span>Exam Preparation</span>
-            <h3>Why practice and analysis belong together</h3>
-            <p>
-                Understand how reviewing mistakes,
-                identifying weak areas,
-                and practising intentionally leads to stronger performance.
-            </p>
-        </article>
-
-    </div>
-
-    <div class="coming-soon-note">
-        <h3>More insights are on the way.</h3>
-        <p>
-            We're building a growing library of articles covering study techniques,
-            AI-powered learning, productivity, exam preparation, and student success.
-        </p>
-
-        <a href="{{ CTA_LINKS.blog }}" class="btn btn-primary">
-            Start Learning with Genelis
-        </a>
+        {% endfor %}
     </div>
 
 </section>

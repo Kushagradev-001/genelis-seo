@@ -300,3 +300,93 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
+document.addEventListener("DOMContentLoaded", function () {
+    const headings = document.querySelectorAll(".gdl-article-content h2, .gdl-article-content h3");
+    const tocLinks = document.querySelectorAll(".gdl-toc a");
+
+    if (!headings.length || !tocLinks.length) return;
+
+    function setActiveToc() {
+        let currentId = "";
+
+        headings.forEach((heading) => {
+            const rect = heading.getBoundingClientRect();
+
+            if (rect.top <= 160) {
+                currentId = heading.id;
+            }
+        });
+
+        tocLinks.forEach((link) => {
+            link.classList.remove("active");
+
+            if (link.getAttribute("href") === "#" + currentId) {
+                link.classList.add("active");
+            }
+        });
+    }
+
+    window.addEventListener("scroll", setActiveToc);
+    setActiveToc();
+});
+// ==========================
+// Reading Progress
+// ==========================
+
+const progressBar = document.querySelector(".gdl-reading-progress-bar");
+
+if (progressBar) {
+    window.addEventListener("scroll", () => {
+        const article = document.querySelector(".gdl-article-content");
+
+        if (!article) return;
+
+        const articleTop = article.offsetTop;
+        const articleHeight = article.offsetHeight;
+        const scrollY = window.scrollY;
+        const windowHeight = window.innerHeight;
+
+        const total = articleHeight - windowHeight;
+        const current = Math.min(
+            Math.max(scrollY - articleTop, 0),
+            total
+        );
+
+        const progress = (current / total) * 100;
+
+        progressBar.style.width = `${progress}%`;
+    });
+}
+// =======================
+// Blog Search
+// =======================
+
+const blogSearch = document.getElementById("blogSearch");
+
+if (blogSearch) {
+
+    blogSearch.addEventListener("input", function () {
+
+        const query = this.value.toLowerCase();
+
+        document.querySelectorAll(".blog-card").forEach(card => {
+
+            const text =
+                card.dataset.title +
+                " " +
+                card.dataset.category +
+                " " +
+                card.dataset.subject +
+                " " +
+                card.dataset.class;
+
+            card.style.display =
+                text.includes(query)
+                ? ""
+                : "none";
+
+        });
+
+    });
+
+}
