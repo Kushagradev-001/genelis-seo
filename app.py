@@ -5,6 +5,7 @@ from config import CTA_LINKS, tracked_app_link
 from faq_data import FAQ_DATA, build_faq_schema
 from blog_data import get_all_posts, get_post_by_slug, get_related_posts, get_prev_next_posts, get_featured_post
 from flask import Response
+from flask import make_response
 
 app = Flask(__name__)
 
@@ -220,51 +221,39 @@ def sitemap():
     BASE_URL = "https://genelis.in"
 
     sitemap_pages = [
-
-        {
-            "url": f"{BASE_URL}/",
-            "changefreq": "weekly",
-            "priority": "1.0"
-        },
-
-        {
-            "url": f"{BASE_URL}/about",
-            "changefreq": "monthly",
-            "priority": "0.8"
-        },
-
-        {
-            "url": f"{BASE_URL}/learning-system",
-            "changefreq": "monthly",
-            "priority": "0.9"
-        },
-
-        {
-            "url": f"{BASE_URL}/pricing",
-            "changefreq": "monthly",
-            "priority": "0.8"
-        },
-
-        {
-            "url": f"{BASE_URL}/classes",
-            "changefreq": "weekly",
-            "priority": "0.9"
-        },
-
-        {
-            "url": f"{BASE_URL}/blog",
-            "changefreq": "weekly",
-            "priority": "0.8"
-        },
-
-        {
-            "url": f"{BASE_URL}/contact",
-            "changefreq": "yearly",
-            "priority": "0.6"
-        }
-
+        {"url": f"{BASE_URL}/", "changefreq": "weekly", "priority": "1.0"},
+        {"url": f"{BASE_URL}/about", "changefreq": "monthly", "priority": "0.8"},
+        {"url": f"{BASE_URL}/learning-system", "changefreq": "monthly", "priority": "0.9"},
+        {"url": f"{BASE_URL}/pricing", "changefreq": "monthly", "priority": "0.8"},
+        {"url": f"{BASE_URL}/classes", "changefreq": "weekly", "priority": "0.9"},
+        {"url": f"{BASE_URL}/blog", "changefreq": "weekly", "priority": "0.8"},
+        {"url": f"{BASE_URL}/contact", "changefreq": "yearly", "priority": "0.6"},
     ]
 
+    # Add all blog posts automatically
+    for post in get_all_posts():
+        sitemap_pages.append({
+            "url": f"{BASE_URL}/blog/{post['slug']}",
+            "changefreq": "monthly",
+            "priority": "0.7"
+        })
+
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>']
+    xml.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+
+    for page in sitemap_pages:
+        xml.append("  <url>")
+        xml.append(f"    <loc>{page['url']}</loc>")
+        xml.append(f"    <changefreq>{page['changefreq']}</changefreq>")
+        xml.append(f"    <priority>{page['priority']}</priority>")
+        xml.append("  </url>")
+
+    xml.append("</urlset>")
+
+    response = make_response("\n".join(xml))
+    response.headers["Content-Type"] = "application/xml"
+
+    return response
     # Automatically include all class pages
 
     for class_id in CLASS_DATA.keys():
