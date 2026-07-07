@@ -7,6 +7,7 @@
 {% endblock %}
 
 {% block extra_head %}
+
 <link rel="canonical" href="{{ request.url }}">
 
 <meta property="og:type" content="article">
@@ -14,263 +15,523 @@
 <meta property="og:description" content="{{ post.meta_description }}">
 <meta property="og:url" content="{{ request.url }}">
 
+{% if post.featured_image %}
+<meta property="og:image" content="{{ post.featured_image }}">
+<meta property="og:image:alt" content="{{ post.title }}">
+{% endif %}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ post.meta_title }}">
+<meta name="twitter:description" content="{{ post.meta_description }}">
+
+{% if post.featured_image %}
+<meta name="twitter:image" content="{{ post.featured_image }}">
+{% endif %}
+
+<!-- ===========================
+     BlogPosting Schema
+============================ -->
+
 <script type="application/ld+json">
 {
     "@context":"https://schema.org",
-    "@type":"BreadcrumbList",
-    "itemListElement":[
-        {
-            "@type":"ListItem",
-            "position":1,
-            "name":"Home",
-            "item":"https://genelis.in/"
-        },
-        {
-            "@type":"ListItem",
-            "position":2,
-            "name":"Blog",
-            "item":"https://genelis.in/blog"
-        },
-        {
-            "@type":"ListItem",
-            "position":3,
-            "name":"{{ post.title }}"
-        }
-    ]
+    "@type":"BlogPosting",
+
+    "headline":"{{ post.title }}",
+
+    "description":"{{ post.meta_description }}",
+
+    "author":{
+        "@type":"Organization",
+        "name":"{{ post.author }}"
+    },
+
+    "publisher":{
+        "@type":"Organization",
+        "name":"Genelis"
+    },
+
+    "datePublished":"{{ post.published_date }}",
+
+    "dateModified":"{{ post.updated_date }}",
+
+    "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"{{ request.url }}"
+    }
+
 }
 </script>
 
-{% if post.featured_image %}
-<meta property="og:image" content="{{ post.featured_image }}">
-{% endif %}
+<!-- ===========================
+     Breadcrumb Schema
+============================ -->
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ post.title }}",
-    "description": "{{ post.meta_description }}",
-    "author": {
-        "@type": "Organization",
-        "name": "{{ post.author }}"
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "Genelis"
-    },
-    "datePublished": "{{ post.published_date }}",
-    "dateModified": "{{ post.updated_date }}",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ request.url }}"
-    }
+ "@context":"https://schema.org",
+
+ "@type":"BreadcrumbList",
+
+ "itemListElement":[
+
+ {
+ "@type":"ListItem",
+ "position":1,
+ "name":"Home",
+ "item":"https://genelis.in/"
+ },
+
+ {
+ "@type":"ListItem",
+ "position":2,
+ "name":"Blog",
+ "item":"https://genelis.in/blog"
+ },
+
+ {
+ "@type":"ListItem",
+ "position":3,
+ "name":"{{ post.title }}",
+ "item":"{{ request.url }}"
+ }
+
+ ]
+
 }
 </script>
+
+<!-- ===========================
+     FAQ Schema
+============================ -->
 
 {% if post.faq %}
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-        {% for item in post.faq %}
-        {
-            "@type": "Question",
-            "name": "{{ item.question }}",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "{{ item.answer }}"
-            }
-        }{% if not loop.last %},{% endif %}
-        {% endfor %}
-    ]
-}
-</script>
-{% endif %}
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://genelis.in/"
-        },
-        {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://genelis.in/blog"
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "{{ post.title }}",
-            "item": "{{ request.url }}"
-        }
-    ]
+ "@context":"https://schema.org",
+
+ "@type":"FAQPage",
+
+ "mainEntity":[
+
+ {% for item in post.faq %}
+
+ {
+
+ "@type":"Question",
+
+ "name":"{{ item.question }}",
+
+ "acceptedAnswer":{
+
+ "@type":"Answer",
+
+ "text":"{{ item.answer }}"
+
+ }
+
+ }
+
+ {% if not loop.last %},{% endif %}
+
+ {% endfor %}
+
+ ]
+
 }
 </script>
+
+{% endif %}
 
 {% endblock %}
 
 {% block content %}
 
 <div class="gdl-reading-progress">
+
     <div class="gdl-reading-progress-bar"></div>
+
 </div>
 
 <article class="gdl-article-page">
 
     <section class="gdl-article-hero">
+
         <div class="gdl-article-hero-inner">
 
             <nav class="gdl-article-breadcrumb">
-                <a href="{{ url_for('home') }}">Home</a>
+
+                <a href="{{ url_for('home') }}">
+                    Home
+                </a>
+
                 <span>/</span>
-                <a href="{{ url_for('blog') }}">Blog</a>
+
+                <a href="{{ url_for('blog') }}">
+                    Blog
+                </a>
+
                 <span>/</span>
-                <span>{{ post.category }}</span>
+
+                <span>
+                    {{ post.category }}
+                </span>
+
             </nav>
 
             <div class="gdl-article-badge">
-                {{ post.category }} · Class {{ post.class }}
+
+                {{ post.category }}
+
+                ·
+
+                Class {{ post.class }}
+
             </div>
 
-            <h1>{{ post.title }}</h1>
+            <h1>
+
+                {{ post.title }}
+
+            </h1>
 
             <p class="gdl-article-excerpt">
+
                 {{ post.excerpt }}
+
             </p>
 
             <div class="gdl-article-meta">
-                <span>By {{ post.author }}</span>
-                <span>{{ post.reading_time }}</span>
-                <span>Updated {{ post.updated_date }}</span>
+
+                <span>
+                    By {{ post.author }}
+                </span>
+
+                <span>
+                    {{ post.reading_time }}
+                </span>
+
+                <span>
+                    Updated {{ post.updated_date }}
+                </span>
+
             </div>
 
         </div>
+
     </section>
 
     {% if post.featured_image %}
+
     <section class="gdl-article-image-wrap">
-        <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+
+        <img
+            src="{{ post.featured_image }}"
+            alt="{{ post.title }}"
+            loading="eager">
+
     </section>
+
     {% endif %}
 
-    <section class="gdl-article-layout">
+<section class="gdl-article-layout">
 
-        <aside class="gdl-sidebar">
+    <!-- ==========================
+         LEFT SIDEBAR
+    =========================== -->
 
-            {% if post.toc %}
-            <div class="gdl-toc">
+    <aside class="gdl-sidebar">
 
-                <span>ON THIS PAGE</span>
+        {% if post.toc %}
+
+        <div class="gdl-toc">
+
+            <div class="gdl-toc-header">
+
+                <span>On this page</span>
 
                 <h3>Contents</h3>
 
-                <nav>
-
-                    {% for item in post.toc %}
-
-                    <a
-                        href="#{{ item.id }}"
-                        class="toc-{{ item.level }}"
-                    >
-                        {{ loop.index }}.
-                        {{ item.text }}
-                    </a>
-
-                    {% endfor %}
-
-                </nav>
-
             </div>
 
-            {% endif %}
+            <nav>
 
-        </aside>
+                {% for item in post.toc %}
 
-        <main class="gdl-article-body">
+                <a
+                    href="#{{ item.id }}"
+                    class="toc-{{ item.level }}"
+                >
+                    {{ loop.index }}.
+                    {{ item.text }}
+                </a>
 
-            <div class="gdl-article-content">
+                {% endfor %}
+
+            </nav>
+
+        </div>
+
+        {% endif %}
+
+    </aside>
+
+    <!-- ==========================
+         ARTICLE
+    =========================== -->
+
+    <main class="gdl-article-body">
+
+        <div class="gdl-article-content">
+
+            <div class="gdl-content">
 
                 {{ post.content|safe }}
 
             </div>
 
-            <section class="gdl-article-cta">
-                <span>Genelis Learning Loop™</span>
-                <h2>Turn every mock test into a smarter revision plan.</h2>
+        </div>
+
+        <!-- ==========================
+             ARTICLE CTA
+        =========================== -->
+
+        <section class="gdl-article-cta">
+
+            <div class="gdl-cta-inner">
+
+                <span>
+
+                    Genelis Learning Loop™
+
+                </span>
+
+                <h2>
+
+                    Learn smarter.
+                    Practice deeper.
+                    Improve continuously.
+
+                </h2>
+
                 <p>
-                    Genelis helps students identify weak areas, generate focused notes,
-                    practise smarter, and revise with clarity.
+
+                    Genelis combines Adaptive Personalized Intelligence,
+                    AI-generated notes,
+                    targeted practice,
+                    mock tests,
+                    analytics,
+                    and personalised revision
+                    to help students improve every study session.
+
                 </p>
-                <a href="https://app.genelis.in/" class="btn btn-primary">
-                    Start Learning
-                </a>
-            </section>
 
-            {% if post.faq %}
-            <section class="gdl-article-faq" id="faq">
-                <h2>Frequently Asked Questions</h2>
+                <div class="gdl-cta-buttons">
 
-                {% for item in post.faq %}
-                <details>
-                    <summary>{{ item.question }}</summary>
-                    <p>{{ item.answer }}</p>
-                </details>
-                {% endfor %}
-            </section>
-            {% endif %}
+                    <a
+                        href="https://app.genelis.in/"
+                        class="btn btn-primary"
+                    >
+                        Start Learning
+                    </a>
 
-            {% if related_posts %}
-            <section class="gdl-related-posts">
-                <span>Read next</span>
-                <h2>Related Articles</h2>
+                    <a
+                        href="{{ url_for('learning_system') }}"
+                        class="btn btn-secondary"
+                    >
+                        Explore Learning System
+                    </a>
 
-                <div class="gdl-related-grid">
-                    {% for related in related_posts %}
-                    <article class="gdl-related-card">
-                        <p>{{ related.category }} · Class {{ related.class }}</p>
-
-                        <h3>
-                            <a href="{{ url_for('blog_post', slug=related.slug) }}">
-                                {{ related.title }}
-                            </a>
-                        </h3>
-
-                        <p>{{ related.excerpt }}</p>
-                    </article>
-                    {% endfor %}
                 </div>
-            </section>
-            {% endif %}
 
-            <section class="gdl-prev-next">
-                {% if previous_post %}
-                <a href="{{ url_for('blog_post', slug=previous_post.slug) }}">
-                    <span>Previous</span>
-                    {{ previous_post.title }}
-                </a>
-                {% endif %}
+            </div>
 
-                {% if next_post %}
-                <a href="{{ url_for('blog_post', slug=next_post.slug) }}">
-                    <span>Next</span>
-                    {{ next_post.title }}
-                </a>
-                {% endif %}
-            </section>
+        </section>
 
-        </main>
-    </section>
+        <!-- ==========================
+             RELATED ARTICLES
+        =========================== -->
+
+        {% if related_posts %}
+
+        <section class="gdl-related-posts">
+
+            <div class="section-heading">
+
+                <span>
+
+                    Continue Reading
+
+                </span>
+
+                <h2>
+
+                    Related Articles
+
+                </h2>
+
+                <p>
+
+                    Continue building your preparation with
+                    related study guides and learning resources.
+
+                </p>
+
+            </div>
+
+            <div class="gdl-related-grid">
+
+                {% for related in related_posts %}
+
+                <article class="gdl-related-card">
+
+                    <div class="gdl-related-category">
+
+                        {{ related.category }}
+
+                        ·
+
+                        Class {{ related.class }}
+
+                    </div>
+
+                    <h3>
+
+                        <a href="{{ url_for('blog_post', slug=related.slug) }}">
+
+                            {{ related.title }}
+
+                        </a>
+
+                    </h3>
+
+                    <p>
+
+                        {{ related.excerpt }}
+
+                    </p>
+
+                    <a
+                        href="{{ url_for('blog_post', slug=related.slug) }}"
+                        class="gdl-read-more"
+                    >
+
+                        Read article →
+
+                    </a>
+
+                </article>
+
+                {% endfor %}
+
+            </div>
+
+        </section>
+
+        {% endif %}
+
+{% if post.faq %}
+
+<section class="gdl-article-faq" id="faq">
+
+    <div class="section-heading">
+
+        <span>Frequently Asked Questions</span>
+
+        <h2>
+            Questions Students Commonly Ask
+        </h2>
+
+        <p>
+            Quick answers to the most common questions related to this guide.
+        </p>
+
+    </div>
+
+    <div class="gdl-faq-list">
+
+        {% for item in post.faq %}
+
+        <details>
+
+            <summary>
+
+                {{ item.question }}
+
+            </summary>
+
+            <p>
+
+                {{ item.answer }}
+
+            </p>
+
+        </details>
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+{% endif %}
+
+
+<section class="gdl-prev-next">
+
+    {% if previous_post %}
+
+    <a
+        class="gdl-prev-card"
+        href="{{ url_for('blog_post', slug=previous_post.slug) }}"
+    >
+
+        <span>
+
+            ← Previous Article
+
+        </span>
+
+        <strong>
+
+            {{ previous_post.title }}
+
+        </strong>
+
+    </a>
+
+    {% endif %}
+
+    {% if next_post %}
+
+    <a
+        class="gdl-next-card"
+        href="{{ url_for('blog_post', slug=next_post.slug) }}"
+    >
+
+        <span>
+
+            Next Article →
+
+        </span>
+
+        <strong>
+
+            {{ next_post.title }}
+
+        </strong>
+
+    </a>
+
+    {% endif %}
+
+</section>
+
 </main>
 
 </section>
+
 </article>
 
 {% endblock %}
