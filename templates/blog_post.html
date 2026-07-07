@@ -9,6 +9,7 @@
 {% block extra_head %}
 
 <link rel="canonical" href="{{ request.url }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/pages/blog.css') }}">
 
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ post.meta_title }}">

@@ -419,60 +419,38 @@
 
 /* ---------- Card Grid ---------- */
 
-.gdl-card-grid{
-
+.gdl-content .gdl-card-grid{
     display:grid;
-
     grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-
     gap:28px;
-
     margin:60px 0;
-
 }
 
-.gdl-card{
-
+.gdl-content .gdl-card{
     padding:30px;
-
     border-radius:28px;
-
     background:white;
-
     border:1px solid var(--gdl-border);
-
     box-shadow:var(--gdl-shadow-soft);
-
     transition:.25s;
-
 }
 
-.gdl-card:hover{
-
+.gdl-content .gdl-card:hover{
     transform:translateY(-6px);
-
     box-shadow:0 30px 80px rgba(15,23,42,.08);
-
 }
 
-.gdl-card-icon{
-
+.gdl-content .gdl-card-icon{
     font-size:2rem;
-
     margin-bottom:16px;
-
 }
 
-.gdl-card h4{
-
+.gdl-content .gdl-card h4{
     margin-bottom:10px;
-
 }
 
-.gdl-card p{
-
+.gdl-content .gdl-card p{
     margin:0;
-
 }
 
 /* ---------- Comparison ---------- */
@@ -1696,4 +1674,396 @@
 .gdl-stat-card:nth-child(2) .gdl-stat-number,
 .gdl-stat-card:nth-child(3) .gdl-stat-number{
     font-size:2.35rem;
+}
+.gdl-content .formula-hub {
+    margin: 48px 0 72px;
+}
+
+.gdl-content .formula-hub-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.gdl-content .formula-hub-card {
+    background: #ffffff;
+    border: 1px solid #dbe5f2;
+    border-radius: 22px;
+    padding: 28px;
+    box-shadow: 0 18px 55px rgba(15, 23, 42, 0.07);
+}
+
+.gdl-content .formula-hub-card h3 {
+    margin: 0 0 18px;
+    color: #2563eb;
+    font-size: 0.85rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.gdl-content .formula-row {
+    display: grid;
+    grid-template-columns: 1fr 1.35fr;
+    gap: 18px;
+    padding: 14px 0;
+    border-top: 1px solid #eef2f7;
+}
+
+.gdl-content .formula-row:first-of-type {
+    border-top: none;
+}
+
+.gdl-content .formula {
+    color: #071126;
+    font-weight: 900;
+    font-size: 1rem;
+}
+
+.gdl-content .formula-use {
+    color: #475569;
+    font-size: 0.94rem;
+    line-height: 1.55;
+}
+
+.gdl-content .formula-note {
+    margin-top: 18px;
+    padding: 14px 16px;
+    border-radius: 14px;
+    background: #f8fbff;
+    border: 1px solid #dbeafe;
+    color: #334155;
+    font-size: 0.92rem;
+    line-height: 1.55;
+}
+
+@media (max-width: 768px) {
+    .gdl-content .formula-hub-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .gdl-content .formula-row {
+        grid-template-columns: 1fr;
+        gap: 6px;
+    }
+}
+.days-visual {
+    display: flex;
+    margin: 34px 0;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 1px solid #e5eaf3;
+    box-shadow: 0 18px 55px rgba(15, 23, 42, 0.07);
+}
+
+.days-block {
+    text-align: center;
+    padding: 30px 22px;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    font-weight: 700;
+}
+
+.days-block .num {
+    display: block;
+    font-size: 2.4rem;
+    font-weight: 900;
+    margin-bottom: 6px;
+}
+
+.d-cover {
+    flex: 3;
+    background: #e3f2fd;
+    color: #1565c0;
+}
+
+.d-prep {
+    flex: 2;
+    background: #fff3e0;
+    color: #e65100;
+}
+
+@media (max-width: 768px) {
+    .days-visual {
+        flex-direction: column;
+    }
+}
+/* ==========================================================
+   GENELIS LEARNING SYSTEM
+========================================================== */
+
+.learning-system {
+    margin: 56px 0 70px;
+}
+
+.learning-grid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:24px;
+}
+
+.learning-card{
+    background:#fff;
+    border:1px solid #dbe5f2;
+    border-radius:18px;
+    padding:28px;
+    box-shadow:0 18px 45px rgba(15,23,42,.06);
+}
+
+.learning-card h3{
+    margin:0 0 14px;
+    font-size:1.08rem;
+    color:#071126;
+}
+
+.learning-card p{
+    margin:0;
+    color:#475569;
+    line-height:1.75;
+}
+
+.learning-highlight{
+    display:inline-block;
+    margin-bottom:16px;
+    padding:7px 14px;
+    border-radius:999px;
+    background:#eef4ff;
+    color:#2563eb;
+    font-size:.78rem;
+    font-weight:800;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+}
+
+@media(max-width:900px){
+
+.learning-grid{
+
+grid-template-columns:1fr;
+
+}
+
+}
+/* ==========================================================
+   80 vs 90+ STUDY COMPARISON
+========================================================== */
+
+.study-comparison {
+    margin: 56px 0 72px;
+}
+
+.study-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 28px;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.study-table thead {
+    background: #0f172a;
+    color: #fff;
+}
+
+.study-table th,
+.study-table td {
+    padding: 18px 22px;
+    border-bottom: 1px solid #edf2f7;
+    text-align: left;
+    vertical-align: top;
+}
+
+.study-table th {
+    font-size: .95rem;
+    font-weight: 800;
+}
+
+.study-table td:first-child{
+    width:30%;
+    font-weight:700;
+    color:#0f172a;
+    background:#fafcff;
+}
+
+.study-table tr:last-child td{
+    border-bottom:none;
+}
+
+@media(max-width:768px){
+
+.study-table{
+display:block;
+overflow-x:auto;
+}
+
+}
+/* ==========================================================
+   SUBJECT STRATEGY TABLE
+========================================================== */
+
+.subject-strategy-wrap {
+    margin: 52px 0 72px;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.subject-strategy-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.subject-strategy-table thead {
+    background: #0f172a;
+    color: #ffffff;
+}
+
+.subject-strategy-table th,
+.subject-strategy-table td {
+    padding: 18px 22px;
+    border-bottom: 1px solid #edf2f7;
+    text-align: left;
+    vertical-align: top;
+}
+
+.subject-strategy-table th {
+    font-size: .95rem;
+    font-weight: 800;
+}
+
+.subject-strategy-table td:first-child {
+    width: 24%;
+    font-weight: 800;
+    color: #0f172a;
+    background: #fafcff;
+}
+
+.subject-strategy-table tr:last-child td {
+    border-bottom: none;
+}
+
+@media(max-width:768px) {
+    .subject-strategy-wrap {
+        overflow-x: auto;
+    }
+
+    .subject-strategy-table {
+        min-width: 760px;
+    }
+}
+/* ==========================================================
+   30 DAY PLAN
+========================================================== */
+
+.plan-wrap{
+    margin:56px 0 72px;
+}
+
+.plan-table{
+    width:100%;
+    border-collapse:collapse;
+    border:1px solid #dbe5f2;
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 18px 45px rgba(15,23,42,.06);
+}
+
+.plan-table thead{
+    background:#0f172a;
+    color:#fff;
+}
+
+.plan-table th,
+.plan-table td{
+    padding:18px 22px;
+    text-align:left;
+    vertical-align:top;
+    border-bottom:1px solid #edf2f7;
+}
+
+.plan-table th{
+    font-weight:800;
+}
+
+.plan-table td:first-child{
+    width:18%;
+    font-weight:800;
+    color:#2563eb;
+    background:#fafcff;
+}
+
+.plan-table tr:last-child td{
+    border-bottom:none;
+}
+
+@media(max-width:768px){
+
+.plan-wrap{
+overflow-x:auto;
+}
+
+.plan-table{
+min-width:760px;
+}
+
+}
+/* ==========================================================
+   COMMON MISTAKES
+========================================================== */
+
+.mistakes-wrap{
+    margin:56px 0 72px;
+}
+
+.mistakes-table{
+    width:100%;
+    border-collapse:collapse;
+    border:1px solid #dbe5f2;
+    border-radius:18px;
+    overflow:hidden;
+    box-shadow:0 18px 45px rgba(15,23,42,.06);
+}
+
+.mistakes-table thead{
+    background:#0f172a;
+    color:#fff;
+}
+
+.mistakes-table th,
+.mistakes-table td{
+    padding:18px 22px;
+    border-bottom:1px solid #edf2f7;
+    text-align:left;
+    vertical-align:top;
+}
+
+.mistakes-table th{
+    font-weight:800;
+}
+
+.mistakes-table td:first-child{
+    width:10%;
+    text-align:center;
+    font-weight:900;
+    color:#2563eb;
+    background:#fafcff;
+}
+
+.mistakes-table tr:last-child td{
+    border-bottom:none;
+}
+
+@media(max-width:768px){
+
+.mistakes-wrap{
+overflow-x:auto;
+}
+
+.mistakes-table{
+min-width:850px;
+}
+
 }

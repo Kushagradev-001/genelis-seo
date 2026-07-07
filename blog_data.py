@@ -479,7 +479,7 @@ BLOG_POSTS = [
                 </div>
             </div>
 
-            <h3>The Genelis Learning Loop™</h3>
+            <h3>The Genelis Learning System™</h3>
 
             <p>
                 Every feature is part of one connected system. The loop turns performance into the next
@@ -1689,7 +1689,1330 @@ Whether your current score is 65%, 75%, or 85%, the next few months can look com
             "wrong-question-notebook-board-exams",
             "weak-area-detection-board-exams"
         ]
-    }
+    },
+
+        {
+        "slug": "introducing-genelis-ai-learning-platform",
+
+        "title": "Introducing Genelis: The AI Learning Platform That Adapts to Every Student",
+
+        "meta_title": "Introducing Genelis: AI Learning Platform for Class 9–12 | Genelis",
+
+        "meta_description": (
+            "Meet Genelis, an AI-powered personalised learning platform for CBSE Class 9–12 students, "
+            "built on Adaptive Personalized Intelligence with smart weak area detection, AI notes, mock tests, "
+            "wrong-question notebook, and performance intelligence."
+        ),
+
+        "focus_keyword": "AI learning platform class 9 to 12",
+
+        "secondary_keywords": [
+            "Genelis",
+            "AI study platform India",
+            "personalized learning CBSE",
+            "Adaptive Personalized Intelligence",
+            "AI notes for students",
+            "weak area detection study app",
+            "wrong question notebook app"
+        ],
+
+        "class": "9-12",
+        "subject": "AI Learning Platform",
+        "category": "Genelis",
+
+        "author": "Genelis Team",
+        "published_date": "2026-07-07",
+        "updated_date": "2026-07-07",
+
+        "featured_image": "",
+        "reading_time": "9 min",
+
+        "excerpt": (
+            "Meet Genelis, an AI-powered learning platform built to identify weak areas, generate personalised notes, "
+            "track mistakes, and help Class 9–12 students improve through the Genelis Learning System™."
+        ),
+
+        "content": """
+<section>
+
+<span class="gdl-section-kicker">
+Introducing Genelis
+</span>
+
+<h2>
+The AI Learning Platform That Adapts to Every Student
+</h2>
+
+<p>
+Most study platforms deliver the same notes, questions, and revision material to every student.
+Genelis is built differently. It uses <strong>Adaptive Personalized Intelligence</strong> to understand
+where each student is strong, where they are struggling, and what they should study next.
+</p>
+
+<p>
+For CBSE Class 9–12 students, this means learning becomes more focused. Instead of guessing what to revise,
+students can use weak-area detection, personalised AI notes, mock tests, wrong-question tracking,
+and performance analytics to improve with every session.
+</p>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+🚀
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+What You’ll Learn
+</h4>
+
+<p>
+✔ What makes Genelis different from traditional study apps.
+
+<br><br>
+
+✔ How Adaptive Personalized Intelligence personalises learning.
+
+<br><br>
+
+✔ Why weak-area detection and wrong-question tracking matter.
+
+<br><br>
+
+✔ How the Genelis Learning System™ helps students improve continuously.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Platform Snapshot
+</span>
+
+<h2>
+Built for CBSE Class 9–12 Students Who Want Smarter Preparation
+</h2>
+
+<p>
+Genelis is designed for students who study hard but need more clarity on where their effort should go.
+The platform connects notes, mock tests, weak-area analytics, and revision into one learning system.
+</p>
+
+<div class="gdl-stat-strip">
+
+<div class="gdl-stat-card">
+<span class="gdl-stat-number">Class 9–12</span>
+<span class="gdl-stat-label">CBSE & NCERT aligned across key subjects and streams</span>
+</div>
+
+<div class="gdl-stat-card highlight">
+<span class="gdl-stat-number">₹1,199/year</span>
+<span class="gdl-stat-label">Best Value • Works out to about ₹100/month</span>
+</div>
+
+<div class="gdl-stat-card">
+<span class="gdl-stat-number">24×7</span>
+<span class="gdl-stat-label">AI-powered learning support whenever students need help</span>
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">💡</div>
+
+<div class="gdl-callout-content">
+
+<h4>Why annual pricing works better</h4>
+
+<p>
+Board preparation is a long-term journey. A yearly plan supports consistent learning across the academic year instead of short bursts of revision before exams.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+The Real Problem
+</span>
+
+<h2>
+Students Don't Need More Content. They Need Better Direction.
+</h2>
+
+<p>
+Every year, millions of students spend hundreds of hours studying. They watch lectures, read notes, solve sample papers, and revise chapters. Yet many still walk into exams unsure of where they are actually losing marks.
+</p>
+
+<p>
+The challenge is rarely a lack of effort. The challenge is that most students don't know which concepts need immediate attention and which ones they have already mastered.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Traditional Study</h3>
+
+<ul>
+
+<li>Everyone studies the same material.</li>
+
+<li>Revision follows a fixed timetable.</li>
+
+<li>Weak topics remain hidden.</li>
+
+<li>Mock test scores provide little direction.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ Learning with Genelis</h3>
+
+<ul>
+
+<li>Every student follows a personalised path.</li>
+
+<li>Revision adapts to actual performance.</li>
+
+<li>Weak areas are identified automatically.</li>
+
+<li>Every mock test improves the next study session.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+🎯
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+The Genelis Philosophy
+</h4>
+
+<p>
+Students shouldn't have to guess what to study next. Every revision session should be guided by real performance data, helping them spend more time where it creates the greatest improvement.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Core Capabilities
+</span>
+
+<h2>
+Six Intelligent Capabilities That Power Genelis
+</h2>
+
+<p>
+Every feature in Genelis exists to solve a real challenge students face during board preparation. Instead of adding more tools, Genelis connects them into one intelligent learning system where every study session builds on the previous one.
+</p>
+
+<div class="feature-grid">
+
+<div class="feature-card">
+
+<div class="icon">🎯</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Smart Weak Area Detection</h3>
+
+<p>
+Most students know they are weak in a subject, but not the exact concepts. Genelis identifies topic-level weaknesses so revision becomes targeted instead of random.
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">📝</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Personalised AI Notes</h3>
+
+<p>
+Instead of reading an entire chapter again, Genelis generates focused notes for the concepts that actually need improvement.
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">📚</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Wrong-Question Notebook</h3>
+
+<p>
+Every incorrect answer is automatically saved, organised, and made available for future revision, ensuring mistakes are not repeated.
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">📊</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Performance Intelligence</h3>
+
+<p>
+Track topic-wise accuracy, revision trends, mock performance, and learning progress through meaningful analytics instead of guessing your readiness.
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🔄</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Adaptive Mock Tests</h3>
+
+<p>
+Every mock becomes more than a score. Genelis recommends targeted revision and allows students to reattempt questions until concepts are mastered.
+</p>
+
+</div>
+
+<div class="feature-card">
+
+<div class="icon">🧠</div>
+
+<div class="prob">Student Problem</div>
+
+<h3>Adaptive Personalized Intelligence</h3>
+
+<p>
+The more you learn, the better Genelis understands your strengths, weaknesses, pace, and progress, continuously personalising future study sessions.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+The Genelis Learning System™
+</span>
+
+<h2>
+One Connected System. Every Study Session Makes the Next One Smarter.
+</h2>
+
+<p>
+Most learning platforms provide individual tools—notes, mock tests, question banks, or analytics. These features often work independently, leaving students to figure out how to connect everything themselves.
+</p>
+
+<p>
+Genelis takes a different approach. Every feature is part of one connected learning system. Each study session generates insights that improve the next one, creating a personalised learning journey instead of isolated activities.
+</p>
+
+<div class="loop-steps">
+
+<div class="loop-step">
+<span class="step-num">1</span>
+Attempt a Mock Test
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+<span class="step-num">2</span>
+Analyse Performance
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+<span class="step-num">3</span>
+Detect Weak Areas
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+<span class="step-num">4</span>
+Generate Personalised AI Notes
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+<span class="step-num">5</span>
+Targeted Practice
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+<span class="step-num">6</span>
+Reattempt & Improve
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+🚀
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Why This Makes Genelis Different
+</h4>
+
+<p>
+Instead of repeatedly starting from scratch, every assessment, every revision session, and every practice attempt contributes to a continuously improving learning profile. The platform becomes more personalised as the student progresses.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Who Should Use Genelis?
+</span>
+
+<h2>
+If You See Yourself Here, Genelis Was Built for You.
+</h2>
+
+<p>
+Every student learns differently. Some struggle with consistency, others with confidence, and many simply don't know what to study next. Genelis adapts to each learner instead of expecting every learner to adapt to the platform.
+</p>
+
+<div class="for-who-grid">
+
+<div class="who-card">
+
+<h4>📘 Class 9 Students</h4>
+
+<p>
+Build strong fundamentals before they become bigger learning gaps in higher classes.
+</p>
+
+</div>
+
+<div class="who-card">
+
+<h4>🎯 Class 10 Board Aspirants</h4>
+
+<p>
+Prepare smarter for your first board examination with targeted revision, mock tests, and weak-area tracking.
+</p>
+
+</div>
+
+<div class="who-card">
+
+<h4>📚 Class 11 Students</h4>
+
+<p>
+Manage the jump in difficulty with structured guidance and continuous performance tracking.
+</p>
+
+</div>
+
+<div class="who-card">
+
+<h4>🏆 Class 12 Board Students</h4>
+
+<p>
+Maximise every study session with personalised revision plans and focused exam preparation.
+</p>
+
+</div>
+
+<div class="who-card">
+
+<h4>👨‍👩‍👧 Parents</h4>
+
+<p>
+Monitor actual learning progress through meaningful analytics instead of relying only on marks.
+</p>
+
+</div>
+
+<div class="who-card">
+
+<h4>🚀 Students Who Want More Than Just Notes</h4>
+
+<p>
+If you want a platform that tells you exactly what to improve next instead of giving everyone the same content, Genelis is designed for you.
+</p>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+💙
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+One Platform. Personalised for Every Student.
+</h4>
+
+<p>
+Whether you're preparing for your first board exam or aiming to improve an already strong score, Genelis adapts to your learning journey, helping every study session become more focused than the last.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+The Future of Learning
+</span>
+
+<h2>
+Education Is Shifting from One-Size-Fits-All to Personalized Learning
+</h2>
+
+<p>
+For decades, most students have learned through the same approach—identical textbooks, identical classroom instruction, and identical revision schedules. While this works for some, every student has different strengths, weaknesses, learning speeds, and study habits.
+</p>
+
+<p>
+Artificial Intelligence is changing that. Instead of treating every learner the same, modern AI can analyse learning patterns, identify knowledge gaps, recommend targeted revision, and continuously adapt as a student's performance evolves.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>Traditional Learning</h3>
+
+<ul>
+
+<li>Same content for every student.</li>
+
+<li>Revision based on fixed schedules.</li>
+
+<li>Weak areas identified manually.</li>
+
+<li>Limited personalised feedback.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>Adaptive Personalized Learning</h3>
+
+<ul>
+
+<li>Learning adapts to each student.</li>
+
+<li>Revision based on actual performance.</li>
+
+<li>Weak areas detected automatically.</li>
+
+<li>Continuous improvement through data.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+🧠
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Where Genelis Fits In
+</h4>
+
+<p>
+Genelis is built on <strong>Adaptive Personalized Intelligence</strong>, combining AI-generated learning resources, performance analytics, smart weak-area detection, and targeted revision into one connected learning experience. Instead of replacing teachers or textbooks, Genelis complements them by helping every student study more effectively.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section class="gdl-article-cta">
+
+<span>
+The Genelis Learning System™
+</span>
+
+<h2>
+Study Smarter. Improve Continuously. Score Higher.
+</h2>
+
+<p>
+Genelis brings together Adaptive Personalized Intelligence, Smart Weak Area Detection, Personalised AI Notes, Performance Intelligence, and Adaptive Mock Tests into one connected learning system that helps every student improve with every study session.
+</p>
+
+<div class="gdl-cta-buttons">
+
+<a href="https://app.genelis.in/" class="btn btn-primary">
+Start Free
+</a>
+
+<a href="/pricing" class="btn btn-secondary">
+View Plans
+</a>
+
+</div>
+
+<div class="gdl-callout" style="margin-top:32px;">
+
+<div class="gdl-callout-icon">
+⭐
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Start Free. Upgrade When You're Ready.
+</h4>
+
+<p>
+Explore Genelis with a free account. Unlock the complete learning experience with the Premium Plan at <strong>₹1,199/year</strong> (approximately <strong>₹100/month</strong>) and get full access to personalised AI learning, advanced analytics, adaptive mock tests, and much more.
+</p>
+
+</div>
+
+</div>
+
+</section>
+""",
+
+        "faq": [],
+
+        "related_articles": [
+            "class-10-board-exam-preparation-guide-cbse",
+            "how-to-score-90-percent-class-12-boards-cbse",
+            "wrong-question-notebook-board-exams",
+            "weak-area-detection-board-exams"
+        ]
+    },
+        {
+        "slug": "cbse-class-12-board-exam-preparation-guide-2026-27",
+
+        "title": "The Complete CBSE Class 12 Board Exam Preparation Guide (2026–27)",
+
+        "excerpt": "The definitive Class 12 board exam guide covering the latest CBSE exam pattern, subject-wise weightage, preparation strategies, revision techniques, high-scoring chapters, essential formulas, and the Genelis Learning System™.",
+
+        "category": "Board Exams",
+
+        "class": "12",
+
+        "subject": "All Subjects",
+
+        "reading_time": "15 min read",
+
+        "author": "Genelis Team",
+
+        "published_date": "July 2026",
+
+        "updated_date": "July 2026",
+
+        "featured": False,
+
+        "featured_image": "",
+
+        "meta_title": "The Complete CBSE Class 12 Board Exam Preparation Guide (2026–27) | Genelis",
+
+        "meta_description": "The ultimate CBSE Class 12 Board Exam Preparation Guide with subject-wise weightage, exam pattern, formulas, study strategies, revision roadmap and AI-powered learning by Genelis.",
+
+        "keywords": [
+            "CBSE Class 12 Board Exam",
+            "Class 12 Board Preparation",
+            "CBSE Board Exam 2026",
+            "Class 12 Study Guide",
+            "CBSE Class 12 Exam Pattern",
+            "Class 12 Revision Strategy",
+            "Genelis"
+        ],
+
+        "toc": [],
+
+        "content": """
+    <section id="intro">
+
+<p>
+Scoring well in the CBSE Class 12 Board Examination is rarely about studying the longest. It is about preparing with clarity, consistency, and a clear understanding of where marks are earned. Every year, thousands of students complete the syllabus but still fall short of their expectations because they spend too much time on low-impact topics, revise inefficiently, or fail to identify their weakest areas early enough.
+</p>
+
+<p>
+This guide has been designed to help you avoid those mistakes. It combines the latest CBSE examination structure, subject-wise weightage, high-scoring units, essential formulas, revision strategies, and practical preparation techniques into one comprehensive roadmap. Whether your goal is to score above 90%, strengthen conceptual understanding, or simply prepare with greater confidence, the sections that follow will help you make smarter study decisions throughout the academic year.
+</p>
+
+</section>
+<section>
+  <h2>Every Mark Has an Address. Here's the Map.</h2>
+
+  <p>Each subject carries 100 marks. Science subjects usually include theory and practical components, while many other subjects include theory and internal assessment. Here's where marks come from in each stream.</p>
+
+  <h3>Mathematics — 80 marks theory</h3>
+  <div class="vis-wrap">
+    <div class="vis-title">Maths unit weightage — theory, 80 marks</div>
+
+    <div class="bar-row"><div class="bar-label">Calculus</div><div class="bar-track"><div class="bar-fill" style="width:43.75%;background:#2a78d6">43.75%</div></div><div class="bar-marks">35 marks ★</div></div>
+
+    <div class="bar-row"><div class="bar-label">Vectors & 3D Geometry</div><div class="bar-track"><div class="bar-fill" style="width:17.5%;background:#4a90d9">17.5%</div></div><div class="bar-marks">14 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Algebra</div><div class="bar-track"><div class="bar-fill" style="width:12.5%;background:#6aaae0">12.5%</div></div><div class="bar-marks">10 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Relations & Functions</div><div class="bar-track"><div class="bar-fill" style="width:10%;background:#85bde8">10%</div></div><div class="bar-marks">8 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Probability</div><div class="bar-track"><div class="bar-fill" style="width:10%;background:#a0ceef">10%</div></div><div class="bar-marks">8 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Linear Programming</div><div class="bar-track"><div class="bar-fill" style="width:6.25%;background:#bfe0f7">6.25%</div></div><div class="bar-marks">5 marks</div></div>
+
+    <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">★ Calculus alone is 35 marks — the single biggest unit in Class 12 Maths.</p>
+  </div>
+
+  <h3>Science Stream — Physics & Chemistry</h3>
+  <div class="vis-wrap">
+    <div class="vis-title">Highest-weightage units — Science stream</div>
+
+    <div class="bar-row"><div class="bar-label">Optics (Physics)</div><div class="bar-track"><div class="bar-fill" style="width:25%;background:#e04848">~18 marks</div></div><div class="bar-marks">~18 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">EMI & AC (Physics)</div><div class="bar-track"><div class="bar-fill" style="width:22%;background:#e06060">~16 marks</div></div><div class="bar-marks">~16 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Electrochemistry & Kinetics</div><div class="bar-track"><div class="bar-fill" style="width:20%;background:#1baf7a">~23 marks</div></div><div class="bar-marks">~23 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Organic Chemistry</div><div class="bar-track"><div class="bar-fill" style="width:17%;background:#2dc98a">~20 marks</div></div><div class="bar-marks">~20 marks</div></div>
+
+    <div class="bar-row"><div class="bar-label">Modern Physics</div><div class="bar-track"><div class="bar-fill" style="width:18%;background:#eda100">~13 marks</div></div><div class="bar-marks">~13 marks</div></div>
+  </div>
+
+  <h3>Commerce Stream — Accountancy & Economics</h3>
+  <p>Accountancy: Partnership Accounts carry high weightage, followed by Company Accounts and Financial Statement Analysis. Economics usually balances Macro Economics and Indian Economic Development across the theory paper.</p>
+
+  <h3>Arts / Humanities — History & Political Science</h3>
+  <p>History and Political Science reward structured answers, correct terminology, and strong command over themes, maps, source-based questions, and long-answer presentation.</p>
+</section>
+<div class="formula-hub">
+
+<div class="formula-hub-grid">
+
+<div class="formula-hub-card">
+<h3>Mathematics</h3>
+
+<div class="formula-row">
+<div class="formula">∫u·dv = uv − ∫v·du</div>
+<div class="formula-use">Integration by parts.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">∫ₐᵇ f(x)dx = F(b) − F(a)</div>
+<div class="formula-use">Definite integration and area-based problems.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">P(A|B) = P(B|A)·P(A) / P(B)</div>
+<div class="formula-use">Bayes' theorem and conditional probability.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">|A| = ad − bc</div>
+<div class="formula-use">2×2 determinant questions.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">d = √[(x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²]</div>
+<div class="formula-use">Distance formula in 3D geometry.</div>
+</div>
+
+<div class="formula-note">
+High-impact areas: Calculus, Probability, Matrices, Determinants, Vectors & 3D Geometry.
+</div>
+</div>
+
+<div class="formula-hub-card">
+<h3>Physics</h3>
+
+<div class="formula-row">
+<div class="formula">1/f = 1/v − 1/u</div>
+<div class="formula-use">Lens formula in ray optics.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">1/f = 1/v + 1/u</div>
+<div class="formula-use">Mirror formula in ray optics.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">EMF = −dΦ/dt</div>
+<div class="formula-use">Faraday's law in electromagnetic induction.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">F = kq₁q₂/r²</div>
+<div class="formula-use">Coulomb's law in electrostatics.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">λ = h/mv</div>
+<div class="formula-use">de Broglie wavelength in modern physics.</div>
+</div>
+
+<div class="formula-note">
+High-impact areas: Optics, EMI & AC, Electrostatics, Modern Physics.
+</div>
+</div>
+
+<div class="formula-hub-card">
+<h3>Chemistry</h3>
+
+<div class="formula-row">
+<div class="formula">r = k[A]ᵐ[B]ⁿ</div>
+<div class="formula-use">Rate law in chemical kinetics.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">t½ = 0.693/k</div>
+<div class="formula-use">First-order reaction half-life.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">E = E° − (RT/nF)·ln Q</div>
+<div class="formula-use">Nernst equation in electrochemistry.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">p = p°·x</div>
+<div class="formula-use">Raoult's law in solutions.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">M = moles of solute / L of solution</div>
+<div class="formula-use">Molarity-based concentration problems.</div>
+</div>
+
+<div class="formula-note">
+High-impact areas: Electrochemistry, Chemical Kinetics, Solutions.
+</div>
+</div>
+
+<div class="formula-hub-card">
+<h3>Accountancy</h3>
+
+<div class="formula-row">
+<div class="formula">Goodwill = Super Profit / NRR × 100</div>
+<div class="formula-use">Goodwill valuation in partnership accounts.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">New ratio = Old − Sacrificing ratio</div>
+<div class="formula-use">Admission of a partner.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">Working Capital = CA − CL</div>
+<div class="formula-use">Financial statement analysis.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">Current Ratio = CA / CL</div>
+<div class="formula-use">Liquidity analysis.</div>
+</div>
+
+<div class="formula-row">
+<div class="formula">Net Profit ratio = (NP / Net Sales) × 100</div>
+<div class="formula-use">Profitability analysis.</div>
+</div>
+
+<div class="formula-note">
+High-impact areas: Partnership Accounts, Company Accounts, Financial Statement Analysis.
+</div>
+</div>
+
+</div>
+
+</div>
+<section id="study-timeline">
+
+<span class="gdl-section-kicker">
+Preparation Timeline
+</span>
+
+<h2>
+200 Days. Most Students Use 120 of Them Wrong.
+</h2>
+
+<p>
+There are approximately 200 days between July and Class 12 board exams in February. Here's how most students actually use them:
+</p>
+
+<div class="days-visual">
+
+<div class="days-block d-cover">
+<span class="num">120</span>
+days covering the syllabus — attending classes, submitting assignments, school tests
+</div>
+
+<div class="days-block d-prep">
+<span class="num">80</span>
+days of actual “board exam preparation” — where most students start revising
+</div>
+
+</div>
+
+<p>
+Eighty days is enough time — if you know what to do with them. The problem is most students arrive at those 80 days without a clear picture of where they actually stand. Chapters covered don't equal chapters mastered. Topics revised don't equal wrong patterns fixed. Scores seen don't equal wrong answers addressed.
+</p>
+
+<p>
+Students who score 90%+ walk into those final 80 days with a precise topic-level map of their weak areas. They spend those days closing gaps rather than covering comfortable ground. The remaining students spend the same 80 days revising what they already know — because it feels like progress.
+</p>
+
+</section>
+<section id="genelis-learning-system">
+
+<span class="gdl-section-kicker">
+Adaptive Personalized Intelligence
+</span>
+
+<h2>
+Genelis Turns Every Study Session Into a Smarter One.
+</h2>
+
+<p>
+Most students revise the same chapters repeatedly because they don't know exactly where they are losing marks. Genelis is built differently. Instead of treating every student the same, it continuously analyses performance, identifies learning gaps, and recommends exactly what should be studied next.
+</p>
+
+<p>
+Every AI-generated note, mock test, explanation and recommendation adapts to your progress, helping you spend more time improving weak areas and less time revising topics you've already mastered.
+</p>
+
+<div class="learning-system">
+
+<div class="learning-grid">
+
+<div class="learning-card">
+
+<span class="learning-highlight">
+Weak Area Detection
+</span>
+
+<h3>
+Know Exactly Where You're Losing Marks
+</h3>
+
+<p>
+Identify weak chapters, topics and concepts automatically through continuous performance analysis instead of guessing what to revise.
+</p>
+
+</div>
+
+<div class="learning-card">
+
+<span class="learning-highlight">
+Personalised AI Notes
+</span>
+
+<h3>
+Revision Built Around You
+</h3>
+
+<p>
+Generate concise, personalised notes focused on your mistakes, learning level and upcoming examinations rather than generic summaries.
+</p>
+
+</div>
+
+<div class="learning-card">
+
+<span class="learning-highlight">
+Wrong Question Notebook
+</span>
+
+<h3>
+Never Repeat The Same Mistake
+</h3>
+
+<p>
+Every incorrect answer becomes part of a continuously updated revision notebook, making every mock test more valuable than the previous one.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<section id="topper-difference">
+
+<span class="gdl-section-kicker">
+Performance Analysis
+</span>
+
+<h2>
+What Separates a 90%+ Student from an 80% Student?
+</h2>
+
+<p>
+The difference between these two students is rarely intelligence. In most cases, it comes down to consistency, revision quality, mistake analysis, and how effectively they use their preparation time. The comparison below highlights some of the habits commonly observed among high-performing board candidates.
+</p>
+
+<div class="study-comparison">
+
+<table class="study-table">
+
+<thead>
+<tr>
+<th>Preparation Area</th>
+<th>Typical 80% Student</th>
+<th>Typical 90%+ Student</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Revision</td>
+<td>Reads notes repeatedly.</td>
+<td>Revises based on identified weak areas.</td>
+</tr>
+
+<tr>
+<td>Mock Tests</td>
+<td>Checks only the final score.</td>
+<td>Analyses every incorrect answer and revisits the concept.</td>
+</tr>
+
+<tr>
+<td>Formula Practice</td>
+<td>Memorises before exams.</td>
+<td>Reviews formulas throughout the academic year.</td>
+</tr>
+
+<tr>
+<td>NCERT</td>
+<td>Completes exercises once.</td>
+<td>Solves NCERT multiple times and understands every example.</td>
+</tr>
+
+<tr>
+<td>Study Planning</td>
+<td>Studies what feels comfortable.</td>
+<td>Prioritises chapters based on weightage and personal weaknesses.</td>
+</tr>
+
+<tr>
+<td>Improvement</td>
+<td>Measures marks.</td>
+<td>Measures mistakes, patterns and progress.</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</section>
+<section id="subject-strategy">
+
+<span class="gdl-section-kicker">
+Subject-wise Strategy
+</span>
+
+<h2>
+What Separates 80% from 90%+ — By Subject
+</h2>
+
+<p>
+Every subject rewards a different kind of preparation. Mathematics and Accountancy reward accuracy and repeated problem-solving. Physics and Economics reward application. Chemistry and Business Studies require strong recall with correct context. Humanities subjects reward structured answers, precise terminology, and presentation.
+</p>
+
+<div class="subject-strategy-wrap">
+
+<table class="subject-strategy-table">
+
+<thead>
+<tr>
+<th>Subject Group</th>
+<th>What Students Usually Do</th>
+<th>What 90%+ Preparation Requires</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Mathematics / Accountancy</td>
+<td>Read solved examples and assume the method is understood.</td>
+<td>Reattempt wrong questions without looking at solutions. Accuracy improves only when the method can be reproduced independently.</td>
+</tr>
+
+<tr>
+<td>Physics / Economics</td>
+<td>Memorise theory but practise too few application-based questions.</td>
+<td>Practise numericals, graphs, case-based questions, and data interpretation until application becomes natural.</td>
+</tr>
+
+<tr>
+<td>Chemistry / Business Studies</td>
+<td>Revise definitions and reactions but fail to connect them to question types.</td>
+<td>Know named reactions, reagents, conditions, case-study triggers, and concept application patterns.</td>
+</tr>
+
+<tr>
+<td>Biology / History / Political Science</td>
+<td>Write long answers without enough structure or subject-specific vocabulary.</td>
+<td>Use precise terminology, diagrams where required, clear headings, map practice, and structured answer presentation.</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</section>
+<section id="30-day-plan">
+
+<span class="gdl-section-kicker">
+Execution Roadmap
+</span>
+
+<h2>
+Your First 30 Days of Class 12 Preparation
+</h2>
+
+<p>
+Many students delay serious preparation because they are unsure where to begin. The first month should not be about finishing the maximum number of chapters—it should be about building a preparation system that remains sustainable throughout the academic year. The roadmap below provides a practical starting point.
+</p>
+
+<div class="plan-wrap">
+
+<table class="plan-table">
+
+<thead>
+
+<tr>
+
+<th>Week</th>
+
+<th>Primary Goal</th>
+
+<th>Expected Outcome</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Week 1</td>
+
+<td>Collect NCERT books, syllabus, marking scheme, and identify high-weightage units for every subject.</td>
+
+<td>Clear understanding of what needs to be studied and prioritised.</td>
+
+</tr>
+
+<tr>
+
+<td>Week 2</td>
+
+<td>Begin chapter-wise study while preparing concise revision notes and formula sheets.</td>
+
+<td>Strong conceptual foundation and organised revision material.</td>
+
+</tr>
+
+<tr>
+
+<td>Week 3</td>
+
+<td>Start chapter tests, analyse mistakes, and revise weak concepts immediately.</td>
+
+<td>Early identification of learning gaps before they become major problems.</td>
+
+</tr>
+
+<tr>
+
+<td>Week 4</td>
+
+<td>Attempt one full-length mock, review incorrect answers, and prepare the next month's revision plan.</td>
+
+<td>Continuous improvement cycle established from the very beginning.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</section>
+<section id="common-mistakes">
+
+<span class="gdl-section-kicker">
+Avoidable Mistakes
+</span>
+
+<h2>
+10 Mistakes That Quietly Reduce Board Scores
+</h2>
+
+<p>
+Many students lose marks not because the syllabus is difficult, but because of avoidable preparation habits. Identifying these mistakes early can significantly improve both confidence and performance over the academic year.
+</p>
+
+<div class="mistakes-wrap">
+
+<table class="mistakes-table">
+
+<thead>
+
+<tr>
+
+<th>#</th>
+
+<th>Common Mistake</th>
+
+<th>Better Approach</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+<td>1</td>
+<td>Starting serious revision only after the syllabus is completed.</td>
+<td>Revise every week alongside classroom learning.</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Ignoring NCERT examples and solved exercises.</td>
+<td>Master NCERT before moving to reference books.</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Attempting mock tests without analysing mistakes.</td>
+<td>Review every incorrect answer and revisit the related concept.</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Memorising formulas without understanding their application.</td>
+<td>Practise questions that require choosing the correct formula.</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Spending equal time on every chapter.</td>
+<td>Prioritise revision using weightage and personal weak areas.</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Ignoring diagrams, graphs and presentation.</td>
+<td>Practise neat diagrams and structured answers where relevant.</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Studying only favourite subjects.</td>
+<td>Maintain a balanced weekly study schedule.</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Depending only on passive reading.</td>
+<td>Use active recall, writing practice and self-testing.</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Skipping full-length mock papers.</td>
+<td>Simulate board conditions regularly to build speed and confidence.</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Not tracking progress over time.</td>
+<td>Measure improvement chapter by chapter and update your revision plan.</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</section>
+
+
+        """,
+
+        "faq": [],
+
+        "related": [
+            "how-to-score-90-percent-in-cbse-class-12-boards",
+            "introducing-genelis-ai-learning-platform",
+            "class-10-board-exam-preparation-guide"
+        ]
+    },
 
 ]
 def get_all_posts():
