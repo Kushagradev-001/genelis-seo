@@ -537,7 +537,1160 @@ BLOG_POSTS = [
             "class-10-social-science-preparation",
             "smart-revision-ai-study-coach-cbse"
         ]
+    },
+
+    # -------- Blog 2 --------
+    {
+        "slug": "how-to-score-90-percent-class-12-boards-cbse",
+
+        "title": "How to Score 90%+ in CBSE Class 12 Boards (2026–27): 6 Habits That Separate Top Students",
+
+        "meta_title": "How to Score 90%+ in CBSE Class 12 Boards 2026–27 | Genelis",
+
+        "meta_description": (
+            "A data-backed CBSE Class 12 board exam guide explaining the 6 habits that separate "
+            "top students, with study strategy, mock test planning, weak-area tracking, and AI-powered revision."
+        ),
+
+        "focus_keyword": "how to score 90 percent in class 12 boards",
+
+        "secondary_keywords": [
+            "CBSE Class 12 preparation",
+            "Class 12 board exam study plan",
+            "how to score 90 in Class 12",
+            "CBSE Class 12 study strategy",
+            "AI study coach Class 12",
+            "personalized learning Class 12"
+        ],
+
+        "class": "12",
+        "subject": "Board Exam Preparation",
+        "category": "Exam Preparation",
+
+        "author": "Genelis Team",
+        "published_date": "2026-07-06",
+        "updated_date": "2026-07-06",
+        "featured_image": "",
+        "reading_time": "12 min",
+
+        "excerpt": (
+            "Only a small percentage of students score 90%+ in CBSE Class 12 boards. "
+            "This guide explains the preparation habits, study systems, and revision methods that separate top performers."
+        ),
+
+        "content": """
+    <section>
+
+<span class="gdl-section-kicker">
+CBSE Class 12 Strategy
+</span>
+
+<h2>
+How to Score 90%+ in CBSE Class 12 Boards (2026–27): 6 Habits That Separate Top Students
+</h2>
+
+<p>
+Only <strong>5.3% of students</strong> scored 90% or above in the 2026 CBSE Class 12 Board Examinations. Every year, lakhs of students work hard, attend coaching, solve sample papers, and spend countless hours studying—yet only a small fraction achieve this milestone.
+</p>
+
+<p>
+The difference is rarely intelligence. It is almost always preparation quality. Top-performing students follow a systematic approach: they identify weak areas early, revise with purpose, analyse every mock test, and continuously improve instead of repeatedly studying the same comfortable chapters.
+</p>
+
+<p>
+In this guide, we'll break down the six habits that consistently separate top scorers from the rest, explain why they work, and show how a personalised AI-powered study system can help you build these habits throughout the academic year.
+</p>
+
+<div class="gdl-callout">
+
+    <div class="gdl-callout-icon">
+        🎯
+    </div>
+
+    <div class="gdl-callout-content">
+
+        <h4>
+            What You'll Learn
+        </h4>
+
+        <p>
+
+        ✔ Why only a small percentage of students score above 90%.
+
+        <br><br>
+
+        ✔ The six preparation habits followed by top performers.
+
+        <br><br>
+
+        ✔ How to prioritise revision instead of simply studying longer.
+
+        <br><br>
+
+        ✔ How AI-powered personalised learning can improve your preparation.
+
+        </p>
+
+    </div>
+
+</div>
+<section>
+
+<span class="gdl-section-kicker">
+2026 Reality Snapshot
+</span>
+
+<h2>
+The CBSE Class 12 Numbers That Should Change How You Prepare
+</h2>
+
+<p>
+The 2026 CBSE Class 12 results show a clear reality: scoring 90%+ is not common. It requires more than completing the syllabus. It requires a preparation system that helps students identify gaps, repair mistakes, and improve consistently.
+</p>
+
+<div class="gdl-stat-strip">
+
+    <div class="gdl-stat-card">
+
+        <span class="gdl-stat-number">
+            85.2%
+        </span>
+
+        <span class="gdl-stat-label">
+            Overall Pass Rate
+        </span>
+
+    </div>
+
+    <div class="gdl-stat-card">
+
+        <span class="gdl-stat-number">
+            94,028
+        </span>
+
+        <span class="gdl-stat-label">
+            Students Scoring 90%+
+        </span>
+
+    </div>
+
+    <div class="gdl-stat-card">
+
+        <span class="gdl-stat-number">
+            17,113
+        </span>
+
+        <span class="gdl-stat-label">
+            Students Scoring Above 95%
+        </span>
+
+    </div>
+
+    <div class="gdl-stat-card highlight">
+
+        <span class="gdl-stat-number">
+            5.3%
+        </span>
+
+        <span class="gdl-stat-label">
+            Reached the 90% Milestone
+        </span>
+
+    </div>
+
+</div>
+
+<div class="gdl-callout">
+
+    <div class="gdl-callout-icon">
+        📌
+    </div>
+
+    <div class="gdl-callout-content">
+
+        <h4>
+            What This Means
+        </h4>
+
+        <p>
+            If only a small percentage of students cross 90%, then average preparation habits are not enough.
+            To reach the top group, your revision has to become more targeted, more measurable, and more adaptive.
+        </p>
+
+    </div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+The Success Funnel
+</span>
+
+<h2>
+Why Most Students Never Reach 90%
+</h2>
+
+<p>
+Every year, thousands of students begin Class 12 with the goal of scoring above 90%. As the academic year progresses, many gradually fall behind—not because they lack ability, but because they lose consistency, ignore weak areas, or never analyse their mistakes.
+</p>
+
+<p>
+The journey from an average score to 90%+ is not a single leap. It is a series of small improvements that compound over time.
+</p>
+
+<div class="signal-box">
+
+    <div class="signal-card noise">
+
+        <div class="label">
+            Most Students
+        </div>
+
+        <div class="val">
+            Study More
+        </div>
+
+        <p>
+            Complete chapters, solve papers, check the score, and move on without understanding why marks were lost.
+        </p>
+
+    </div>
+
+    <div class="signal-card signal">
+
+        <div class="label">
+            Top Students
+        </div>
+
+        <div class="val">
+            Improve Every Week
+        </div>
+
+        <p>
+            Every mock test identifies weak topics, every mistake is reviewed, and every revision session is based on actual performance.
+        </p>
+
+    </div>
+
+</div>
+
+<div class="loop-steps">
+
+    <div class="loop-step">
+        <span class="step-num">Stage 1</span>
+        Learn Concepts
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">Stage 2</span>
+        Attempt Mock Tests
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">Stage 3</span>
+        Analyse Mistakes
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">Stage 4</span>
+        Target Weak Areas
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">Stage 5</span>
+        Reattempt & Improve
+    </div>
+
+</div>
+
+<p>
+Students who consistently follow this improvement cycle throughout the year steadily increase their accuracy, confidence, and ultimately their board examination scores.
+</p>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #1
+</span>
+
+<h2>
+Top Students Revise Weaknesses. Most Students Revise Comfort.
+</h2>
+
+<p>
+One of the biggest differences between average performers and students who consistently score above 90% is not the number of hours they study—it is <strong>what they choose to study.</strong>
+</p>
+
+<p>
+Most students naturally return to chapters they already understand because solving familiar questions feels productive. Unfortunately, board marks are lost in the chapters they avoid.
+</p>
+
+<div class="gdl-compare">
+
+    <div class="gdl-bad">
+
+        <h3>❌ Most Students</h3>
+
+        <ul>
+            <li>Revise favourite chapters repeatedly.</li>
+            <li>Feel confident because familiar questions are easy.</li>
+            <li>Ignore low-scoring topics until the final weeks.</li>
+            <li>Keep making the same mistakes in mock tests.</li>
+
+        </ul>
+
+    </div>
+
+    <div class="gdl-good">
+
+        <h3>✅ 90%+ Students</h3>
+
+        <ul>
+
+            <li>Track accuracy chapter by chapter.</li>
+
+            <li>Start every revision session with their weakest topics.</li>
+
+            <li>Spend more time where marks are actually being lost.</li>
+
+            <li>Continuously reduce knowledge gaps before the exam.</li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="gdl-callout">
+
+    <div class="gdl-callout-icon">
+        🧠
+    </div>
+
+    <div class="gdl-callout-content">
+
+        <h4>
+            Why This Works
+        </h4>
+
+        <p>
+            Improving a weak chapter from 45% accuracy to 75% usually increases your overall board score far more than improving an already strong chapter from 90% to 95%.
+        </p>
+
+    </div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #2
+</span>
+
+<h2>
+Top Students Analyse Every Mock Test. Most Students Only Check Their Score.
+</h2>
+
+<p>
+A mock test is far more than a practice paper. It is a diagnostic tool. Students who consistently score above 90% treat every mock as a report that reveals exactly where they are losing marks.
+</p>
+
+<p>
+Average students often look at one number—the final score. Top students look deeper. They ask why each mistake happened and how to ensure it never happens again.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Most Students</h3>
+
+<ul>
+
+<li>Check the final marks.</li>
+
+<li>Feel happy or disappointed.</li>
+
+<li>Store the paper away.</li>
+
+<li>Repeat the same mistakes in the next mock.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ 90%+ Students</h3>
+
+<ul>
+
+<li>Categorise every mistake.</li>
+
+<li>Identify weak chapters.</li>
+
+<li>Create a revision plan from the mistakes.</li>
+
+<li>Reattempt incorrect questions after revision.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+📊
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+The Top Scorer Mindset
+</h4>
+
+<p>
+Every incorrect answer is free feedback. Students who improve after every mock gradually reduce repeated mistakes, making each subsequent test more accurate than the last.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Improvement Cycle
+</span>
+
+<h2>
+How Top Students Use Every Mock Test
+</h2>
+
+<div class="loop-steps">
+
+<div class="loop-step">
+
+<span class="step-num">
+1
+</span>
+
+Attempt Mock
+
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+
+<span class="step-num">
+2
+</span>
+
+Find Mistakes
+
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+
+<span class="step-num">
+3
+</span>
+
+Revise Weak Topics
+
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+
+<span class="step-num">
+4
+</span>
+
+Reattempt Questions
+
+</div>
+
+<div class="loop-arrow">→</div>
+
+<div class="loop-step">
+
+<span class="step-num">
+5
+</span>
+
+Increase Accuracy
+
+</div>
+
+</div>
+
+<p>
+This continuous improvement loop is one of the biggest differences between students who plateau at 75–80% and those who steadily move towards 90%+.
+</p>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #3
+</span>
+
+<h2>
+Top Students Follow a Revision System. Most Students Follow a Timetable.
+</h2>
+
+<p>
+Many students proudly say they have created a study timetable. The problem is that timetables only tell you <strong>when</strong> to study. They rarely tell you <strong>what deserves the most attention today.</strong>
+</p>
+
+<p>
+Top-performing students build a revision system instead. Their study plan constantly changes based on mock test performance, chapter accuracy, confidence level, and upcoming exams.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Timetable Based Study</h3>
+
+<ul>
+
+<li>Fixed schedule every week.</li>
+
+<li>Same time for strong and weak chapters.</li>
+
+<li>Little flexibility.</li>
+
+<li>Revision based on dates, not performance.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ Revision System</h3>
+
+<ul>
+
+<li>Priority changes every week.</li>
+
+<li>Weak chapters receive more attention.</li>
+
+<li>Mock tests determine revision order.</li>
+
+<li>Preparation adapts continuously.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+📅
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Why This Matters
+</h4>
+
+<p>
+A timetable helps you stay organised. A revision system helps you improve. Students aiming for 90%+ need both—but performance should always decide revision priority.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Smart Revision Framework
+</span>
+
+<h2>
+How Top Students Decide What to Study Next
+</h2>
+
+<div class="priority-matrix">
+
+<div class="priority-card high">
+
+<span>🔴 HIGH PRIORITY</span>
+
+<h3>
+Accuracy below 60%
+</h3>
+
+<p>
+Revise immediately. These chapters are costing the highest number of marks.
+</p>
+
+</div>
+
+<div class="priority-card medium">
+
+<span>🟡 MEDIUM PRIORITY</span>
+
+<h3>
+Accuracy 60–80%
+</h3>
+
+<p>
+Practise additional questions and strengthen conceptual understanding.
+</p>
+
+</div>
+
+<div class="priority-card low">
+
+<span>🟢 LOW PRIORITY</span>
+
+<h3>
+Accuracy above 80%
+</h3>
+
+<p>
+Maintain with quick revision and occasional mock questions.
+</p>
+
+</div>
+
+</div>
+
+<p>
+Instead of asking <strong>"Which chapter should I study today?"</strong>, top students ask <strong>"Which chapter is costing me the most marks?"</strong>
+</p>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #4
+</span>
+
+<h2>
+Top Students Start Early. Most Students Wait for Pressure.
+</h2>
+
+<p>
+Many students begin serious board preparation only when pre-boards are close. By then, they are not just revising—they are discovering gaps, fixing mistakes, completing pending topics, and managing pressure all at the same time.
+</p>
+
+<p>
+Top students do not wait for fear to create urgency. They start building their preparation system early, when there is still enough time to improve gradually.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Most Students</h3>
+
+<ul>
+<li>Start serious revision around December.</li>
+<li>Realise weak areas very late.</li>
+<li>Rush through pending chapters.</li>
+<li>Enter pre-boards with avoidable pressure.</li>
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ 90%+ Students</h3>
+
+<ul>
+<li>Start tracking weak areas from July or August.</li>
+<li>Use early mocks as diagnosis.</li>
+<li>Close gaps before pre-board pressure begins.</li>
+<li>Use the final months for refinement, not panic.</li>
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+⏳
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Why Early Preparation Wins
+</h4>
+
+<p>
+A student who identifies weak areas in August has months to fix them. A student who discovers the same weak areas in January has only weeks.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Preparation Timeline
+</span>
+
+<h2>
+The Class 12 Preparation Timeline That Produces 90%+
+</h2>
+
+<p>
+A 90%+ score in February is not created in the final month. It is built through repeated diagnosis, revision, practice, and correction across the academic year.
+</p>
+
+<div class="week-grid">
+
+<div class="week-card">
+<div class="wk">July–August</div>
+<div class="wk-title">Build Your Baseline</div>
+<p>Take early mock tests, identify weak topics, and start maintaining a wrong-question notebook.</p>
+</div>
+
+<div class="week-card">
+<div class="wk">September–October</div>
+<div class="wk-title">Target Weak Areas</div>
+<p>Spend more time on chapters where accuracy is lowest. Begin focused revision instead of broad reading.</p>
+</div>
+
+<div class="week-card peak">
+<div class="wk">November</div>
+<div class="wk-title">Increase Mock Test Intensity</div>
+<p>Attempt full-length tests, analyse mistakes, and compare performance across subjects.</p>
+</div>
+
+<div class="week-card peak">
+<div class="wk">December–January</div>
+<div class="wk-title">Close Remaining Gaps</div>
+<p>Reattempt wrong questions, revise formulas, practise derivations, and strengthen high-weightage chapters.</p>
+</div>
+
+<div class="week-card close">
+<div class="wk">February</div>
+<div class="wk-title">Consolidate and Execute</div>
+<p>No panic studying. Revise smartly, solve timed papers, protect sleep, and enter exams with clarity.</p>
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #5
+</span>
+
+<h2>
+Top Students Protect Their Energy. Most Students Chase Study Hours.
+</h2>
+
+<p>
+Many students believe that studying for 12–14 hours every day automatically leads to higher marks. In reality, long hours with low concentration often produce poor retention, mental fatigue, and burnout.
+</p>
+
+<p>
+Students who consistently score above 90% focus on <strong>quality over quantity</strong>. They maintain a sustainable routine, protect their sleep, take planned breaks, and ensure every study session has a clear objective.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Most Students</h3>
+
+<ul>
+
+<li>Count study hours.</li>
+
+<li>Study until exhausted.</li>
+
+<li>Sacrifice sleep before exams.</li>
+
+<li>Feel productive but retain less.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ 90%+ Students</h3>
+
+<ul>
+
+<li>Study with full concentration.</li>
+
+<li>Take planned breaks.</li>
+
+<li>Sleep consistently.</li>
+
+<li>Maintain energy throughout the year.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+🌙
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+Why Sleep Matters
+</h4>
+
+<p>
+Memory consolidation happens during sleep. Consistently sleeping well often improves recall more than adding another late-night study session.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Habit #6
+</span>
+
+<h2>
+Top Students Improve Continuously. Most Students Hope for Better Results.
+</h2>
+
+<p>
+The biggest difference between average students and top performers is that improvement becomes a weekly habit. They never wait for the final month to evaluate their preparation.
+</p>
+
+<p>
+Every mock test, every assignment, every school exam, and every revision session becomes feedback that helps them improve before the actual board examination.
+</p>
+
+<div class="gdl-compare">
+
+<div class="gdl-bad">
+
+<h3>❌ Most Students</h3>
+
+<ul>
+
+<li>Measure marks.</li>
+
+<li>Hope the next test goes better.</li>
+
+<li>Repeat similar preparation.</li>
+
+<li>Expect different results.</li>
+
+</ul>
+
+</div>
+
+<div class="gdl-good">
+
+<h3>✅ 90%+ Students</h3>
+
+<ul>
+
+<li>Measure improvement.</li>
+
+<li>Adjust strategy every week.</li>
+
+<li>Track chapter accuracy.</li>
+
+<li>Continuously refine preparation.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="gdl-callout">
+
+<div class="gdl-callout-icon">
+📈
+</div>
+
+<div class="gdl-callout-content">
+
+<h4>
+The Winning Mindset
+</h4>
+
+<p>
+Success is rarely one brilliant study session. It is hundreds of small improvements accumulated over an entire academic year.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+The Genelis Learning System™
+</span>
+
+<h2>
+How Top Students Turn Every Study Session into Measurable Improvement
+</h2>
+
+<p>
+Most students treat every study session as an isolated activity. They read a chapter, solve a few questions, take a mock test, and move on. The problem is that nothing connects these activities together.
+</p>
+
+<p>
+Top-performing students create a continuous learning system. Every mock test identifies weak areas, every mistake becomes a learning opportunity, and every revision session is based on actual performance rather than guesswork.
+</p>
+
+<div class="loop-steps">
+
+    <div class="loop-step">
+        <span class="step-num">1</span>
+        Attempt a Mock Test
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">2</span>
+        Analyse Performance
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">3</span>
+        Detect Weak Areas
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">4</span>
+        Generate Personalised AI Notes
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">5</span>
+        Practise Targeted Questions
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="step-num">6</span>
+        Reattempt & Improve
+    </div>
+
+</div>
+
+<div class="gdl-callout">
+
+    <div class="gdl-callout-icon">
+        🚀
+    </div>
+
+    <div class="gdl-callout-content">
+
+        <h4>
+            Why This System Works
+        </h4>
+
+        <p>
+            Instead of treating every study session separately, the Genelis Learning System™ connects preparation into one continuous improvement cycle. Every assessment makes the next revision smarter, every revision improves the next mock test, and every improvement brings students closer to their target score.
+        </p>
+
+    </div>
+
+</div>
+
+<p>
+This philosophy is the foundation of <strong>Genelis</strong>. Built on <strong>Adaptive Personalized Intelligence</strong>, the platform helps students transform performance data into focused revision, personalised notes, targeted practice, and measurable academic progress.
+</p>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Final Takeaways
+</span>
+
+<h2>
+The 5 Principles Every 90%+ Student Follows
+</h2>
+
+<p>
+If you remember only five ideas from this guide, let them be these. They are simple, practical, and consistently followed by high-performing students.
+</p>
+
+<div class="mistake-grid">
+
+<div class="mistake-card">
+
+<div class="icon">🎯</div>
+
+<div class="prob">
+Principle 1
+</div>
+
+<p>
+Know your weak areas before deciding what to study.
+</p>
+
+</div>
+
+<div class="mistake-card">
+
+<div class="icon">📊</div>
+
+<div class="prob">
+Principle 2
+</div>
+
+<p>
+Treat every mock test as feedback, not just a score.
+</p>
+
+</div>
+
+<div class="mistake-card">
+
+<div class="icon">📅</div>
+
+<div class="prob">
+Principle 3
+</div>
+
+<p>
+Build a revision system instead of relying only on a timetable.
+</p>
+
+</div>
+
+<div class="mistake-card">
+
+<div class="icon">📈</div>
+
+<div class="prob">
+Principle 4
+</div>
+
+<p>
+Small weekly improvements create big results in board examinations.
+</p>
+
+</div>
+
+<div class="mistake-card">
+
+<div class="icon">🧠</div>
+
+<div class="prob">
+Principle 5
+</div>
+
+<p>
+Study smarter through continuous analysis, targeted revision, and consistent practice.
+</p>
+
+</div>
+
+</div>
+
+</section>
+<section>
+
+<span class="gdl-section-kicker">
+Final Thoughts
+</span>
+
+<h2>
+Scoring 90%+ Is Not About Being the Smartest Student
+</h2>
+
+<p>
+Every year, thousands of students prove that exceptional board results are achieved through consistency, reflection, and smart preparation—not by last-minute studying or extraordinary talent.
+</p>
+
+<p>
+The students who score above 90% build habits that allow them to improve continuously. They identify weak areas early, analyse every mock test, revise with purpose, and measure progress throughout the year.
+</p>
+
+<p>
+Whether your current score is 65%, 75%, or 85%, the next few months can look completely different if every study session is guided by data instead of guesswork. Small improvements, repeated consistently, become remarkable results.
+</p>
+
+</section>
+
+</section>
+    """,
+
+        "faq": [
+            {
+                "question": "Is it possible to score 90% in Class 12 boards without coaching?",
+                "answer": "Yes. Coaching is not the deciding factor. Students can score 90%+ with strong NCERT understanding, consistent mock tests, weak-area tracking, wrong-answer revision, and disciplined time management."
+            },
+            {
+                "question": "How many hours should a Class 12 student study to score 90%?",
+                "answer": "Many students benefit from 6–8 focused hours during the final months, but quality matters more than duration. Targeted study of weak areas is more effective than long hours spent revising comfortable topics."
+            },
+            {
+                "question": "How does Genelis help Class 12 students prepare better?",
+                "answer": "Genelis uses Adaptive Personalized Intelligence to identify weak topics, generate targeted notes, track wrong answers, support mock test practice, and guide revision based on actual performance."
+            }
+        ],
+
+        "related_articles": [
+            "class-10-board-exam-preparation-guide-cbse",
+            "class-12-board-exam-preparation-guide-cbse",
+            "wrong-question-notebook-board-exams",
+            "weak-area-detection-board-exams"
+        ]
     }
+
 ]
 def get_all_posts():
     return [prepare_blog_post(post) for post in BLOG_POSTS]
