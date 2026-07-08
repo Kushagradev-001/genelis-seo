@@ -2331,7 +2331,28 @@ Explore Genelis with a free account. Unlock the complete learning experience wit
 </section>
 """,
 
-        "faq": [],
+        "faq": [
+            {
+                "question": "What is Genelis?",
+                "answer": "Genelis is an AI-powered personalized learning platform for CBSE Class 9–12 students. Using Adaptive Personalized Intelligence, it detects your specific weak areas, maintains an automatic wrong-question notebook, generates targeted AI notes, creates adaptive mock tests with reattempt capability, and guides your revision through the Genelis Learning System™."
+            },
+            {
+                "question": "Is Genelis free to use?",
+                "answer": "Yes. You can start for free — no credit card required. Premium plans start at ₹149/month and unlock full mock tests with reattempt capability, the complete wrong-question notebook, weak area detection, and the full study analytics dashboard."
+            },
+            {
+                "question": "Which boards does Genelis support?",
+                "answer": "Genelis is built for CBSE and NCERT-aligned students in Class 9, 10, 11, and 12 — across Science, Commerce, and Arts streams."
+            },
+            {
+                "question": "What is the Genelis Learning System™?",
+                "answer": "The Genelis Learning System™ is the connected study system at the core of the platform: attempt → AI detects weak areas at topic level → wrong answers auto-logged → targeted AI notes → reattempt wrong questions → verify gap closed → weak area map updates → next session more targeted. Every cycle compounds on the last."
+            },
+            {
+                "question": "How is Genelis different from other CBSE study apps?",
+                "answer": "Most apps deliver the same content to every student. Genelis differs in three specific ways: weak area detection at the topic level, an automatic wrong-question notebook with no manual effort, and reattempt mock tests on questions you got wrong — so gaps are verified closed, not just reviewed. The Genelis Learning System™ connects everything into one adaptive system."
+            }
+        ],
 
         "related_articles": [
             "class-10-board-exam-preparation-guide-cbse",
@@ -3005,12 +3026,711 @@ Many students lose marks not because the syllabus is difficult, but because of a
 
         """,
 
-        "faq": [],
+        "faq": [
+            {
+                "question": "How many students scored 90% in CBSE Class 12 in 2026?",
+                "answer": "A total of 94,028 students scored 90% and above in the CBSE Class 12 exam 2026, out of approximately 17.6 lakh who appeared — about 5.3% of all students. More than 17,000 students scored above 95%. The overall pass percentage in 2026 was 85.20%, a decline of 3.19 percentage points from 2025."
+            },
+            {
+                "question": "Is it possible to score 90% in Class 12 boards without coaching?",
+                "answer": "Yes. Coaching is not the determining factor. The determining factor is preparation quality — specifically whether a student studies their actual weak areas, treats mock tests as diagnostic tools, tracks wrong answers and reattempts them, and starts early. An AI-powered personalized learning platform like Genelis systematically builds all of these habits."
+            },
+            {
+                "question": "How many hours should a Class 12 student study to score 90%?",
+                "answer": "Students who score 90%+ typically study 6–8 focused hours per day in the final three months before boards. More important than total hours is the targeting — students who direct revision toward actual weak areas (identified through study analytics) outperform students who study for longer hours but revise comfortable topics."
+            },
+            {
+                "question": "How does Genelis help Class 12 students score 90%+?",
+                "answer": "Genelis uses Adaptive Personalized Intelligence to identify your specific weak areas at the topic level, generate targeted AI notes, automatically build a wrong-question notebook from mock test mistakes, and let you reattempt those specific questions to verify gaps are closed — all through the Genelis Learning System™. This systematically builds the habits that characterise 90%+ scorers."
+            },
+            {
+                "question": "What subjects have the lowest pass percentage in Class 12 CBSE?",
+                "answer": "Mathematics and Physics consistently record the lowest pass percentages among core subjects in CBSE Class 12, typically in the 82–84% range. These are also the subjects where targeted preparation — specifically numerical practice and derivation revision in Physics, and Calculus-focused study in Maths — shows the highest improvement rate among students who use structured, analytics-driven study systems."
+            }
+        ],
 
         "related": [
             "how-to-score-90-percent-in-cbse-class-12-boards",
             "introducing-genelis-ai-learning-platform",
             "class-10-board-exam-preparation-guide"
+        ]
+    },
+
+    {
+        "slug": "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+
+        "title": "What to Do in Class 11 If You're Planning for JEE or NEET — Without Destroying Your Board Prep",
+
+        "meta_title": "Class 11 JEE & NEET Preparation with CBSE Boards (2026 Guide) | Genelis",
+
+        "meta_description": "Planning for JEE or NEET in Class 11? Learn how to balance CBSE boards with coaching using chapter overlap, weekly study plans, priority topics, common mistakes, and AI-powered personalised learning.",
+
+        "category": "Class 11",
+
+        "date": "July 2026",
+
+        "read_time": "12 min read",
+
+        "featured": True,
+
+        "image": "/static/blog/class11-jee-neet-boards-og.jpg",
+
+        "keywords": [
+            "class 11 JEE preparation",
+            "class 11 NEET preparation",
+            "CBSE Class 11 boards",
+            "JEE and boards together",
+            "NEET and boards together",
+            "class 11 study plan",
+            "JEE vs NEET preparation",
+            "CBSE Science Class 11",
+            "AI Study Coach",
+            "Genelis"
+        ],
+
+        "content": """
+
+        <section>
+
+<span class="gdl-section-kicker">
+The Real Challenge
+</span>
+
+<h2>
+Three Exams. One Student. One Very Common Mistake.
+</h2>
+
+<p>
+Every year, thousands of Class 11 Science students begin with the same ambition—to score well in CBSE boards while preparing for JEE or NEET. They attend school during the day, coaching in the evening, and squeeze self-study into whatever time remains.
+</p>
+
+<p>
+The effort is rarely the problem. The problem is that most students try to prepare for <strong>school, boards, and competitive exams simultaneously</strong> without knowing <strong>what deserves attention first and when.</strong>
+</p>
+
+<div class="editorial-insight">
+
+<h3>
+The Biggest Myth
+</h3>
+
+<p>
+<strong>Working harder is not what separates successful students.</strong><br>
+Building the right sequence of learning does.
+</p>
+
+</div>
+
+<p>
+This guide doesn't promise that you can master everything at once. Instead, it explains <strong>which trade-offs to make, when to make them, and how to build a Class 11 foundation that supports both board examinations and competitive exams.</strong>
+</p>
+
+<p>
+Whether your destination is IIT through JEE or a medical college through NEET, Class 11 is where the foundation is built. Students who use this year strategically usually enter Class 12 with confidence. Those who don't often spend the following year repairing conceptual gaps instead of progressing further.
+</p>
+
+<p>
+In the sections ahead, you'll learn how to identify high-overlap chapters, balance coaching with school preparation, build an effective weekly study routine, avoid the mistakes that cost students valuable marks, and use <strong>Adaptive Personalized Intelligence</strong> to strengthen your board preparation alongside your competitive exam journey.
+</p>
+
+</section>
+
+<section>
+
+<h2>
+JEE and NEET Are Not the Same Problem. Don't Treat Them That Way.
+</h2>
+
+<p>
+Every article on this topic treats JEE and NEET as interchangeable — "manage boards alongside competitive exams." They are not the same exam, they do not require the same preparation, and using one common strategy for both often leads to preparation gaps.
+</p>
+
+<div class="compare-grid">
+
+<div class="compare-card">
+
+<span class="exam-badge jee-badge">JEE Main + Advanced</span>
+
+<table>
+<tr><td>Subjects</td><td>Physics, Chemistry, Mathematics</td></tr>
+<tr><td>Question style</td><td>Multi-step application, integrated concepts, mathematical rigour</td></tr>
+<tr><td>Class 11 weight</td><td>~40–45% of JEE questions from Class 11 content</td></tr>
+<tr><td>Board link</td><td>75% in Class 12 boards required for NIT/IIIT/CFTI admission</td></tr>
+<tr><td>Class 11 priority</td><td>Mechanics, Algebra, Coordinate Geometry, Organic Chemistry basics</td></tr>
+<tr><td>Key risk</td><td>75% eligibility barrier blocks admission even if JEE rank is good</td></tr>
+</table>
+
+</div>
+
+<div class="compare-card">
+
+<span class="exam-badge neet-badge">NEET UG</span>
+
+<table>
+<tr><td>Subjects</td><td>Physics, Chemistry, Biology</td></tr>
+<tr><td>Question style</td><td>NCERT-aligned, concept clarity, diagram accuracy, MCQ precision</td></tr>
+<tr><td>Class 11 weight</td><td>~50% of NEET questions from Class 11 content — Biology especially</td></tr>
+<tr><td>Board link</td><td>50% in PCB required for medical college eligibility</td></tr>
+<tr><td>Class 11 priority</td><td>Biology mastery, Chemical Bonding, Thermodynamics, Laws of Motion</td></tr>
+<tr><td>Key risk</td><td>Weak Biology foundation undermines NEET directly</td></tr>
+</table>
+
+</div>
+
+</div>
+
+<div class="highlight-box">
+<strong>The most important insight:</strong> For NEET aspirants, board preparation and NEET preparation are closely connected because NEET is strongly NCERT-aligned. For JEE aspirants, boards and JEE overlap heavily in Physics and Chemistry but diverge in depth and Mathematics.
+</div>
+
+</section>
+<section>
+
+<h2>
+The Three Ways Class 11 Goes Wrong
+</h2>
+
+<p>
+Before building the strategy, it is important to understand the failure modes. These are the three patterns that cause many Class 11 students to enter Class 12 with problems in both board preparation and competitive exam preparation — despite working hard throughout the year.
+</p>
+
+<div class="fail-grid">
+
+<div class="fail-card">
+<div class="f-num">01</div>
+<h4>The Coaching-First Failure</h4>
+<p>
+The student follows coaching pace completely, but board-style answer writing, NCERT depth, diagrams, derivations, and school exam preparation quietly fall behind. Competitive preparation may improve, but the board foundation becomes weak.
+</p>
+</div>
+
+<div class="fail-card">
+<div class="f-num">02</div>
+<h4>The Board-First Failure</h4>
+<p>
+The student focuses only on school exams and avoids JEE or NEET-level application practice. Class 11 may look stable, but Class 12 becomes difficult because two years of competitive preparation must now be compressed into one.
+</p>
+</div>
+
+<div class="fail-card">
+<div class="f-num">03</div>
+<h4>The No-System Failure</h4>
+<p>
+The student reacts to whatever feels urgent — coaching test, school test, pending homework — without tracking weak areas, wrong answers, or revision gaps. Everything gets covered, but very little gets mastered.
+</p>
+</div>
+
+</div>
+
+<p>
+The common thread across all three failures is simple: there is no system connecting daily study effort to actual mastery. Hard work without feedback is what makes Class 11 feel busy but unproductive.
+</p>
+
+</section>
+<section>
+
+<h2>
+The Chapters That Serve All Three Exams at Once
+</h2>
+
+<p>
+A large number of Class 11 chapters appear across boards, JEE, and NEET. These are the chapters where every hour invested returns maximum value because the same foundation supports school exams, board preparation, and competitive exam performance.
+</p>
+
+<div class="overlap-wrap">
+
+<table class="overlap-table">
+
+<thead>
+<tr>
+<th>Chapter</th>
+<th>Subject</th>
+<th>Appears In</th>
+<th>Study Priority</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Laws of Motion</td>
+<td>Physics</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Highest — deepest overlap across all three</td>
+</tr>
+
+<tr>
+<td>Work, Energy, Power</td>
+<td>Physics</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Complete triple overlap</td>
+</tr>
+
+<tr>
+<td>Thermodynamics</td>
+<td>Physics + Chemistry</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Both subjects, all three exams</td>
+</tr>
+
+<tr>
+<td>Chemical Bonding & Molecular Structure</td>
+<td>Chemistry</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ VSEPR, hybridisation — tested everywhere</td>
+</tr>
+
+<tr>
+<td>Equilibrium</td>
+<td>Chemistry</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Le Chatelier, Kp/Kc — all three test this</td>
+</tr>
+
+<tr>
+<td>Hydrocarbons</td>
+<td>Chemistry</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Foundation for Class 12 Organic Chemistry</td>
+</tr>
+
+<tr>
+<td>Cell — Structure and Function</td>
+<td>Biology</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ High-value NEET and board overlap</td>
+</tr>
+
+<tr>
+<td>Biomolecules</td>
+<td>Biology</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Recurring Biology foundation chapter</td>
+</tr>
+
+<tr>
+<td>Plant Physiology</td>
+<td>Biology</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-neet">NEET</span></td>
+<td>★★★ Diagrams + concepts — high NEET value</td>
+</tr>
+
+<tr>
+<td>Limits and Derivatives</td>
+<td>Mathematics</td>
+<td><span class="tag tag-all">Boards</span><span class="tag tag-jee">JEE</span></td>
+<td>★★★ Gateway to Class 12 Calculus</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<p>
+These chapters should be treated as foundation chapters, not just syllabus units. If they are studied deeply in Class 11, both board preparation and competitive preparation become easier in Class 12.
+</p>
+
+</section>
+<section>
+
+<h2>
+The Sequence That Makes Everything Easier
+</h2>
+
+<p>
+One of the biggest misconceptions among Class 11 students is believing that they should immediately begin solving the toughest coaching questions. In reality, the strongest performers build their preparation in layers. Each layer supports the next, making advanced learning significantly easier.
+</p>
+
+<div class="sequence-flow">
+
+<div class="sequence-card">
+
+<span class="sequence-step">
+STEP 1
+</span>
+
+<h3>
+Master NCERT
+</h3>
+
+<p>
+Build conceptual clarity through NCERT theory, solved examples, diagrams, derivations, and end-of-chapter exercises. This becomes your board foundation.
+</p>
+
+</div>
+
+<div class="sequence-arrow">
+→
+</div>
+
+<div class="sequence-card">
+
+<span class="sequence-step">
+STEP 2
+</span>
+
+<h3>
+Strengthen Board Preparation
+</h3>
+
+<p>
+Improve answer writing, presentation, formula retention, numerical accuracy, and chapter-level confidence through regular revision and school assessments.
+</p>
+
+</div>
+
+<div class="sequence-arrow">
+→
+</div>
+
+<div class="sequence-card">
+
+<span class="sequence-step">
+STEP 3
+</span>
+
+<h3>
+Build JEE / NEET Depth
+</h3>
+
+<p>
+Once fundamentals are strong, coaching questions become learning opportunities rather than guessing exercises. Application naturally develops on top of a solid foundation.
+</p>
+
+</div>
+
+</div>
+
+<div class="editorial-insight">
+
+<h3>
+Why This Works
+</h3>
+
+<p>
+Students often believe they are "falling behind" if they aren't solving the hardest problems immediately. In reality, students who rush past fundamentals frequently spend Class 12 repairing conceptual gaps. Building depth on top of a strong foundation is faster than trying to build both at the same time.
+</p>
+
+</div>
+
+</section>
+<section>
+
+<h2>
+What a Realistic Class 11 Week Actually Looks Like
+</h2>
+
+<p>
+A useful study plan should reflect real student life. Most Class 11 Science students already spend long hours in school and coaching, so the goal is not to create an unrealistic timetable. The goal is to protect focused self-study time and use it for the areas that actually need improvement.
+</p>
+
+<div class="weekly-plan-wrap">
+
+<table class="weekly-plan-table">
+
+<thead>
+<tr>
+<th>Day</th>
+<th>Morning</th>
+<th>After School</th>
+<th>Evening Self-Study</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Monday</td>
+<td><span class="study-block school-block">20 min</span><br>Formula revision</td>
+<td><span class="study-block coaching-block">School / Coaching</span></td>
+<td><span class="study-block self-block">2 hrs</span><br>NCERT + board questions for weakest subject</td>
+</tr>
+
+<tr>
+<td>Tuesday</td>
+<td><span class="study-block school-block">20 min</span><br>Previous wrong questions</td>
+<td><span class="study-block coaching-block">School / Coaching</span></td>
+<td><span class="study-block self-block">2 hrs</span><br>JEE / NEET depth on chapter covered in coaching</td>
+</tr>
+
+<tr>
+<td>Wednesday</td>
+<td><span class="study-block school-block">20 min</span><br>Formula revision</td>
+<td><span class="study-block coaching-block">School / Coaching</span></td>
+<td><span class="study-block self-block">2 hrs</span><br>NCERT + board questions for second weakest subject</td>
+</tr>
+
+<tr>
+<td>Thursday</td>
+<td><span class="study-block school-block">20 min</span><br>Reattempt wrong questions</td>
+<td><span class="study-block coaching-block">School / Coaching</span></td>
+<td><span class="study-block self-block">2 hrs</span><br>JEE / NEET MCQ or application practice</td>
+</tr>
+
+<tr>
+<td>Friday</td>
+<td><span class="study-block school-block">20 min</span><br>Biology diagrams / Maths problem practice</td>
+<td><span class="study-block coaching-block">School / Coaching</span></td>
+<td><span class="study-block self-block">2 hrs</span><br>Weak area review based on lowest accuracy</td>
+</tr>
+
+<tr>
+<td>Saturday</td>
+<td>—</td>
+<td colspan="2"><span class="study-block self-block">3–4 hrs</span><br>One subject mock or practice test + full post-test analysis</td>
+</tr>
+
+<tr>
+<td>Sunday</td>
+<td>—</td>
+<td colspan="2"><span class="study-block self-block">2 hrs</span><br>Wrong-question notebook review + formula sheet revision + next week planning</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="editorial-insight">
+
+<h3>
+The Rule That Makes This Timetable Work
+</h3>
+
+<p>
+Evening self-study should not automatically follow coaching pace. Use it to strengthen your weakest board areas, close wrong-question gaps, and maintain NCERT confidence. Coaching builds competitive depth; self-study must protect the board foundation.
+</p>
+
+</div>
+
+</section>
+<section>
+
+<h2>
+Chapter Priority Lists — JEE vs NEET
+</h2>
+
+<p>
+Different competitive exams require different Class 11 priorities. A JEE aspirant cannot prepare exactly like a NEET aspirant, and a NEET aspirant should not spend time following a JEE-style preparation order. Use the lists below to understand which chapters deserve early attention based on your exam path.
+</p>
+
+<div class="priority-grid">
+
+<div class="priority-card">
+
+<span class="exam-badge jee-badge">JEE Priority — Class 11</span>
+
+<p>
+Chapters where Class 11 foundation most directly determines JEE Class 12 performance:
+</p>
+
+<ol>
+<li><strong>Laws of Motion</strong> — the entire Mechanics chain builds on this.</li>
+<li><strong>Work, Energy, Power</strong> — frequent JEE application area.</li>
+<li><strong>Limits and Derivatives</strong> — gateway to Class 12 Calculus.</li>
+<li><strong>Quadratic Equations + Complex Numbers</strong> — Algebra foundation.</li>
+<li><strong>Coordinate Geometry</strong> — Straight Lines, Circles and conic foundations.</li>
+<li><strong>Chemical Bonding</strong> — weak understanding here affects Organic Chemistry later.</li>
+<li><strong>Thermodynamics</strong> — important in both Physics and Chemistry.</li>
+<li><strong>Trigonometric Functions</strong> — essential for Calculus and problem solving.</li>
+<li><strong>Hydrocarbons</strong> — base of Class 12 Organic Chemistry.</li>
+<li><strong>Gravitation + Rotational Motion</strong> — frequently tested in JEE-style problems.</li>
+</ol>
+
+</div>
+
+<div class="priority-card">
+
+<span class="exam-badge neet-badge">NEET Priority — Class 11</span>
+
+<p>
+Chapters where Class 11 content contributes most directly to NEET score:
+</p>
+
+<ol>
+<li><strong>Plant Kingdom</strong> — high-yield and classification-heavy.</li>
+<li><strong>Cell Structure and Function</strong> — recurring NEET Biology foundation.</li>
+<li><strong>Biomolecules</strong> — enzymes, carbohydrates, proteins and core concepts.</li>
+<li><strong>Plant Physiology</strong> — Photosynthesis and Respiration require repeated revision.</li>
+<li><strong>Animal Kingdom</strong> — diagrams, classification and distinguishing features.</li>
+<li><strong>Human Physiology</strong> — concept-heavy and strongly NCERT-linked.</li>
+<li><strong>Chemical Bonding</strong> — VSEPR, hybridisation and bonding concepts.</li>
+<li><strong>Thermodynamics</strong> — important for Chemistry and Physics understanding.</li>
+<li><strong>Laws of Motion + Gravitation</strong> — key Class 11 Physics foundations.</li>
+<li><strong>Equilibrium</strong> — common conceptual and numerical testing area.</li>
+</ol>
+
+</div>
+
+</div>
+
+</section>
+<section id="class-11-red-lines">
+
+<h2>
+Six Class 11 Mistakes That Follow You Into Class 12
+</h2>
+
+<p>
+Some mistakes do not reduce marks immediately. They quietly weaken the foundation that every Class 12 chapter depends on. These six areas are the ones students postpone most often, yet they create the biggest long-term impact on both board examinations and competitive exams.
+</p>
+
+<div class="red-lines-grid">
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Limits and Derivatives (Maths)</h3>
+<p>Class 12 Calculus — the highest-weightage unit in the board paper at 35 marks — is completely inaccessible without solid Class 11 limits and derivatives. JEE students who skip this in Class 11 spend twice as long on Calculus in Class 12 as those who built it properly now.</p>
+</div>
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Organic Chemistry basics (Hydrocarbons, Mechanisms)</h3>
+<p>Every Class 12 Organic Chemistry chapter — named reactions, polymers, biomolecules — is built on the Class 11 foundation of IUPAC nomenclature, functional groups, and reaction mechanisms. Gaps here cascade forward into both boards and competitive exams.</p>
+</div>
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Biology diagrams (NEET students)</h3>
+<p>NEET tests diagram accuracy relentlessly — cell organelles, plant anatomy, human physiology cross-sections. Diagrams are not memorisable in three days. They need to be practised consistently from the beginning of Class 11, labelled from memory weekly.</p>
+</div>
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Trigonometry and Coordinate Geometry (JEE Maths)</h3>
+<p>The Class 11 Maths units that students most commonly defer — "I'll get to them later" — are exactly the ones that form the basis of Class 12 Maths application problems in JEE. Vectors, 3D geometry, and complex integration all require these as prerequisites.</p>
+</div>
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Answer-writing for board exams</h3>
+<p>This is the most consistently neglected skill among coaching-focused Class 11 students. JEE and NEET are MCQ-based. Board exams reward structured, precisely worded long-form answers. A student who never practises board-style answer writing in Class 11 will struggle with it in Class 12 — when there is no time to build the habit.</p>
+</div>
+
+<div class="red-line-card">
+<div class="red-line-symbol">!</div>
+<h3>Tracking and closing wrong answers</h3>
+<p>The wrong-question gap compounds. A Mechanics error from September that goes unaddressed becomes a Rotational Motion gap in November, which becomes a foundation problem in Class 12 Physics. Wrong answers that are logged, revisited, and reattempted in Class 11 do not travel forward. Ones that are ignored always do.</p>
+</div>
+
+</div>
+
+</section>
+<section>
+
+<h2>
+How to Handle the Board Layer While Coaching Handles the Rest
+</h2>
+
+<p>
+Here is the honest framing: if you are in coaching for JEE or NEET, coaching is handling the competitive exam depth layer. It is not handling — and is not designed to handle — your board exam preparation layer. That layer is yours to manage in self-study time. And it requires a system, not just intention.
+</p>
+
+<div class="genelis-split">
+
+<div class="genelis-card coaching-side">
+<div class="g-label">Coaching handles</div>
+<h3>JEE / NEET depth layer</h3>
+<ul>
+<li>Multi-step application problems</li>
+<li>JEE PYQ-level difficulty practice</li>
+<li>NEET MCQ pattern and speed</li>
+<li>Competitive exam strategy and timing</li>
+<li>Advanced topics beyond NCERT</li>
+</ul>
+</div>
+
+<div class="genelis-card board-side">
+<div class="g-label">Genelis handles</div>
+<h3>Board preparation layer</h3>
+<ul>
+<li>Topic-level weak area detection across all Class 11 board subjects</li>
+<li>AI notes targeted at the specific concept behind each wrong answer</li>
+<li>Automatic wrong-question notebook — no manual effort</li>
+<li>Board-aligned mock tests with reattempt capability</li>
+<li>Study analytics showing exactly where board prep stands</li>
+</ul>
+</div>
+
+</div>
+
+<p>
+Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. For a Class 11 student doing JEE or NEET preparation, Genelis is not competing with coaching — it is completing the picture that coaching doesn't cover.
+</p>
+
+<p>
+Here is what this looks like through the <strong>Genelis Learning System™</strong> for a typical Class 11 week:
+</p>
+
+<div class="loop-steps">
+
+<div class="loop-step"><span class="sn">Step 1</span>Attempt board mock or practice session</div>
+<div class="loop-arrow">→</div>
+
+<div class="loop-step"><span class="sn">Step 2</span>Topic-level weak areas detected</div>
+<div class="loop-arrow">→</div>
+
+<div class="loop-step"><span class="sn">Step 3</span>AI notes surface for board gaps</div>
+<div class="loop-arrow">→</div>
+
+<div class="loop-step"><span class="sn">Step 4</span>Wrong Qs auto-logged to notebook</div>
+<div class="loop-arrow">→</div>
+
+<div class="loop-step"><span class="sn">Step 5</span>Reattempt in next self-study session</div>
+<div class="loop-arrow">→</div>
+
+<div class="loop-step" style="border-color:#16a34a;"><span class="sn" style="color:#16a34a;">Result</span>Board layer stays current ✓</div>
+
+</div>
+
+<p>
+The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area tracking, AI notes, and reattempt queuing automatically. Self-study time is directed by data — not by what feels urgent — so the board layer doesn't quietly deteriorate while competitive exam prep takes centre stage.
+</p>
+
+<div class="highlight-box">
+<strong>The students who thrive in Class 11 with JEE/NEET alongside boards are not students who study more hours.</strong> They are students who have two separate systems running in parallel — one for competitive depth (coaching), one for board mastery (Genelis) — and who never let one crowd out the other.
+</div>
+
+</section>
+
+        """,
+
+        "faq": [
+            {
+                "question": "Can I prepare for JEE and board exams together in Class 11?",
+                "answer": "Yes. The most effective strategy is to master each chapter through NCERT first, then build JEE or NEET-level application on top of that foundation. Since a large portion of Class 11 content overlaps across boards and competitive exams, studying strategically allows preparation for both simultaneously."
+            },
+            {
+                "question": "How many hours should a Class 11 JEE or NEET aspirant study every day?",
+                "answer": "A realistic schedule includes school, coaching, and 2–3 hours of focused self-study. More important than total hours is directing self-study towards weak concepts identified through regular testing and analysis."
+            },
+            {
+                "question": "Which Class 11 chapters overlap the most between JEE, NEET and CBSE boards?",
+                "answer": "High-overlap chapters include Laws of Motion, Work, Energy and Power, Thermodynamics, Chemical Bonding, Equilibrium, Hydrocarbons, Limits and Derivatives, Cell Structure, Biomolecules, and Plant Physiology."
+            },
+            {
+                "question": "Should I prioritise NCERT or coaching material in Class 11?",
+                "answer": "Always build your foundation with NCERT first. Once concepts are clear and board-level preparation is complete, move to advanced JEE or NEET practice."
+            },
+            {
+                "question": "What are the biggest mistakes students make while preparing for JEE or NEET in Class 11?",
+                "answer": "Common mistakes include neglecting board preparation, ignoring NCERT, skipping revision, failing to analyse mistakes, and not building strong Class 11 fundamentals."
+            },
+            {
+                "question": "How does Genelis help students preparing for JEE or NEET alongside CBSE boards?",
+                "answer": "Genelis strengthens the board preparation layer through Adaptive Personalized Intelligence, topic-level weak area detection, AI-generated notes, wrong-question tracking, and personalised revision planning."
+            }
+        ],
+
+        "related_posts": [
+            "cbse-class-11-survival-guide-all-streams",
+            "cbse-class-12-board-exam-preparation-guide-2026-27",
+            "how-to-use-mock-tests-for-board-exam-preparation",
+            "why-every-student-needs-a-wrong-question-notebook",
+            "how-ai-weak-area-detection-improves-board-exam-performance"
         ]
     },
 

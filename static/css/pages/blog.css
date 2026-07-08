@@ -2067,3 +2067,521 @@ min-width:850px;
 }
 
 }
+/* ==========================================================
+   EDITORIAL INSIGHT
+========================================================== */
+
+.editorial-insight{
+    margin:34px 0;
+    padding:24px 28px;
+    border-left:5px solid #2563eb;
+    background:#f8fbff;
+    border-radius:12px;
+}
+
+.editorial-insight h3{
+    margin:0 0 10px;
+    font-size:1.2rem;
+    color:#0f172a;
+}
+
+.editorial-insight p{
+    margin:0;
+    font-size:1.05rem;
+    line-height:1.8;
+    color:#334155;
+}
+/* ==========================================================
+   JEE VS NEET COMPARISON
+========================================================== */
+
+.compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin: 30px 0 36px;
+}
+
+.compare-card {
+    background: #ffffff;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.exam-badge {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: .76rem;
+    font-weight: 900;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+.jee-badge {
+    background: #e3f2fd;
+    color: #1565c0;
+}
+
+.neet-badge {
+    background: #e8f5e9;
+    color: #1b5e20;
+}
+
+.compare-card table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.compare-card td {
+    padding: 10px 0;
+    border-bottom: 1px solid #eef2f7;
+    color: #475569;
+    line-height: 1.55;
+    vertical-align: top;
+}
+
+.compare-card tr:last-child td {
+    border-bottom: none;
+}
+
+.compare-card td:first-child {
+    width: 34%;
+    color: #64748b;
+    font-weight: 800;
+}
+
+.highlight-box {
+    background: #f0faf5;
+    border: 1px solid #b2dfdb;
+    border-radius: 16px;
+    padding: 18px 20px;
+    margin: 24px 0;
+    color: #1b5e20;
+    line-height: 1.7;
+}
+
+@media(max-width:768px) {
+    .compare-grid {
+        grid-template-columns: 1fr;
+    }
+}
+/* ==========================================================
+   CLASS 11 FAILURE MODES
+========================================================== */
+
+.fail-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin: 30px 0 42px;
+}
+
+.fail-card {
+    background: #ffffff;
+    border: 1px solid #fecaca;
+    border-top: 4px solid #e04848;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.fail-card .f-num {
+    font-size: 2rem;
+    font-weight: 900;
+    color: #e04848;
+    margin-bottom: 10px;
+}
+
+.fail-card h4 {
+    margin: 0 0 12px;
+    font-size: 1.05rem;
+    color: #0f172a;
+}
+
+.fail-card p {
+    margin: 0;
+    color: #475569;
+    line-height: 1.65;
+    font-size: .95rem;
+}
+
+@media(max-width:900px) {
+    .fail-grid {
+        grid-template-columns: 1fr;
+    }
+}
+.overlap-wrap {
+    margin: 32px 0 46px;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    overflow-x: auto;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.overlap-table {
+    width: 100%;
+    min-width: 860px;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+
+.overlap-table th {
+    background: #0f172a;
+    color: #ffffff;
+    padding: 16px 18px;
+    text-align: left;
+    font-weight: 800;
+}
+
+.overlap-table td {
+    padding: 15px 18px;
+    border-bottom: 1px solid #edf2f7;
+    color: #475569;
+    vertical-align: top;
+    line-height: 1.55;
+}
+
+.overlap-table tr:last-child td {
+    border-bottom: none;
+}
+
+.overlap-table td:first-child {
+    font-weight: 800;
+    color: #0f172a;
+}
+
+.tag {
+    display: inline-block;
+    margin: 2px 4px 2px 0;
+    padding: 4px 8px;
+    border-radius: 999px;
+    font-size: .72rem;
+    font-weight: 800;
+}
+
+.tag-all { background: #e8f5e9; color: #1b5e20; }
+.tag-jee { background: #e3f2fd; color: #1565c0; }
+.tag-neet { background: #f3e5f5; color: #6a1b9a; }
+
+/* ==========================================================
+   LEARNING SEQUENCE
+========================================================== */
+
+.sequence-flow{
+    display:flex;
+    align-items:stretch;
+    justify-content:space-between;
+    gap:18px;
+    margin:34px 0;
+}
+
+.sequence-card{
+    flex:1;
+    background:#ffffff;
+    border:1px solid #dbe5f2;
+    border-radius:18px;
+    padding:24px;
+    box-shadow:0 18px 45px rgba(15,23,42,.06);
+    position:relative;
+}
+
+.sequence-step{
+    display:inline-block;
+    background:#2563eb;
+    color:#fff;
+    font-size:.72rem;
+    font-weight:800;
+    letter-spacing:.08em;
+    padding:6px 12px;
+    border-radius:999px;
+    margin-bottom:14px;
+}
+
+.sequence-card h3{
+    margin:0 0 12px;
+    color:#0f172a;
+}
+
+.sequence-card p{
+    margin:0;
+    color:#475569;
+    line-height:1.7;
+}
+
+.sequence-arrow{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:2rem;
+    color:#94a3b8;
+    font-weight:700;
+}
+
+@media(max-width:900px){
+
+.sequence-flow{
+flex-direction:column;
+}
+
+.sequence-arrow{
+transform:rotate(90deg);
+}
+
+}
+/* ==========================================================
+   WEEKLY STUDY PLANNER
+========================================================== */
+
+.weekly-plan-wrap {
+    margin: 34px 0 46px;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    overflow-x: auto;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.weekly-plan-table {
+    width: 100%;
+    min-width: 860px;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+
+.weekly-plan-table th {
+    background: #0f172a;
+    color: #ffffff;
+    padding: 16px 18px;
+    text-align: left;
+    font-weight: 800;
+}
+
+.weekly-plan-table td {
+    padding: 15px 18px;
+    border-bottom: 1px solid #edf2f7;
+    color: #475569;
+    vertical-align: top;
+    line-height: 1.55;
+}
+
+.weekly-plan-table tr:last-child td {
+    border-bottom: none;
+}
+
+.weekly-plan-table td:first-child {
+    font-weight: 800;
+    color: #0f172a;
+    background: #fafcff;
+}
+
+.study-block {
+    display: inline-block;
+    padding: 4px 9px;
+    border-radius: 999px;
+    font-size: .75rem;
+    font-weight: 800;
+    margin-bottom: 6px;
+}
+
+.school-block {
+    background: #e3f2fd;
+    color: #1565c0;
+}
+
+.coaching-block {
+    background: #fce4ec;
+    color: #c62828;
+}
+
+.self-block {
+    background: #e8f5e9;
+    color: #1b5e20;
+}
+/* ==========================================================
+   PRIORITY LISTS
+========================================================== */
+
+.priority-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+    margin: 34px 0 46px;
+}
+
+.priority-card {
+    background: #ffffff;
+    border: 1px solid #dbe5f2;
+    border-radius: 18px;
+    padding: 26px;
+    box-shadow: 0 18px 45px rgba(15,23,42,.06);
+}
+
+.priority-card p {
+    color: #64748b;
+    line-height: 1.65;
+    margin-bottom: 14px;
+}
+
+.priority-card ol {
+    margin: 0;
+    padding-left: 20px;
+    color: #475569;
+    line-height: 1.85;
+}
+
+.priority-card li {
+    margin-bottom: 4px;
+}
+
+.priority-card strong {
+    color: #0f172a;
+}
+
+@media(max-width:768px) {
+    .priority-grid {
+        grid-template-columns: 1fr;
+    }
+}
+/* ==========================================================
+   CLASS 11 RED LINES
+========================================================== */
+
+.red-lines-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin: 34px 0 46px;
+}
+
+.red-line-card {
+    background: #fff7f7;
+    border: 1px solid #fecaca;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 18px 45px rgba(15,23,42,.05);
+}
+
+.red-line-symbol {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 2px solid #ef4444;
+    color: #ef4444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    margin-bottom: 14px;
+}
+
+.red-line-card h3 {
+    margin: 0 0 10px;
+    color: #b91c1c;
+    font-size: 1.02rem;
+}
+
+.red-line-card p {
+    margin: 0;
+    color: #334155;
+    line-height: 1.7;
+}
+
+@media(max-width:768px) {
+    .red-lines-grid {
+        grid-template-columns: 1fr;
+    }
+}
+.genelis-split{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:22px;
+    margin:34px 0;
+}
+
+.genelis-card{
+    background:#ffffff;
+    border:1px solid #dbe5f2;
+    border-radius:18px;
+    padding:26px;
+    box-shadow:0 18px 45px rgba(15,23,42,.06);
+}
+
+.genelis-card.coaching-side{border-top:4px solid #f59e0b;}
+.genelis-card.board-side{border-top:4px solid #22c55e;}
+
+.g-label{
+    font-size:.78rem;
+    font-weight:900;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    margin-bottom:12px;
+}
+
+.coaching-side .g-label{color:#d97706;}
+.board-side .g-label{color:#15803d;}
+
+.loop-steps{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    align-items:center;
+    justify-content:center;
+    margin:30px 0;
+}
+
+.loop-step{
+    background:#fff;
+    border:1.5px solid #2563eb;
+    border-radius:14px;
+    padding:12px 16px;
+    min-width:150px;
+    text-align:center;
+    font-size:.86rem;
+    color:#0f172a;
+}
+
+.loop-step .sn{
+    display:block;
+    font-size:.68rem;
+    font-weight:900;
+    color:#2563eb;
+    text-transform:uppercase;
+    margin-bottom:4px;
+}
+
+.loop-arrow{
+    color:#94a3b8;
+    font-weight:900;
+}
+
+@media(max-width:768px){
+    .genelis-split{grid-template-columns:1fr;}
+}
+/* Mobile fix for JEE vs NEET comparison */
+@media (max-width: 768px) {
+    .compare-grid {
+        grid-template-columns: 1fr !important;
+    }
+
+    .compare-card {
+        overflow-x: auto;
+        padding: 18px;
+    }
+
+    .compare-card table {
+        min-width: 560px;
+    }
+
+    .compare-card td {
+        font-size: 0.88rem;
+        line-height: 1.5;
+        white-space: normal;
+    }
+
+    .compare-card td:first-child {
+        min-width: 120px;
+    }
+}
