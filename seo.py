@@ -183,7 +183,13 @@ def blog_posting_schema(post, seo):
             "url": SITE_URL
         },
         "publisher": {
-            "@id": f"{SITE_URL}/#organization"
+            "@type": "Organization",
+            "name": SITE_NAME,
+            "url": SITE_URL,
+            "logo": {
+                "@type": "ImageObject",
+                "url": absolute_url(ORGANIZATION_LOGO)
+            }
         }
     }
 
