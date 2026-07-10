@@ -3065,11 +3065,16 @@ Many students lose marks not because the syllabus is difficult, but because of a
 
         "meta_description": "Planning for JEE or NEET in Class 11? Learn how to balance CBSE boards with coaching using chapter overlap, weekly study plans, priority topics, common mistakes, and AI-powered personalised learning.",
 
-        "category": "Class 11",
+        "class": "10",
 
-        "date": "July 2026",
+        "subject": "JEE or NEET Exam Preparation",
+        
+        "category": "Entrance Exam Preparation",
 
-        "read_time": "12 min read",
+        "published_date": "2026-07-06",
+        "updated_date": "2026-07-08",
+
+        "reading_time": "12 min read",
 
         "featured": True,
 
