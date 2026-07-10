@@ -1,6 +1,14 @@
 from flask import Flask, render_template, abort
 from seo_data import SEO_DATA, get_class_seo
-from seo import build_seo, organization_schema, website_schema, webpage_schema
+from seo import (
+    build_seo,
+    organization_schema,
+    website_schema,
+    webpage_schema,
+    breadcrumb_schema,
+    blog_schema,
+    blog_posting_schema
+)
 from config import CTA_LINKS, tracked_app_link
 from faq_data import FAQ_DATA, build_faq_schema
 from blog_data import get_all_posts, get_post_by_slug, get_related_posts, get_prev_next_posts, get_featured_post
@@ -101,15 +109,25 @@ def get_classes_data():
     ]
 
 
-def render_seo_template(template_name, seo_key, faq_key=None, **kwargs):
+def render_seo_template(
+    template_name,
+    seo_key,
+    faq_key=None,
+    page_type="WebPage",
+    breadcrumbs=None,
+    **kwargs
+):
     seo = build_seo(SEO_DATA[seo_key])
 
 
     schemas = [
         organization_schema(),
         website_schema(),
-        webpage_schema(seo)
+        webpage_schema(seo, page_type=page_type)
     ]
+
+    if breadcrumbs:
+        schemas.append(breadcrumb_schema(breadcrumbs))
 
     faq = None
 
@@ -133,7 +151,16 @@ def home():
 
 @app.route("/about")
 def about():
-    return render_seo_template("about.html", "about", faq_key="about")
+    return render_seo_template(
+        "about.html",
+        "about",
+        faq_key="about",
+        page_type="AboutPage",
+        breadcrumbs=[
+            {"name": "Home", "url": "/"},
+            {"name": "About", "url": "/about"}
+        ]
+    )
 
 
 @app.route("/learning-system")
@@ -170,7 +197,21 @@ def class_detail(class_id):
     schemas = [
         organization_schema(),
         website_schema(),
-        webpage_schema(class_seo)
+        webpage_schema(class_seo, page_type="CollectionPage"),
+        breadcrumb_schema([
+            {
+                "name": "Home",
+                "url": "/"
+            },
+            {
+                "name": "Classes",
+                "url": "/classes"
+            },
+            {
+                "name": f"Class {class_id}",
+                "url": f"/classes/{class_id}"
+            }
+        ])
     ]
 
     if faq_key:
@@ -193,13 +234,47 @@ def pricing():
 
 @app.route("/blog")
 def blog():
-
     posts = get_all_posts()
-
     featured_post = get_featured_post()
+
+    blog_seo = build_seo({
+        "title": "CBSE Study Guides, Exam Strategies & Learning Tips | Genelis",
+        "description": (
+            "Explore CBSE study guides, board exam strategies, subject preparation "
+            "tips, revision methods, and AI-powered learning insights from Genelis."
+        ),
+        "keywords": [
+            "CBSE study guides",
+            "CBSE exam preparation",
+            "board exam strategy",
+            "study tips for students",
+            "AI learning",
+            "Genelis blog"
+        ],
+        "path": "/blog"
+    })
+
+    schemas = [
+        organization_schema(),
+        website_schema(),
+        webpage_schema(blog_seo, page_type="CollectionPage"),
+        blog_schema(blog_seo),
+        breadcrumb_schema([
+            {
+                "name": "Home",
+                "url": "/"
+            },
+            {
+                "name": "Blog",
+                "url": "/blog"
+            }
+        ])
+    ]
 
     return render_template(
         "blog.html",
+        seo=blog_seo,
+        schemas=schemas,
         posts=posts,
         featured_post=featured_post
     )
@@ -207,7 +282,16 @@ def blog():
 
 @app.route("/contact")
 def contact():
-    return render_seo_template("contact.html", "contact", faq_key="contact")
+    return render_seo_template(
+        "contact.html",
+        "contact",
+        faq_key="contact",
+        page_type="ContactPage",
+        breadcrumbs=[
+            {"name": "Home", "url": "/"},
+            {"name": "Contact", "url": "/contact"}
+        ]
+    )
 
 
 @app.route("/robots.txt")
@@ -217,68 +301,82 @@ def robots_txt():
 
 @app.route("/sitemap.xml")
 def sitemap():
-
-    BASE_URL = "https://genelis.in"
+    base_url = "https://genelis.in"
 
     sitemap_pages = [
-        {"url": f"{BASE_URL}/", "changefreq": "weekly", "priority": "1.0"},
-        {"url": f"{BASE_URL}/about", "changefreq": "monthly", "priority": "0.8"},
-        {"url": f"{BASE_URL}/learning-system", "changefreq": "monthly", "priority": "0.9"},
-        {"url": f"{BASE_URL}/pricing", "changefreq": "monthly", "priority": "0.8"},
-        {"url": f"{BASE_URL}/classes", "changefreq": "weekly", "priority": "0.9"},
-        {"url": f"{BASE_URL}/blog", "changefreq": "weekly", "priority": "0.8"},
-        {"url": f"{BASE_URL}/contact", "changefreq": "yearly", "priority": "0.6"},
+        {
+            "url": f"{base_url}/",
+            "changefreq": "weekly",
+            "priority": "1.0"
+        },
+        {
+            "url": f"{base_url}/about",
+            "changefreq": "monthly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/learning-system",
+            "changefreq": "monthly",
+            "priority": "0.9"
+        },
+        {
+            "url": f"{base_url}/pricing",
+            "changefreq": "monthly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/classes",
+            "changefreq": "weekly",
+            "priority": "0.9"
+        },
+        {
+            "url": f"{base_url}/blog",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/contact",
+            "changefreq": "yearly",
+            "priority": "0.6"
+        },
     ]
 
-    # Add all blog posts automatically
+    # Add individual class pages automatically
+    for class_id in CLASS_DATA:
+        sitemap_pages.append({
+            "url": f"{base_url}/classes/{class_id}",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        })
+
+    # Add every published blog post automatically
     for post in get_all_posts():
         sitemap_pages.append({
-            "url": f"{BASE_URL}/blog/{post['slug']}",
+            "url": f"{base_url}/blog/{post['slug']}",
             "changefreq": "monthly",
             "priority": "0.7"
         })
 
     xml = ['<?xml version="1.0" encoding="UTF-8"?>']
-    xml.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    xml.append(
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    )
 
     for page in sitemap_pages:
         xml.append("  <url>")
         xml.append(f"    <loc>{page['url']}</loc>")
-        xml.append(f"    <changefreq>{page['changefreq']}</changefreq>")
+        xml.append(
+            f"    <changefreq>{page['changefreq']}</changefreq>"
+        )
         xml.append(f"    <priority>{page['priority']}</priority>")
         xml.append("  </url>")
 
     xml.append("</urlset>")
 
     response = make_response("\n".join(xml))
-    response.headers["Content-Type"] = "application/xml"
+    response.headers["Content-Type"] = "application/xml; charset=utf-8"
 
     return response
-    # Automatically include all class pages
-
-    for class_id in CLASS_DATA.keys():
-
-        sitemap_pages.append({
-
-            "url": f"{BASE_URL}/classes/{class_id}",
-
-            "changefreq": "weekly",
-
-            "priority": "0.8"
-
-        })
-
-    return (
-        render_template(
-            "sitemap.xml",
-            sitemap_pages=sitemap_pages
-        ),
-        200,
-        {
-            "Content-Type": "application/xml"
-        },
-    )
-
 
 @app.route("/terms")
 def terms():
@@ -338,16 +436,60 @@ def blog_post(slug):
         abort(404)
 
     related_posts = get_related_posts(slug)
-
     previous_post, next_post = get_prev_next_posts(slug)
+
+    post_seo = build_seo({
+        "title": post.get(
+            "meta_title",
+            f"{post.get('title', 'Genelis Blog')} | Genelis"
+        ),
+        "description": post.get(
+            "meta_description",
+            post.get(
+                "excerpt",
+                "Explore CBSE preparation strategies and learning insights from Genelis."
+            )
+        ),
+        "keywords": post.get("keywords", []),
+        "path": f"/blog/{post['slug']}",
+        "og_image": post.get(
+            "image",
+            "/static/og/genelis-og-image.png"
+        ),
+        "og_type": "article"
+    })
+
+    schemas = [
+        organization_schema(),
+        website_schema(),
+        webpage_schema(post_seo),
+        blog_posting_schema(post, post_seo),
+        breadcrumb_schema([
+            {
+                "name": "Home",
+                "url": "/"
+            },
+            {
+                "name": "Blog",
+                "url": "/blog"
+            },
+            {
+                "name": post.get("title", "Article"),
+                "url": f"/blog/{post['slug']}"
+            }
+        ])
+    ]
 
     return render_template(
         "blog_post.html",
+        seo=post_seo,
+        schemas=schemas,
         post=post,
         related_posts=related_posts,
         previous_post=previous_post,
         next_post=next_post
     )
+
 @app.route("/blog-sitemap.xml")
 def blog_sitemap():
 
@@ -359,47 +501,6 @@ def blog_sitemap():
 
     for post in posts:
 
-        xml += f"""
-    <url>
-        <loc>https://genelis.in/blog/{post['slug']}</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.90</priority>
-    </url>
-"""
-
-    xml += "</urlset>"
-
-    return Response(xml, mimetype="application/xml")
-
-@app.route("/sitemap.xml")
-def main_sitemap():
-
-    static_pages = [
-        "",
-        "about",
-        "classes",
-        "learning-system",
-        "pricing",
-        "blog",
-        "contact"
-    ]
-
-    posts = get_all_posts()
-
-    xml = '''<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-'''
-
-    for page in static_pages:
-        xml += f"""
-    <url>
-        <loc>https://genelis.in/{page}</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.80</priority>
-    </url>
-"""
-
-    for post in posts:
         xml += f"""
     <url>
         <loc>https://genelis.in/blog/{post['slug']}</loc>

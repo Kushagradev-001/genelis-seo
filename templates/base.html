@@ -11,7 +11,7 @@
 
     <link rel="canonical" href="{{ seo.canonical if seo is defined else request.url }}">
 
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="{{ seo.og_type if seo is defined else 'website' }}">
     <meta property="og:site_name" content="Genelis">
     <meta property="og:title" content="{{ seo.og_title if seo is defined else title|default('Genelis') }}">
     <meta property="og:description" content="{{ seo.og_description if seo is defined else description|default('AI-powered learning platform for students.') }}">

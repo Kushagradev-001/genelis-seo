@@ -2378,9 +2378,9 @@ Explore Genelis with a free account. Unlock the complete learning experience wit
 
         "author": "Genelis Team",
 
-        "published_date": "July 2026",
+        "published_date": "2026-07-08",
 
-        "updated_date": "July 2026",
+        "updated_date": "2026-07-08",
 
         "featured": False,
 
