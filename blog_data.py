@@ -3739,6 +3739,13438 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
         ]
     },
 
+        {
+        "slug": "class-10-maths-formula-sheet-important-questions-cbse",
+
+        "title": "Class 10 Maths 2026–27: The Only Guide You Need — Strategy, Weightage & Complete Formula Sheet",
+
+        "meta_title": "Class 10 Maths Formula Sheet, Weightage & Board Guide 2026–27 | Genelis",
+
+        "meta_description": (
+            "The only Class 10 Maths guide you'll need — official chapter weightage, "
+            "proven preparation strategy, common mistakes that cost marks, and a "
+            "complete formula sheet covering all 7 units of CBSE Class 10 Maths 2026–27."
+        ),
+
+        "excerpt": (
+            "Official chapter weightage, proven preparation strategy, common mistakes "
+            "that cost marks, and a complete formula sheet covering all 7 units of "
+            "CBSE Class 10 Maths."
+        ),
+
+        "class": "10",
+
+        "subject": "Mathematics",
+
+        "category": "Exam Preparation",
+
+        "author": "Genelis Team",
+
+        "published_date": "2026-07-09T09:00:00+05:30",
+
+        "updated_date": "2026-07-09T09:00:00+05:30",
+
+        "reading_time": "12 min read",
+
+        "featured": True,
+
+        "image": "/static/blog/class10-maths-og.jpg",
+
+        "image_alt": (
+            "CBSE Class 10 Maths formula sheet, chapter weightage and "
+            "board exam preparation guide for 2026–27"
+        ),
+
+        "keywords": [
+            "class 10 maths formula sheet CBSE",
+            "class 10 maths chapter weightage",
+            "CBSE class 10 maths preparation",
+            "class 10 maths important questions",
+            "class 10 maths notes CBSE NCERT",
+            "class 10 maths study plan",
+            "CBSE class 10 maths 2026",
+            "class 10 maths algebra geometry trigonometry",
+            "smart revision class 10 maths",
+            "AI notes class 10 maths"
+        ],
+
+        "at_a_glance": [
+            "Official Class 10 Maths unit-wise marks distribution",
+            "Preparation framework based on chapter weightage",
+            "Four common mistakes that cost students marks",
+            "Mock-test and weak-area analysis strategy",
+            "Complete formula sheet covering all 7 units",
+            "Frequently asked Class 10 Maths preparation questions"
+        ],
+
+        "faqs": [
+            {
+                "question": (
+                    "Which is the most important chapter in Class 10 Maths "
+                    "CBSE 2026–27?"
+                ),
+                "answer": (
+                    "Algebra carries the highest unit-wise weightage at 20 marks — "
+                    "covering Polynomials, Pair of Linear Equations, Quadratic "
+                    "Equations, and Arithmetic Progressions. Within Algebra, "
+                    "Quadratic Equations and Pair of Linear Equations are the most "
+                    "frequently tested chapters in CBSE board papers. However, in "
+                    "the 2025–26 blueprint, Triangles (8 marks) and Introduction to "
+                    "Trigonometry (8 marks) are individually the highest-weightage "
+                    "single chapters."
+                )
+            },
+            {
+                "question": (
+                    "What is the chapter-wise marks distribution for Class 10 "
+                    "Maths CBSE 2025–26?"
+                ),
+                "answer": (
+                    "The official unit-wise distribution (theory, 80 marks) is: "
+                    "Algebra — 20 marks, Geometry — 15 marks, Trigonometry — "
+                    "12 marks, Statistics & Probability — 11 marks, Mensuration — "
+                    "10 marks, Coordinate Geometry — 6 marks, Number Systems — "
+                    "6 marks. Chapter-wise within units can vary slightly paper to "
+                    "paper but unit-wise distribution is fixed."
+                )
+            },
+            {
+                "question": (
+                    "How do I prepare for Class 10 Maths boards effectively?"
+                ),
+                "answer": (
+                    "Start with the unit-wise weightage to direct your effort. "
+                    "Prioritise Algebra, Geometry, and Trigonometry — together they "
+                    "account for nearly 60% of the paper. Build a formula sheet for "
+                    "every unit from day one and reproduce it from memory daily. "
+                    "Take mock tests every week and treat every wrong answer as a "
+                    "data point — categorise the error type, reattempt the question "
+                    "without the solution, and log it. Never leave a wrong answer "
+                    "just reviewed — it must be reattempted and verified closed."
+                )
+            },
+            {
+                "question": (
+                    "What are the most important formulas for Class 10 Maths CBSE?"
+                ),
+                "answer": (
+                    "The must-know formulas for Class 10 Maths span all 7 units: "
+                    "Algebra — quadratic formula, sum and product of roots, AP "
+                    "formulas (nth term and sum); Geometry — Basic Proportionality "
+                    "Theorem, Pythagoras theorem; Trigonometry — all 6 ratios, "
+                    "standard angle values, Pythagorean identities; Coordinate "
+                    "Geometry — distance formula, section formula, area of triangle; "
+                    "Mensuration — area of sector, arc length, surface areas and "
+                    "volumes of all solids; Statistics — mean by all three methods, "
+                    "median and mode from grouped data."
+                )
+            },
+            {
+                "question": (
+                    "How should I use mock tests for Class 10 Maths preparation?"
+                ),
+                "answer": (
+                    "Use mock tests as diagnostic tools, not practice runs. After "
+                    "every mock test: categorise every wrong answer into conceptual "
+                    "gap, formula error, or careless mistake — before reading the "
+                    "solution. Reattempt the wrong questions within 48 hours without "
+                    "looking at the solution. Log unresolved gaps to your "
+                    "wrong-question notebook. Use the results to update your "
+                    "topic-level accuracy map and direct the next week's revision "
+                    "to your lowest-scoring unit. This cycle is what converts mock "
+                    "tests from score-generators into gap-closers."
+                )
+            }
+        ],
+
+        "content": """
+        <section class="gdl-prep-section">
+
+  <div class="gdl-section-kicker">
+    Preparation Framework
+  </div>
+
+  <h2 id="preparation-framework">
+    The Preparation Framework That Actually Builds Score — Not Just Coverage
+  </h2>
+
+  <p class="gdl-section-intro">
+    Maths is the one subject where effort and result diverge most dramatically from each other
+    — and the reason is almost always the same. Students read solved examples. They think "I
+    understand this." They move to the next chapter. And when the exam arrives, they discover
+    that understanding a solved example and being able to solve a new problem independently
+    under time pressure are completely different skills. Coverage is not preparation.
+    Performance is preparation.
+  </p>
+
+  <div class="gdl-prep-flow">
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">01</div>
+      <div class="gdl-prep-content">
+        <h3>Study by weightage, not by chapter order</h3>
+        <p>
+          Don't start from Chapter 1 and work forward. Start from Algebra (20 marks), then
+          Geometry (15 marks), then Trigonometry (12 marks). These three units carry nearly
+          60% of the paper — mastering them first means your highest-value marks are secured
+          before you reach the lower-weightage units. <cite index="11-1">Start with high-mark
+          chapters: Algebra, Geometry, Trigonometry, Statistics. These chapters pull the most weight.</cite>
+        </p>
+      </div>
+    </article>
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">02</div>
+      <div class="gdl-prep-content">
+        <h3>Produce answers — don't just read them</h3>
+        <p>
+          For every concept you study, attempt at least 3 questions without looking at solutions.
+          Read the solution only after attempting. Then close the book and attempt again from
+          memory. This production habit — not reading comprehension — is what builds the ability
+          to solve problems under exam conditions in 3 hours. <cite index="9-1">Step marking is
+          usually used to give marks for correct steps, even if the final answer is wrong.</cite>
+          Show every step. Always.
+        </p>
+      </div>
+    </article>
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">03</div>
+      <div class="gdl-prep-content">
+        <h3>Treat every wrong answer as a data point</h3>
+        <p>
+          Every incorrect answer in a practice set or mock test contains specific information:
+          which concept you misunderstood, which formula you confused, which step you skipped.
+          That information is the most valuable study material you have. Log every wrong answer
+          by unit and error type. Reattempt within 48 hours. Verify you can produce the correct
+          solution independently. Then move on. Not before.
+        </p>
+      </div>
+    </article>
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">04</div>
+      <div class="gdl-prep-content">
+        <h3>Build a rotation system — not a completion system</h3>
+        <p>
+          Don't study a unit until it feels "done" and then move on permanently. Build a
+          weekly rotation: high-weightage units (Algebra, Geometry, Trigonometry) get 3
+          practice sessions per week each. Medium-weightage units (Statistics, Mensuration)
+          get 2 sessions. Low-weightage units (Coordinate Geometry, Number Systems) get 1.
+          This rotation means every unit is practised regularly — and high-value units compound
+          across the full preparation period.
+        </p>
+      </div>
+    </article>
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">05</div>
+      <div class="gdl-prep-content">
+        <h3>Practise under timed conditions from month 3 onwards</h3>
+        <p>
+          From October onwards, take at least one full Maths mock test per week under strict
+          timed conditions — 3 hours, no interruptions, no open books. This builds two things
+          simultaneously: pace (you discover which question types take too long) and confidence
+          (you discover you can actually complete a paper). Both are necessary. Neither comes from
+          untimed practice. <cite index="6-1">Allocate 15 minutes for reading the paper,
+          2 hours 30 minutes for solving, and 15 minutes for revising answers.</cite>
+        </p>
+      </div>
+    </article>
+
+    <article class="gdl-prep-item">
+      <div class="gdl-prep-index">06</div>
+      <div class="gdl-prep-content">
+        <h3>Target case-based questions specifically</h3>
+        <p>
+          Case-based questions carry 12 marks in the 2025–26 paper (3 questions × 4 marks).
+          <cite index="2-1">The three Case-Based questions will be from Arithmetic Progressions,
+          Coordinate Geometry, and Applications of Trigonometry.</cite> These chapters are fixed
+          for case studies. Practise reading a scenario and identifying which formula or concept
+          applies — this is a learnable pattern that rewards preparation and punishes last-minute
+          cramming.
+        </p>
+      </div>
+    </article>
+
+  </div>
+
+</section>
+<section class="gdl-mistakes-section">
+
+  <div class="gdl-section-kicker gdl-section-kicker--danger">
+    Common Score-Loss Patterns
+  </div>
+
+  <h2 id="common-mistakes">
+    Four Mistakes That Cost Class 10 Maths Students the Most Marks
+  </h2>
+
+  <p class="gdl-section-intro">
+    These are not abstract mistakes. They are the specific, recurring patterns observed
+    across thousands of Class 10 Maths board papers — the ones that separate students who
+    score 68% from students who score 88% on the same paper.
+  </p>
+
+  <div class="gdl-mistake-layout">
+
+    <article class="gdl-mistake-item">
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">01</span>
+        <span class="gdl-mistake-label">Mistake 1</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+        <h3>Skipping steps in long-answer questions</h3>
+
+        <p>
+          CBSE uses step marking — every correct step carries marks independently of the
+          final answer. A student who writes the correct formula and correct substitution but
+          makes a calculation error at the end typically earns 2 out of 3 marks. A student who
+          writes only the final answer — even if correct — may earn just 1 mark.
+        </p>
+
+        <div class="gdl-mistake-fix">
+          <span class="gdl-mistake-fix-label">Fix</span>
+          <p>
+            Write every step. Formula → substitution → working → answer with units.
+            No shortcuts in 3-mark and 5-mark questions.
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <article class="gdl-mistake-item">
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">02</span>
+        <span class="gdl-mistake-label">Mistake 2</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+        <h3>Memorising formulas without understanding when to use them</h3>
+
+        <p>
+          Students who memorise the quadratic formula without understanding what it does
+          will apply it to every quadratic — including ones that factorise easily in 30 seconds.
+          Students who understand the concept choose the fastest method. Understanding formula
+          selection is a distinct skill from knowing the formulas.
+        </p>
+
+        <div class="gdl-mistake-fix">
+          <span class="gdl-mistake-fix-label">Fix</span>
+          <p>
+            For every formula, practise at least 5 questions of different types.
+            Understand what conditions trigger each method.
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <article class="gdl-mistake-item">
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">03</span>
+        <span class="gdl-mistake-label">Mistake 3</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+        <h3>Ignoring Geometry proofs until the last week</h3>
+
+        <p>
+          Geometry proofs (Triangles, Circles) carry 15 marks and require a specific writing
+          structure — Given, To Prove, Construction, Proof. Students who haven't practised
+          writing full proofs with diagram and logical sequence consistently lose 4–6 marks in
+          this section that are entirely preventable.
+        </p>
+
+        <div class="gdl-mistake-fix">
+          <span class="gdl-mistake-fix-label">Fix</span>
+          <p>
+            Write 2 full geometry proofs per week from July onwards. The format becomes
+            automatic — and automatic is fast in the exam.
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <article class="gdl-mistake-item">
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">04</span>
+        <span class="gdl-mistake-label">Mistake 4</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+        <h3>Treating Statistics as easy and leaving it for last</h3>
+
+        <p>
+          Statistics carries 11 marks and the grouped data calculations (mean by all three
+          methods, median, mode) are straightforward — but only if practised. Students who
+          assume familiarity means readiness regularly lose 3–4 marks on calculation errors
+          in mean, or by choosing the wrong method for the wrong question type.
+        </p>
+
+        <div class="gdl-mistake-fix">
+          <span class="gdl-mistake-fix-label">Fix</span>
+          <p>
+            Practise one complete Statistics set (mean + median + mode) every week.
+            Each method has a distinct trigger — know which one to use when.
+          </p>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+  <div class="gdl-section-kicker">
+    Performance Analysis
+  </div>
+
+  <h2 id="mock-test-analysis">
+    Your Mock Test Score Is Noise. This Is the Signal.
+  </h2>
+
+  <p class="gdl-section-intro">
+    A Maths mock test score of 54 out of 80 tells you almost nothing useful. What you need
+    is the breakdown underneath it — which units are costing you marks and which are already
+    solid. Without this, the next study session goes to whichever chapter feels most
+    comfortable, not the one actually losing you marks.
+  </p>
+
+  <div class="gdl-signal-grid">
+
+    <article class="gdl-signal-card gdl-signal-card--noise">
+
+      <div class="gdl-signal-label">
+        Noise
+      </div>
+
+      <div class="gdl-signal-value">
+        54 / 80
+      </div>
+
+      <p>
+        Your mock test score. Tells you 26 marks were lost. Tells you nothing about
+        <em>which</em> units, which error types, or what to do next session.
+      </p>
+
+    </article>
+
+    <article class="gdl-signal-card gdl-signal-card--signal">
+
+      <div class="gdl-signal-label">
+        Signal
+      </div>
+
+      <div class="gdl-signal-value">
+        Unit map
+      </div>
+
+      <p>
+        Algebra 71% · Geometry 43% · Trigonometry 58% · Statistics 88%.
+        Now you know exactly where tomorrow's study session should go.
+      </p>
+
+    </article>
+
+  </div>
+
+  <div class="gdl-accuracy-panel">
+
+    <div class="gdl-accuracy-header">
+
+      <span class="gdl-accuracy-eyebrow">
+        Genelis Performance Map
+      </span>
+
+      <h3>
+        What a Genelis weak area map looks like after a Maths mock test
+      </h3>
+
+    </div>
+
+    <div class="gdl-accuracy-list">
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Statistics — grouped data
+        </div>
+
+        <div class="gdl-accuracy-track">
+
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+            style="width:88%">
+          </div>
+
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+          88%
+        </div>
+
+      </div>
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Algebra — Quadratic Equations
+        </div>
+
+        <div class="gdl-accuracy-track">
+
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--good"
+            style="width:71%">
+          </div>
+
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--good">
+          71%
+        </div>
+
+      </div>
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Trigonometry — identities
+        </div>
+
+        <div class="gdl-accuracy-track">
+
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--average"
+            style="width:58%">
+          </div>
+
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--average">
+          58%
+        </div>
+
+      </div>
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Geometry — Triangles proofs
+        </div>
+
+        <div class="gdl-accuracy-track">
+
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+            style="width:43%">
+          </div>
+
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+          43%
+        </div>
+
+      </div>
+
+    </div>
+
+    <p class="gdl-accuracy-note">
+      Next session: Geometry — Triangles proofs (43%). Not Statistics
+      (already 88%). Every session directed by data, not comfort.
+    </p>
+
+  </div>
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. After every Maths mock test or
+    practice session, Genelis builds this unit-level accuracy map automatically — tracking
+    your performance separately across all 7 units, identifying which specific concepts are
+    costing you marks, and directing your next session accordingly. Every wrong answer is
+    logged to your <strong>wrong-question notebook</strong>, tagged by unit and question type,
+    and queued for reattempt through the <strong>Genelis Learning Loop™</strong>.
+  </p>
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+
+      <span class="gdl-loop-number">
+        Step 1
+      </span>
+
+      <strong>
+        Attempt Maths mock
+      </strong>
+
+    </div>
+
+    <div class="gdl-loop-arrow">
+      →
+    </div>
+
+    <div class="gdl-loop-step">
+
+      <span class="gdl-loop-number">
+        Step 2
+      </span>
+
+      <strong>
+        Unit-level gap detected
+      </strong>
+
+    </div>
+
+    <div class="gdl-loop-arrow">
+      →
+    </div>
+
+    <div class="gdl-loop-step">
+
+      <span class="gdl-loop-number">
+        Step 3
+      </span>
+
+      <strong>
+        AI notes for weak concept
+      </strong>
+
+    </div>
+
+    <div class="gdl-loop-arrow">
+      →
+    </div>
+
+    <div class="gdl-loop-step">
+
+      <span class="gdl-loop-number">
+        Step 4
+      </span>
+
+      <strong>
+        Wrong Qs auto-logged
+      </strong>
+
+    </div>
+
+    <div class="gdl-loop-arrow">
+      →
+    </div>
+
+    <div class="gdl-loop-step">
+
+      <span class="gdl-loop-number">
+        Step 5
+      </span>
+
+      <strong>
+        Reattempt those questions
+      </strong>
+
+    </div>
+
+    <div class="gdl-loop-arrow">
+      →
+    </div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+
+      <span class="gdl-loop-number">
+        Result
+      </span>
+
+      <strong>
+        Gap closed. Map updates. ✓
+      </strong>
+
+    </div>
+
+  </div>
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-maths&utm_content=cta-inline">
+    Start your personalised Class 10 Maths study plan on Genelis — free →
+  </a>
+
+</section>
+<section class="gdl-formula-section">
+
+  <div class="gdl-section-kicker gdl-section-kicker--formula">
+    Complete Formula Reference
+  </div>
+
+  <h2 id="complete-formula-sheet">
+    Complete Class 10 Maths Formula Sheet — All 7 Units, Every Formula You Need
+  </h2>
+
+  <p class="gdl-section-intro">
+    This is your one-stop formula reference for every chapter in CBSE Class 10 Maths 2025–26.
+    The right way to use this section: read it once carefully. Then close this page and
+    reproduce every formula from memory on paper. Check what you missed. Return to those
+    formulas specifically. Repeat daily in the final 6 weeks before boards. The formulas
+    you can write from memory in under 10 seconds are the ones that won't cost you time
+    or marks in February.
+  </p>
+
+  <nav class="gdl-formula-nav" aria-label="Class 10 Maths formula units">
+
+    <a href="#formula-algebra">
+      <span class="gdl-formula-nav-number">01</span>
+      <span>Algebra</span>
+    </a>
+
+    <a href="#formula-geometry">
+      <span class="gdl-formula-nav-number">02</span>
+      <span>Geometry</span>
+    </a>
+
+    <a href="#formula-trigonometry">
+      <span class="gdl-formula-nav-number">03</span>
+      <span>Trigonometry</span>
+    </a>
+
+    <a href="#formula-coordinate-geometry">
+      <span class="gdl-formula-nav-number">04</span>
+      <span>Coordinate Geometry</span>
+    </a>
+
+    <a href="#formula-mensuration">
+      <span class="gdl-formula-nav-number">05</span>
+      <span>Mensuration</span>
+    </a>
+
+    <a href="#formula-statistics-probability">
+      <span class="gdl-formula-nav-number">06</span>
+      <span>Statistics & Probability</span>
+    </a>
+
+    <a href="#formula-number-systems">
+      <span class="gdl-formula-nav-number">07</span>
+      <span>Number Systems</span>
+    </a>
+
+  </nav>
+
+  <div class="gdl-formula-guide">
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Read</span>
+      <p>Understand what each formula calculates and when it applies.</p>
+    </div>
+
+    <div class="gdl-formula-guide-arrow">→</div>
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Recall</span>
+      <p>Close the page and reproduce the formula from memory.</p>
+    </div>
+
+    <div class="gdl-formula-guide-arrow">→</div>
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Apply</span>
+      <p>Use it independently in different question types.</p>
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 1: ALGEBRA
+===================================================== -->
+
+<section
+  class="gdl-formula-unit"
+  id="formula-algebra">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      01
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>
+        Algebra — Polynomials, Linear Equations, Quadratic Equations, Arithmetic Progressions
+      </h3>
+      <p>
+        Highest-weightage unit in the Class 10 Maths theory paper
+      </p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      20 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Polynomials
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Sum of roots (α+β)
+          </div>
+
+          <div class="gdl-formula-expression">
+            α + β = −b/a
+
+            <span class="gdl-formula-note">
+              For quadratic ax² + bx + c = 0
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Product of roots (αβ)
+          </div>
+
+          <div class="gdl-formula-expression">
+            α × β = c/a
+
+            <span class="gdl-formula-note">
+              For quadratic ax² + bx + c = 0
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Division algorithm
+          </div>
+
+          <div class="gdl-formula-expression">
+            Dividend = Divisor × Quotient + Remainder
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Pair of Linear Equations
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Consistent system
+          </div>
+
+          <div class="gdl-formula-expression">
+            a₁/a₂ ≠ b₁/b₂
+
+            <span class="gdl-formula-note">
+              Unique solution. Lines intersect at exactly one point.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Infinitely many solutions
+          </div>
+
+          <div class="gdl-formula-expression">
+            a₁/a₂ = b₁/b₂ = c₁/c₂
+
+            <span class="gdl-formula-note">
+              Lines are coincident.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            No solution
+          </div>
+
+          <div class="gdl-formula-expression">
+            a₁/a₂ = b₁/b₂ ≠ c₁/c₂
+
+            <span class="gdl-formula-note">
+              Lines are parallel.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Quadratic Equations
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Quadratic formula
+          </div>
+
+          <div class="gdl-formula-expression">
+            x = [−b ± √(b²−4ac)] / 2a
+
+            <span class="gdl-formula-note">
+              For ax² + bx + c = 0; use when factorisation is not straightforward.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Discriminant (D)
+          </div>
+
+          <div class="gdl-formula-expression">
+            D = b² − 4ac
+
+            <span class="gdl-formula-note">
+              D &gt; 0: two real roots · D = 0: one repeated root · D &lt; 0: no real roots
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Arithmetic Progressions
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            nth term (aₙ)
+          </div>
+
+          <div class="gdl-formula-expression">
+            aₙ = a + (n−1)d
+
+            <span class="gdl-formula-note">
+              a = first term, d = common difference, n = term number
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Sum of n terms (Sₙ)
+          </div>
+
+          <div class="gdl-formula-expression">
+            Sₙ = n/2 × [2a + (n−1)d]
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Sₙ when last term is known
+          </div>
+
+          <div class="gdl-formula-expression">
+            Sₙ = n/2 × (a + l)
+
+            <span class="gdl-formula-note">
+              l = last term
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Common difference
+          </div>
+
+          <div class="gdl-formula-expression">
+            d = aₙ − aₙ₋₁
+
+            <span class="gdl-formula-note">
+              Difference between any two consecutive terms
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     UNIT 2: GEOMETRY
+===================================================== -->
+
+<section
+  class="gdl-formula-unit"
+  id="formula-geometry">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      02
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>
+        Geometry — Triangles & Circles
+      </h3>
+      <p>
+        Proofs, theorem application and structured reasoning
+      </p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      15 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Triangles
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Basic Proportionality Theorem
+          </div>
+
+          <div class="gdl-formula-expression">
+            DE ∥ BC ⟹ AD/DB = AE/EC
+
+            <span class="gdl-formula-note">
+              Also called Thales' theorem — appears in proof questions every year.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Pythagoras Theorem
+          </div>
+
+          <div class="gdl-formula-expression">
+            AC² = AB² + BC²
+
+            <span class="gdl-formula-note">
+              In right triangle ABC, right-angled at B. Converse: if AC² = AB² + BC², angle B = 90°.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area similarity ratio
+          </div>
+
+          <div class="gdl-formula-expression">
+            ar(△ABC) / ar(△DEF) = (AB/DE)² = (BC/EF)² = (AC/DF)²
+
+            <span class="gdl-formula-note">
+              For similar triangles — ratio of areas equals square of ratio of corresponding sides.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            AA similarity criterion
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∠A = ∠D and ∠B = ∠E ⟹ △ABC ∼ △DEF
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Circles
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Tangent-radius
+          </div>
+
+          <div class="gdl-formula-expression">
+            Tangent ⊥ radius at point of contact
+
+            <span class="gdl-formula-note">
+              Angle between tangent and radius = 90° — foundational for all circle proofs.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Equal tangents
+          </div>
+
+          <div class="gdl-formula-expression">
+            PA = PB
+
+            <span class="gdl-formula-note">
+              Tangents drawn from an external point P to a circle are equal in length.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Angle in alternate segment
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∠BAT = ∠ACB
+
+            <span class="gdl-formula-note">
+              Angle between tangent and chord = angle in alternate segment.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="gdl-formula-callout">
+      ⚠️ <strong>Geometry proof structure — non-negotiable:</strong> Every proof must follow
+      the format: Given → To Prove → Construction (if needed) → Proof (step by step with
+      reasons). Missing the "reason" for each step in a proof costs 1 mark per step.
+      Write reasons in every line.
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 3: TRIGONOMETRY
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-trigonometry">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            03
+        </div>
+
+        <div class="gdl-formula-unit-title">
+            <h3>Trigonometry — Ratios, Identities & Applications (Heights and Distances)</h3>
+            <p>Most formula-dense unit in Class 10 Mathematics.</p>
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            12 Marks
+        </div>
+
+    </div>
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                The Six Ratios — Defined for Angle θ in a Right Triangle
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+                    <div class="gdl-formula-name">
+                        sin θ / cos θ / tan θ
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        sin θ = Opposite/Hypotenuse
+                        &nbsp;&nbsp;·&nbsp;&nbsp;
+                        cos θ = Adjacent/Hypotenuse
+                        &nbsp;&nbsp;·&nbsp;&nbsp;
+                        tan θ = Opposite/Adjacent
+                    </div>
+                </div>
+
+                <div class="gdl-formula-row">
+                    <div class="gdl-formula-name">
+                        cosec θ / sec θ / cot θ
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        cosec θ = 1/sin θ
+                        &nbsp;&nbsp;·&nbsp;&nbsp;
+                        sec θ = 1/cos θ
+                        &nbsp;&nbsp;·&nbsp;&nbsp;
+                        cot θ = 1/tan θ
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Standard Angle Values — Memorise This Table Cold
+            </h4>
+
+            <div class="gdl-angle-table-wrapper">
+
+                <table class="gdl-angle-table">
+
+                    <thead>
+
+                        <tr>
+                            <th>Angle</th>
+                            <th>0°</th>
+                            <th>30°</th>
+                            <th>45°</th>
+                            <th>60°</th>
+                            <th>90°</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>sin</td>
+                            <td>0</td>
+                            <td>1/2</td>
+                            <td>1/√2</td>
+                            <td>√3/2</td>
+                            <td>1</td>
+                        </tr>
+
+                        <tr>
+                            <td>cos</td>
+                            <td>1</td>
+                            <td>√3/2</td>
+                            <td>1/√2</td>
+                            <td>1/2</td>
+                            <td>0</td>
+                        </tr>
+
+                        <tr>
+                            <td>tan</td>
+                            <td>0</td>
+                            <td>1/√3</td>
+                            <td>1</td>
+                            <td>√3</td>
+                            <td>Not defined</td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+            <div class="gdl-formula-callout">
+                Memory trick for sin:
+                0, 1/2, 1/√2, √3/2, 1 = √0/2, √1/2, √2/2, √3/2, √4/2.
+                cos is sin in reverse.
+                tan = sin/cos.
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Pythagorean Identities — The Three You Must Know
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+                    <div class="gdl-formula-name">
+                        Identity 1
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        sin²θ + cos²θ = 1
+
+                        <span class="gdl-formula-note">
+                            Derived from:
+                            sin²θ = 1−cos²θ
+                            ·
+                            cos²θ = 1−sin²θ
+                        </span>
+
+                    </div>
+                </div>
+
+                <div class="gdl-formula-row">
+                    <div class="gdl-formula-name">
+                        Identity 2
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        1 + tan²θ = sec²θ
+
+                        <span class="gdl-formula-note">
+                            Derived from:
+                            tan²θ = sec²θ−1
+                            ·
+                            sec²θ−tan²θ = 1
+                        </span>
+
+                    </div>
+                </div>
+
+                <div class="gdl-formula-row">
+                    <div class="gdl-formula-name">
+                        Identity 3
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        1 + cot²θ = cosec²θ
+
+                        <span class="gdl-formula-note">
+                            Derived from:
+                            cot²θ = cosec²θ−1
+                            ·
+                            cosec²θ−cot²θ = 1
+                        </span>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Heights & Distances
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        tan θ application
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        tan θ = height / horizontal distance
+
+                        <span class="gdl-formula-note">
+                            Angles of elevation/depression should be only
+                            30°, 45° and 60°.
+                            Always draw a diagram first — it prevents setup errors.
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     UNIT 4: COORDINATE GEOMETRY
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-coordinate-geometry">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      04
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>Coordinate Geometry</h3>
+      <p>Formula-direct and high-scoring</p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      6 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-list">
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Distance formula
+        </div>
+
+        <div class="gdl-formula-expression">
+          d = √[(x₂−x₁)² + (y₂−y₁)²]
+
+          <span class="gdl-formula-note">
+            Distance between points (x₁, y₁) and (x₂, y₂)
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Section formula
+        </div>
+
+        <div class="gdl-formula-expression">
+          P = [(mx₂ + nx₁)/(m+n) , (my₂ + ny₁)/(m+n)]
+
+          <span class="gdl-formula-note">
+            Point P dividing (x₁,y₁) to (x₂,y₂) in ratio m:n internally
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Midpoint formula
+        </div>
+
+        <div class="gdl-formula-expression">
+          M = [(x₁+x₂)/2 , (y₁+y₂)/2]
+
+          <span class="gdl-formula-note">
+            Special case of section formula with m:n = 1:1
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Area of triangle
+        </div>
+
+        <div class="gdl-formula-expression">
+          Area = ½ |x₁(y₂−y₃) + x₂(y₃−y₁) + x₃(y₁−y₂)|
+
+          <span class="gdl-formula-note">
+            For vertices (x₁,y₁), (x₂,y₂), (x₃,y₃). If area = 0, points are collinear.
+          </span>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="gdl-formula-callout">
+      Coordinate Geometry is an easy and scoring topic, as questions are about using formulas,
+      which is quick. These 4 formulas cover the entire unit — master them.
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     UNIT 5: MENSURATION
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-mensuration">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      05
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>Mensuration — Areas Related to Circles & Surface Areas and Volumes</h3>
+      <p>Application-heavy and formula-based</p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      10 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Areas Related to Circles
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area of circle
+          </div>
+
+          <div class="gdl-formula-expression">
+            A = πr²
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Circumference
+          </div>
+
+          <div class="gdl-formula-expression">
+            C = 2πr
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area of sector
+          </div>
+
+          <div class="gdl-formula-expression">
+            A = (θ/360°) × πr²
+
+            <span class="gdl-formula-note">
+              θ = angle at centre in degrees
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Length of arc
+          </div>
+
+          <div class="gdl-formula-expression">
+            l = (θ/360°) × 2πr
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area of segment
+          </div>
+
+          <div class="gdl-formula-expression">
+            Area of segment = Area of sector − Area of triangle
+
+            <span class="gdl-formula-note">
+              Most common Mensuration question type in boards
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Surface Areas & Volumes — All Solids
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Cylinder
+          </div>
+
+          <div class="gdl-formula-expression">
+            CSA = 2πrh &nbsp;·&nbsp; TSA = 2πr(r+h) &nbsp;·&nbsp; Volume = πr²h
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Cone
+          </div>
+
+          <div class="gdl-formula-expression">
+            CSA = πrl &nbsp;·&nbsp; TSA = πr(r+l) &nbsp;·&nbsp; Volume = ⅓πr²h
+            &nbsp;·&nbsp; l = √(r²+h²)
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Sphere
+          </div>
+
+          <div class="gdl-formula-expression">
+            SA = 4πr² &nbsp;·&nbsp; Volume = (4/3)πr³
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Hemisphere
+          </div>
+
+          <div class="gdl-formula-expression">
+            CSA = 2πr² &nbsp;·&nbsp; TSA = 3πr² &nbsp;·&nbsp; Volume = (2/3)πr³
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Frustum of cone
+          </div>
+
+          <div class="gdl-formula-expression">
+            CSA = πl(r₁+r₂) &nbsp;·&nbsp;
+            Volume = (πh/3)(r₁²+r₂²+r₁r₂)
+            &nbsp;·&nbsp;
+            l = √[h²+(r₁−r₂)²]
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 6: STATISTICS & PROBABILITY
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-statistics-probability">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      06
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>Statistics & Probability</h3>
+      <p>Formulaic and learnable</p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      11 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Mean — Three Methods (Know When to Use Each)
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Direct method
+          </div>
+
+          <div class="gdl-formula-expression">
+            x̄ = Σfᵢxᵢ / Σfᵢ
+
+            <span class="gdl-formula-note">
+              Use when class midpoints (xᵢ) are small and calculations are manageable
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Assumed mean method
+          </div>
+
+          <div class="gdl-formula-expression">
+            x̄ = a + (Σfᵢdᵢ / Σfᵢ) &nbsp; where dᵢ = xᵢ − a
+
+            <span class="gdl-formula-note">
+              Use when class midpoints are large numbers. Choose a = midpoint of middle class as assumed mean.
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Step deviation method
+          </div>
+
+          <div class="gdl-formula-expression">
+            x̄ = a + (Σfᵢuᵢ / Σfᵢ) × h &nbsp; where uᵢ = (xᵢ−a)/h
+
+            <span class="gdl-formula-note">
+              Most efficient for equal class intervals. h = class width.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Median & Mode from Grouped Data
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Median
+          </div>
+
+          <div class="gdl-formula-expression">
+            Median = l + [(n/2 − cf) / f] × h
+
+            <span class="gdl-formula-note">
+              l = lower boundary of median class · cf = cumulative frequency before median class ·
+              f = frequency of median class · h = class width · n = Σf
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Mode
+          </div>
+
+          <div class="gdl-formula-expression">
+            Mode = l + [(f₁−f₀) / (2f₁−f₀−f₂)] × h
+
+            <span class="gdl-formula-note">
+              l = lower boundary of modal class · f₁ = freq of modal class ·
+              f₀ = freq of preceding class · f₂ = freq of succeeding class
+            </span>
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Empirical relationship
+          </div>
+
+          <div class="gdl-formula-expression">
+            3 Median = Mode + 2 Mean
+
+            <span class="gdl-formula-note">
+              Useful for verification and for finding one measure when the other two are known
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Probability
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Basic probability
+          </div>
+
+          <div class="gdl-formula-expression">
+            P(E) = Number of favourable outcomes / Total number of outcomes
+          </div>
+
+        </div>
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Complementary event
+          </div>
+
+          <div class="gdl-formula-expression">
+            P(not E) = 1 − P(E)
+
+            <span class="gdl-formula-note">
+              P(E) + P(not E) = 1 always. Both values lie between 0 and 1 inclusive.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     UNIT 7: NUMBER SYSTEMS
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-number-systems">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      07
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>Number Systems — Real Numbers</h3>
+      <p>Conceptual and direct</p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      6 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-list">
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Fundamental Theorem
+        </div>
+
+        <div class="gdl-formula-expression">
+          Every composite number can be expressed as a unique product of prime numbers
+
+          <span class="gdl-formula-note">
+            Used in HCF and LCM questions — always show the prime factorisation step
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          HCF × LCM
+        </div>
+
+        <div class="gdl-formula-expression">
+          HCF(a,b) × LCM(a,b) = a × b
+
+          <span class="gdl-formula-note">
+            Only valid for two numbers. This relationship is directly tested in 2-mark questions.
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Euclid's Division Lemma
+        </div>
+
+        <div class="gdl-formula-expression">
+          a = bq + r &nbsp; where 0 ≤ r &lt; b
+
+          <span class="gdl-formula-note">
+            a = dividend, b = divisor, q = quotient, r = remainder. Apply repeatedly to find HCF.
+          </span>
+        </div>
+
+      </div>
+
+      <div class="gdl-formula-row">
+
+        <div class="gdl-formula-name">
+          Rational decimal condition
+        </div>
+
+        <div class="gdl-formula-expression">
+          p/q is a terminating decimal if and only if q = 2ᵐ × 5ⁿ (m, n ≥ 0)
+
+          <span class="gdl-formula-note">
+            If denominator has any other prime factor, the decimal is non-terminating repeating.
+          </span>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="gdl-formula-callout">
+      Number Systems questions are typically direct — 1-mark or 2-mark. Secure all 6 marks
+      here before boards. These are the most time-efficient marks in the paper.
+    </div>
+
+  </div>
+
+</section>
+
+
+<div class="gdl-formula-retention-box">
+
+  <div class="gdl-formula-retention-icon">
+    💡
+  </div>
+
+  <div class="gdl-formula-retention-content">
+
+    <h3>
+      How to use this formula sheet for maximum retention
+    </h3>
+
+    <p>
+      Don't read it passively. After reading each unit's formulas, close this page and write
+      every formula from memory on a blank sheet. Check what you missed. Return to only those
+      formulas. Repeat this process weekly from September onwards. By January, the formulas
+      should write themselves — with no hesitation, no checking, no lost seconds in the exam.
+    </p>
+
+  </div>
+
+</div>
+<!-- =====================================================
+     FREQUENTLY ASKED QUESTIONS
+===================================================== -->
+
+<section class="gdl-faq-section">
+
+  <div class="gdl-section-kicker">
+    Frequently Asked Questions
+  </div>
+
+  <h2 id="frequently-asked-questions">
+    Frequently Asked Questions
+  </h2>
+
+  <div class="gdl-faq-list">
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        Which is the most important chapter in Class 10 Maths CBSE 2026–27?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          <cite index="4-1">Highest weightage units: Algebra (20 marks) and Geometry (15 marks).</cite>
+          Within the 2025–26 blueprint, <cite index="2-1">Triangles and Introduction to Trigonometry have
+          the highest individual weightage at 8 marks each.</cite> For overall unit priority: Algebra (20),
+          Geometry (15), and Trigonometry (12) together account for 59% of the paper — master these three
+          units before investing heavily in others.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What is the chapter-wise marks distribution for Class 10 Maths CBSE 2025–26?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          <cite index="7-1">The curriculum distributes 80 marks across various units, with Algebra
+          receiving 20 marks, Geometry 15 marks, Trigonometry 12 marks, Mensuration 10 marks, and
+          Statistics and Probability 11 marks.</cite> Coordinate Geometry carries 6 marks and Number
+          Systems 6 marks. Chapter-wise distribution within units can vary slightly paper to paper —
+          unit-wise weightage is fixed by CBSE and more reliable for planning.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How do I prepare for Class 10 Maths boards effectively?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          Study by unit weightage — prioritise Algebra, Geometry, and Trigonometry before lower-weightage
+          units. Produce answers independently rather than reading solved examples. Take weekly timed mock
+          tests from October. Categorise every wrong answer by error type and reattempt within 48 hours.
+          Build a formula sheet and reproduce it from memory daily in the final 6 weeks.
+          <cite index="11-1">Start with high-mark chapters: Algebra, Geometry, Trigonometry, Statistics.
+          These chapters pull the most weight.</cite>
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What are the most important formulas for Class 10 Maths CBSE?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          The must-know formulas span all 7 units: Algebra — quadratic formula, discriminant, AP nth
+          term and sum; Geometry — BPT, Pythagoras, area ratio for similar triangles; Trigonometry —
+          all 6 ratios, standard angle table, three Pythagorean identities; Coordinate Geometry —
+          distance, section, and area formulas; Mensuration — sector area, arc length, all solid
+          surface areas and volumes; Statistics — mean by all three methods, median and mode from
+          grouped data formula; Number Systems — HCF×LCM relationship, Euclid's lemma. All formulas
+          are in the complete formula sheet above.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How should I use mock tests for Class 10 Maths preparation?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          Use mock tests as diagnostic tools, not practice runs. After every test: categorise every
+          wrong answer into conceptual gap, formula error, or careless mistake — before reading the
+          solution. Reattempt all wrong questions within 48 hours without looking at the solution.
+          Log unresolved gaps. Use the results to direct next week's revision to your lowest-accuracy
+          unit — not the most comfortable one. <cite index="6-1">Solve PYQs and sample papers —
+          not once, not twice, multiple times. Track your mistakes. Each error is a clue. Fix it.</cite>
+        </p>
+      </div>
+
+    </details>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     RELATED ARTICLES
+===================================================== -->
+
+<aside class="gdl-related-section">
+
+  <div class="gdl-related-header">
+
+    <span class="gdl-related-kicker">
+      Continue Learning
+    </span>
+
+    <h2>
+      Related Articles
+    </h2>
+
+  </div>
+
+  <div class="gdl-related-grid">
+
+    <a
+      class="gdl-related-card"
+      href="/blog/class-10-board-exam-preparation-guide-cbse">
+
+      <span class="gdl-related-type">
+        Class 10 Guide
+      </span>
+
+      <h3>
+        Class 10 Board Exam Preparation Guide 2026–27: Complete Study Plan
+      </h3>
+
+      <span class="gdl-related-link">
+        Read article →
+      </span>
+
+    </a>
+
+
+    <a
+      class="gdl-related-card"
+      href="/blog/class-10-science-high-yield-topics-cbse">
+
+      <span class="gdl-related-type">
+        Science Preparation
+      </span>
+
+      <h3>
+        Class 10 Science: Physics, Chemistry & Biology — High-Yield Topics & AI Notes
+      </h3>
+
+      <span class="gdl-related-link">
+        Read article →
+      </span>
+
+    </a>
+
+
+    <a
+      class="gdl-related-card"
+      href="/blog/wrong-question-notebook-board-exams">
+
+      <span class="gdl-related-type">
+        Study Strategy
+      </span>
+
+      <h3>
+        Why a Wrong-Question Notebook Is the Most Powerful Board Exam Tool Nobody Uses
+      </h3>
+
+      <span class="gdl-related-link">
+        Read article →
+      </span>
+
+    </a>
+
+
+    <a
+      class="gdl-related-card"
+      href="/blog/weak-area-detection-board-exams">
+
+      <span class="gdl-related-type">
+        Learning Analytics
+      </span>
+
+      <h3>
+        How Weak Area Detection Actually Works
+      </h3>
+
+      <span class="gdl-related-link">
+        Read article →
+      </span>
+
+    </a>
+
+
+    <a
+      class="gdl-related-card gdl-related-card--class"
+      href="/classes/10">
+
+      <span class="gdl-related-type">
+        Class 10 Learning
+      </span>
+
+      <h3>
+        Class 10 AI Notes, Mock Tests & Question Bank on Genelis
+      </h3>
+
+      <span class="gdl-related-link">
+        Explore Class 10 →
+      </span>
+
+    </a>
+
+  </div>
+
+</aside>
+
+
+<!-- =====================================================
+     FINAL CTA
+===================================================== -->
+
+<section class="gdl-final-cta">
+
+  <div class="gdl-final-cta-content">
+
+    <span class="gdl-final-cta-kicker">
+      Personalised Class 10 Preparation
+    </span>
+
+    <h2>
+      Turn Your Maths Preparation Into a Measurable Learning Plan
+    </h2>
+
+    <p>
+      Use AI notes, mock tests, weak-area analysis, wrong-question tracking,
+      and personalised revision support inside Genelis.
+    </p>
+
+    <div class="gdl-final-cta-actions">
+
+      <a
+        class="gdl-final-cta-primary"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-maths&utm_content=cta-footer">
+
+        Try Genelis Free for Class 10
+      </a>
+
+      <a
+        class="gdl-final-cta-secondary"
+        href="/blog">
+
+        ← Back to Genelis Blog
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+        """
+    },
+    {
+    "slug": "class-12-maths-calculus-formula-sheet-board-exam-cbse",
+
+    "title": (
+        "Class 12 Maths 2026–27: The Complete Calculus Strategy "
+        "& Formula Sheet for 90+ Marks"
+    ),
+
+    "meta_title": (
+        "Class 12 Maths Formula Sheet, Calculus Strategy "
+        "& Board Exam Guide 2026–27 | Genelis"
+    ),
+
+    "meta_description": (
+        "The only Class 12 Maths guide you need — official chapter weightage, "
+        "Calculus preparation strategy, common mistakes that cost marks, and "
+        "a complete formula sheet covering all 6 units of CBSE Class 12 Maths "
+        "2026–27 including Calculus, Vectors, Algebra, and Probability."
+    ),
+
+    "excerpt": (
+        "Official chapter weightage, Calculus preparation strategy, common "
+        "mistakes that cost marks, and a complete formula sheet covering all "
+        "6 units of CBSE Class 12 Maths 2026–27."
+    ),
+
+    "class": "12",
+
+    "subject": "Mathematics",
+
+    "category": "Exam Preparation",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-10T09:00:00+05:30",
+
+    "updated_date": "2026-07-10T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": True,
+
+    "image": "/static/blog/class12-maths-og.jpg",
+
+    "image_alt": (
+        "CBSE Class 12 Maths Calculus strategy, chapter weightage, "
+        "formula sheet and board exam guide for 2026–27"
+    ),
+
+    "keywords": [
+        "class 12 maths formula sheet CBSE",
+        "class 12 maths chapter weightage 2026",
+        "CBSE class 12 maths calculus",
+        "class 12 maths integration formulas",
+        "class 12 maths important questions",
+        "class 12 maths vectors 3D geometry",
+        "class 12 maths study plan 2026–27",
+        "CBSE class 12 maths preparation",
+        "smart revision class 12 maths",
+        "AI notes class 12 maths"
+    ],
+
+    "faqs": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 12 Maths "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Calculus carries the highest weightage at 35 marks out of "
+                "80 theory marks in CBSE Class 12 Maths 2025–26. It covers "
+                "Continuity and Differentiability, Applications of Derivatives, "
+                "Integrals, Applications of Integrals, and Differential "
+                "Equations. Vectors and 3D Geometry follows at 14 marks, and "
+                "Algebra (Matrices and Determinants) at 10 marks. Together "
+                "these three units account for 59 out of 80 marks — nearly "
+                "74% of the theory paper."
+            )
+        },
+        {
+            "question": (
+                "What is the complete chapter-wise marks distribution for "
+                "Class 12 Maths CBSE 2025–26?"
+            ),
+            "answer": (
+                "The official unit-wise distribution (theory, 80 marks) is: "
+                "Calculus — 35 marks, Vectors and 3D Geometry — 14 marks, "
+                "Algebra (Matrices and Determinants) — 10 marks, Relations "
+                "and Functions (including Inverse Trigonometry) — 8 marks, "
+                "Probability — 8 marks, Linear Programming — 5 marks. Total "
+                "theory: 80 marks. Internal assessment: 20 marks (periodic "
+                "tests 10, mathematical portfolio 5, lab activities 5)."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare for Class 12 Maths Calculus for boards?"
+            ),
+            "answer": (
+                "Start with Continuity and Differentiability to build the "
+                "conceptual foundation, then move to Applications of "
+                "Derivatives (maxima/minima — very high frequency in board "
+                "papers), then Integrals (the most formula-dense chapter — "
+                "practise integration techniques daily), then Applications "
+                "of Integrals (area under curves), then Differential "
+                "Equations. For each chapter, read NCERT examples first, "
+                "then attempt NCERT exercises without looking at solutions, "
+                "then practise previous year questions. Never leave a wrong "
+                "answer just reviewed — categorise the error type and "
+                "reattempt independently."
+            )
+        },
+        {
+            "question": (
+                "What are the most important integration formulas for "
+                "Class 12 Maths CBSE?"
+            ),
+            "answer": (
+                "The must-know integration formulas for Class 12 CBSE boards "
+                "include: standard integrals (∫xⁿdx, ∫eˣdx, ∫1/x dx, "
+                "∫sinx dx, ∫cosx dx), integration by substitution, "
+                "integration by parts (∫u·dv = uv − ∫v·du with ILATE rule), "
+                "partial fractions for rational functions, definite integral "
+                "properties (especially ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a−x)dx), and "
+                "the area under curves formula. Differential equations require "
+                "separating variables and the integrating factor method for "
+                "linear equations."
+            )
+        },
+        {
+            "question": (
+                "Is Class 12 Maths difficult and how can I score 90% in it?"
+            ),
+            "answer": (
+                "Class 12 Maths is challenging but highly scorable if prepared "
+                "strategically. Students who score 90%+ consistently share four "
+                "habits: they start Calculus practice from July (not November), "
+                "they show every step in answers (CBSE uses step marking — "
+                "partial credit for correct steps even if the final answer is "
+                "wrong), they practise integration techniques daily rather than "
+                "in bursts, and they use mock test wrong answers as diagnostic "
+                "data rather than just noting the score. A topic-level accuracy "
+                "tracker showing which Calculus chapters are weak (not just "
+                "'I'm weak in Maths') enables targeted revision that produces "
+                "measurable improvement."
+            )
+        }
+    ],
+
+    "content": """
+    <!-- =====================================================
+     INTRODUCTION
+===================================================== -->
+
+<section>
+
+  <p>
+    Class 12 Maths is the subject where the preparation gap between students who score 90%+ and
+    students who score 65–70% is widest — and most predictable. It is not about intelligence.
+    It is not about which coaching class you attended. It comes down to two things: whether you
+    built your Calculus foundation early enough, and whether you treated wrong answers as data
+    points rather than disappointments.
+  </p>
+
+  <p>
+    <cite index="2-1">A significant portion — specifically 35 marks out of a total of 80 marks —
+    is dedicated to the Calculus unit. This indicates that Calculus is an essential topic, and
+    it would be wise to focus your initial study efforts on mastering this area.</cite> That is
+    nearly 44% of the entire theory paper in a single unit. No other subject in Class 12 has
+    this level of concentration in one unit. And no other unit rewards consistent daily practice
+    as reliably as Calculus does.
+  </p>
+
+  <p>
+    This guide is built to be the one resource you return to across your entire Class 12 Maths
+    preparation. The first half is strategy — where the marks come from, how to build Calculus
+    progressively, the mistakes that cost students the most marks, and how a data-driven
+    approach to wrong answers changes your score trajectory. The second half is your complete
+    Class 12 Maths formula sheet — every formula across all 6 units, laid out clearly so you
+    can study it, reproduce it from memory, and own it before February arrives.
+  </p>
+
+</section>
+
+
+<!-- =====================================================
+     UNIT-WISE MARKS DISTRIBUTION
+===================================================== -->
+
+<section>
+
+  <h2 id="class-12-maths-weightage">
+    The Mark Map — Where 80 Marks Are Actually Hiding
+  </h2>
+
+  <p>
+    <cite index="6-1">Unit III Calculus covers Continuity, Differentiability, Application of
+    Derivatives, Integrals, Application of Integrals, and Differential Equations — 35 marks.
+    Unit IV Vectors and 3D Geometry — 14 marks. Unit II Algebra — 10 marks. Unit V Linear
+    Programming — 5 marks. Unit VI Probability — 8 marks. Unit I Relations and Functions —
+    8 marks.</cite> Here is what that distribution looks like as a preparation map:
+  </p>
+
+  <div class="vis-wrap">
+
+    <div class="vis-title">
+      Class 12 Maths — unit-wise marks distribution (theory, 80 marks) 2025–26
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        <strong>Calculus</strong>
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:43.75%;background:#2a78d6">
+          43.75% of paper
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#2a78d6">
+        <strong>35 marks ★</strong>
+      </div>
+
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        Vectors & 3D Geometry
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:17.5%;background:#1baf7a">
+          17.5%
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#1baf7a">
+        14 marks
+      </div>
+
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        Algebra (Matrices, Determinants)
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:12.5%;background:#4a90d9">
+          12.5%
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#4a90d9">
+        10 marks
+      </div>
+
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        Relations & Functions
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:10%;background:#eda100">
+          10%
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#eda100">
+        8 marks
+      </div>
+
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        Probability
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:10%;background:#8b6fcb">
+          10%
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#8b6fcb">
+        8 marks
+      </div>
+
+    </div>
+
+    <div class="bar-row">
+
+      <div class="bar-label">
+        Linear Programming
+      </div>
+
+      <div class="bar-track">
+        <div
+          class="bar-fill"
+          style="width:6.25%;background:#e04848">
+          6.25%
+        </div>
+      </div>
+
+      <div class="bar-marks" style="color:#e04848">
+        5 marks
+      </div>
+
+    </div>
+
+    <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+      Source: CBSE official 2025–26 blueprint.
+      <cite index="3-1">CBSE Class 12 Maths Weightage
+      2026 assigns 80 marks to theory and 20 to internal assessment. Major scoring chapters
+      include Calculus (35 marks), Vectors & 3D Geometry (14), and Algebra (10).</cite>
+    </p>
+
+  </div>
+
+  <p>
+    <strong>The strategic takeaway:</strong> Calculus, Vectors & 3D, and Algebra together
+    account for <strong>59 out of 80 marks</strong> — 73.75% of the entire theory paper.
+    <cite index="5-1">Students should focus on Vectors and Three Dimensional Geometry and
+    Algebra, as these units contribute significantly to the final score.</cite> Linear
+    Programming (5 marks) is the most time-efficient unit in the paper — the question types
+    are formulaic and highly predictable. Secure it fully before investing more time in the
+    complex chapters.
+  </p>
+
+  <div class="highlight-box">
+    💡 <cite index="4-1">Internal assessment contributes 20 marks and evaluates consistency
+    and application skills throughout the year — periodic tests (10 marks), mathematical
+    portfolio (5 marks), and lab activities (5 marks).</cite> These 20 marks are the most
+    reliable marks in the entire subject — within your control, unaffected by exam-day
+    pressure. Treat every periodic test, portfolio submission, and lab session as seriously
+    as a board question.
+  </div>
+
+</section>
+<!-- =====================================================
+     CALCULUS SEQUENCE
+===================================================== -->
+
+<section>
+
+  <h2 id="calculus-sequence">
+    The Calculus Sequence — Study It in This Exact Order
+  </h2>
+
+  <p>
+    Calculus is not five independent chapters. It is a dependency chain — each chapter
+    requires the previous one as its foundation. Students who study Integrals without
+    understanding Differentiation, or attempt Differential Equations without solid
+    Integral techniques, consistently hit a wall that feels like the chapter is too hard.
+    It is not too hard. It is being studied out of order.
+  </p>
+
+  <p>
+    <cite index="5-1">Begin your preparation with Calculus, as it carries the highest marks
+    in the CBSE Class 12 Maths exam. Covering high-weightage chapters early ensures better
+    score potential.</cite> Within Calculus, study the 5 chapters in this sequence:
+  </p>
+
+  <div class="sequence-flow">
+
+    <div class="sequence-card">
+
+      <span class="sequence-step">
+        Chapter 1
+      </span>
+
+      <h3>
+        Continuity & Differentiability
+      </h3>
+
+      <p>
+        Foundation — chain rule, product rule, implicit
+      </p>
+
+    </div>
+
+    <div class="sequence-arrow">
+      →
+    </div>
+
+    <div class="sequence-card">
+
+      <span class="sequence-step">
+        Chapter 2
+      </span>
+
+      <h3>
+        Applications of Derivatives
+      </h3>
+
+      <p>
+        Maxima, minima, rate of change — most board-tested
+      </p>
+
+    </div>
+
+    <div class="sequence-arrow">
+      →
+    </div>
+
+    <div class="sequence-card">
+
+      <span class="sequence-step">
+        Chapter 3
+      </span>
+
+      <h3>
+        Integrals
+      </h3>
+
+      <p>
+        Most formula-dense — practise techniques daily
+      </p>
+
+    </div>
+
+    <div class="sequence-arrow">
+      →
+    </div>
+
+    <div class="sequence-card">
+
+      <span class="sequence-step">
+        Chapter 4
+      </span>
+
+      <h3>
+        Applications of Integrals
+      </h3>
+
+      <p>
+        Area under curves — diagram first, always
+      </p>
+
+    </div>
+
+    <div class="sequence-arrow">
+      →
+    </div>
+
+    <div class="sequence-card">
+
+      <span class="sequence-step">
+        Chapter 5
+      </span>
+
+      <h3>
+        Differential Equations
+      </h3>
+
+      <p>
+        Variable separable + integrating factor methods
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     CALCULUS PREPARATION FRAMEWORK
+===================================================== -->
+
+<section class="gdl-prep-section">
+
+  <div class="gdl-section-kicker">
+    Calculus Preparation Framework
+  </div>
+
+  <div class="gdl-prep-flow">
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        01
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Differentiation before Integration — always
+        </h3>
+
+        <p>
+          Integration is the reverse of differentiation. If your differentiation is shaky —
+          chain rule errors, product rule confusion, implicit differentiation gaps — your
+          integration will fail on the same concepts. Spend the first 3 weeks of Calculus prep
+          exclusively on Chapter 1 until every differentiation technique is automatic.
+          Then move to Chapter 2, then Integration.
+        </p>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        02
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Integration techniques need daily repetition — not occasional bursts
+        </h3>
+
+        <p>
+          <cite index="4-1">Create unit-wise formula sheets: Calculus (50+ formulas).</cite>
+          Integration has more formulas than any other Class 12 Maths chapter. The students who
+          score well in Integration are not the ones who studied it hardest in October — they are
+          the ones who practised 5–8 integration problems every single day from August to
+          February. Fluency in technique selection (substitution vs by parts vs partial fractions)
+          only comes from volume.
+        </p>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        03
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Applications of Derivatives — the most frequently tested Calculus chapter
+        </h3>
+
+        <p>
+          Maxima and minima, rate of change, increasing and decreasing functions, tangents
+          and normals — these appear in board papers every single year in some form.
+          <cite index="6-1">The main subjects in the Maths syllabus to concentrate on are
+          Calculus, Algebra, and 3D Geometry.</cite> Within Calculus, Applications of Derivatives
+          is the chapter that most directly tests application over recall — practise it with
+          real word problems, not just textbook exercises.
+        </p>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        04
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Show every step — CBSE uses step marking throughout
+        </h3>
+
+        <p>
+          In a 5-mark Calculus question — say, evaluating a definite integral — marks are
+          awarded per step: setting up the integral (1), applying the technique (1–2), evaluating
+          limits (1), final answer with correct form (1). A student who makes an arithmetic error
+          in the final step but shows all working correctly earns 4 out of 5 marks. A student who
+          writes only the final answer earns 1 mark. Show everything. Always.
+        </p>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        05
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Linear Programming — 5 marks, 3 days, full marks
+        </h3>
+
+        <p>
+          Linear Programming is the most predictable unit in the paper. Every question
+          follows the same structure: define variables, write constraints, draw feasible region,
+          identify corner points, evaluate objective function. Master the graphing method once,
+          practise 8–10 problems, and these 5 marks are essentially secured.
+          Don't over-invest here — 3 days of focused practice is sufficient.
+        </p>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-prep-item">
+
+      <div class="gdl-prep-index">
+        06
+      </div>
+
+      <div class="gdl-prep-content">
+
+        <h3>
+          Vectors & 3D — the highest-return non-Calculus unit
+        </h3>
+
+        <p>
+          At 14 marks, Vectors and 3D Geometry is the second-highest unit in the paper.
+          The formulas are numerous but highly learnable with a good formula sheet. Direction
+          cosines, dot product, cross product, lines and planes in 3D — practise these with
+          the specific formula for each question type clearly in mind. A student who has
+          memorised the 3D geometry formulas cold can solve these questions in half the time
+          of a student who derives them mid-exam.
+        </p>
+
+      </div>
+
+    </article>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     COMMON MISTAKES
+===================================================== -->
+
+<section class="gdl-mistakes-section">
+
+  <div class="gdl-section-kicker gdl-section-kicker--danger">
+    Common Score-Loss Patterns
+  </div>
+
+  <h2 id="class-12-maths-common-mistakes">
+    Five Mistakes That Separate 70% Students from 90%+ Students in Class 12 Maths
+  </h2>
+
+  <div class="gdl-mistake-layout">
+
+    <article class="gdl-mistake-item">
+
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">01</span>
+        <span class="gdl-mistake-label">Mistake 1</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+
+        <h3>
+          Starting Calculus too late
+        </h3>
+
+        <p>
+          Students who begin Calculus preparation in November — when school has finished the
+          syllabus — have 10–12 weeks for a unit worth 35 marks. Students who begin in July have
+          24–28 weeks. The additional 14 weeks don't just give more time — they allow the
+          repetition cycles that build integration fluency. Calculus fluency cannot be rushed.
+        </p>
+
+        <div class="gdl-mistake-fix">
+
+          <span class="gdl-mistake-fix-label">
+            Fix
+          </span>
+
+          <p>
+            Begin Continuity and Differentiability in July. Practise integration daily from
+            August. Calculus should be your first prepared unit, not your last.
+          </p>
+
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-mistake-item">
+
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">02</span>
+        <span class="gdl-mistake-label">Mistake 2</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+
+        <h3>
+          Reading integration solutions instead of attempting them
+        </h3>
+
+        <p>
+          Reading a worked integration problem and thinking "I understand this method" is
+          the most common false confidence trap in Class 12 Maths. Understanding a method
+          when you can see it and being able to select and apply it when you can't see it are
+          completely different cognitive skills. One is recognition. The other is retrieval.
+          Boards test retrieval.
+        </p>
+
+        <div class="gdl-mistake-fix">
+
+          <span class="gdl-mistake-fix-label">
+            Fix
+          </span>
+
+          <p>
+            Cover the solution. Attempt the integral. Then check. Every time you read before
+            attempting, you lose the most valuable practice rep available.
+          </p>
+
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-mistake-item">
+
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">03</span>
+        <span class="gdl-mistake-label">Mistake 3</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+
+        <h3>
+          Neglecting Determinants and Matrices until the last month
+        </h3>
+
+        <p>
+          Algebra (Matrices and Determinants) carries 10 marks and is systematically
+          underrevised by most Class 12 students because it "comes early in the textbook
+          and feels familiar." Finding inverse by elementary row operations, properties of
+          determinants, and consistency of a system of equations — these require practice,
+          not familiarity.
+        </p>
+
+        <div class="gdl-mistake-fix">
+
+          <span class="gdl-mistake-fix-label">
+            Fix
+          </span>
+
+          <p>
+            Include one Algebra problem set per week in the rotation from September onwards.
+            10 marks should never be treated as an afterthought.
+          </p>
+
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-mistake-item">
+
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">04</span>
+        <span class="gdl-mistake-label">Mistake 4</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+
+        <h3>
+          Skipping Differential Equations because "it seems hard"
+        </h3>
+
+        <p>
+          Differential Equations carries 4–6 marks in the board paper and has exactly
+          two methods students need: variable separable and integrating factor for linear
+          first-order DEs. The chapter feels hard when approached without solid Integration
+          — but if integration is solid, the DE chapter reduces to method identification
+          + integration execution.
+        </p>
+
+        <div class="gdl-mistake-fix">
+
+          <span class="gdl-mistake-fix-label">
+            Fix
+          </span>
+
+          <p>
+            Don't skip it. Solidify Integration first, then approach DE. Practise 5 questions
+            each of variable separable and integrating factor. These marks are fully learnable.
+          </p>
+
+        </div>
+
+      </div>
+
+    </article>
+
+
+    <article class="gdl-mistake-item">
+
+      <div class="gdl-mistake-meta">
+        <span class="gdl-mistake-number">05</span>
+        <span class="gdl-mistake-label">Mistake 5</span>
+      </div>
+
+      <div class="gdl-mistake-body">
+
+        <h3>
+          Treating Probability as an easy chapter that needs no practice
+        </h3>
+
+        <p>
+          Probability (8 marks) includes Bayes' Theorem, conditional probability, and
+          probability distributions — topics that are conceptually subtle and require careful
+          setup. Students who assume familiarity from Class 10 Probability consistently
+          lose 3–4 marks in this chapter to incorrect event definition or incorrect
+          conditional probability application.
+        </p>
+
+        <div class="gdl-mistake-fix">
+
+          <span class="gdl-mistake-fix-label">
+            Fix
+          </span>
+
+          <p>
+            Practice Bayes' Theorem problems specifically. Set up the sample space and
+            conditional events before applying the formula — the formula is easy, the setup
+            is where errors occur.
+          </p>
+
+        </div>
+
+      </div>
+
+    </article>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     MOCK SCORE: NOISE VS SIGNAL
+===================================================== -->
+
+<section class="gdl-analysis-section">
+
+  <div class="gdl-section-kicker">
+    Performance Analysis
+  </div>
+
+  <h2 id="mock-score-analysis">
+    Your Maths Mock Score Is Telling You the Wrong Thing
+  </h2>
+
+  <p class="gdl-section-intro">
+    A Class 12 Maths mock test score of 51 out of 80 contains almost no useful information
+    for directing your next study session. What it tells you: you lost 29 marks. What it
+    does not tell you: whether those 29 marks came from Calculus errors, Vectors
+    misidentification, Algebra calculation slips, or Probability setup failures.
+    Without that breakdown, the next session goes wherever feels most urgent — not
+    wherever data says it should go.
+  </p>
+
+  <div class="gdl-signal-grid">
+
+    <article class="gdl-signal-card gdl-signal-card--noise">
+
+      <div class="gdl-signal-label">
+        Noise
+      </div>
+
+      <div class="gdl-signal-value">
+        51 / 80
+      </div>
+
+      <p>
+        Your mock test score. Tells you 29 marks were lost. Tells you nothing about which units,
+        which error types, or what tomorrow's session should target.
+      </p>
+
+    </article>
+
+
+    <article class="gdl-signal-card gdl-signal-card--signal">
+
+      <div class="gdl-signal-label">
+        Signal
+      </div>
+
+      <div class="gdl-signal-value">
+        Chapter map
+      </div>
+
+      <p>
+        Integration 44% · Differential Equations 38% · Vectors 79% · Probability 91%.
+        Now you know exactly where tomorrow's preparation should go.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <div class="gdl-accuracy-panel">
+
+    <div class="gdl-accuracy-header">
+
+      <span class="gdl-accuracy-eyebrow">
+        Genelis Performance Map
+      </span>
+
+      <h3>
+        What a Genelis weak area map looks like after a Class 12 Maths mock
+      </h3>
+
+    </div>
+
+    <div class="gdl-accuracy-list">
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Probability — Bayes' theorem
+        </div>
+
+        <div class="gdl-accuracy-track">
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+            style="width:91%">
+          </div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+          91%
+        </div>
+
+      </div>
+
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Vectors — dot and cross product
+        </div>
+
+        <div class="gdl-accuracy-track">
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--good"
+            style="width:79%">
+          </div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--good">
+          79%
+        </div>
+
+      </div>
+
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Calculus — Integration by parts
+        </div>
+
+        <div class="gdl-accuracy-track">
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+            style="width:44%">
+          </div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+          44%
+        </div>
+
+      </div>
+
+
+      <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+          Calculus — Differential Equations
+        </div>
+
+        <div class="gdl-accuracy-track">
+          <div
+            class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+            style="width:38%">
+          </div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+          38%
+        </div>
+
+      </div>
+
+    </div>
+
+    <p class="gdl-accuracy-note">
+      Next session target: Differential Equations (38%) — not Probability (91%).
+      Every session directed by data, not comfort. Genelis updates this map after
+      every mock test and practice session automatically.
+    </p>
+
+  </div>
+
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. After every Class 12 Maths mock
+    test or practice session, Genelis builds this chapter-level accuracy map automatically —
+    tracking performance separately across all Calculus chapters, Vectors, Algebra,
+    Relations & Functions, Probability, and Linear Programming. Every wrong answer is logged
+    to your <strong>wrong-question notebook</strong>, tagged by chapter and question type,
+    and queued for reattempt through the <strong>Genelis Learning Loop™</strong>.
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt Maths mock</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Chapter-level gap detected</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>AI notes for weak concept</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>Wrong Qs auto-logged</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt those questions</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Gap closed. Map updates. ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-maths&utm_content=cta-inline">
+    Start your personalised Class 12 Maths study plan on Genelis — free →
+  </a>
+
+</section>
+<!-- =====================================================
+     COMPLETE FORMULA SHEET
+===================================================== -->
+
+<section class="gdl-formula-section">
+
+  <div class="gdl-section-kicker gdl-section-kicker--formula">
+    Complete Formula Reference
+  </div>
+
+  <h2 id="complete-class-12-maths-formula-sheet">
+    Complete Class 12 Maths Formula Sheet — All 6 Units, Every Formula That Matters
+  </h2>
+
+  <p class="gdl-section-intro">
+    This is your comprehensive formula reference for every unit in CBSE Class 12 Maths
+    2025–26. The method that works: read each unit's formulas carefully, then close this
+    page and write every formula from memory. Check what you missed. Return to those
+    specifically. Repeat this weekly from August. <cite index="9-1">Write important formulas,
+    identities, theorems and shortcuts chapter-wise. Revise this regularly to strengthen
+    memory and reduce revision time before exams.</cite> The formulas you can write from
+    memory in under 10 seconds are the ones that will never cost you marks in February.
+  </p>
+
+  <nav class="gdl-formula-nav" aria-label="Class 12 Maths formula units">
+
+    <a href="#formula-calculus">
+      <span class="gdl-formula-nav-number">01</span>
+      <span>Calculus</span>
+    </a>
+
+    <a href="#formula-vectors-3d">
+      <span class="gdl-formula-nav-number">02</span>
+      <span>Vectors & 3D Geometry</span>
+    </a>
+
+    <a href="#formula-algebra-class12">
+      <span class="gdl-formula-nav-number">03</span>
+      <span>Algebra</span>
+    </a>
+
+    <a href="#formula-relations-functions">
+      <span class="gdl-formula-nav-number">04</span>
+      <span>Relations & Functions</span>
+    </a>
+
+    <a href="#formula-probability-class12">
+      <span class="gdl-formula-nav-number">05</span>
+      <span>Probability</span>
+    </a>
+
+    <a href="#formula-linear-programming">
+      <span class="gdl-formula-nav-number">06</span>
+      <span>Linear Programming</span>
+    </a>
+
+  </nav>
+
+  <div class="gdl-formula-guide">
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Read</span>
+      <p>Understand what each formula does and when it applies.</p>
+    </div>
+
+    <div class="gdl-formula-guide-arrow">→</div>
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Recall</span>
+      <p>Close the page and reproduce the formula from memory.</p>
+    </div>
+
+    <div class="gdl-formula-guide-arrow">→</div>
+
+    <div class="gdl-formula-guide-item">
+      <span class="gdl-formula-guide-label">Apply</span>
+      <p>Use the formula independently in different question types.</p>
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 1: CALCULUS
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-calculus">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      01
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>
+        Calculus — Continuity, Differentiation, Integration, Applications, Differential Equations
+      </h3>
+      <p>
+        The highest-weightage unit in the Class 12 Maths theory paper
+      </p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      35 marks ★ Highest unit
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Continuity & Differentiability
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Continuity condition
+          </div>
+
+          <div class="gdl-formula-expression">
+            f is continuous at x = a if: lim(x→a) f(x) = f(a)
+
+            <span class="gdl-formula-note">
+              Left-hand limit = Right-hand limit = f(a). Check all three separately.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Chain rule
+          </div>
+
+          <div class="gdl-formula-expression">
+            dy/dx = (dy/du) × (du/dx)
+
+            <span class="gdl-formula-note">
+              For composite functions y = f(g(x)). Most common differentiation technique in board papers.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Product rule
+          </div>
+
+          <div class="gdl-formula-expression">
+            d(uv)/dx = u(dv/dx) + v(du/dx)
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Quotient rule
+          </div>
+
+          <div class="gdl-formula-expression">
+            d(u/v)/dx = [v(du/dx) − u(dv/dx)] / v²
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Key derivatives
+          </div>
+
+          <div class="gdl-formula-expression">
+            d(xⁿ)/dx = nxⁿ⁻¹
+            &nbsp;·&nbsp;
+            d(eˣ)/dx = eˣ
+            &nbsp;·&nbsp;
+            d(aˣ)/dx = aˣ·ln a
+            &nbsp;·&nbsp;
+            d(ln x)/dx = 1/x
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Trig derivatives
+          </div>
+
+          <div class="gdl-formula-expression">
+            d(sin x)/dx = cos x
+            &nbsp;·&nbsp;
+            d(cos x)/dx = −sin x
+            &nbsp;·&nbsp;
+            d(tan x)/dx = sec²x
+
+            <span class="gdl-formula-note">
+              Also: d(cosec x)/dx = −cosec x·cot x
+              &nbsp;·&nbsp;
+              d(sec x)/dx = sec x·tan x
+              &nbsp;·&nbsp;
+              d(cot x)/dx = −cosec²x
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Inverse trig derivatives
+          </div>
+
+          <div class="gdl-formula-expression">
+            d(sin⁻¹x)/dx = 1/√(1−x²)
+            &nbsp;·&nbsp;
+            d(cos⁻¹x)/dx = −1/√(1−x²)
+            &nbsp;·&nbsp;
+            d(tan⁻¹x)/dx = 1/(1+x²)
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Implicit differentiation
+          </div>
+
+          <div class="gdl-formula-expression">
+            Differentiate both sides w.r.t. x; treat y as a function of x using chain rule
+
+            <span class="gdl-formula-note">
+              E.g. d(y²)/dx = 2y·(dy/dx). Collect dy/dx terms on one side and simplify.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Logarithmic differentiation
+          </div>
+
+          <div class="gdl-formula-expression">
+            Take ln both sides → differentiate → multiply by y
+
+            <span class="gdl-formula-note">
+              Use when function is of the form [f(x)]^g(x) e.g. xˣ, (sin x)^cos x
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Applications of Derivatives
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Rate of change
+          </div>
+
+          <div class="gdl-formula-expression">
+            Rate of change of y w.r.t. x = dy/dx
+
+            <span class="gdl-formula-note">
+              At a specific point, substitute the value of x after differentiating. Most common 2-mark question type.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Increasing / decreasing
+          </div>
+
+          <div class="gdl-formula-expression">
+            f is increasing on [a,b] if f′(x) &gt; 0 for all x in (a,b)
+
+            <span class="gdl-formula-note">
+              f is decreasing if f′(x) &lt; 0. f is constant if f′(x) = 0.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Tangent equation
+          </div>
+
+          <div class="gdl-formula-expression">
+            y − y₁ = m(x − x₁) &nbsp; where m = dy/dx at (x₁, y₁)
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Normal equation
+          </div>
+
+          <div class="gdl-formula-expression">
+            y − y₁ = (−1/m)(x − x₁)
+
+            <span class="gdl-formula-note">
+              Normal is perpendicular to tangent; slope = −1/m
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Maxima / Minima (First Derivative Test)
+          </div>
+
+          <div class="gdl-formula-expression">
+            Critical point: f′(x) = 0 or f′(x) undefined
+
+            <span class="gdl-formula-note">
+              Local max if f′ changes from + to − at critical point. Local min if f′ changes from − to +.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Second Derivative Test
+          </div>
+
+          <div class="gdl-formula-expression">
+            f′(c) = 0 and f″(c) &lt; 0 ⟹ local maximum at c
+
+            <span class="gdl-formula-note">
+              f′(c) = 0 and f″(c) &gt; 0 ⟹ local minimum. f″(c) = 0 ⟹ test inconclusive, use first derivative test.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Absolute max / min on [a,b]
+          </div>
+
+          <div class="gdl-formula-expression">
+            Evaluate f at all critical points in (a,b) and at endpoints f(a), f(b). Compare values.
+
+            <span class="gdl-formula-note">
+              This is the closed interval method — always check endpoints for absolute extrema.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+        <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Integrals — Standard Formulas
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Power rule
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫xⁿ dx = xⁿ⁺¹/(n+1) + C &nbsp; (n ≠ −1)
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Exponential & log
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫eˣ dx = eˣ + C
+            &nbsp;·&nbsp;
+            ∫(1/x) dx = ln|x| + C
+            &nbsp;·&nbsp;
+            ∫aˣ dx = aˣ/ln a + C
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Trig integrals
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫sin x dx = −cos x + C
+            &nbsp;·&nbsp;
+            ∫cos x dx = sin x + C
+            &nbsp;·&nbsp;
+            ∫sec²x dx = tan x + C
+
+            <span class="gdl-formula-note">
+              Also: ∫cosec²x dx = −cot x + C
+              &nbsp;·&nbsp;
+              ∫sec x·tan x dx = sec x + C
+              &nbsp;·&nbsp;
+              ∫cosec x·cot x dx = −cosec x + C
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Special forms
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫1/(a²+x²) dx = (1/a)tan⁻¹(x/a) + C
+            &nbsp;·&nbsp;
+            ∫1/√(a²−x²) dx = sin⁻¹(x/a) + C
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            ∫√(a²−x²) dx
+          </div>
+
+          <div class="gdl-formula-expression">
+            (x/2)√(a²−x²) + (a²/2)sin⁻¹(x/a) + C
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Integration by substitution
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫f(g(x))·g′(x) dx = ∫f(u) du &nbsp; where u = g(x)
+
+            <span class="gdl-formula-note">
+              Identify the inner function, substitute, integrate, reverse substitute.
+              Works when the derivative of inner function is visible outside.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Integration by parts
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫u·v dx = u·∫v dx − ∫[u′·∫v dx] dx
+
+            <span class="gdl-formula-note">
+              Choose u using ILATE rule (see below). The first function u is always
+              the one appearing earlier in ILATE.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <div class="ilate-row">
+
+        <div class="ilate-cell" style="background:#e3f2fd">
+          <div class="letter" style="color:#1565c0">I</div>
+          <p>Inverse trig functions</p>
+        </div>
+
+        <div class="ilate-cell" style="background:#e8f5e9">
+          <div class="letter" style="color:#1b5e20">L</div>
+          <p>Logarithmic functions</p>
+        </div>
+
+        <div class="ilate-cell" style="background:#fff3e0">
+          <div class="letter" style="color:#e65100">A</div>
+          <p>Algebraic functions (xⁿ)</p>
+        </div>
+
+        <div class="ilate-cell" style="background:#fce4ec">
+          <div class="letter" style="color:#c62828">T</div>
+          <p>Trigonometric functions</p>
+        </div>
+
+        <div class="ilate-cell" style="background:#f3e5f5">
+          <div class="letter" style="color:#6a1b9a">E</div>
+          <p>Exponential functions (eˣ)</p>
+        </div>
+
+      </div>
+
+      <p style="font-size:11px;color:#888;margin:4px 0 10px">
+        ILATE rule: choose u = the function that appears first in this order.
+        Choose dv = the remaining function.
+      </p>
+
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Partial fractions — distinct linear factors
+          </div>
+
+          <div class="gdl-formula-expression">
+            P(x)/[(x−a)(x−b)] = A/(x−a) + B/(x−b)
+
+            <span class="gdl-formula-note">
+              Find A and B by substituting x = a and x = b respectively.
+              Then integrate each term separately.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Partial fractions — repeated linear factor
+          </div>
+
+          <div class="gdl-formula-expression">
+            P(x)/(x−a)² = A/(x−a) + B/(x−a)²
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Definite integral — fundamental theorem
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫ₐᵇ f(x) dx = F(b) − F(a) &nbsp; where F′(x) = f(x)
+
+            <span class="gdl-formula-note">
+              Evaluate the antiderivative at upper limit, subtract value at lower limit.
+              Don't forget the modulus when needed.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Key definite integral property
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫₀ᵃ f(x) dx = ∫₀ᵃ f(a−x) dx
+
+            <span class="gdl-formula-note">
+              This property simplifies many definite integrals dramatically.
+              Appears in board papers repeatedly.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Even / odd function property
+          </div>
+
+          <div class="gdl-formula-expression">
+            ∫₋ₐᵃ f(x) dx = 2∫₀ᵃ f(x) dx if f is even (f(−x)=f(x))
+
+            <span class="gdl-formula-note">
+              ∫₋ₐᵃ f(x) dx = 0 if f is odd (f(−x) = −f(x))
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Applications of Integrals
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area under a curve
+          </div>
+
+          <div class="gdl-formula-expression">
+            A = ∫ₐᵇ |f(x)| dx
+
+            <span class="gdl-formula-note">
+              Draw the diagram first — always. Identify which curve is above which.
+              Take modulus when curve dips below x-axis.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area between two curves
+          </div>
+
+          <div class="gdl-formula-expression">
+            A = ∫ₐᵇ [f(x) − g(x)] dx &nbsp; where f(x) ≥ g(x) on [a,b]
+
+            <span class="gdl-formula-note">
+              Find intersection points first (these are the limits a and b).
+              Always draw a rough sketch before integrating.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Differential Equations
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Order and degree
+          </div>
+
+          <div class="gdl-formula-expression">
+            Order = highest derivative present. Degree = power of highest derivative
+            (after rationalising).
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Variable separable method
+          </div>
+
+          <div class="gdl-formula-expression">
+            dy/dx = f(x)·g(y) ⟹ dy/g(y) = f(x)dx ⟹ integrate both sides
+
+            <span class="gdl-formula-note">
+              Separate all y terms (with dy) to one side and all x terms
+              (with dx) to the other, then integrate.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Linear DE — integrating factor
+          </div>
+
+          <div class="gdl-formula-expression">
+            dy/dx + P(x)·y = Q(x)
+
+            <span class="gdl-formula-note">
+              Integrating Factor (IF) = e^∫P(x)dx.
+              Solution: y·IF = ∫Q(x)·IF dx + C.
+              This method is used for every first-order linear DE.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 2: VECTORS & THREE-DIMENSIONAL GEOMETRY
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-vectors-3d">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      02
+    </div>
+
+    <div class="gdl-formula-unit-title">
+      <h3>
+        Vectors & Three-Dimensional Geometry
+      </h3>
+      <p>
+        Formula-intensive and the highest-return non-Calculus unit
+      </p>
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      14 marks
+    </div>
+
+  </div>
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Vectors
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Magnitude
+          </div>
+
+          <div class="gdl-formula-expression">
+            |a⃗| = √(a₁² + a₂² + a₃²) &nbsp; for a⃗ = a₁î + a₂ĵ + a₃k̂
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Unit vector
+          </div>
+
+          <div class="gdl-formula-expression">
+            â = a⃗/|a⃗|
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Dot product
+          </div>
+
+          <div class="gdl-formula-expression">
+            a⃗·b⃗ = |a⃗||b⃗|cos θ = a₁b₁ + a₂b₂ + a₃b₃
+
+            <span class="gdl-formula-note">
+              a⃗ ⊥ b⃗ if and only if a⃗·b⃗ = 0.
+              For parallel vectors: a⃗·b⃗ = |a⃗||b⃗|.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Cross product (magnitude)
+          </div>
+
+          <div class="gdl-formula-expression">
+            |a⃗ × b⃗| = |a⃗||b⃗|sin θ
+
+            <span class="gdl-formula-note">
+              a⃗ ∥ b⃗ if and only if a⃗ × b⃗ = 0⃗.
+              Direction: right-hand rule (perpendicular to both vectors).
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Cross product (component form)
+          </div>
+
+          <div class="gdl-formula-expression">
+            a⃗ × b⃗ = |î &nbsp; ĵ &nbsp; k̂ / a₁ a₂ a₃ / b₁ b₂ b₃|
+            (3×3 determinant)
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Area of parallelogram
+          </div>
+
+          <div class="gdl-formula-expression">
+            Area = |a⃗ × b⃗|
+
+            <span class="gdl-formula-note">
+              Area of triangle with sides a⃗ and b⃗ = ½|a⃗ × b⃗|
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Projection of a⃗ on b⃗
+          </div>
+
+          <div class="gdl-formula-expression">
+            Projection = (a⃗·b⃗)/|b⃗|
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Three-Dimensional Geometry
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Direction cosines
+          </div>
+
+          <div class="gdl-formula-expression">
+            l = cos α, m = cos β, n = cos γ
+            &nbsp; and &nbsp;
+            l² + m² + n² = 1
+
+            <span class="gdl-formula-note">
+              α, β, γ are angles the line makes with x, y, z axes respectively.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Equation of line (vector form)
+          </div>
+
+          <div class="gdl-formula-expression">
+            r⃗ = a⃗ + λb⃗
+
+            <span class="gdl-formula-note">
+              a⃗ = position vector of a point on line,
+              b⃗ = direction vector, λ ∈ ℝ
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Equation of line (Cartesian)
+          </div>
+
+          <div class="gdl-formula-expression">
+            (x−x₁)/l = (y−y₁)/m = (z−z₁)/n
+
+            <span class="gdl-formula-note">
+              Where (l,m,n) are direction ratios and
+              (x₁,y₁,z₁) is a point on the line.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Distance between two points in 3D
+          </div>
+
+          <div class="gdl-formula-expression">
+            d = √[(x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²]
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Equation of plane (normal form)
+          </div>
+
+          <div class="gdl-formula-expression">
+            r⃗·n̂ = d &nbsp; or &nbsp; ax + by + cz = d
+
+            <span class="gdl-formula-note">
+              (a,b,c) = direction ratios of normal to the plane.
+              d = perpendicular distance from origin.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Plane through 3 points
+          </div>
+
+          <div class="gdl-formula-expression">
+            |(x−x₁) (y−y₁) (z−z₁) /
+            (x₂−x₁) (y₂−y₁) (z₂−z₁) /
+            (x₃−x₁) (y₃−y₁) (z₃−z₁)| = 0
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Distance — point to plane
+          </div>
+
+          <div class="gdl-formula-expression">
+            d = |ax₁ + by₁ + cz₁ − d| / √(a²+b²+c²)
+
+            <span class="gdl-formula-note">
+              For point (x₁,y₁,z₁) and plane ax+by+cz = d.
+              This formula is directly tested in board papers.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Angle between two planes
+          </div>
+
+          <div class="gdl-formula-expression">
+            cos θ =
+            |a₁a₂ + b₁b₂ + c₁c₂| /
+            √(a₁²+b₁²+c₁²) × √(a₂²+b₂²+c₂²)
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<!-- =====================================================
+     UNIT 3 : ALGEBRA
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-algebra-class12">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            03
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Algebra — Matrices & Determinants
+            </h3>
+
+            <p>
+                High-scoring unit with predictable question patterns
+            </p>
+
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            10 Marks
+        </div>
+
+    </div>
+
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Matrices
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Order of Matrix
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        m × n (rows × columns)
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Matrix Addition
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        Possible only when both matrices have the same order.
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Matrix Multiplication
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        If A is m×n and B is n×p,
+                        then AB exists and is of order m×p.
+
+                        <span class="gdl-formula-note">
+                            Remember: Matrix multiplication is NOT commutative.
+                            AB ≠ BA in general.
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Transpose
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        (AB)<sup>T</sup>
+
+                        =
+
+                        B<sup>T</sup>A<sup>T</sup>
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Inverse Matrix
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        A<sup>-1</sup>
+
+                        =
+
+                        adj(A) / |A|
+
+                        <span class="gdl-formula-note">
+
+                            Exists only if |A| ≠ 0.
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Determinants
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Second Order
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        |A|
+
+                        =
+
+                        ad − bc
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Singular Matrix
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        |A| = 0
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Non-Singular Matrix
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        |A| ≠ 0
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Property
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        |AB|
+
+                        =
+
+                        |A||B|
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Transpose Property
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        |A|
+
+                        =
+
+                        |A<sup>T</sup>|
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        System of Linear Equations
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Consistent
+
+                        ⇢
+
+                        Solution exists
+
+                        <br>
+
+                        Inconsistent
+
+                        ⇢
+
+                        No solution
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-callout">
+
+            <strong>Exam Tip</strong>
+
+            Matrices and Determinants together contribute
+            <strong>10 marks</strong>.
+            Most questions are procedural.
+            Practise row operations, inverse matrix,
+            determinant expansion,
+            and consistency of linear equations repeatedly.
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     UNIT 4 : RELATIONS & FUNCTIONS
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-relations-functions">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            04
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Relations & Functions
+            </h3>
+
+            <p>
+                Foundations of mappings, inverse functions and inverse trigonometric functions
+            </p>
+
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            8 Marks
+        </div>
+
+    </div>
+
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Relations & Functions
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Domain
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Set of all permissible input values of a function.
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Range
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Set of all output values produced by the function.
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Composite Function
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        (f ∘ g)(x)
+
+                        =
+
+                        f(g(x))
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Identity Function
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        I(x)
+
+                        =
+
+                        x
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Inverse Function
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        f⁻¹(f(x))
+
+                        =
+
+                        x
+
+                        <span class="gdl-formula-note">
+
+                            Exists only if the function is one-one and onto (bijective).
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Inverse Trigonometric Functions
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        sin⁻¹x
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Range
+
+                        =
+
+                        [−π/2 , π/2]
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        cos⁻¹x
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Range
+
+                        =
+
+                        [0 , π]
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        tan⁻¹x
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Range
+
+                        =
+
+                        (−π/2 , π/2)
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Key Identities
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        sin(sin⁻¹x)
+
+                        =
+
+                        x
+
+                        <br>
+
+                        cos(cos⁻¹x)
+
+                        =
+
+                        x
+
+                        <br>
+
+                        tan(tan⁻¹x)
+
+                        =
+
+                        x
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Complementary Identities
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        sin⁻¹x
+
+                        +
+
+                        cos⁻¹x
+
+                        =
+
+                        π/2
+
+                        <br>
+
+                        tan⁻¹x
+
+                        +
+
+                        cot⁻¹x
+
+                        =
+
+                        π/2
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-callout">
+
+            <strong>Exam Tip</strong>
+
+            Students often lose marks because they forget the
+            <strong>principal value ranges</strong> of inverse trigonometric functions.
+            Memorising the identities is not enough—always verify whether the answer lies within the
+            correct range before writing the final result.
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     UNIT 5 : PROBABILITY
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-probability-class12">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            05
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Probability
+            </h3>
+
+            <p>
+                Conditional probability, Bayes' theorem and random variables
+            </p>
+
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            8 Marks
+        </div>
+
+    </div>
+
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Probability
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Conditional Probability
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        P(A|B)
+
+                        =
+
+                        P(A∩B)/P(B)
+
+                        <span class="gdl-formula-note">
+
+                            P(B) ≠ 0
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Multiplication Theorem
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        P(A∩B)
+
+                        =
+
+                        P(B)P(A|B)
+
+                        =
+
+                        P(A)P(B|A)
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Bayes' Theorem
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        P(Aᵢ|B)
+
+                        =
+
+                        [P(Aᵢ)P(B|Aᵢ)] /
+                        Σ[P(Aⱼ)P(B|Aⱼ)]
+
+                        <span class="gdl-formula-note">
+
+                            One of the highest-frequency Probability formulas in CBSE.
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Independent Events
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        P(A∩B)
+
+                        =
+
+                        P(A)P(B)
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Random Variable
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Mean
+
+                        =
+
+                        ΣxP(x)
+
+                        <br>
+
+                        Variance
+
+                        =
+
+                        Σx²P(x)
+
+                        −
+
+                        [ΣxP(x)]²
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-callout">
+
+            <strong>Exam Tip</strong>
+
+            Bayes' theorem questions are rarely difficult mathematically.
+            Students lose marks while identifying events.
+            Define every event clearly before substituting values.
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     UNIT 6 : LINEAR PROGRAMMING
+===================================================== -->
+
+<section class="gdl-formula-unit" id="formula-linear-programming">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            06
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Linear Programming
+            </h3>
+
+            <p>
+                The shortest chapter with the highest return on effort
+            </p>
+
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            5 Marks
+        </div>
+
+    </div>
+
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Linear Programming
+            </h4>
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Objective Function
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Z
+
+                        =
+
+                        ax + by
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Constraints
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Linear inequalities defining the feasible region.
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Feasible Region
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Common region satisfying all constraints simultaneously.
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Corner Point Method
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Evaluate Z at every corner point.
+
+                        <span class="gdl-formula-note">
+
+                            Maximum or minimum always occurs at a corner point.
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Optimal Solution
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Corner point giving the required maximum or minimum value.
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-callout">
+
+            <strong>Revision Strategy</strong>
+
+            Linear Programming contributes only
+            <strong>5 marks</strong>,
+            but the questions follow an extremely predictable pattern.
+            Practice 8–10 complete problems and these marks become among the easiest
+            in the entire paper.
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     FREQUENTLY ASKED QUESTIONS
+===================================================== -->
+
+<section class="gdl-faq-section">
+
+    <div class="gdl-section-kicker">
+        Frequently Asked Questions
+    </div>
+
+    <h2 id="frequently-asked-questions">
+        Frequently Asked Questions
+    </h2>
+
+    <div class="gdl-faq-list">
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Which unit carries the highest weightage in Class 12 Maths CBSE?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+
+                    Calculus carries
+                    <strong>35 out of 80 theory marks</strong>,
+                    making it the highest-weightage unit in CBSE Class 12 Maths.
+                    It includes Continuity & Differentiability, Applications of Derivatives,
+                    Integrals, Applications of Integrals and Differential Equations.
+                    Students aiming for 90%+ should prioritise Calculus before every other unit.
+
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Which chapters should I complete first in Class 12 Maths?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+
+                    Begin with the complete Calculus sequence,
+                    followed by Vectors & Three-Dimensional Geometry,
+                    then Matrices & Determinants.
+                    These three areas contribute nearly
+                    <strong>74% of the theory paper</strong>.
+
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                How can I score above 90 in Class 12 Maths?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+
+                    Start Calculus early, practise Integration every day,
+                    analyse every mock test chapter-wise,
+                    maintain a formula notebook,
+                    solve NCERT completely,
+                    and repeatedly attempt previous-year questions.
+                    Consistency matters more than marathon study sessions.
+
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Which formulas should I memorise first?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+
+                    Prioritise differentiation rules,
+                    standard integrals,
+                    integration by parts,
+                    ILATE,
+                    vector formulas,
+                    matrices,
+                    determinants,
+                    Bayes' theorem,
+                    and Linear Programming objective-function methods.
+                    These appear repeatedly in board examinations.
+
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Are NCERT questions enough for Class 12 Maths boards?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+
+                    NCERT should always be your foundation.
+                    Complete every solved example and exercise first,
+                    then move to previous-year board papers,
+                    sample papers,
+                    and timed mock tests.
+                    Mastering NCERT before additional books gives the highest return.
+
+                </p>
+
+            </div>
+
+        </details>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     RELATED ARTICLES
+===================================================== -->
+
+<aside class="gdl-related-section">
+
+    <div class="gdl-related-header">
+
+        <span class="gdl-related-kicker">
+            Continue Learning
+        </span>
+
+        <h2>
+            Related Articles
+        </h2>
+
+    </div>
+
+    <div class="gdl-related-grid">
+
+        <a
+        class="gdl-related-card"
+        href="/blog/how-to-score-90-percent-class-12-boards-cbse">
+
+            <span class="gdl-related-type">
+                Class 12 Boards
+            </span>
+
+            <h3>
+
+                How to Score 90%+ in CBSE Class 12 Board Exams
+
+            </h3>
+
+            <span class="gdl-related-link">
+
+                Read article →
+
+            </span>
+
+        </a>
+
+
+        <a
+        class="gdl-related-card"
+        href="/blog/class-11-jee-neet-preparation-without-sacrificing-board-exams">
+
+            <span class="gdl-related-type">
+                JEE / NEET
+            </span>
+
+            <h3>
+
+                How to Prepare for JEE / NEET Without Sacrificing Board Exams
+
+            </h3>
+
+            <span class="gdl-related-link">
+
+                Read article →
+
+            </span>
+
+        </a>
+
+
+        <a
+        class="gdl-related-card"
+        href="/blog">
+
+            <span class="gdl-related-type">
+                More Resources
+            </span>
+
+            <h3>
+
+                Explore More CBSE Preparation Guides
+
+            </h3>
+
+            <span class="gdl-related-link">
+
+                Browse all articles →
+
+            </span>
+
+        </a>
+
+
+        <a
+        class="gdl-related-card gdl-related-card--class"
+        href="/classes/12">
+
+            <span class="gdl-related-type">
+                Class 12 Learning
+            </span>
+
+            <h3>
+
+                AI Notes, Question Bank & Mock Tests for Class 12
+
+            </h3>
+
+            <span class="gdl-related-link">
+
+                Explore →
+
+            </span>
+
+        </a>
+
+    </div>
+
+</aside>
+
+
+
+<!-- =====================================================
+     FINAL CTA
+===================================================== -->
+
+<section class="gdl-final-cta">
+
+    <div class="gdl-final-cta-content">
+
+        <span class="gdl-final-cta-kicker">
+
+            Personalised Class 12 Learning
+
+        </span>
+
+        <h2>
+
+            Turn Every Maths Mock Into Better Board Marks
+
+        </h2>
+
+        <p>
+
+            Generate AI Notes, practise chapter-wise questions,
+            analyse weak areas,
+            build your wrong-question notebook,
+            and prepare with personalised mock tests using Genelis.
+
+        </p>
+
+        <div class="gdl-final-cta-actions">
+
+            <a
+            class="gdl-final-cta-primary"
+            href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-maths-formula">
+
+                Start Learning Free
+
+            </a>
+
+            <a
+            class="gdl-final-cta-secondary"
+            href="/blog">
+
+                ← Back to Blog
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+    """
+},
+
+{
+    "slug": "online-tuition-vs-ai-study-app-class-10-2026",
+
+    "title": (
+        "Online Tuition vs AI Study App for Class 10: "
+        "What Should Parents Choose in 2026?"
+    ),
+
+    "meta_title": (
+        "Online Tuition vs AI Study App for Class 10 (2026 Guide) | Genelis"
+    ),
+
+    "meta_description": (
+        "Should you choose online tuition or an AI study app for your child? "
+        "Compare cost, personalization, study analytics, learning outcomes, "
+        "and discover which option is best for CBSE board preparation in 2026."
+    ),
+
+    "excerpt": (
+        "A research-backed comparison of online tuition and AI learning platforms "
+        "covering cost, personalization, study analytics, learning outcomes, "
+        "and how parents can choose the right learning approach."
+    ),
+
+    # Keep blank because this is an evergreen article,
+    # not a curriculum-specific Class 10 guide.
+    "class": "",
+
+    "subject": "AI Learning",
+
+    "category": "Education Technology",
+
+    "tags": [
+        "Parents",
+        "Class 10",
+        "CBSE",
+        "AI Study Coach",
+        "Online Tuition",
+        "Personalized Learning"
+    ],
+
+    "author": "Genelis Team",
+
+    # ISO-8601 (better for JSON-LD)
+    "published_date": "2026-07-03T09:00:00+05:30",
+
+    "updated_date": "2026-07-03T09:00:00+05:30",
+
+    # This is what users see
+    "display_date": "July 3, 2026",
+
+    "reading_time": "10 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/online-tuition-vs-ai-app-og.jpg",
+
+    "image_alt": (
+        "Comparison of online tuition and AI study apps for CBSE students"
+    ),
+
+    "keywords": [
+
+        "online tuition vs AI study app",
+        "AI study app",
+        "online tuition",
+        "AI learning platform",
+        "best AI study app",
+        "AI study coach",
+        "CBSE study app",
+        "personalized learning",
+        "study analytics",
+        "AI education",
+        "online tuition cost",
+        "tuition vs AI",
+        "Genelis"
+
+    ],
+
+    "faqs": [
+
+        {
+            "question": (
+                "Is online tuition better than an AI study app for Class 10?"
+            ),
+            "answer": (
+                "It depends on your child's learning style and budget. "
+                "Online tuition provides real-time human interaction, while "
+                "an AI study app like Genelis offers 24/7 availability, "
+                "personalized study plans, weak-area detection, and study "
+                "analytics at a fraction of the cost."
+            )
+        },
+
+        {
+            "question": (
+                "How much does online tuition cost for Class 10 in India?"
+            ),
+            "answer": (
+                "Online tuition for Class 10 generally costs between "
+                "₹500 and ₹2,000 per hour. Complete board preparation "
+                "across multiple subjects typically ranges from "
+                "₹4,000 to ₹15,000 or more per month."
+            )
+        },
+
+        {
+            "question": (
+                "Can an AI study app replace a tutor for board preparation?"
+            ),
+            "answer": (
+                "The Genelis Learning System is a connected study system: "
+                "attempt a mock test → AI detects weak areas at topic level → "
+                "wrong answers auto-logged → targeted AI notes → reattempt wrong "
+                "questions → verify gap is closed → weak area map updates → "
+                "next session becomes more targeted."
+            )
+        },
+
+        {
+            "question": (
+                "What is the Genelis Learning System™?"
+            ),
+            "answer": (
+                "The Genelis Learning Loop™ continuously improves learning "
+                "through mock tests, weak-area detection, AI-generated "
+                "notes, wrong-question tracking, reattempts, and updated "
+                "performance analytics."
+            )
+        }
+
+    ],
+
+    "content": """
+<!-- =====================================================
+     INTRODUCTION
+===================================================== -->
+
+<section>
+
+  <p>
+    If your child is entering Class 10, you've probably already had this conversation
+    with yourself: <em>Should I enrol them in online tuition, or is that AI study app
+    enough? Is ₹8,000 a month worth it? What if they just need the AI coach?</em>
+  </p>
+
+  <p>
+    You're not alone. In 2026, Indian parents of Class 10 students are navigating a
+    genuinely new decision — one that didn't exist three years ago. Online tuition is
+    familiar and trusted. AI learning platforms are newer, cheaper, and in several
+    important ways more personalised. But choosing the wrong one wastes money, time,
+    and your child's limited board exam runway.
+  </p>
+
+  <p>
+    This guide gives you an honest, side-by-side comparison — cost, personalisation,
+    study analytics, exam preparation quality, and what actually helps Class 10 students
+    score higher. No hype in either direction.
+  </p>
+
+</section>
+
+
+<!-- =====================================================
+     ONLINE TUITION VS AI LEARNING PLATFORM
+===================================================== -->
+
+<section class="gdl-cost-intro-section">
+
+  <div class="gdl-section-kicker">
+    Cost and Learning Format
+  </div>
+
+  <h2 id="online-tuition-vs-ai-learning-platform">
+    Two Very Different Products. Let's Be Honest About Both.
+  </h2>
+
+  <div class="gdl-cost-compare">
+
+    <article class="gdl-cost-card gdl-cost-card--tuition">
+
+      <div class="gdl-cost-card-label">
+        Online Tuition
+      </div>
+
+      <div class="gdl-cost-card-amount">
+        ₹4K–15K
+      </div>
+
+      <p>
+        Per month, across subjects. A live human teacher via Zoom or a platform,
+        teaching in real time. Could be 1:1, small group, or large batch.
+      </p>
+
+    </article>
+
+
+    <article class="gdl-cost-card gdl-cost-card--ai">
+
+      <div class="gdl-cost-card-label">
+        AI Learning Platform
+      </div>
+
+      <div class="gdl-cost-card-amount">
+        ₹149
+      </div>
+
+      <p>
+        Per month, all subjects. An AI that personalises your child's study
+        experience — detecting weak areas, adapting mock tests, building a
+        wrong-question notebook automatically.
+      </p>
+
+    </article>
+
+  </div>
+
+  <p>
+    These are genuinely different products. The comparison that matters isn't
+    "human vs machine." It's: which format actually closes the gaps that cost
+    your child marks on the board exam?
+  </p>
+
+</section>
+<!-- =====================================================
+     FEATURE COMPARISON
+===================================================== -->
+
+<section class="gdl-compare-section">
+
+    <div class="gdl-section-kicker">
+        Side-by-Side Comparison
+    </div>
+
+    <h2 id="what-each-one-actually-does-better">
+        What Each One Actually Does Better
+    </h2>
+
+    <p class="gdl-section-intro">
+        Instead of asking which option is "better", ask which one performs
+        better for each part of the learning journey.
+    </p>
+
+    <div class="gdl-compare-table">
+
+        <div class="gdl-compare-head gdl-compare-feature">
+            Learning Area
+        </div>
+
+        <div class="gdl-compare-head gdl-compare-tuition">
+            Online Tuition
+        </div>
+
+        <div class="gdl-compare-head gdl-compare-ai">
+            AI Study App
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Personalisation
+        </div>
+
+        <div>
+            Depends on teacher and batch size.
+        </div>
+
+        <div>
+            Continuously adapts using performance data.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Availability
+        </div>
+
+        <div>
+            Fixed schedule.
+        </div>
+
+        <div>
+            24×7 access from any device.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Weak Area Detection
+        </div>
+
+        <div>
+            Manual observation by the teacher.
+        </div>
+
+        <div>
+            Automatic topic-level analysis after every mock.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Revision
+        </div>
+
+        <div>
+            Depends on classroom revision.
+        </div>
+
+        <div>
+            AI-generated revision targeted to weak topics.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Mock Tests
+        </div>
+
+        <div>
+            Teacher decides frequency.
+        </div>
+
+        <div>
+            Unlimited personalised practice.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Study Analytics
+        </div>
+
+        <div>
+            Usually basic.
+        </div>
+
+        <div>
+            Detailed dashboards, progress tracking and insights.
+        </div>
+
+
+        <div class="gdl-compare-feature">
+            Cost
+        </div>
+
+        <div>
+            ₹4,000–₹15,000 per month.
+        </div>
+
+        <div>
+            Around ₹149 per month.
+        </div>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     DECISION FRAMEWORK
+===================================================== -->
+
+<section class="gdl-decision-section">
+
+    <div class="gdl-section-kicker">
+        Decision Framework
+    </div>
+
+    <h2 id="which-option-is-right-for-your-child">
+        Which Option Is Right for Your Child?
+    </h2>
+
+    <p class="gdl-section-intro">
+        The right choice depends less on technology and more on your child's learning style, current performance, and the type of support they actually need.
+    </p>
+
+    <div class="gdl-decision-grid">
+
+        <article class="gdl-decision-card">
+
+            <div class="gdl-decision-icon">
+                👨‍🏫
+            </div>
+
+            <h3>
+                Choose Online Tuition If…
+            </h3>
+
+            <ul>
+
+                <li>Your child needs continuous teacher supervision.</li>
+
+                <li>They learn best through live interaction.</li>
+
+                <li>They frequently ask conceptual doubts during class.</li>
+
+                <li>You prefer structured schedules and fixed study timings.</li>
+
+                <li>Budget is not your primary concern.</li>
+
+            </ul>
+
+        </article>
+
+
+        <article class="gdl-decision-card gdl-decision-card--highlight">
+
+            <div class="gdl-decision-icon">
+                🤖
+            </div>
+
+            <h3>
+                Choose an AI Study App If…
+            </h3>
+
+            <ul>
+
+                <li>Your child already understands classroom concepts.</li>
+
+                <li>They need personalised revision rather than another lecture.</li>
+
+                <li>You want continuous weak-area analysis.</li>
+
+                <li>You want unlimited practice and AI-generated notes.</li>
+
+                <li>You want a significantly lower monthly cost.</li>
+
+            </ul>
+
+        </article>
+
+    </div>
+
+    <div class="gdl-editor-note">
+
+        <strong>Editor's Note</strong>
+
+        <p>
+
+            The best answer is not always "tuition" or "AI."
+
+            Many students benefit from using an AI learning platform for
+            daily practice, revision, mock tests, and analytics while
+            using a teacher only when deeper conceptual guidance is required.
+
+        </p>
+
+    </div>
+
+</section>
+<!-- =====================================================
+     GENELIS LEARNING SYSTEM
+===================================================== -->
+
+<section class="learning-system">
+
+  <div class="gdl-section-kicker">
+    The Genelis Learning System
+  </div>
+
+  <h2 id="what-genelis-delivers">
+    What Genelis Delivers — Specifically for Class 10
+  </h2>
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. For Class 10 CBSE
+    board preparation, it provides:
+  </p>
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        AI Learning
+      </span>
+
+      <h3>
+        AI Notes for Every Chapter
+      </h3>
+
+      <p>
+        AI notes for every chapter, aligned to the NCERT syllabus.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Practice
+      </span>
+
+      <h3>
+        Chapter-Wise Question Bank
+      </h3>
+
+      <p>
+        A question bank of important and practice questions, organised by
+        chapter and topic.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Mock Tests
+      </span>
+
+      <h3>
+        Adaptive Mock Tests
+      </h3>
+
+      <p>
+        Adaptive mock tests with reattempt capability.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Error Tracking
+      </span>
+
+      <h3>
+        Automatic Wrong-Question Notebook
+      </h3>
+
+      <p>
+        Every incorrect answer is captured automatically for targeted review
+        and reattempt.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Personalisation
+      </span>
+
+      <h3>
+        Topic-Level Weak Area Detection
+      </h3>
+
+      <p>
+        Weak area detection at the topic level — not “you're weak in Science”
+        but exactly which concept.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Analytics
+      </span>
+
+      <h3>
+        Study Analytics Dashboard
+      </h3>
+
+      <p>
+        Study analytics dashboard visible to both student and parent.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    All of this runs through the
+    <strong>Genelis Learning System</strong>:
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt mock test</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Weak areas detected</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>Wrong questions auto-logged</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>AI notes surface</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Gap closed ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=tuition-vs-ai-app&utm_content=cta-inline">
+    Start your child's personalised study plan on Genelis — free →
+  </a>
+
+</section>
+<!-- =====================================================
+     FREQUENTLY ASKED QUESTIONS
+===================================================== -->
+
+<section class="gdl-faq-section">
+
+  <div class="gdl-section-kicker">
+    Frequently Asked Questions
+  </div>
+
+  <h2 id="frequently-asked-questions">
+    Frequently Asked Questions
+  </h2>
+
+  <div class="gdl-faq-list">
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        Is online tuition better than an AI study app for Class 10?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          It depends on your child's learning style and your budget. 1:1 online tuition
+          offers human accountability and real-time conceptual explanations. An AI study
+          app like Genelis offers 24/7 access, topic-level weak area detection, automatic
+          wrong-question notebook, and study analytics at ₹149/month vs ₹4,000–₹15,000/month.
+          Many families combine both — tutor for one or two subjects, Genelis for daily
+          practice and analytics across all subjects.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How much does online tuition cost for Class 10 in India in 2026?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          Online tuition for Class 10 in India typically costs ₹500–₹2,000 per hour
+          depending on tutor experience and subject. For full board exam preparation
+          across 4–5 subjects, monthly costs typically range from ₹4,000 to ₹15,000 or more.
+          Genelis covers all subjects for ₹149/month.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        Can an AI study app replace a tutor for Class 10 CBSE board preparation?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          For structured exam preparation — mock tests, weak area detection, AI notes,
+          smart revision, and study analytics — an AI study coach covers most of what a
+          tutor does, at any hour and at a fraction of the cost. Human tutors still add
+          value for motivational support and complex conceptual explanations requiring
+          real-time dialogue. The two work best together, not in opposition.
+        </p>
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What is the Genelis Learning System?
+      </summary>
+
+      <div class="gdl-faq-answer">
+        <p>
+          The Genelis Learning System is a connected study system: attempt → AI detects
+          weak areas at topic level → wrong answers auto-logged to notebook → targeted
+          AI notes → reattempt wrong questions → verify gap is closed → weak area map
+          updates → next session more targeted. Every cycle compounds on the last.
+        </p>
+      </div>
+
+    </details>
+
+  </div>
+
+</section>
+
+
+<!-- =====================================================
+     FINAL CTA
+===================================================== -->
+
+<section class="gdl-final-cta">
+
+  <div class="gdl-final-cta-content">
+
+    <span class="gdl-final-cta-kicker">
+      Personalised Learning for Every Student
+    </span>
+
+    <h2>
+      Give Your Child a Smarter Way to Prepare
+    </h2>
+
+    <p>
+      Use AI notes, adaptive mock tests, weak-area detection, wrong-question tracking,
+      and study analytics through the Genelis Learning System.
+    </p>
+
+    <div class="gdl-final-cta-actions">
+
+      <a
+        class="gdl-final-cta-primary"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=tuition-vs-ai-app&utm_content=cta-footer">
+        Try Genelis Free
+      </a>
+
+      <a
+        class="gdl-final-cta-secondary"
+        href="/blog">
+        ← Back to Genelis Blog
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+    """
+},
+
+{
+    "slug": "class-10-science-high-yield-topics-cbse-2026",
+
+    "title": (
+        "Class 10 Science: High-Yield Topics, Diagrams & AI Notes "
+        "for CBSE 2026–27"
+    ),
+
+    "meta_title": (
+        "Class 10 Science: High-Yield Topics, Diagrams & AI Notes "
+        "for CBSE 2026–27 | Genelis"
+    ),
+
+    "meta_description": (
+        "Master CBSE Class 10 Science with chapter weightage, must-know "
+        "Biology diagrams, Chemistry equations, Physics formulas, and "
+        "AI-powered personalised learning strategies for the 2026–27 board exams."
+    ),
+
+    "excerpt": (
+        "Complete CBSE Class 10 Science preparation guide covering "
+        "Physics, Chemistry and Biology with high-yield topics, "
+        "important diagrams, equations and personalised AI learning."
+    ),
+
+    "blog_type": "subject-guide",
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "CBSE Subject Guide",
+
+    "tags": [
+        "Class 10",
+        "Science",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "CBSE",
+        "Board Exams",
+        "AI Notes"
+    ],
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-04T09:00:00+05:30",
+
+    "updated_date": "2026-07-04T09:00:00+05:30",
+
+    "display_date": "July 4, 2026",
+
+    "reading_time": "10 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class10-science-og.jpg",
+
+    "image_alt": (
+        "Class 10 Science preparation guide covering Physics, "
+        "Chemistry and Biology for CBSE students"
+    ),
+
+    "keywords": [
+
+        "class 10 science",
+
+        "class 10 science notes",
+
+        "cbse class 10 science",
+
+        "important diagrams class 10 science",
+
+        "class 10 chemistry equations",
+
+        "class 10 physics formulas",
+
+        "biology diagrams class 10",
+
+        "science board exam preparation",
+
+        "AI notes class 10 science",
+
+        "Genelis"
+
+    ],
+
+    "faqs": [
+
+        {
+            "question": (
+                "Which subject has the highest weightage in Class 10 Science CBSE?"
+            ),
+            "answer": (
+                "Biology carries the highest weightage at 30 marks in the "
+                "theory paper, followed by Chemistry and Physics at 25 marks "
+                "each. Biology diagrams therefore deserve a larger share of "
+                "your revision time."
+            )
+        },
+
+        {
+            "question": (
+                "What diagrams are compulsory for Class 10 Science boards?"
+            ),
+            "answer": (
+                "Important diagrams include the alimentary canal, nephron, "
+                "neuron, reflex arc, human brain, human eye, ray diagrams "
+                "for mirrors and lenses, magnetic field lines, and electric "
+                "circuit symbols."
+            )
+        },
+
+        {
+            "question": (
+                "How does Genelis help with Class 10 Science preparation?"
+            ),
+            "answer": (
+                "Genelis tracks Biology, Chemistry and Physics separately, "
+                "detects topic-level weak areas, generates AI notes, logs "
+                "wrong answers automatically, and helps students close gaps "
+                "through the Genelis Learning System."
+            )
+        }
+
+    ],
+
+    "content": """
+
+<section>
+
+    <p>
+        Class 10 Science is one exam that tests three completely different
+        subjects — Physics, Chemistry, and Biology — in a single three-hour
+        sitting. Most students treat it as one subject and prepare
+        accordingly: reading chapters sequentially, hoping the coverage
+        translates into marks. It rarely does efficiently, because the
+        preparation strategies for Physics numericals, Chemistry equation
+        writing, and Biology diagram questions are entirely different.
+    </p>
+
+    <p>
+        This guide breaks the Science paper into its three real parts — with
+        the official marks distribution, the specific high-yield topics in
+        each subject, the diagrams that appear almost every year, the
+        equations worth knowing cold, and how AI-powered personalized
+        learning identifies exactly where you're losing marks.
+    </p>
+
+</section>
+<section class="gdl-subject-overview">
+
+    <div class="gdl-section-kicker">
+        Marks Distribution
+    </div>
+
+    <h2>
+        Three Subjects. One Paper. Here's How to Win All Three.
+    </h2>
+
+    <div class="gdl-subject-strip">
+
+        <article class="gdl-subject-card biology">
+
+            <span class="gdl-subject-marks">
+                30
+            </span>
+
+            <h3>
+                Biology
+            </h3>
+
+            <p>
+                Highest Weightage
+            </p>
+
+        </article>
+
+
+        <article class="gdl-subject-card chemistry">
+
+            <span class="gdl-subject-marks">
+                25
+            </span>
+
+            <h3>
+                Chemistry
+            </h3>
+
+            <p>
+                Equations Dominate
+            </p>
+
+        </article>
+
+
+        <article class="gdl-subject-card physics">
+
+            <span class="gdl-subject-marks">
+                25
+            </span>
+
+            <h3>
+                Physics
+            </h3>
+
+            <p>
+                Numericals + Diagrams
+            </p>
+
+        </article>
+
+    </div>
+
+
+    <div class="gdl-chart-card">
+
+        <h3>
+            Class 10 Science Marks Distribution (Theory – 80 Marks)
+        </h3>
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Biology — World of Living + Natural Resources
+            </span>
+
+            <div class="gdl-progress">
+
+                <div
+                class="gdl-progress-fill biology"
+                style="width:37.5%;">
+
+                    37.5%
+
+                </div>
+
+            </div>
+
+            <strong>
+                30 Marks
+            </strong>
+
+        </div>
+
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Chemistry — Chemical Substances
+            </span>
+
+            <div class="gdl-progress">
+
+                <div
+                class="gdl-progress-fill chemistry"
+                style="width:31.25%;">
+
+                    31.25%
+
+                </div>
+
+            </div>
+
+            <strong>
+                25 Marks
+            </strong>
+
+        </div>
+
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Physics — Electricity
+            </span>
+
+            <div class="gdl-progress">
+
+                <div
+                class="gdl-progress-fill physics"
+                style="width:15%;">
+
+                    15%
+
+                </div>
+
+            </div>
+
+            <strong>
+                12 Marks
+            </strong>
+
+        </div>
+
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Physics — Light
+            </span>
+
+            <div class="gdl-progress">
+
+                <div
+                class="gdl-progress-fill physics-light"
+                style="width:15%;">
+
+                    15%
+
+                </div>
+
+            </div>
+
+            <strong>
+                12 Marks
+            </strong>
+
+        </div>
+
+        <div class="gdl-callout">
+
+            <strong>Key Insight</strong>
+
+            Biology contributes the highest number of marks. Students who
+            spend more time practising Physics numericals than Biology
+            diagrams are usually allocating their preparation time
+            inefficiently.
+
+        </div>
+
+    </div>
+
+</section>
+<section class="gdl-diagram-section">
+
+  <div class="gdl-section-kicker">
+    Biology
+  </div>
+
+  <h2 id="biology-diagrams">
+    Biology: The Diagrams Are the Marks.
+  </h2>
+
+  <p>
+    Biology is the highest-weightage section and the one most students
+    underestimate — until they realise that unlabelled or incorrectly
+    labelled diagrams cost marks that no amount of theoretical knowledge
+    can recover. Practise from memory, not by tracing.
+  </p>
+
+  <div class="gdl-diagram-layout">
+
+    <article class="gdl-diagram-panel gdl-diagram-panel--biology">
+
+      <span class="gdl-diagram-tag">
+        Biology
+      </span>
+
+      <h3>
+        Must-Draw Biology Diagrams
+      </h3>
+
+      <ul>
+        <li>Human alimentary canal (mouth → rectum with labels)</li>
+        <li>The nephron (Bowman's capsule, glomerulus, tubules)</li>
+        <li>The neuron (cell body, dendrites, axon, myelin)</li>
+        <li>Reflex arc (receptor → spinal cord → effector)</li>
+        <li>Human brain (cerebrum, cerebellum, medulla)</li>
+        <li>Cross-section of a leaf (epidermis, mesophyll, stomata)</li>
+        <li>Male & female reproductive systems (labelled)</li>
+        <li>Asexual reproduction (binary fission, budding)</li>
+      </ul>
+
+    </article>
+
+
+    <article class="gdl-diagram-panel gdl-diagram-panel--physics">
+
+      <span class="gdl-diagram-tag">
+        Physics
+      </span>
+
+      <h3>
+        Must-Draw Physics Diagrams
+      </h3>
+
+      <ul>
+        <li>Image formation — concave/convex mirrors (all object positions)</li>
+        <li>Image formation — concave/convex lenses</li>
+        <li>Correction of myopia with concave lens</li>
+        <li>Correction of hypermetropia with convex lens</li>
+        <li>Refraction through a glass slab (lateral displacement)</li>
+        <li>Dispersion of white light through a prism</li>
+        <li>Magnetic field lines around a bar magnet</li>
+        <li>Electric circuit symbols</li>
+      </ul>
+
+    </article>
+
+
+    <aside class="gdl-diagram-note">
+
+      <span class="gdl-diagram-note-label">
+        Exam Pattern
+      </span>
+
+      <h3>
+        High-Frequency Biology Question Types
+      </h3>
+
+      <p>
+        Explain a process with a labelled diagram (3–5 marks), differentiate
+        two terms in tabular form (2–3 marks), Punnett square for a
+        monohybrid/dihybrid cross (2–3 marks), application-based
+        “why is X structured this way?” (2–3 marks).
+      </p>
+
+    </aside>
+
+  </div>
+
+</section>
+<section class="gdl-formula-unit" id="chemistry-equations">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      C
+    </div>
+
+    <div class="gdl-formula-unit-title">
+
+      <h3>
+        Chemistry: Equation Writing Is Where Marks Are Made or Lost.
+      </h3>
+
+      <p>
+        Reaction understanding, correct products, and accurate balancing
+      </p>
+
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      25 Marks
+    </div>
+
+  </div>
+
+
+  <div class="gdl-formula-unit-body">
+
+    <p>
+      Chemistry rewards students who understand reactions, not those who
+      memorise facts. The most common mark loss is writing incorrect products
+      in chemical equations, or failing to balance them correctly. Both are
+      fixable with targeted practice.
+    </p>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Key Equations to Know with Correct Products
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Acid + Metal
+          </div>
+
+          <div class="gdl-formula-expression">
+            Acid + Metal → Salt + H₂↑
+
+            <span class="gdl-formula-note">
+              Example: 2HCl + Zn → ZnCl₂ + H₂↑
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Acid + Metal Oxide
+          </div>
+
+          <div class="gdl-formula-expression">
+            Acid + Metal oxide → Salt + H₂O
+
+            <span class="gdl-formula-note">
+              Example: H₂SO₄ + CuO → CuSO₄ + H₂O
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Acid + Metal Carbonate
+          </div>
+
+          <div class="gdl-formula-expression">
+            Acid + Metal carbonate → Salt + CO₂ + H₂O
+
+            <span class="gdl-formula-note">
+              Example: 2HCl + CaCO₃ → CaCl₂ + H₂O + CO₂↑
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Neutralisation
+          </div>
+
+          <div class="gdl-formula-expression">
+            NaOH + HCl → NaCl + H₂O
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Displacement
+          </div>
+
+          <div class="gdl-formula-expression">
+            Fe + CuSO₄ → FeSO₄ + Cu
+
+            <span class="gdl-formula-note">
+              Fe displaces Cu because iron is higher in the reactivity series.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Electrolysis of Water
+          </div>
+
+          <div class="gdl-formula-expression">
+            2H₂O → 2H₂ + O₂
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Thermite Reaction
+          </div>
+
+          <div class="gdl-formula-expression">
+            Fe₂O₃ + 2Al → Al₂O₃ + 2Fe
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Saponification
+          </div>
+
+          <div class="gdl-formula-expression">
+            Ester + NaOH → Soap (sodium salt of fatty acid) + Glycerol
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Reactivity Series — Memorise in This Order
+      </h4>
+
+      <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+          <span class="gdl-loop-number">Most Reactive</span>
+          <strong>K</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Na</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Ca</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Mg</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Al</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Zn</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Fe</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Pb</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>H</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Cu</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+          <strong>Ag</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+          <span class="gdl-loop-number">Least Reactive</span>
+          <strong>Au</strong>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-callout">
+
+      <strong>Why the Reactivity Series Matters</strong>
+
+      The reactivity series determines which metal can displace another metal
+      from its compound in a displacement reaction.
+
+    </div>
+
+  </div>
+
+</section>
+<section class="gdl-formula-unit" id="physics-numericals">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      P
+    </div>
+
+    <div class="gdl-formula-unit-title">
+
+      <h3>
+        Physics: Every Numerical Has Three Steps — Show All Three.
+      </h3>
+
+      <p>
+        Formula first, values with units second, calculation third
+      </p>
+
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      25 Marks
+    </div>
+
+  </div>
+
+
+  <div class="gdl-formula-unit-body">
+
+    <p>
+      Physics in Class 10 splits between Light and Electricity/Magnetism.
+      Both require conceptual clarity, diagram accuracy, and numerical
+      application. The critical exam rule: for every numerical, write the
+      formula first, substitute values with units, then calculate. Marks are
+      awarded per step — a wrong final answer with correct working still
+      earns partial marks.
+    </p>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Optics — Must Know Cold
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Mirror Formula
+          </div>
+
+          <div class="gdl-formula-expression">
+            1/f = 1/v + 1/u
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Lens Formula
+          </div>
+
+          <div class="gdl-formula-expression">
+            1/f = 1/v − 1/u
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Magnification — Mirror
+          </div>
+
+          <div class="gdl-formula-expression">
+            m = −v/u
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Magnification — Lens
+          </div>
+
+          <div class="gdl-formula-expression">
+            m = v/u
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Power of a Lens
+          </div>
+
+          <div class="gdl-formula-expression">
+            P = 1/f
+
+            <span class="gdl-formula-note">
+              f must be in metres. Power is measured in dioptres.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Electricity — Must Know Cold
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Ohm's Law
+          </div>
+
+          <div class="gdl-formula-expression">
+            V = IR
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Resistance in Series
+          </div>
+
+          <div class="gdl-formula-expression">
+            R = R₁ + R₂ + R₃
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Resistance in Parallel
+          </div>
+
+          <div class="gdl-formula-expression">
+            1/R = 1/R₁ + 1/R₂ + 1/R₃
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Electric Power
+          </div>
+
+          <div class="gdl-formula-expression">
+            P = VI = I²R = V²/R
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Electrical Energy
+          </div>
+
+          <div class="gdl-formula-expression">
+            E = P × t / 1000 kWh
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Joule's Law of Heating
+          </div>
+
+          <div class="gdl-formula-expression">
+            H = I²Rt
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-callout">
+
+      <strong>Three-Step Numerical Rule</strong>
+
+      Write the formula first, substitute values with their units, and then
+      calculate. CBSE awards marks for correct working, so even an incorrect
+      final answer can earn partial credit when the method is shown clearly.
+
+    </div>
+
+  </div>
+
+</section>
+<section>
+
+    <div class="gdl-section-kicker">
+        Performance Analysis
+    </div>
+
+    <h2>
+        One Score Hides Three Different Problems.
+    </h2>
+
+    <p>
+        A student scoring 72/80 in Science often believes they are equally
+        strong across the subject. In reality, they might be losing almost
+        every mark in Physics numericals while scoring nearly full marks in
+        Biology. Overall scores hide subject-wise weaknesses.
+    </p>
+
+    <div class="gdl-chart-card">
+
+        <h3>
+            Example Performance Breakdown
+        </h3>
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Biology
+            </span>
+
+            <div class="gdl-progress">
+                <div
+                    class="gdl-progress-fill biology"
+                    style="width:90%;">
+                    90%
+                </div>
+            </div>
+
+            <strong>
+                Excellent
+            </strong>
+
+        </div>
+
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Chemistry
+            </span>
+
+            <div class="gdl-progress">
+                <div
+                    class="gdl-progress-fill chemistry"
+                    style="width:74%;">
+                    74%
+                </div>
+            </div>
+
+            <strong>
+                Good
+            </strong>
+
+        </div>
+
+
+        <div class="gdl-progress-item">
+
+            <span>
+                Physics
+            </span>
+
+            <div class="gdl-progress">
+                <div
+                    class="gdl-progress-fill physics"
+                    style="width:48%;">
+                    48%
+                </div>
+            </div>
+
+            <strong>
+                Needs Work
+            </strong>
+
+        </div>
+
+    </div>
+
+
+    <div class="gdl-callout">
+
+        <strong>
+            This Is Exactly What Genelis Tracks
+        </strong>
+
+        <p>
+
+            Instead of showing a single Science score, Genelis identifies
+            weaknesses separately across Biology, Chemistry and Physics,
+            then drills down further into individual chapters and concepts.
+            Every mock test updates your personalised learning path.
+
+        </p>
+
+    </div>
+
+</section>
+<section class="learning-system">
+
+  <div class="gdl-section-kicker">
+    Personalised Science Preparation
+  </div>
+
+  <h2 id="genelis-learning-system-science">
+    How the Genelis Learning System Personalises Class 10 Science
+  </h2>
+
+  <p>
+    Genelis uses <strong>Adaptive Personalized Intelligence</strong> to track
+    accuracy separately across Biology, Chemistry, and Physics — identifying
+    exactly which chapters and question types are costing you marks.
+  </p>
+
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Biology
+      </span>
+
+      <h3>
+        Diagram and Concept Gaps
+      </h3>
+
+      <p>
+        Genelis identifies whether marks are being lost in diagrams,
+        terminology, processes, heredity, or application-based Biology
+        questions.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Chemistry
+      </span>
+
+      <h3>
+        Equation and Reaction Errors
+      </h3>
+
+      <p>
+        Track mistakes in balancing equations, predicting products,
+        understanding reaction types, and applying the reactivity series.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Physics
+      </span>
+
+      <h3>
+        Numerical and Formula Weaknesses
+      </h3>
+
+      <p>
+        Identify whether errors come from formula selection, sign conventions,
+        unit conversion, substitution, or calculation.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        AI Notes
+      </span>
+
+      <h3>
+        Targeted Revision Notes
+      </h3>
+
+      <p>
+        Genelis generates targeted AI notes for the specific chapter or concept
+        where performance is weak.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Error Tracking
+      </span>
+
+      <h3>
+        Wrong-Question Notebook
+      </h3>
+
+      <p>
+        Wrong answers are automatically logged, tagged by subject and topic,
+        and saved for focused reattempt.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Verification
+      </span>
+
+      <h3>
+        Reattempt and Close the Gap
+      </h3>
+
+      <p>
+        Reattempt the exact questions you got wrong and verify that the
+        underlying learning gap has actually been closed.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    Every Science practice session follows the
+    <strong>Genelis Learning System</strong>:
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt Science mock</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Topic-level weak areas detected</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>Wrong answers auto-logged</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>Targeted AI notes generated</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt weak questions</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Gap verified closed ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-science&utm_content=cta-inline">
+    Start your personalised Class 10 Science study plan on Genelis — free →
+  </a>
+
+</section>
+<section class="gdl-faq-section">
+
+    <div class="gdl-section-kicker">
+        Frequently Asked Questions
+    </div>
+
+    <h2>
+        Frequently Asked Questions
+    </h2>
+
+    <div class="gdl-faq-list">
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Which part of Class 10 Science carries the highest weightage?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Biology contributes approximately 30 marks in the CBSE
+                    Class 10 Science theory paper, while Chemistry and
+                    Physics contribute around 25 marks each. Students should
+                    therefore prioritise Biology diagrams and concepts while
+                    maintaining consistent practice in Physics numericals and
+                    Chemistry equations.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                What are the most important diagrams for Class 10 Science?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Frequently tested diagrams include the human alimentary
+                    canal, nephron, neuron, reflex arc, human brain,
+                    reproductive systems, ray diagrams for mirrors and
+                    lenses, magnetic field lines and electric circuit
+                    symbols.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                How should I prepare Physics numericals for CBSE boards?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Always write the formula first, substitute values with
+                    units, and then perform the calculation. Even if the
+                    final answer is incorrect, correct working earns partial
+                    marks in the CBSE marking scheme.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                How does Genelis help with Class 10 Science preparation?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Genelis separates Biology, Chemistry and Physics into
+                    individual learning tracks, detects topic-level weak
+                    areas, generates AI notes, maintains a wrong-question
+                    notebook, and continuously improves preparation through
+                    the Genelis Learning System.
+                </p>
+
+            </div>
+
+        </details>
+
+    </div>
+
+</section>
+
+
+<section class="gdl-final-cta">
+
+    <div class="gdl-final-cta-content">
+
+        <span class="gdl-final-cta-kicker">
+            Study Smarter with AI
+        </span>
+
+        <h2>
+            Turn Every Science Mock Test into Better Board Marks.
+        </h2>
+
+        <p>
+            Build stronger concepts, master diagrams, improve Physics
+            numericals, and revise Chemistry smarter with AI-powered
+            personalised learning on Genelis.
+        </p>
+
+        <div class="gdl-final-cta-actions">
+
+            <a
+                class="gdl-final-cta-primary"
+                href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=science-guide&utm_content=footer">
+                Start Learning Free
+            </a>
+
+            <a
+                class="gdl-final-cta-secondary"
+                href="/classes">
+                Explore All Subjects →
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+    """
+},
+{
+    "slug": "cbse-class-11-survival-guide-all-streams",
+
+    "title": (
+        "CBSE Class 11 Survival Guide 2025–26: "
+        "How to Handle the Difficulty Jump Across All Streams"
+    ),
+
+    "meta_title": (
+        "CBSE Class 11 Survival Guide 2025–26: "
+        "Handle the Difficulty Jump Across All Streams | Genelis"
+    ),
+
+    "meta_description": (
+        "Students who scored 90%+ in Class 10 often struggle in Class 11. "
+        "Learn what changes, why it feels harder, stream-wise strategies for "
+        "Science, Commerce and Arts, and how to build a strong Class 12 foundation."
+    ),
+
+    "excerpt": (
+        "A complete Class 11 survival guide covering the difficulty jump, "
+        "stream-wise strategies, key formulas, study habits, and how to "
+        "enter Class 12 with a stronger foundation."
+    ),
+
+    "blog_type": "class-guide",
+
+    "class": "11",
+
+    "subject": "All Streams",
+
+    "category": "Class 11 Preparation",
+
+    "tags": [
+        "Class 11",
+        "CBSE",
+        "Science",
+        "Commerce",
+        "Arts",
+        "Study Strategy",
+        "AI Learning"
+    ],
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-04T09:00:00+05:30",
+
+    "updated_date": "2026-07-04T09:00:00+05:30",
+
+    "display_date": "July 4, 2026",
+
+    "reading_time": "9 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class11-survival-guide-og.jpg",
+
+    "image_alt": (
+        "CBSE Class 11 survival guide for Science, Commerce and Arts students"
+    ),
+
+    "keywords": [
+        "CBSE class 11 study guide",
+        "class 11 survival guide",
+        "class 11 difficulty jump",
+        "class 11 Science Commerce Arts",
+        "class 11 study strategy",
+        "class 11 notes",
+        "AI study coach class 11",
+        "personalized learning class 11",
+        "how to study in class 11",
+        "class 11 preparation"
+    ],
+
+    "faqs": [
+        {
+            "question": (
+                "Why is Class 11 so much harder than Class 10?"
+            ),
+            "answer": (
+                "Class 11 shifts from recall to application across all streams. "
+                "In Science, Calculus, Organic Chemistry mechanisms, and "
+                "Electrostatics have no real Class 10 equivalent. In Commerce, "
+                "Accountancy moves to complex journal entries. In Arts, "
+                "analytical writing replaces factual recall."
+            )
+        },
+        {
+            "question": (
+                "Is Class 11 important for Class 12 boards?"
+            ),
+            "answer": (
+                "Critically so. Class 12 board questions are built directly on "
+                "Class 11 foundations — Calculus requires Class 11 limits, and "
+                "Organic Chemistry requires Class 11 mechanisms. JEE and NEET "
+                "also draw 40–45% of questions from Class 11 content."
+            )
+        },
+        {
+            "question": (
+                "How many hours should a Class 11 student study per day?"
+            ),
+            "answer": (
+                "Five to six focused hours daily is recommended, rising to "
+                "seven to eight hours near annual exams. Consistency matters "
+                "far more than total hours because Class 11 concepts build "
+                "sequentially."
+            )
+        },
+        {
+            "question": (
+                "Does Genelis support Class 11 across Science, Commerce, and Arts?"
+            ),
+            "answer": (
+                "Yes. Genelis uses Adaptive Personalized Intelligence to support "
+                "Class 11 students across all streams by identifying specific "
+                "learning gaps, generating customized AI notes, building targeted "
+                "practice, and adapting the study plan continuously."
+            )
+        }
+    ],
+
+    "content": """
+
+<section>
+
+  <p>
+    Students who scored 90%+ in Class 10 often find Class 11 difficult
+    initially. If that describes you — or your child — this guide is written
+    for that exact experience. You worked hard, scored well, chose your stream
+    carefully, and then walked into Class 11 and felt like the ground had
+    shifted. Suddenly Maths is Calculus. Chemistry is mechanisms, not
+    equations. Accountancy is journal entries and ledgers. History requires
+    analysis, not timelines.
+  </p>
+
+  <p>
+    This isn't a personal failure. It's the nature of the jump. Class 11
+    introduces abstract concepts — Calculus, Organic Chemistry, Electrostatics
+    — that are more challenging than anything in Class 10. But the real stakes
+    aren't just surviving Class 11. They're what you carry into Class 12 boards
+    and competitive exams. JEE and NEET draw 40–45% of questions from Class 11
+    content. What you build — or don't build — this year determines how hard
+    the next year is.
+  </p>
+
+</section>
+<section class="gdl-transition-section">
+
+    <div class="gdl-section-kicker">
+        The Reality Check
+    </div>
+
+    <h2>
+        Everything You Knew About Studying Just Changed.
+    </h2>
+
+    <p>
+        The difficulty shift isn't just about harder content. It's structural.
+        Understanding what changes helps you adapt your habits, not just study
+        more.
+    </p>
+
+    <div class="gdl-transition-grid">
+
+        <article class="gdl-transition-card">
+
+            <div class="gdl-transition-label old">
+                Class 10 Was
+            </div>
+
+            <h3>
+                Recall-based
+            </h3>
+
+            <p>
+                Know your formulas and NCERT well, score well. Memory was
+                enough.
+            </p>
+
+            <div class="gdl-transition-divider"></div>
+
+            <div class="gdl-transition-label new">
+                Class 11 Is
+            </div>
+
+            <p>
+                Application-based. Knowing the derivative formula isn't enough
+                — you need to know when and how to use it in unfamiliar
+                contexts.
+            </p>
+
+        </article>
+
+
+        <article class="gdl-transition-card">
+
+            <div class="gdl-transition-label old">
+                Class 10 Was
+            </div>
+
+            <h3>
+                Broad but Shallow
+            </h3>
+
+            <p>
+                Many topics at moderate depth. A Science chapter in Class 10
+                was manageable.
+            </p>
+
+            <div class="gdl-transition-divider"></div>
+
+            <div class="gdl-transition-label new">
+                Class 11 Is
+            </div>
+
+            <p>
+                Fewer units, much deeper. A single Laws of Motion chapter is
+                conceptually richer than an entire Class 10 unit.
+            </p>
+
+        </article>
+
+
+        <article class="gdl-transition-card">
+
+            <div class="gdl-transition-label old">
+                Class 10 Was
+            </div>
+
+            <h3>
+                One Track for Everyone
+            </h3>
+
+            <p>
+                Same five subjects. Same preparation strategy across the board.
+            </p>
+
+            <div class="gdl-transition-divider"></div>
+
+            <div class="gdl-transition-label new">
+                Class 11 Is
+            </div>
+
+            <p>
+                Stream-specific. Science, Commerce and Arts require completely
+                different preparation approaches.
+            </p>
+
+        </article>
+
+
+        <article class="gdl-transition-card">
+
+            <div class="gdl-transition-label old">
+                Class 10 Was
+            </div>
+
+            <h3>
+                School Exams Only
+            </h3>
+
+            <p>
+                Prepare for one thing: your board exam in February.
+            </p>
+
+            <div class="gdl-transition-divider"></div>
+
+            <div class="gdl-transition-label new">
+                Class 11 Is
+            </div>
+
+            <p>
+                JEE, NEET and CUET preparation often starts alongside school.
+                Managing both simultaneously becomes a new skill in itself.
+            </p>
+
+        </article>
+
+    </div>
+
+</section>
+<section>
+
+    <div class="gdl-section-kicker">
+        Stream-wise Strategy
+    </div>
+
+    <h2>
+        What to Focus On Right Now
+    </h2>
+
+    <div class="learning-grid">
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Science
+            </span>
+
+            <h3>
+                Physics, Chemistry, Mathematics / Biology
+            </h3>
+
+            <p>
+                Mechanics (Units 1–6 of Class 11 Physics) contributes the
+                highest number of questions in both JEE and NEET. For school
+                examinations, Laws of Motion, Work-Energy Theorem and
+                Gravitation remain the highest-yield units.
+            </p>
+
+            <p>
+                Chemistry introduces the first major split between Physical,
+                Organic and Inorganic Chemistry. Organic Chemistry is no longer
+                about memorising reactions—it is about understanding reaction
+                mechanisms and predicting outcomes.
+            </p>
+
+        </article>
+
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Commerce
+            </span>
+
+            <h3>
+                Accountancy, Business Studies & Economics
+            </h3>
+
+            <p>
+                Accountancy determines whether Class 11 Commerce feels
+                manageable or overwhelming. Journal entries, ledgers, trial
+                balances and final accounts build sequentially, so falling
+                behind becomes increasingly difficult to recover from.
+            </p>
+
+            <p>
+                Economics splits into Microeconomics and Statistics for
+                Economics. One develops conceptual thinking, while the other
+                rewards regular numerical practice.
+            </p>
+
+        </article>
+
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Arts
+            </span>
+
+            <h3>
+                History, Political Science, Geography & More
+            </h3>
+
+            <p>
+                The challenge in Arts is analytical thinking rather than
+                formulas. Strong answers require structure, arguments,
+                comparisons and evidence instead of simple factual recall.
+            </p>
+
+            <p>
+                Geography introduces diagram-heavy topics such as the rock
+                cycle, atmospheric layers, ocean currents and the carbon cycle.
+                Begin practising labelled diagrams from the very beginning of
+                the academic year.
+            </p>
+
+        </article>
+
+    </div>
+
+    <div class="gdl-callout">
+
+        <strong>
+            The Common Pattern Across All Streams
+        </strong>
+
+        <p>
+
+            Although every stream studies different subjects, the underlying
+            challenge is identical—Class 11 rewards understanding,
+            application and consistency rather than last-minute memorisation.
+
+        </p>
+
+    </div>
+
+</section>
+<section>
+
+    <div class="gdl-section-kicker">
+        Quick Revision
+    </div>
+
+    <h2>
+        The Formulas to Lock In — Across All Three Streams
+    </h2>
+
+    <p>
+        Every stream has a handful of concepts that students repeatedly use
+        throughout Class 11 and Class 12. Mastering these early makes future
+        chapters significantly easier.
+    </p>
+
+</section>
+
+
+<section class="gdl-formula-unit">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            S
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Science
+            </h3>
+
+            <p>
+                Physics • Chemistry • Mathematics
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-list">
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Equations of Motion
+                </div>
+
+                <div class="gdl-formula-expression">
+                    v = u + at &nbsp;&nbsp; • &nbsp;&nbsp;
+                    s = ut + ½at² &nbsp;&nbsp; • &nbsp;&nbsp;
+                    v² = u² + 2as
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Work-Energy Theorem
+                </div>
+
+                <div class="gdl-formula-expression">
+                    W = ΔKE = ½mv² − ½mu²
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Ideal Gas Law
+                </div>
+
+                <div class="gdl-formula-expression">
+                    PV = nRT
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Number of Moles
+                </div>
+
+                <div class="gdl-formula-expression">
+                    n = Mass / Molar Mass
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Calculus Basics
+                </div>
+
+                <div class="gdl-formula-expression">
+                    d(xⁿ)/dx = nxⁿ⁻¹ &nbsp;&nbsp; • &nbsp;&nbsp;
+                    d(sin x)/dx = cos x
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Binomial Theorem
+                </div>
+
+                <div class="gdl-formula-expression">
+                    (a+b)ⁿ = Σ C(n,r) aⁿ⁻ʳ bʳ
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<section class="gdl-formula-unit">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            C
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Commerce
+            </h3>
+
+            <p>
+                Accountancy • Economics
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-list">
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Accounting Equation
+                </div>
+
+                <div class="gdl-formula-expression">
+                    Assets = Liabilities + Capital
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Gross Profit
+                </div>
+
+                <div class="gdl-formula-expression">
+                    Gross Profit = Net Sales − Cost of Goods Sold
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Net Profit
+                </div>
+
+                <div class="gdl-formula-expression">
+                    Net Profit = Gross Profit − Operating Expenses
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Price Elasticity of Demand
+                </div>
+
+                <div class="gdl-formula-expression">
+                    PED = %ΔQd / %ΔP
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Mean
+                </div>
+
+                <div class="gdl-formula-expression">
+                    x̄ = Σfx / Σf
+                </div>
+
+            </div>
+
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Standard Deviation
+                </div>
+
+                <div class="gdl-formula-expression">
+                    σ = √[Σf(x−x̄)²/N]
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<section class="gdl-formula-unit">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            A
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Arts
+            </h3>
+
+            <p>
+                Geography Diagrams to Practise
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-list">
+
+            <div class="gdl-formula-row">
+
+                <div class="gdl-formula-name">
+                    Geography
+                </div>
+
+                <div class="gdl-formula-expression">
+                    Rock Cycle • Carbon Cycle • Jet Streams • Atmospheric Layers • Ocean Currents • Hydrological Cycle
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-callout">
+
+            <strong>
+                Revision Tip
+            </strong>
+
+            Students in every stream should maintain a single running
+            formula (or diagram) sheet from the first week of Class 11.
+            By the time annual exams arrive, revision becomes dramatically
+            faster because the sheet has been built gradually rather than
+            during exam week.
+
+        </div>
+
+    </div>
+
+</section>
+<section>
+
+  <div class="gdl-section-kicker">
+    The Class 11 Timeline
+  </div>
+
+  <h2 id="class-11-september-lull">
+    The September Lull — and Why It Catches Most Students Off Guard
+  </h2>
+
+  <div class="sequence-flow">
+
+    <article class="sequence-card">
+
+      <span class="sequence-step">
+        June–August
+      </span>
+
+      <h3>
+        😊 The Calm Beginning
+      </h3>
+
+      <p>
+        Intro chapters. Slower pace. “This isn't so bad.”
+      </p>
+
+    </article>
+
+
+    <article class="sequence-card">
+
+      <span class="sequence-step">
+        September–October
+      </span>
+
+      <h3>
+        😟 The Warning Phase
+      </h3>
+
+      <p>
+        Concepts interconnect. Pace accelerates. Gaps start showing.
+      </p>
+
+    </article>
+
+
+    <article class="sequence-card">
+
+      <span class="sequence-step">
+        November–December
+      </span>
+
+      <h3>
+        😰 The Crisis Point
+      </h3>
+
+      <p>
+        Half-yearlies reveal three months of accumulated gaps. Panic sets in.
+      </p>
+
+    </article>
+
+
+    <article class="sequence-card">
+
+      <span class="sequence-step">
+        January–February
+      </span>
+
+      <h3>
+        😓 The Catch-Up Phase
+      </h3>
+
+      <p>
+        Annual exams. Catching up and learning new content simultaneously.
+      </p>
+
+    </article>
+
+
+    <article class="sequence-card">
+
+      <span class="sequence-step">
+        Class 12
+      </span>
+
+      <h3>
+        😤 The Consequence
+      </h3>
+
+      <p>
+        Gaps from Class 11 resurface during the board preparation year.
+      </p>
+
+    </article>
+
+  </div>
+
+  <p>
+    The students who navigate Class 11 successfully don't do it by studying
+    harder in December. They do it by staying genuinely current from July —
+    understanding each chapter as it's taught, closing gaps within weeks
+    (not months), and arriving at annual exams with a foundation that's been
+    built continuously rather than hastily assembled.
+  </p>
+
+</section>
+<section class="learning-system">
+
+  <div class="gdl-section-kicker">
+    Personalised Class 11 Support
+  </div>
+
+  <h2 id="genelis-learning-system-class-11">
+    The System That Keeps You Current — Month After Month
+  </h2>
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. It doesn't deliver
+    the same content to every student. It studies your performance, identifies
+    your specific learning gaps, and generates a study experience that is
+    uniquely yours — adapting continuously as you progress through Class 11.
+  </p>
+
+  <p>
+    For Class 11 students, this solves the precise problem that causes most
+    mid-year struggles: the absence of a reliable, specific feedback system.
+    Here's what it looks like in practice:
+  </p>
+
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Practice Session
+      </span>
+
+      <h3>
+        Attempt a Focused Topic
+      </h3>
+
+      <p>
+        A Science student attempts a Laws of Motion practice session inside
+        Genelis.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Topic-Level Analysis
+      </span>
+
+      <h3>
+        Identify the Exact Gap
+      </h3>
+
+      <p>
+        Genelis identifies that accuracy on friction problems is 40%, while
+        accuracy on basic Newton's Law applications is 85%.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        AI Notes
+      </span>
+
+      <h3>
+        Surface the Right Concept
+      </h3>
+
+      <p>
+        The AI notes surface specifically the concept of static versus kinetic
+        friction rather than repeating the entire chapter.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Error Tracking
+      </span>
+
+      <h3>
+        Wrong Questions Are Logged
+      </h3>
+
+      <p>
+        Every incorrect friction question is automatically saved and tagged
+        for targeted reattempt.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Reattempt
+      </span>
+
+      <h3>
+        Test the Gap Again
+      </h3>
+
+      <p>
+        Three days later, the student reattempts those specific questions and
+        answers them correctly.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Verification
+      </span>
+
+      <h3>
+        Close the Gap Properly
+      </h3>
+
+      <p>
+        The gap is closed — not covered, not reviewed, but actually closed
+        and verified.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    Every Class 11 learning cycle follows the
+    <strong>Genelis Learning System</strong>:
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt session</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Gap detected at topic level</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>AI notes surface</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>Wrong questions logged</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Enter Class 12 strong ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-guide&utm_content=cta-inline">
+    Start your Class 11 personalized study plan on Genelis — free →
+  </a>
+
+</section>
+<section>
+
+  <div class="gdl-section-kicker">
+    Daily Habits
+  </div>
+
+  <h2 id="five-habits-class-11">
+    5 Habits That Separate Students Who Thrive in Class 11
+  </h2>
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Habit 1
+      </span>
+
+      <h3>
+        Study Every Subject Every Day
+      </h3>
+
+      <p>
+        Study every subject every day — not in marathon sessions, but in
+        40-minute focused blocks. In Class 11, a two-week gap in any subject
+        creates a conceptual hole that takes weeks to fill.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Habit 2
+      </span>
+
+      <h3>
+        Understand Before Moving On
+      </h3>
+
+      <p>
+        Class 11's sequential nature means confusion in Chapter 3 makes
+        Chapter 4 harder. Identify confusion early and resolve it that week,
+        not before the exam.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Habit 3
+      </span>
+
+      <h3>
+        Track Wrong Answers, Not Just Marks
+      </h3>
+
+      <p>
+        A 65% in a Physics test is noise. Knowing you consistently lose marks
+        on Gravitation numericals because you're applying G incorrectly is
+        signal you can act on.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Habit 4
+      </span>
+
+      <h3>
+        Build Your Formula Sheet from Day One
+      </h3>
+
+      <p>
+        Update it weekly as new formulas are introduced. By exam time, it
+        writes itself and revision takes minutes, not hours.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Habit 5
+      </span>
+
+      <h3>
+        Don't Abandon Class 11 for Competitive Exam Prep Alone
+      </h3>
+
+      <p>
+        JEE, NEET and CUET all test Class 11 content. Understand deeply from
+        NCERT first; competitive-exam depth builds on top of that foundation.
+      </p>
+
+    </article>
+
+  </div>
+
+</section>
+<section class="gdl-faq-section">
+
+    <div class="gdl-section-kicker">
+        Frequently Asked Questions
+    </div>
+
+    <h2>
+        Frequently Asked Questions
+    </h2>
+
+    <div class="gdl-faq-list">
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Why is Class 11 so much harder than Class 10?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Class 11 shifts from recall to application across all
+                    streams. In Science, Calculus, Organic Chemistry
+                    mechanisms and Electrostatics have no real Class 10
+                    equivalent. In Commerce, Accountancy moves to complex
+                    journal entries. In Arts, analytical writing replaces
+                    factual recall.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Is Class 11 important for Class 12 boards?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Absolutely. Class 12 board questions are built directly
+                    on Class 11 foundations. Calculus requires Class 11
+                    limits, Organic Chemistry requires Class 11 mechanisms,
+                    and JEE & NEET derive nearly 40–45% of their questions
+                    from Class 11 content.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                How many hours should a Class 11 student study every day?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Five to six focused hours daily is recommended, increasing
+                    to seven to eight hours before annual examinations.
+                    Consistency matters much more than occasional marathon
+                    study sessions because Class 11 concepts build
+                    sequentially.
+                </p>
+
+            </div>
+
+        </details>
+
+
+        <details class="gdl-faq-item">
+
+            <summary>
+                Does Genelis support Science, Commerce and Arts students?
+            </summary>
+
+            <div class="gdl-faq-answer">
+
+                <p>
+                    Yes. Genelis uses Adaptive Personalized Intelligence to
+                    support students across all Class 11 streams by detecting
+                    topic-level learning gaps, generating personalised AI
+                    notes, recommending targeted practice and continuously
+                    adapting the learning journey.
+                </p>
+
+            </div>
+
+        </details>
+
+    </div>
+
+</section>
+
+
+
+<section class="gdl-final-cta">
+
+    <div class="gdl-final-cta-content">
+
+        <span class="gdl-final-cta-kicker">
+            Build Your Class 12 Foundation Today
+        </span>
+
+        <h2>
+            The Best Time to Strengthen Class 12 Is During Class 11.
+        </h2>
+
+        <p>
+            Stay ahead with AI-powered notes, targeted practice, adaptive
+            mock tests, performance analytics and the Genelis Learning
+            System—built to help you stay current throughout the year.
+        </p>
+
+        <div class="gdl-final-cta-actions">
+
+            <a
+                class="gdl-final-cta-primary"
+                href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-guide&utm_content=footer">
+                Start Learning Free
+            </a>
+
+            <a
+                class="gdl-final-cta-secondary"
+                href="/classes/11">
+                Explore Class 11 →
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+    """
+},
+{
+    "slug": "class-12-physics-pyq-analysis-optics-electrostatics",
+
+    "title": (
+        "Class 12 Physics CBSE 2026–27: Optics, Electrostatics "
+        "& Modern Physics — PYQ Pattern Analysis"
+    ),
+
+    "meta_title": (
+        "Class 12 Physics PYQ Analysis 2026–27: Optics, "
+        "Electrostatics & Modern Physics | Genelis"
+    ),
+
+    "meta_description": (
+        "Analyse 23 years of CBSE Class 12 Physics PYQs covering Optics, "
+        "Electrostatics, Magnetism, Modern Physics, important derivations, "
+        "numerical strategy, and high-frequency board exam topics."
+    ),
+
+    "excerpt": (
+        "A data-led Class 12 Physics guide covering high-frequency PYQ "
+        "chapters, important derivations, numerical strategy, and the "
+        "topics CBSE repeatedly tests."
+    ),
+
+    "blog_type": "subject-guide",
+
+    "class": "12",
+
+    "subject": "Physics",
+
+    "category": "CBSE Subject Guide",
+
+    "tags": [
+        "Class 12",
+        "Physics",
+        "CBSE",
+        "PYQ Analysis",
+        "Optics",
+        "Electrostatics",
+        "Modern Physics",
+        "Board Exam Preparation"
+    ],
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-04T09:00:00+05:30",
+
+    "updated_date": "2026-07-04T09:00:00+05:30",
+
+    "display_date": "July 4, 2026",
+
+    "reading_time": "11 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class12-physics-og.jpg",
+
+    "image_alt": (
+        "Class 12 Physics PYQ analysis covering Optics, Electrostatics, "
+        "Modern Physics, derivations and numerical preparation"
+    ),
+
+    "keywords": [
+        "class 12 physics important questions",
+        "CBSE class 12 physics PYQ",
+        "class 12 physics chapter weightage",
+        "class 12 physics derivations",
+        "class 12 physics numerical questions",
+        "optics class 12 important questions",
+        "electrostatics class 12 PYQ",
+        "modern physics class 12",
+        "CBSE physics board preparation",
+        "class 12 physics study plan",
+        "AI study coach class 12 physics",
+        "Genelis"
+    ],
+
+    "faqs": [
+        {
+            "question": (
+                "Which chapter has the highest weightage in "
+                "Class 12 Physics CBSE?"
+            ),
+            "answer": (
+                "Ray Optics carries the highest individual chapter weightage "
+                "at approximately 10 marks per paper, with more than 380 "
+                "previous-year questions across 23 years. The Optics unit "
+                "as a whole contributes approximately 14–18 marks depending "
+                "on the paper."
+            )
+        },
+        {
+            "question": (
+                "How many derivations are important for "
+                "Class 12 Physics CBSE boards?"
+            ),
+            "answer": (
+                "Approximately 25–30% of the Class 12 Physics theory paper "
+                "includes derivation-based questions. Important derivations "
+                "include the mirror formula, lens maker's equation, Young's "
+                "fringe width, Gauss's Law applications, self-inductance, "
+                "transformer turns ratio, Bohr's model equations, de Broglie "
+                "wavelength, and radioactive decay."
+            )
+        },
+        {
+            "question": (
+                "How does Genelis help with Class 12 Physics preparation?"
+            ),
+            "answer": (
+                "Genelis uses Adaptive Personalized Intelligence to identify "
+                "weak areas at the chapter and topic level, tracking "
+                "derivations, numericals, and theory separately. It generates "
+                "targeted AI notes, automatically logs wrong answers, enables "
+                "focused reattempts, and adapts preparation through the "
+                "Genelis Learning System."
+            )
+        }
+    ],
+
+    "content": """
+
+<section>
+
+    <p>
+        Class 12 Physics is the subject most students fear and most toppers
+        ace—not because they're more intelligent, but because they prepare
+        differently. They know which chapters appear on the board exam year
+        after year. They know which derivations recur. They know where the
+        numerical marks are genuinely winnable. And they don't guess—they use
+        data.
+    </p>
+
+    <p>
+        This guide is built around 23 years of CBSE board paper analysis.
+        Not speculation about what might appear—but what has appeared
+        consistently, and how to prepare for it precisely. By understanding
+        the chapters CBSE repeatedly tests, the derivations that carry the
+        highest weightage, and the numerical patterns that return year after
+        year, you can focus your effort where it matters most.
+    </p>
+
+</section>
+<section class="gdl-pyq-overview">
+
+  <div class="gdl-section-kicker">
+    23-Year PYQ Analysis
+  </div>
+
+  <h2 id="class-12-physics-pyq-weightage">
+    What CBSE Has Actually Asked for 23 Years Straight.
+  </h2>
+
+  <p>
+    The theory paper carries 70 marks across 9 units. Here's the frequency
+    and weightage breakdown based on the CBSE 2025–26 blueprint and historical
+    PYQ data:
+  </p>
+
+
+  <div class="gdl-pyq-table">
+
+    <div class="gdl-pyq-table-title">
+      Class 12 Physics — Unit Weightage & PYQ Frequency
+    </div>
+
+
+    <div class="gdl-pyq-table-head">
+      <div>Unit / Chapter</div>
+      <div>Frequency Level</div>
+      <div>Weightage in Theory Paper</div>
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--blue">
+          O
+        </span>
+
+        <span>
+          Optics — Ray + Wave
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--blue">
+          Highest Frequency
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--blue"
+            style="width:72%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        14–18 marks · 610+ PYQs
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--cyan">
+          AC
+        </span>
+
+        <span>
+          EMI & Alternating Current
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--cyan">
+          Very High
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--cyan"
+            style="width:60%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        14–16 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--red">
+          E
+        </span>
+
+        <span>
+          Electrostatics
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--red">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--red"
+            style="width:42%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        8–10 marks · 500+ PYQs
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--orange">
+          M
+        </span>
+
+        <span>
+          Magnetic Effects & Magnetism
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--orange">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--orange"
+            style="width:38%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        8–11 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--green">
+          MP
+        </span>
+
+        <span>
+          Modern Physics — Dual Nature, Atoms, Nuclei
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--green">
+          Medium–High
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--green"
+            style="width:50%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        10–15 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--sky">
+          CE
+        </span>
+
+        <span>
+          Current Electricity
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--sky">
+          Medium
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--sky"
+            style="width:26%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        6 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--purple">
+          ED
+        </span>
+
+        <span>
+          Electronic Devices
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--purple">
+          Medium
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--purple"
+            style="width:30%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--slate">
+          EM
+        </span>
+
+        <span>
+          Electromagnetic Waves
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--slate">
+          Low–Medium
+        </span>
+
+        <div class="gdl-pyq-track">
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--slate"
+            style="width:16%;">
+          </div>
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        3–4 marks
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-source">
+
+      <strong>
+        Source:
+      </strong>
+
+      <span>
+        CBSE 2025–26 blueprint cross-verified with 23-year PYQ analysis.
+      </span>
+
+    </div>
+
+  </div>
+
+</section>
+<section class="gdl-physics-chapter-section">
+
+  <div class="gdl-section-kicker">
+    Chapter Analysis
+  </div>
+
+  <h2 id="class-12-physics-chapter-analysis">
+    Chapter by Chapter: What CBSE Keeps Coming Back To
+  </h2>
+
+
+  <div class="gdl-physics-chapter-grid">
+
+
+    <!-- OPTICS -->
+
+    <article class="learning-card gdl-physics-chapter-card gdl-physics-chapter-card--blue">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          O
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Appears Every Year
+          </span>
+
+          <h3>
+            Optics — 610+ PYQs
+          </h3>
+
+        </div>
+
+      </div>
+
+      <ul>
+        <li>Lens maker's equation derivation (3–5 marks)</li>
+        <li>Ray diagrams for image formation at specified positions</li>
+        <li>Numericals using lens/mirror formula + magnification</li>
+        <li>Refraction at a spherical surface — derivation or numerical</li>
+        <li>Total internal reflection — conditions and applications</li>
+        <li>Young's double-slit experiment — fringe width derivation</li>
+        <li>Diffraction vs interference — distinguishing characteristics</li>
+      </ul>
+
+    </article>
+
+
+    <!-- ELECTROSTATICS -->
+
+    <article class="learning-card gdl-physics-chapter-card gdl-physics-chapter-card--red">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          E
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Appears Every Year
+          </span>
+
+          <h3>
+            Electrostatics — 500+ PYQs
+          </h3>
+
+        </div>
+
+      </div>
+
+      <ul>
+        <li>Gauss's Law — apply to infinite plane, sphere, cylinder</li>
+        <li>Electric field due to a dipole (axial and equatorial)</li>
+        <li>Capacitors in series and parallel — numericals</li>
+        <li>Energy stored in capacitor: U = ½CV² = Q²/2C</li>
+        <li>Coulomb's law — superposition principle applications</li>
+      </ul>
+
+    </article>
+
+
+    <!-- EMI & ALTERNATING CURRENT -->
+
+    <article class="learning-card gdl-physics-chapter-card gdl-physics-chapter-card--cyan">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          AC
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Derivations Dominate
+          </span>
+
+          <h3>
+            EMI & Alternating Current
+          </h3>
+
+        </div>
+
+      </div>
+
+      <ul>
+        <li>Faraday's Laws — induced EMF derivation</li>
+        <li>Self-inductance of solenoid: L = μ₀n²Al</li>
+        <li>Mutual inductance — derivation and numerical</li>
+        <li>LCR circuit — impedance, resonance, power factor</li>
+        <li>Transformer — turns ratio, efficiency</li>
+        <li>Numerical on induced EMF: e = Blv or e = −dΦ/dt</li>
+      </ul>
+
+    </article>
+
+
+    <!-- MODERN PHYSICS -->
+
+    <article class="learning-card gdl-physics-chapter-card gdl-physics-chapter-card--green">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          MP
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Photoelectric + Bohr Repeat
+          </span>
+
+          <h3>
+            Modern Physics
+          </h3>
+
+        </div>
+
+      </div>
+
+      <ul>
+        <li>Einstein's photoelectric equation — stopping potential</li>
+        <li>de Broglie wavelength: λ = h/mv</li>
+        <li>Bohr's model — postulates, orbit radius and energy</li>
+        <li>Nuclear fission vs fusion — definitions, energy release</li>
+        <li>Radioactive decay: N = N₀e^(−λt), t½ = 0.693/λ</li>
+      </ul>
+
+    </article>
+
+  </div>
+
+
+  <div class="gdl-formula-callout">
+
+    <strong>
+      Topics Deleted from the 2025–26 Syllabus
+    </strong>
+
+    Cyclotron, eddy currents, polarization, digital electronics, and several
+    other topics have been removed. Do not waste revision time on these —
+    they will not appear in the 2026–27 board paper.
+
+  </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+  <div class="gdl-section-kicker">
+    Preparation Balance
+  </div>
+
+  <h2 id="physics-theory-vs-numericals">
+    Theory vs Numericals: Most Students Get This Balance Wrong
+  </h2>
+
+
+  <div class="gdl-signal-grid">
+
+    <article class="gdl-signal-card gdl-signal-card--noise">
+
+      <div class="gdl-signal-label">
+        Theory
+      </div>
+
+      <div class="gdl-signal-value">
+        ~40%
+      </div>
+
+      <p>
+        Definitions, concepts, reasons, and diagrams. Important, but most
+        students overinvest here.
+      </p>
+
+    </article>
+
+
+    <article class="gdl-signal-card gdl-signal-card--signal">
+
+      <div class="gdl-signal-label">
+        Numericals + Derivations
+      </div>
+
+      <div class="gdl-signal-value">
+        ~60%
+      </div>
+
+      <p>
+        This is where marks are won or lost, and where most students
+        underpractise.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    The most common strategic error in Class 12 Physics: spending too much
+    time on theory and too little on numericals. For every 30 minutes of
+    theory revision, spend 20–25 minutes on numerical practice — specifically
+    targeting the numerical types from chapters where your accuracy is lowest.
+  </p>
+
+
+  <div class="gdl-formula-callout">
+
+    <strong>
+      The Exam Step Rule
+    </strong>
+
+    For every numerical, show: (1) the formula, (2) values substituted with
+    units, (3) intermediate working, and (4) the final answer with units. A
+    student who gets the final answer wrong but shows the correct formula and
+    substitution typically earns 2 out of 3 marks. Never write only the answer.
+
+  </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+  <div class="gdl-section-kicker">
+    Performance Analysis
+  </div>
+
+  <h2 id="physics-score-analysis">
+    A Score of 48 Tells You Nothing. This Does.
+  </h2>
+
+
+  <div class="gdl-signal-grid">
+
+    <article class="gdl-signal-card gdl-signal-card--noise">
+
+      <div class="gdl-signal-label">
+        Noise
+      </div>
+
+      <div class="gdl-signal-value">
+        48 / 70
+      </div>
+
+      <p>
+        Your Physics mock test score. It tells you nothing about which
+        chapters cost you those 22 marks or what you should study next.
+      </p>
+
+    </article>
+
+
+    <article class="gdl-signal-card gdl-signal-card--signal">
+
+      <div class="gdl-signal-label">
+        Signal
+      </div>
+
+      <div class="gdl-signal-value">
+        Topic Map
+      </div>
+
+      <p>
+        Gauss's Law: 38% · Faraday's numericals: 51% · Optics derivations:
+        86%. Now you know exactly where to focus.
+      </p>
+
+    </article>
+
+  </div>
+
+</section>
+
+
+<section class="learning-system">
+
+  <div class="gdl-section-kicker">
+    Personalised Physics Preparation
+  </div>
+
+  <h2 id="genelis-learning-system-physics">
+    How the Genelis Learning System Closes Physics Gaps
+  </h2>
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. For Class 12 Physics,
+    it tracks accuracy separately for derivations, numericals, and theory
+    questions within each chapter.
+  </p>
+
+  <p>
+    When you attempt a Physics session, Genelis identifies not just your
+    overall score but your exact gaps — and generates customized AI notes
+    targeted at those specific concepts.
+  </p>
+
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Derivations
+      </span>
+
+      <h3>
+        Track Writing Accuracy
+      </h3>
+
+      <p>
+        Identify whether marks are being lost because of missing steps,
+        incorrect diagrams, incomplete assumptions, or weak recall.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Numericals
+      </span>
+
+      <h3>
+        Detect the Exact Error Type
+      </h3>
+
+      <p>
+        Separate formula-selection mistakes from substitution errors, unit
+        conversion issues, and calculation mistakes.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Theory
+      </span>
+
+      <h3>
+        Find Conceptual Gaps
+      </h3>
+
+      <p>
+        Track weaknesses in definitions, reasoning questions, diagrams, and
+        application-based theory.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        AI Notes
+      </span>
+
+      <h3>
+        Revise Only What Is Weak
+      </h3>
+
+      <p>
+        Genelis generates targeted AI notes for the exact chapter and question
+        type where your performance is lowest.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Error Tracking
+      </span>
+
+      <h3>
+        Automatic Wrong-Question Notebook
+      </h3>
+
+      <p>
+        Wrong answers are automatically logged, tagged by chapter and question
+        type, and saved for focused reattempt.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Verification
+      </span>
+
+      <h3>
+        Confirm the Gap Is Closed
+      </h3>
+
+      <p>
+        Reattempt the exact derivations and numericals you got wrong and
+        verify that the gap has actually been closed.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    Every Physics learning cycle follows the
+    <strong>Genelis Learning System</strong>:
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt Physics session</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Chapter-level gap detected</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>Targeted AI notes surface</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>Wrong questions logged</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt weak questions</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Gap verified closed ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-physics&utm_content=cta-inline">
+    Start your personalised Class 12 Physics study plan on Genelis — free →
+  </a>
+
+</section>
+<section class="gdl-faq-section">
+
+  <div class="gdl-section-kicker">
+    Frequently Asked Questions
+  </div>
+
+  <h2 id="frequently-asked-questions">
+    Frequently Asked Questions
+  </h2>
+
+  <div class="gdl-faq-list">
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        Which chapter has the highest weightage in Class 12 Physics CBSE?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Ray Optics carries the highest individual chapter weightage at
+          approximately 10 marks per paper, with more than 380 previous-year
+          questions across 23 years. The full Optics unit contributes
+          approximately 14–18 marks per paper, making it the highest-return
+          area for focused preparation.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How many derivations are important for Class 12 Physics CBSE boards?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Approximately 25–30% of the theory paper includes derivation-based
+          questions. The must-know list includes the mirror formula, lens
+          maker's equation, refraction at a spherical surface, Young's fringe
+          width, Gauss's Law applications, energy stored in a capacitor,
+          self-inductance of a solenoid, transformer turns ratio, Bohr's orbit
+          equations, de Broglie wavelength, and radioactive decay.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How should I balance theory, numericals, and derivations?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Treat numericals and derivations as the larger share of preparation.
+          For every 30 minutes of theory revision, spend approximately 20–25
+          minutes solving numericals or writing derivations under timed
+          conditions. Always show the formula, substitution with units,
+          intermediate working, and final answer.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How does Genelis help with Class 12 Physics preparation?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Genelis uses Adaptive Personalized Intelligence to identify exact
+          weak areas in Class 12 Physics, tracking derivations, numericals,
+          and theory separately within each chapter. It generates targeted
+          AI notes, logs wrong answers automatically, supports focused
+          reattempts, and continuously adapts preparation through the
+          Genelis Learning System.
+        </p>
+
+      </div>
+
+    </details>
+
+  </div>
+
+</section>
+
+
+<section class="gdl-final-cta">
+
+  <div class="gdl-final-cta-content">
+
+    <span class="gdl-final-cta-kicker">
+      Personalised Class 12 Physics Preparation
+    </span>
+
+    <h2>
+      Stop Revising Physics Blindly. Prepare Where the Marks Are.
+    </h2>
+
+    <p>
+      Use targeted AI notes, chapter-wise practice, adaptive mock tests,
+      derivation tracking, numerical analysis, and focused reattempts to
+      close the exact gaps costing you marks.
+    </p>
+
+    <div class="gdl-final-cta-actions">
+
+      <a
+        class="gdl-final-cta-primary"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-physics&utm_content=cta-footer">
+        Start Learning Free
+      </a>
+
+      <a
+        class="gdl-final-cta-secondary"
+        href="/classes/12">
+        Explore Class 12 →
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+    """
+},
+{
+    "slug": "class-12-chemistry-important-chapters-pyq-analysis",
+
+    "title": (
+        "Class 12 Chemistry 2026–27: Organic Chemistry, "
+        "Electrochemistry & Coordination Compounds — "
+        "PYQ Analysis & Complete Strategy"
+    ),
+
+    "meta_title": (
+        "Class 12 Chemistry PYQ Analysis 2026–27: Organic, "
+        "Electrochemistry & Coordination Compounds | Genelis"
+    ),
+
+    "meta_description": (
+        "Master CBSE Class 12 Chemistry with PYQ analysis, chapter "
+        "weightage, Organic Chemistry named reactions, Electrochemistry "
+        "numericals, Coordination Compounds, and a complete formula sheet."
+    ),
+
+    "excerpt": (
+        "A complete Class 12 Chemistry strategy covering Organic, Physical "
+        "and Inorganic Chemistry, with PYQ analysis, named reactions, "
+        "Electrochemistry numericals, IUPAC rules, and revision formulas."
+    ),
+
+    "blog_type": "subject-guide",
+
+    "class": "12",
+
+    "subject": "Chemistry",
+
+    "category": "CBSE Subject Guide",
+
+    "tags": [
+        "Class 12",
+        "Chemistry",
+        "CBSE",
+        "Organic Chemistry",
+        "Electrochemistry",
+        "Coordination Compounds",
+        "PYQ Analysis",
+        "Board Exam Preparation"
+    ],
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-13T09:00:00+05:30",
+
+    "updated_date": "2026-07-13T09:00:00+05:30",
+
+    "display_date": "July 13, 2026",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class12-chemistry-og.jpg",
+
+    "image_alt": (
+        "Class 12 Chemistry PYQ analysis covering Organic Chemistry, "
+        "Electrochemistry, Coordination Compounds, named reactions, "
+        "numericals and formulas"
+    ),
+
+    "keywords": [
+        "class 12 chemistry important chapters CBSE",
+        "class 12 chemistry PYQ analysis",
+        "class 12 chemistry chapter weightage 2026",
+        "class 12 chemistry named reactions list",
+        "organic chemistry class 12 CBSE",
+        "electrochemistry class 12 formulas",
+        "Nernst equation class 12",
+        "coordination compounds class 12 CBSE",
+        "class 12 chemistry formula sheet",
+        "class 12 chemistry study plan",
+        "AI notes class 12 chemistry",
+        "Genelis"
+    ],
+
+    "faqs": [
+        {
+            "question": (
+                "Which chapter has the highest weightage in "
+                "Class 12 Chemistry CBSE 2025–26?"
+            ),
+            "answer": (
+                "Electrochemistry carries the highest individual chapter "
+                "weightage at 9 marks in the 70-mark theory paper. It is "
+                "followed by Aldehydes, Ketones and Carboxylic Acids at "
+                "8 marks. Overall, Organic Chemistry carries 33 marks, "
+                "making it the most important Chemistry division."
+            )
+        },
+        {
+            "question": (
+                "What are the most important named reactions for "
+                "Class 12 Chemistry CBSE boards?"
+            ),
+            "answer": (
+                "Important named reactions include Aldol Condensation, "
+                "Cannizzaro Reaction, Hoffmann Bromamide Degradation, "
+                "Reimer-Tiemann Reaction, Friedel-Crafts Acylation, "
+                "SN1 and SN2 reactions, Hell-Volhard-Zelinsky Reaction, "
+                "and Sandmeyer Reaction."
+            )
+        },
+        {
+            "question": (
+                "What types of numerical questions appear in "
+                "Electrochemistry in Class 12 CBSE boards?"
+            ),
+            "answer": (
+                "Electrochemistry numericals mainly repeat across three "
+                "question types: Nernst equation calculations, Faraday's "
+                "law calculations for charge or mass deposited, and "
+                "conductance questions using molar conductivity and "
+                "Kohlrausch's Law."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare Organic Chemistry for "
+                "Class 12 CBSE boards?"
+            ),
+            "answer": (
+                "Use a mechanism-first approach. Understand why reactions "
+                "occur, build a functional-group conversion chain, learn "
+                "named reactions with reagents and conditions, and practise "
+                "multi-step conversions regularly."
+            )
+        },
+        {
+            "question": (
+                "What is the split between Organic, Physical, and "
+                "Inorganic Chemistry in Class 12 CBSE?"
+            ),
+            "answer": (
+                "The 70-mark Chemistry theory paper is divided into "
+                "Organic Chemistry at 33 marks, Physical Chemistry at "
+                "23 marks, and Inorganic Chemistry at 14 marks."
+            )
+        }
+    ],
+
+    "content": """
+
+<section>
+
+  <p>
+    Most Class 12 students prepare Chemistry as if it is one subject. They
+    open Chapter 1, work forward, and hope that coverage translates into marks.
+    It rarely does — because Chemistry is not one subject. It is three
+    fundamentally different disciplines bundled into one paper, each demanding
+    a completely different preparation approach.
+  </p>
+
+  <p>
+    <strong>Physical Chemistry</strong> rewards numerical fluency. You cannot
+    prepare it by reading — only by solving.
+    <strong>Organic Chemistry</strong> rewards mechanism understanding and named
+    reaction recall. You cannot prepare it by memorising reactions in isolation
+    — you need to understand why they proceed.
+    <strong>Inorganic Chemistry</strong> rewards definition precision and
+    reasoning clarity. It does not reward long paragraphs — concise,
+    NCERT-aligned answers score higher than elaborate ones.
+  </p>
+
+  <p>
+    This guide is built around that three-mode framework — with deep dives into
+    the three chapters that decide the most marks: Organic Chemistry
+    (33 marks across the Organic unit), Electrochemistry (9 marks, the single
+    highest-weightage chapter in the paper), and Coordination Compounds
+    (7 marks, the most reasoning-intensive Inorganic chapter). The second half
+    is your complete formula and named reaction reference sheet — verified from
+    PYQ analysis across 10+ years of CBSE board papers.
+  </p>
+
+</section>
+<section class="gdl-pyq-overview">
+
+  <div class="gdl-section-kicker">
+    Marks Distribution
+  </div>
+
+  <h2 id="class-12-chemistry-weightage">
+    33 Marks Are Organic. 23 Are Physical. 14 Are Inorganic. Is Your Preparation Reflecting That?
+  </h2>
+
+
+  <!-- =====================================================
+       CHEMISTRY DIVISION SPLIT
+  ===================================================== -->
+
+  <div class="gdl-subject-strip">
+
+    <article class="gdl-subject-card chemistry">
+
+      <span class="gdl-subject-marks">
+        33
+      </span>
+
+      <h3>
+        Organic Chemistry
+      </h3>
+
+      <p>
+        47% of Theory Paper
+      </p>
+
+    </article>
+
+
+    <article class="gdl-subject-card physics">
+
+      <span class="gdl-subject-marks">
+        23
+      </span>
+
+      <h3>
+        Physical Chemistry
+      </h3>
+
+      <p>
+        33% of Theory Paper
+      </p>
+
+    </article>
+
+
+    <article class="gdl-subject-card biology">
+
+      <span class="gdl-subject-marks">
+        14
+      </span>
+
+      <h3>
+        Inorganic Chemistry
+      </h3>
+
+      <p>
+        20% of Theory Paper
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <!-- =====================================================
+       CHAPTER-WISE MARKS DISTRIBUTION
+  ===================================================== -->
+
+  <div class="gdl-pyq-table">
+
+    <div class="gdl-pyq-table-title">
+      Class 12 Chemistry — Chapter-Wise Marks Distribution
+      (Theory, 70 Marks) 2025–26
+    </div>
+
+
+    <div class="gdl-pyq-table-head">
+
+      <div>
+        Chapter
+      </div>
+
+      <div>
+        Share of Theory Paper
+      </div>
+
+      <div>
+        Marks
+      </div>
+
+    </div>
+
+
+    <!-- ELECTROCHEMISTRY -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--blue">
+          E
+        </span>
+
+        <span>
+          Electrochemistry
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--blue">
+          Highest
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--blue"
+            style="width:100%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        9 marks · 12.85%
+      </div>
+
+    </div>
+
+
+    <!-- ALDEHYDES, KETONES & CARBOXYLIC ACIDS -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--red">
+          AK
+        </span>
+
+        <span>
+          Aldehydes, Ketones &amp; Carboxylic Acids
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--red">
+          Very High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--red"
+            style="width:89%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        8 marks · 11.43%
+      </div>
+
+    </div>
+
+
+    <!-- SOLUTIONS -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--sky">
+          S
+        </span>
+
+        <span>
+          Solutions
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--sky">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--sky"
+            style="width:78%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks · 10%
+      </div>
+
+    </div>
+
+
+    <!-- CHEMICAL KINETICS -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--cyan">
+          CK
+        </span>
+
+        <span>
+          Chemical Kinetics
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--cyan">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--cyan"
+            style="width:78%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks · 10%
+      </div>
+
+    </div>
+
+
+    <!-- D & F BLOCK -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--green">
+          DF
+        </span>
+
+        <span>
+          d &amp; f Block Elements
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--green">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--green"
+            style="width:78%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks · 10%
+      </div>
+
+    </div>
+
+
+    <!-- COORDINATION COMPOUNDS -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--green">
+          CC
+        </span>
+
+        <span>
+          Coordination Compounds
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--green">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--green"
+            style="width:78%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks · 10%
+      </div>
+
+    </div>
+
+
+    <!-- BIOMOLECULES -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--red">
+          B
+        </span>
+
+        <span>
+          Biomolecules
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--red">
+          High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--red"
+            style="width:78%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        7 marks · 10%
+      </div>
+
+    </div>
+
+
+    <!-- HALOALKANES & HALOARENES -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--orange">
+          HH
+        </span>
+
+        <span>
+          Haloalkanes &amp; Haloarenes
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--orange">
+          Medium–High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--orange"
+            style="width:67%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        6 marks · 8.57%
+      </div>
+
+    </div>
+
+
+    <!-- ALCOHOLS, PHENOLS & ETHERS -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--orange">
+          AP
+        </span>
+
+        <span>
+          Alcohols, Phenols &amp; Ethers
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--orange">
+          Medium–High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--orange"
+            style="width:67%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        6 marks · 8.57%
+      </div>
+
+    </div>
+
+
+    <!-- AMINES -->
+
+    <div class="gdl-pyq-row">
+
+      <div class="gdl-pyq-unit">
+
+        <span class="gdl-pyq-icon gdl-pyq-icon--purple">
+          A
+        </span>
+
+        <span>
+          Amines
+        </span>
+
+      </div>
+
+      <div class="gdl-pyq-frequency">
+
+        <span class="gdl-pyq-badge gdl-pyq-badge--purple">
+          Medium–High
+        </span>
+
+        <div class="gdl-pyq-track">
+
+          <div
+            class="gdl-pyq-fill gdl-pyq-fill--purple"
+            style="width:67%;">
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="gdl-pyq-marks">
+        6 marks · 8.57%
+      </div>
+
+    </div>
+
+
+    <div class="gdl-pyq-source">
+
+      <strong>
+        Source:
+      </strong>
+
+      <span>
+        CBSE official 2025–26 curriculum and confirmed sample-paper
+        analysis. Electrochemistry holds the highest individual chapter
+        weightage at 9 marks, followed by Aldehydes, Ketones &amp;
+        Carboxylic Acids at 8 marks.
+      </span>
+
+    </div>
+
+  </div>
+
+
+  <!-- =====================================================
+       STRATEGIC INTERPRETATION
+  ===================================================== -->
+
+  <p>
+    The strategic insight this data delivers: Organic Chemistry will be
+    33 marks, Physical Chemistry 23 marks, and Inorganic Chemistry 14 marks.
+    A student who spends equal time on all three Chemistry divisions is
+    systematically misallocating their preparation hours. Nearly half the
+    paper is Organic. If your revision timetable doesn't reflect that
+    proportion, it's working against you.
+  </p>
+
+</section>
+<section>
+
+    <div class="gdl-section-kicker">
+        Preparation Framework
+    </div>
+
+    <h2 id="chemistry-preparation-framework">
+        Three Sections. Three Completely Different Study Strategies.
+    </h2>
+
+    <p>
+        Chemistry rewards understanding only when you prepare each section
+        according to its nature. Trying to memorise everything—or solving only
+        numericals—is why many students plateau despite studying for long
+        hours.
+    </p>
+
+    <div class="learning-grid">
+
+        <!-- Physical Chemistry -->
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Physical Chemistry
+            </span>
+
+            <h3>
+                Learn by Solving
+            </h3>
+
+            <p>
+                Reading theory alone is rarely enough. Most marks come from
+                applying formulas correctly under time pressure.
+            </p>
+
+            <ul>
+
+                <li>Solve numericals every day.</li>
+
+                <li>Memorise formulas with units.</li>
+
+                <li>Practise logarithms and approximations.</li>
+
+                <li>Maintain a notebook of common calculation mistakes.</li>
+
+            </ul>
+
+        </article>
+
+
+
+        <!-- Organic Chemistry -->
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Organic Chemistry
+            </span>
+
+            <h3>
+                Learn by Understanding
+            </h3>
+
+            <p>
+                Don't memorise reactions independently. Build reaction
+                mechanisms and understand why one functional group transforms
+                into another.
+            </p>
+
+            <ul>
+
+                <li>Learn mechanisms before products.</li>
+
+                <li>Group reactions by functional group.</li>
+
+                <li>Revise named reactions every week.</li>
+
+                <li>Practise conversion questions regularly.</li>
+
+            </ul>
+
+        </article>
+
+
+
+        <!-- Inorganic Chemistry -->
+
+        <article class="learning-card">
+
+            <span class="learning-highlight">
+                Inorganic Chemistry
+            </span>
+
+            <h3>
+                Learn from NCERT
+            </h3>
+
+            <p>
+                Most board questions are directly or indirectly based on NCERT
+                language. Precision matters more than lengthy explanations.
+            </p>
+
+            <ul>
+
+                <li>Revise NCERT repeatedly.</li>
+
+                <li>Prepare short definition sheets.</li>
+
+                <li>Focus on exceptions and trends.</li>
+
+                <li>Practise assertion–reason questions.</li>
+
+            </ul>
+
+        </article>
+
+    </div>
+
+    <div class="gdl-callout">
+
+        <strong>
+            One Strategy Doesn't Work.
+        </strong>
+
+        <p>
+
+            Treat Chemistry as three different subjects. Solve Physical
+            Chemistry, understand Organic Chemistry, and revise Inorganic
+            Chemistry directly from NCERT. Students who separate these three
+            approaches consistently perform better than those who study all
+            chapters in the same way.
+
+        </p>
+
+    </div>
+
+</section>
+<section class="gdl-physics-chapter-section">
+
+  <div class="gdl-section-kicker">
+    Physical Chemistry
+  </div>
+
+  <h2 id="electrochemistry-numerical-types">
+    Electrochemistry: 9 Marks, Three Numerical Types That Repeat Every Year
+  </h2>
+
+  <p>
+    Electrochemistry holds the highest weightage with 9 marks (13%), making
+    it a must-prioritize chapter for scoring well. And unlike most Chemistry
+    chapters, Electrochemistry rewards a very specific type of preparation:
+    numerical practice across three question types that have appeared in CBSE
+    board papers consistently for over a decade.
+  </p>
+
+  <p>
+    The Nernst equation question may look new each year, but it is built on
+    the same conceptualisation as before. The framing changes. The underlying
+    calculation structure does not. Students who recognise this pattern and
+    practise these three types specifically score full marks in
+    Electrochemistry. Students who read the chapter without practising the
+    numericals consistently lose 4–5 marks here.
+  </p>
+
+
+  <div class="gdl-physics-chapter-grid">
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--blue">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          01
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            EMF Calculation
+          </span>
+
+          <h3>
+            Nernst Equation
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        Given concentrations of ions at anode and cathode, calculate cell EMF.
+        Most commonly a 3-mark question. The structure: identify standard EMF,
+        substitute into Nernst, solve.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Formula
+        </strong>
+
+        E = E° − (RT/nF) × ln Q<br>
+        At 298 K: E = E° − (0.0592/n) × log Q<br>
+        Q = [products] / [reactants]
+
+      </div>
+
+    </article>
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--cyan">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          02
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Electrolysis
+          </span>
+
+          <h3>
+            Faraday's Laws
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        Given current and time, or mass deposited, calculate mass deposited at
+        the electrode or charge passed. Occasionally, the question asks for
+        time given current and mass. It is usually a 2–3 mark question with a
+        clear step structure.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Formula
+        </strong>
+
+        w = (M × I × t) / (n × F)<br>
+        w = mass in grams<br>
+        M = molar mass<br>
+        n = electrons transferred<br>
+        F = 96500 C/mol
+
+      </div>
+
+    </article>
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--green">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          03
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Conductance
+          </span>
+
+          <h3>
+            Molar Conductivity & Kohlrausch's Law
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        Calculate limiting molar conductivity, degree of dissociation, or
+        dissociation constant of a weak electrolyte. Kohlrausch's Law and the
+        relationship between conductance and concentration appear repeatedly
+        in this numerical type.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Formula
+        </strong>
+
+        Λ°m = ν₊λ°₊ + ν₋λ°₋<br>
+        α = Λm / Λ°m<br>
+        Ka = Cα² / (1 − α)
+
+      </div>
+
+    </article>
+
+  </div>
+
+
+  <div class="gdl-formula-callout">
+
+    <strong>
+      Electrochemistry Exam Tip
+    </strong>
+
+    The galvanic cell vs electrolytic cell distinction is a 1-mark question
+    that appears in nearly every paper. For galvanic cells: anode is negative,
+    cathode is positive. For electrolytic cells: anode is positive, cathode is
+    negative. Students mix these up under exam pressure — know it cold before
+    the paper starts.
+
+  </div>
+
+</section>
+<section class="gdl-organic-section">
+
+  <div class="gdl-section-kicker">
+    Organic Chemistry
+  </div>
+
+  <h2 id="organic-conversion-chain">
+    The Organic Conversion Chain — and the Named Reactions CBSE Has Asked for 10 Years Straight
+  </h2>
+
+  <p>
+    Organic Chemistry is 33 marks — nearly half the Chemistry paper. And the
+    most important insight about Organic Chemistry preparation is this:
+    organic chemistry conversions alone can contribute nearly 10–15 marks.
+    Prepare reaction flowcharts linking haloalkanes → alcohols → aldehydes →
+    acids → amines.
+  </p>
+
+  <p>
+    Students who practise this conversion chain as a connected system — not
+    as isolated chapter facts — score significantly better than those who
+    revise each chapter in isolation.
+  </p>
+
+
+  <div class="gdl-reaction-flow">
+
+    <div class="gdl-reaction-flow-header">
+      The Organic Conversion Chain — Reagents and Conditions at Each Step
+    </div>
+
+
+    <div class="gdl-reaction-row">
+
+      <div class="gdl-reaction-box">
+        Haloalkane
+        <span>R–X</span>
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          NaOH (aq) / H₂O
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Alcohol
+        <span>R–OH</span>
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          PCC / K₂Cr₂O₇
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Aldehyde / Ketone
+      </div>
+
+    </div>
+
+
+    <div class="gdl-reaction-row">
+
+      <div class="gdl-reaction-box">
+        Aldehyde / Ketone
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          KMnO₄ / K₂Cr₂O₇ (acid)
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Carboxylic Acid
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          NH₃, then Br₂/KOH
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Amine
+        <span>R–NH₂</span>
+      </div>
+
+    </div>
+
+
+    <div class="gdl-reaction-row">
+
+      <div class="gdl-reaction-box">
+        Alcohol
+        <span>R–OH</span>
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          HBr / PCl₃ / SOCl₂
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Haloalkane
+      </div>
+
+      <div class="gdl-reaction-arrow">
+
+        <span class="gdl-reaction-reagent">
+          NaOH (alc) / KOH (alc)
+        </span>
+
+        <span class="gdl-reaction-arrow-symbol">
+          →
+        </span>
+
+      </div>
+
+      <div class="gdl-reaction-box">
+        Alkene
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-callout">
+
+      <strong>
+        How to Use the Conversion Chain
+      </strong>
+
+      The functional group at the start determines which reagent to use.
+      Learn this chain by drawing it from memory. Multi-step conversion
+      questions ask you to move from any point to any other point — the chain
+      gives you the route.
+
+    </div>
+
+  </div>
+
+</section>
+<section class="gdl-pyq-overview">
+
+    <div class="gdl-section-kicker">
+        Organic Chemistry
+    </div>
+
+    <h2 id="named-reactions">
+        PYQ-Verified Named Reactions You Must Know
+    </h2>
+
+    <p>
+        CBSE repeatedly asks reaction mechanisms, reagents and products rather
+        than simply asking students to define named reactions. Focus on when
+        the reaction occurs, the reagent used and the final product formed.
+    </p>
+
+    <div class="gdl-pyq-table">
+
+        <div class="gdl-pyq-table-title">
+            High-Frequency Organic Chemistry Named Reactions
+        </div>
+
+        <div class="gdl-pyq-table-head">
+
+            <div>
+                Named Reaction
+            </div>
+
+            <div>
+                What You Must Remember
+            </div>
+
+            <div>
+                PYQ Frequency
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    A
+                </span>
+
+                <span>
+                    Aldol Condensation
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    β-hydroxy aldehyde/ketone formation
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★★
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    C
+                </span>
+
+                <span>
+                    Cannizzaro Reaction
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Aldehydes without α-hydrogen
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★★
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    H
+                </span>
+
+                <span>
+                    Hoffmann Bromamide
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Amide → amine (one carbon less)
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★★
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    R
+                </span>
+
+                <span>
+                    Reimer–Tiemann
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Phenol → Salicylaldehyde
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★☆
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    F
+                </span>
+
+                <span>
+                    Friedel–Crafts
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Alkylation & Acylation
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★☆
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    S
+                </span>
+
+                <span>
+                    Sandmeyer Reaction
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Diazonium salt conversions
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★☆
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    HVZ
+                </span>
+
+                <span>
+                    Hell–Volhard–Zelinsky
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    α-halogenation of carboxylic acids
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★☆☆
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-row">
+
+            <div class="gdl-pyq-unit">
+
+                <span class="gdl-pyq-icon gdl-pyq-icon--green">
+                    SN
+                </span>
+
+                <span>
+                    SN1 & SN2
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-frequency">
+
+                <span>
+                    Mechanism, stereochemistry & order
+                </span>
+
+            </div>
+
+            <div class="gdl-pyq-marks">
+
+                ★★★★★
+
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-pyq-source">
+
+            <strong>
+                Preparation Tip
+            </strong>
+
+            <span>
+
+                Don't memorise only the name. Learn the reagent,
+                reaction conditions, mechanism and product together.
+                CBSE almost always tests the complete reaction rather
+                than asking for the name alone.
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="gdl-physics-chapter-section">
+
+  <div class="gdl-section-kicker">
+    Inorganic Chemistry
+  </div>
+
+  <h2 id="coordination-compounds-strategy">
+    Coordination Compounds: Where IUPAC Naming, Isomers & Crystal Field Theory Decide Your Marks
+  </h2>
+
+  <p>
+    Coordination Compounds (7 marks) is the most structured chapter in
+    Inorganic Chemistry — and the one with the most predictable question
+    types. IUPAC naming of coordination compounds, geometrical isomers of
+    specific coordination complexes, and crystal field splitting in
+    octahedral and tetrahedral complexes appear in CBSE board papers with
+    extraordinary regularity.
+  </p>
+
+  <p>
+    The 2026 board paper confirmed this pattern — geometrical isomers of
+    [Co(NH₃)₄Cl₂]⁺ appeared as a direct question.
+  </p>
+
+
+  <div class="gdl-physics-chapter-grid">
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--green">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          I
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Appears Every Year
+          </span>
+
+          <h3>
+            IUPAC Naming
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        Name ligands first in alphabetical order, then the central metal with
+        its oxidation state in Roman numerals in brackets. Anionic ligands end
+        in <strong>-o</strong>, while neutral ligands use conventional names
+        such as aqua, ammine, carbonyl, and nitrosyl.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Worked Examples
+        </strong>
+
+        [Co(NH₃)₄Cl₂]⁺ → Tetraamminedichloridocobalt(III) ion<br><br>
+
+        [Fe(CN)₆]³⁻ → Hexacyanoferrate(III) ion
+
+      </div>
+
+    </article>
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--blue">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          G
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            Diagram Question
+          </span>
+
+          <h3>
+            Geometrical Isomerism
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        For square planar [MA₂B₂], draw both cis and trans forms. For
+        octahedral [MA₄B₂], practise drawing both isomers with the correct
+        geometry. CBSE typically asks students to draw both structures, not
+        just name them.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Examples
+        </strong>
+
+        [Pt(NH₃)₂Cl₂]: cis-platin vs trans-platin<br><br>
+
+        [Co(NH₃)₄Cl₂]⁺: cis and trans forms
+
+      </div>
+
+    </article>
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--cyan">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          CFT
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            High-Frequency Concept
+          </span>
+
+          <h3>
+            Crystal Field Theory
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        In octahedral complexes, d orbitals split into t₂g
+        (lower energy, three orbitals) and eg
+        (higher energy, two orbitals). The energy difference is Δo.
+      </p>
+
+      <p>
+        Strong-field ligands create a large Δo and generally produce low-spin
+        complexes. Weak-field ligands create a smaller Δo and generally
+        produce high-spin complexes.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Spectrochemical Series
+        </strong>
+
+        I⁻ &lt; Br⁻ &lt; Cl⁻ &lt; F⁻ &lt; OH⁻ &lt; H₂O
+        &lt; NH₃ &lt; en &lt; CN⁻ &lt; CO
+
+      </div>
+
+    </article>
+
+
+    <article
+      class="learning-card gdl-physics-chapter-card
+             gdl-physics-chapter-card--red">
+
+      <div class="gdl-physics-chapter-top">
+
+        <span class="gdl-physics-chapter-icon">
+          W
+        </span>
+
+        <div>
+
+          <span class="learning-highlight">
+            2-Mark Question
+          </span>
+
+          <h3>
+            Werner's Theory
+          </h3>
+
+        </div>
+
+      </div>
+
+      <p>
+        Werner proposed two types of valency: primary valency, which is
+        ionisable and represented by counter ions outside the coordination
+        sphere, and secondary valency, which is non-ionisable and represented
+        by ligands inside the coordination sphere.
+      </p>
+
+      <div class="gdl-formula-callout">
+
+        <strong>
+          Example
+        </strong>
+
+        In [Co(NH₃)₆]Cl₃:<br>
+        Primary valency = 3<br>
+        Secondary valency = 6
+
+      </div>
+
+    </article>
+
+  </div>
+
+
+  <div class="gdl-formula-callout">
+
+    <strong>
+      Coordination Compounds Exam Rule
+    </strong>
+
+    For every naming question, identify the charge on the complex first,
+    calculate the oxidation state of the metal, arrange ligands
+    alphabetically, and only then write the final IUPAC name.
+
+  </div>
+
+</section>
+<section>
+
+  <div class="gdl-section-kicker">
+    Performance Analysis
+  </div>
+
+  <h2 id="chemistry-weak-area-analysis">
+    One Chemistry Score, Three Different Problems. Know Which One You Have.
+  </h2>
+
+  <p>
+    A Class 12 Chemistry mock test score of 48 out of 70 tells you almost
+    nothing useful about what to do next. It could mean your Electrochemistry
+    numericals are 35% accurate while your Organic named reactions are
+    82% accurate — or the inverse.
+  </p>
+
+  <p>
+    Without a chapter-level breakdown, the next study session goes to
+    wherever feels most familiar, not wherever the marks are actually
+    being lost.
+  </p>
+
+
+  <div class="gdl-chart-card">
+
+    <h3>
+      What a Genelis Weak-Area Map Shows After a Chemistry Mock Test
+    </h3>
+
+
+    <div class="gdl-progress-item">
+
+      <span>
+        Organic — Named Reactions
+      </span>
+
+      <div class="gdl-progress">
+        <div
+          class="gdl-progress-fill biology"
+          style="width:85%;">
+          85%
+        </div>
+      </div>
+
+      <strong>
+        Strong
+      </strong>
+
+    </div>
+
+
+    <div class="gdl-progress-item">
+
+      <span>
+        Inorganic — d &amp; f Block Definitions
+      </span>
+
+      <div class="gdl-progress">
+        <div
+          class="gdl-progress-fill physics-light"
+          style="width:78%;">
+          78%
+        </div>
+      </div>
+
+      <strong>
+        Good
+      </strong>
+
+    </div>
+
+
+    <div class="gdl-progress-item">
+
+      <span>
+        Coordination Compounds — IUPAC Naming
+      </span>
+
+      <div class="gdl-progress">
+        <div
+          class="gdl-progress-fill"
+          style="width:61%;background:linear-gradient(90deg,#d97706,#f59e0b);">
+          61%
+        </div>
+      </div>
+
+      <strong>
+        Needs Practice
+      </strong>
+
+    </div>
+
+
+    <div class="gdl-progress-item">
+
+      <span>
+        Physical — Electrochemistry Numericals
+      </span>
+
+      <div class="gdl-progress">
+        <div
+          class="gdl-progress-fill chemistry"
+          style="width:38%;">
+          38%
+        </div>
+      </div>
+
+      <strong>
+        Priority
+      </strong>
+
+    </div>
+
+
+    <div class="gdl-progress-item">
+
+      <span>
+        Organic — Multi-Step Conversions
+      </span>
+
+      <div class="gdl-progress">
+        <div
+          class="gdl-progress-fill chemistry"
+          style="width:44%;">
+          44%
+        </div>
+      </div>
+
+      <strong>
+        Priority
+      </strong>
+
+    </div>
+
+
+    <div class="gdl-callout">
+
+      <strong>
+        The Next Session Should Be Obvious
+      </strong>
+
+      <p>
+        Electrochemistry numericals at 38% should be the next priority —
+        not named reactions that are already at 85%. Genelis builds and
+        updates this map automatically after every session.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="learning-system">
+
+  <div class="gdl-section-kicker">
+    Personalised Chemistry Preparation
+  </div>
+
+  <h2 id="genelis-learning-system-chemistry">
+    How the Genelis Learning System Closes Chemistry Gaps
+  </h2>
+
+  <p>
+    Genelis is an AI-powered personalized learning platform built on
+    <strong>Adaptive Personalized Intelligence</strong>. For Class 12
+    Chemistry specifically, Genelis tracks accuracy separately across
+    Physical, Organic, and Inorganic chapters.
+  </p>
+
+  <p>
+    It identifies whether it is your Nernst equation numericals, your Organic
+    conversion practice, or your Coordination Compound IUPAC naming that
+    needs the next session.
+  </p>
+
+
+  <div class="learning-grid">
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Physical Chemistry
+      </span>
+
+      <h3>
+        Track Numerical Error Types
+      </h3>
+
+      <p>
+        Separate formula-selection mistakes from substitution errors,
+        logarithm mistakes, unit conversion issues, and calculation errors.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Organic Chemistry
+      </span>
+
+      <h3>
+        Detect Reaction and Conversion Gaps
+      </h3>
+
+      <p>
+        Identify whether marks are being lost in named reactions,
+        mechanisms, reagents, conditions, products, or multi-step
+        conversions.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Inorganic Chemistry
+      </span>
+
+      <h3>
+        Find Precision and Recall Weaknesses
+      </h3>
+
+      <p>
+        Track errors in definitions, trends, oxidation states, IUPAC naming,
+        crystal field theory, and concise NCERT-based reasoning.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        AI Notes
+      </span>
+
+      <h3>
+        Revise the Exact Weak Concept
+      </h3>
+
+      <p>
+        Genelis generates targeted AI notes for the specific chapter and
+        question type where your performance is lowest.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Error Tracking
+      </span>
+
+      <h3>
+        Automatic Wrong-Question Notebook
+      </h3>
+
+      <p>
+        Every wrong answer is logged with chapter and error-type tags.
+        Wrong named reactions are queued separately from wrong numericals.
+      </p>
+
+    </article>
+
+
+    <article class="learning-card">
+
+      <span class="learning-highlight">
+        Verification
+      </span>
+
+      <h3>
+        Reattempt and Confirm the Gap Is Closed
+      </h3>
+
+      <p>
+        Reattempt the exact numerical, conversion, reaction, or naming
+        question you got wrong and verify that the learning gap has actually
+        been closed.
+      </p>
+
+    </article>
+
+  </div>
+
+
+  <p>
+    Every Chemistry learning cycle follows the
+    <strong>Genelis Learning System</strong>:
+  </p>
+
+
+  <div class="gdl-learning-loop">
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 1</span>
+      <strong>Attempt Chemistry mock</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 2</span>
+      <strong>Chapter-level gap detected</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 3</span>
+      <strong>AI notes for weak concept</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 4</span>
+      <strong>Wrong questions auto-logged by type</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step">
+      <span class="gdl-loop-number">Step 5</span>
+      <strong>Reattempt those questions</strong>
+    </div>
+
+    <div class="gdl-loop-arrow">→</div>
+
+    <div class="gdl-loop-step gdl-loop-step--result">
+      <span class="gdl-loop-number">Result</span>
+      <strong>Gap closed. Map updates. ✓</strong>
+    </div>
+
+  </div>
+
+
+  <a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-chemistry&utm_content=cta-inline">
+    Start your personalised Class 12 Chemistry study plan on Genelis — free →
+  </a>
+
+</section>
+<section>
+
+  <div class="gdl-section-kicker">
+    Complete Revision Reference
+  </div>
+
+  <h2 id="class-12-chemistry-formula-sheet">
+    Complete Class 12 Chemistry Formula &amp; Named Reaction Reference Sheet
+  </h2>
+
+  <p>
+    Your one-stop reference for Electrochemistry formulas, the most important
+    named reactions with reagents and conditions, and Coordination Compounds
+    IUPAC rules — organised for fast revision.
+  </p>
+
+  <p>
+    Keep a short notebook for formulas, derivations, and named reactions.
+    Quick revision improves speed and accuracy during the exam. The method:
+    read, close the page, reproduce from memory, check what you missed, and
+    return only to those gaps. Repeat weekly from August.
+  </p>
+
+</section>
+
+
+<section class="gdl-formula-unit" id="electrochemistry-formula-reference">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      E
+    </div>
+
+    <div class="gdl-formula-unit-title">
+
+      <h3>
+        Electrochemistry — All Key Formulas
+      </h3>
+
+      <p>
+        EMF, Nernst equation, Faraday's laws and conductance
+      </p>
+
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      9 Marks
+    </div>
+
+  </div>
+
+
+  <div class="gdl-formula-unit-body">
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        EMF and Cell Potential
+      </h4>
+
+      <div class="gdl-formula-list">
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Standard Cell EMF
+          </div>
+
+          <div class="gdl-formula-expression">
+            E°cell = E°cathode − E°anode
+
+            <span class="gdl-formula-note">
+              Cathode = reduction and has the higher reduction potential.
+              Anode = oxidation and has the lower reduction potential.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Nernst Equation — General
+          </div>
+
+          <div class="gdl-formula-expression">
+            E = E° − (RT/nF) × ln Q
+
+            <span class="gdl-formula-note">
+              R = 8.314 J mol⁻¹ K⁻¹, T in Kelvin, n = moles of electrons,
+              F = 96500 C mol⁻¹, and Q = reaction quotient.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Nernst Equation at 298 K
+          </div>
+
+          <div class="gdl-formula-expression">
+            E = E° − (0.0592/n) × log Q
+
+            <span class="gdl-formula-note">
+              This is the form used in CBSE board numericals. Memorise
+              0.0592, which equals 2.303RT/F at 298 K.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Equilibrium Constant
+          </div>
+
+          <div class="gdl-formula-expression">
+            log K = nE°/0.0592 &nbsp; at 298 K
+
+            <span class="gdl-formula-note">
+              At equilibrium, E = 0 and Q = K. A positive E° indicates a
+              spontaneous reaction and K &gt; 1.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Gibbs Free Energy
+          </div>
+
+          <div class="gdl-formula-expression">
+            ΔG° = −nFE° = −RT ln K
+
+            <span class="gdl-formula-note">
+              Spontaneous reaction: ΔG° &lt; 0, E°cell &gt; 0 and K &gt; 1.
+              These are equivalent statements.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Faraday's Laws of Electrolysis
+      </h4>
+
+      <div class="gdl-formula-list">
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            First Law — Mass Deposited
+          </div>
+
+          <div class="gdl-formula-expression">
+            w = ZIt
+
+            <span class="gdl-formula-note">
+              Z = M/(nF), the electrochemical equivalent.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Practical Formula
+          </div>
+
+          <div class="gdl-formula-expression">
+            w = (M × I × t)/(n × F)
+
+            <span class="gdl-formula-note">
+              w = mass in grams, M = molar mass, I = current in amperes,
+              t = time in seconds, n = electrons transferred and
+              F = 96500 C mol⁻¹.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Charge Passed
+          </div>
+
+          <div class="gdl-formula-expression">
+            Q = I × t
+
+            <span class="gdl-formula-note">
+              Charge is measured in coulombs.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            One Faraday
+          </div>
+
+          <div class="gdl-formula-expression">
+            F = 96500 C mol⁻¹
+
+            <span class="gdl-formula-note">
+              One Faraday is the charge carried by one mole of electrons.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Conductance
+      </h4>
+
+      <div class="gdl-formula-list">
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Conductance
+          </div>
+
+          <div class="gdl-formula-expression">
+            G = 1/R
+
+            <span class="gdl-formula-note">
+              Unit: siemens or Ω⁻¹.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Conductivity
+          </div>
+
+          <div class="gdl-formula-expression">
+            κ = G × (l/A) = G × cell constant
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Molar Conductivity
+          </div>
+
+          <div class="gdl-formula-expression">
+            Λm = κ × 1000/M
+
+            <span class="gdl-formula-note">
+              M is molarity in mol L⁻¹.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Kohlrausch's Law
+          </div>
+
+          <div class="gdl-formula-expression">
+            Λ°m = ν₊λ°₊ + ν₋λ°₋
+
+            <span class="gdl-formula-note">
+              Limiting molar conductivity equals the sum of contributions
+              from individual ions. It is especially useful for weak
+              electrolytes where direct measurement is difficult.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Degree of Dissociation
+          </div>
+
+          <div class="gdl-formula-expression">
+            α = Λm/Λ°m
+
+            <span class="gdl-formula-note">
+              Used for weak electrolytes. Λm is measured at the given
+              concentration and Λ°m is the value at infinite dilution.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Dissociation Constant
+          </div>
+
+          <div class="gdl-formula-expression">
+            Ka = Cα²/(1 − α) ≈ Cα² when α ≪ 1
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-callout">
+
+      <strong>
+        How to Revise Electrochemistry
+      </strong>
+
+      Do not only memorise these formulas. Solve at least one numerical using
+      each formula. The formula becomes exam-ready only when you can identify
+      which one to apply without being prompted.
+
+    </div>
+
+  </div>
+
+</section>
+<section class="gdl-formula-unit" id="organic-reaction-reference">
+
+    <div class="gdl-formula-unit-header">
+
+        <div class="gdl-formula-unit-number">
+            O
+        </div>
+
+        <div class="gdl-formula-unit-title">
+
+            <h3>
+                Organic Chemistry — Named Reactions Quick Reference
+            </h3>
+
+            <p>
+                High-frequency reactions, reagents and products for rapid revision
+            </p>
+
+        </div>
+
+        <div class="gdl-formula-unit-marks">
+            33 Marks
+        </div>
+
+    </div>
+
+
+    <div class="gdl-formula-unit-body">
+
+        <div class="gdl-formula-subsection">
+
+            <h4 class="gdl-formula-subtitle">
+                Most Important Named Reactions
+            </h4>
+
+            <div class="gdl-formula-list">
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Aldol Condensation
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Two aldehydes/ketones with α-H combine to form
+                        β-hydroxy aldehyde or ketone.
+
+                        <span class="gdl-formula-note">
+                            Reagent: Dilute NaOH
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Cannizzaro Reaction
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Aldehydes without α-H undergo oxidation and reduction
+                        simultaneously.
+
+                        <span class="gdl-formula-note">
+                            Reagent: Concentrated NaOH
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Hoffmann Bromamide
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Amide → Primary amine with one carbon less.
+
+                        <span class="gdl-formula-note">
+                            Reagent: Br₂ / KOH
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Reimer–Tiemann
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Phenol → Salicylaldehyde.
+
+                        <span class="gdl-formula-note">
+                            CHCl₃ + NaOH
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Friedel–Crafts Alkylation
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Benzene + Alkyl halide → Alkyl benzene.
+
+                        <span class="gdl-formula-note">
+                            Catalyst: Anhydrous AlCl₃
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Friedel–Crafts Acylation
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Benzene + Acyl chloride → Ketone.
+
+                        <span class="gdl-formula-note">
+                            Catalyst: Anhydrous AlCl₃
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Sandmeyer Reaction
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        Diazonium salt → Haloarene.
+
+                        <span class="gdl-formula-note">
+                            CuCl / CuBr / CuCN
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Hell–Volhard–Zelinsky
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        α-halogenation of carboxylic acids.
+
+                        <span class="gdl-formula-note">
+                            Br₂ / Red phosphorus
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        SN1 Reaction
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        First-order nucleophilic substitution via carbocation.
+
+                        <span class="gdl-formula-note">
+                            Favoured by tertiary haloalkanes.
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        SN2 Reaction
+                    </div>
+
+                    <div class="gdl-formula-expression">
+
+                        One-step backside attack with inversion.
+
+                        <span class="gdl-formula-note">
+                            Favoured by primary haloalkanes.
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-formula-callout">
+
+            <strong>
+                Organic Revision Rule
+            </strong>
+
+            Learn every named reaction together with its reagent, reaction
+            condition, mechanism and major product. Memorising only the name
+            rarely helps in CBSE board questions.
+
+        </div>
+
+    </div>
+
+</section>
+<section class="gdl-formula-unit" id="coordination-compounds-reference">
+
+  <div class="gdl-formula-unit-header">
+
+    <div class="gdl-formula-unit-number">
+      C
+    </div>
+
+    <div class="gdl-formula-unit-title">
+
+      <h3>
+        Coordination Compounds — IUPAC Rules &amp; Key Concepts
+      </h3>
+
+      <p>
+        Naming rules, worked examples, crystal field splitting and magnetic behaviour
+      </p>
+
+    </div>
+
+    <div class="gdl-formula-unit-marks">
+      7 Marks
+    </div>
+
+  </div>
+
+
+  <div class="gdl-formula-unit-body">
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        IUPAC Naming Rules — In Order
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Step 1 — Cation Before Anion
+          </div>
+
+          <div class="gdl-formula-expression">
+            Name the cationic complex first, followed by the anion.
+
+            <span class="gdl-formula-note">
+              For an anionic complex, name the cation first and the complex ion second.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Step 2 — Ligands Alphabetically
+          </div>
+
+          <div class="gdl-formula-expression">
+            Name ligands in alphabetical order.
+
+            <span class="gdl-formula-note">
+              Ignore multiplying prefixes such as di-, tri-, tetra-, bis- and tris-
+              while alphabetising.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Step 3 — Ligand Names
+          </div>
+
+          <div class="gdl-formula-expression">
+            Anionic ligands end in <strong>-o</strong>.
+
+            <span class="gdl-formula-note">
+              Cl⁻ = chlorido, CN⁻ = cyanido, OH⁻ = hydroxido,
+              O²⁻ = oxido, NO₂⁻ = nitrito.
+              Neutral ligands include aqua, ammine, carbonyl,
+              nitrosyl and ethane-1,2-diamine.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Step 4 — Metal &amp; Oxidation State
+          </div>
+
+          <div class="gdl-formula-expression">
+            Write the metal name followed by its oxidation state in Roman numerals.
+
+            <span class="gdl-formula-note">
+              In an anionic complex, the metal name ends in <strong>-ate</strong>:
+              Fe → ferrate, Cu → cuprate, Au → aurate, Pb → plumbate.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Worked IUPAC Examples
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            [Co(NH₃)₄Cl₂]⁺
+          </div>
+
+          <div class="gdl-formula-expression">
+            Tetraamminedichloridocobalt(III) ion
+
+            <span class="gdl-formula-note">
+              Four ammine ligands, two chlorido ligands and cobalt in the +3 oxidation state.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            [Fe(CN)₆]³⁻
+          </div>
+
+          <div class="gdl-formula-expression">
+            Hexacyanidoferrate(III) ion
+
+            <span class="gdl-formula-note">
+              The complex is anionic, so iron becomes ferrate.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            [Pt(NH₃)₂Cl₂]
+          </div>
+
+          <div class="gdl-formula-expression">
+            Diamminedichloridoplatinum(II)
+
+            <span class="gdl-formula-note">
+              The cis form is cis-platin, an anticancer drug. The trans form is trans-platin.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Crystal Field Splitting
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Octahedral Splitting
+          </div>
+
+          <div class="gdl-formula-expression">
+            t₂g: lower energy, three orbitals<br>
+            eg: higher energy, two orbitals
+
+            <span class="gdl-formula-note">
+              Energy gap = Δo. Strong-field ligands create large Δo and generally
+              form low-spin complexes. Weak-field ligands create small Δo and
+              generally form high-spin complexes.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Tetrahedral Splitting
+          </div>
+
+          <div class="gdl-formula-expression">
+            e: lower energy, two orbitals<br>
+            t₂: higher energy, three orbitals
+
+            <span class="gdl-formula-note">
+              Δt = (4/9)Δo. Because the splitting is smaller, tetrahedral complexes
+              are usually high spin.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Spectrochemical Series
+          </div>
+
+          <div class="gdl-formula-expression">
+            I⁻ &lt; Br⁻ &lt; Cl⁻ &lt; F⁻ &lt; OH⁻ &lt; H₂O
+            &lt; NH₃ &lt; en &lt; CN⁻ &lt; CO
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Magnetic Behaviour
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Magnetic Moment
+          </div>
+
+          <div class="gdl-formula-expression">
+            μ = √[n(n+2)] BM
+
+            <span class="gdl-formula-note">
+              n = number of unpaired electrons.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Paramagnetic
+          </div>
+
+          <div class="gdl-formula-expression">
+            Contains one or more unpaired electrons.
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Diamagnetic
+          </div>
+
+          <div class="gdl-formula-expression">
+            All electrons are paired.
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-subsection">
+
+      <h4 class="gdl-formula-subtitle">
+        Werner's Theory
+      </h4>
+
+      <div class="gdl-formula-list">
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Primary Valency
+          </div>
+
+          <div class="gdl-formula-expression">
+            Ionisable and represented by counter-ions outside the coordination sphere.
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Secondary Valency
+          </div>
+
+          <div class="gdl-formula-expression">
+            Non-ionisable and represented by ligands inside the coordination sphere.
+
+            <span class="gdl-formula-note">
+              Secondary valency determines the geometry of the complex.
+            </span>
+          </div>
+
+        </div>
+
+
+        <div class="gdl-formula-row">
+
+          <div class="gdl-formula-name">
+            Example: [Co(NH₃)₆]Cl₃
+          </div>
+
+          <div class="gdl-formula-expression">
+            Primary valency = 3<br>
+            Secondary valency = 6
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="gdl-formula-callout">
+
+      <strong>
+        Coordination Compounds Revision Rule
+      </strong>
+
+      For every complex, calculate the metal oxidation state first, identify
+      whether the complex is cationic, anionic or neutral, arrange ligand names
+      alphabetically, and only then write the final IUPAC name.
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<div class="gdl-formula-callout">
+
+  <strong>
+    How to Use This Chemistry Reference Sheet
+  </strong>
+
+  After reading each section, close the page and reproduce every formula and
+  named reaction from memory. For named reactions, write the reactant, reagent
+  and conditions, product, mechanism and the CBSE question format. For
+  Electrochemistry, solve one numerical using every formula before moving on.
+  Anything you can reproduce correctly in under 20 seconds is unlikely to cost
+  you marks in the board exam.
+
+</div>
+<section class="gdl-faq-section">
+
+  <div class="gdl-section-kicker">
+    Frequently Asked Questions
+  </div>
+
+  <h2 id="frequently-asked-questions">
+    Frequently Asked Questions
+  </h2>
+
+  <div class="gdl-faq-list">
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        Which chapter has the highest weightage in Class 12 Chemistry CBSE 2025–26?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Electrochemistry carries the highest individual chapter weightage
+          at 9 marks in the 70-mark theory paper. It is followed by
+          Aldehydes, Ketones and Carboxylic Acids at 8 marks. Overall,
+          Organic Chemistry carries 33 marks, making it the most important
+          Chemistry division.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What are the most important named reactions for Class 12 Chemistry CBSE boards?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Important named reactions include Aldol Condensation, Cannizzaro
+          Reaction, Hoffmann Bromamide Degradation, Reimer-Tiemann Reaction,
+          Friedel-Crafts Acylation, SN1 and SN2 reactions,
+          Hell-Volhard-Zelinsky Reaction, and Sandmeyer Reaction.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What types of numerical questions appear in Electrochemistry in Class 12 CBSE boards?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Electrochemistry numericals mainly repeat across three question
+          types: Nernst equation calculations, Faraday's law calculations
+          for charge or mass deposited, and conductance questions using
+          molar conductivity and Kohlrausch's Law.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        How should I prepare Organic Chemistry for Class 12 CBSE boards?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          Use a mechanism-first approach. Understand why reactions occur,
+          build a functional-group conversion chain, learn named reactions
+          with reagents and conditions, and practise multi-step conversions
+          regularly.
+        </p>
+
+      </div>
+
+    </details>
+
+
+    <details class="gdl-faq-item">
+
+      <summary>
+        What is the split between Organic, Physical, and Inorganic Chemistry in Class 12 CBSE?
+      </summary>
+
+      <div class="gdl-faq-answer">
+
+        <p>
+          The 70-mark Chemistry theory paper is divided into Organic
+          Chemistry at 33 marks, Physical Chemistry at 23 marks, and
+          Inorganic Chemistry at 14 marks.
+        </p>
+
+      </div>
+
+    </details>
+
+  </div>
+
+</section>
+
+
+<section class="gdl-final-cta">
+
+  <div class="gdl-final-cta-content">
+
+    <span class="gdl-final-cta-kicker">
+      Personalised Class 12 Chemistry Preparation
+    </span>
+
+    <h2>
+      Stop Revising Chemistry as One Subject.
+    </h2>
+
+    <p>
+      Practise Physical Chemistry numericals, understand Organic mechanisms,
+      master named reactions, improve IUPAC naming, and close exact weak areas
+      with AI-powered personalised learning through the Genelis Learning System.
+    </p>
+
+    <div class="gdl-final-cta-actions">
+
+      <a
+        class="gdl-final-cta-primary"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-chemistry&utm_content=cta-footer">
+        Start Learning Free
+      </a>
+
+      <a
+        class="gdl-final-cta-secondary"
+        href="/classes/12">
+        Explore Class 12 →
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+    """
+},
+
 ]
 def get_all_posts():
     return [prepare_blog_post(post) for post in BLOG_POSTS]
