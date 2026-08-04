@@ -6546,3 +6546,126 @@ transform:rotate(90deg);
         padding-inline: 15px;
     }
 }
+/* ==========================================================
+   BLOG COLLECTION PAGE — SPACING + NAVIGATION REFINEMENT
+   Final overrides only. Existing blog/article styles preserved.
+========================================================== */
+
+/* Reduce the empty space above the blog hero by approximately 20–25%. */
+.page-hero {
+    margin-top: 72px;
+    margin-bottom: 90px;
+    padding-top: 64px;
+    padding-bottom: 32px;
+}
+
+/* Reduce the gap between the hero CTA and the collection navigation. */
+.blog-home-section {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 60px 24px 80px;
+}
+
+/* Premium dark collection navigation shared by all blog pages. */
+.blog-collection-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 860px;
+    margin: 0 auto 48px;
+    padding: 9px;
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 999px;
+    background: rgba(15, 23, 42, 0.82);
+    box-shadow:
+        0 18px 42px rgba(0, 0, 0, 0.24),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+}
+
+.blog-collection-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 11px 21px;
+    border-radius: 999px;
+    color: #cbd5e1;
+    font-size: 0.92rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+    transition:
+        transform 0.2s ease,
+        background 0.2s ease,
+        color 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.blog-collection-link:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.07);
+    transform: translateY(-1px);
+}
+
+.blog-collection-link.active,
+.blog-collection-link[aria-current="page"] {
+    color: #ffffff;
+    background: linear-gradient(135deg, #2563eb, #6d4cff);
+    box-shadow: 0 10px 24px rgba(37, 99, 235, 0.34);
+}
+
+.blog-collection-link.active:hover,
+.blog-collection-link[aria-current="page"]:hover {
+    color: #ffffff;
+    background: linear-gradient(135deg, #2563eb, #6d4cff);
+    transform: none;
+}
+
+@media (max-width: 900px) {
+    .page-hero {
+        margin-top: 54px;
+        margin-bottom: 68px;
+        padding-top: 48px;
+        padding-bottom: 28px;
+    }
+
+    .blog-home-section {
+        padding-top: 48px;
+    }
+}
+
+@media (max-width: 760px) {
+    .blog-collection-nav {
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        width: 100%;
+        margin-bottom: 38px;
+        padding: 7px;
+        overflow-x: auto;
+        border-radius: 20px;
+        scrollbar-width: none;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .blog-collection-nav::-webkit-scrollbar {
+        display: none;
+    }
+
+    .blog-collection-link {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 10px 17px;
+        font-size: 0.86rem;
+    }
+}
+
+@media (max-width: 420px) {
+    .blog-collection-link {
+        padding-inline: 15px;
+    }
+}
