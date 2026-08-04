@@ -6422,3 +6422,127 @@ transform:rotate(90deg);
     background: #ecfdf5;
     color: #047857;
 }
+/* ==========================================================
+   BLOG COLLECTION NAVIGATION
+   Shared by General and Class 9–12 blog collection pages
+========================================================== */
+
+.blog-collection-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 860px;
+    margin: 0 auto 48px;
+    padding: 8px;
+    border: 1px solid #e2e8f0;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 16px 45px rgba(15, 23, 42, 0.08);
+}
+
+.blog-collection-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 10px 20px;
+    border-radius: 999px;
+    color: #475569;
+    font-size: 0.92rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.blog-collection-link:hover {
+    color: #1d4ed8;
+    background: #eff6ff;
+    transform: translateY(-1px);
+}
+
+.blog-collection-link.active,
+.blog-collection-link[aria-current="page"] {
+    color: #ffffff;
+    background: linear-gradient(135deg, var(--gdl-blue), var(--gdl-purple));
+    box-shadow: 0 10px 24px rgba(37, 99, 235, 0.24);
+}
+
+.blog-collection-link.active:hover,
+.blog-collection-link[aria-current="page"]:hover {
+    color: #ffffff;
+    transform: none;
+}
+
+/* ==========================================================
+   BLOG COLLECTION EMPTY STATES
+========================================================== */
+
+.blog-empty-state {
+    max-width: 720px;
+    margin: 32px auto 0;
+    padding: 52px 28px;
+    border: 1px solid #e2e8f0;
+    border-radius: 28px;
+    background: linear-gradient(145deg, #ffffff, #f8fafc);
+    box-shadow: var(--gdl-shadow-soft);
+    text-align: center;
+}
+
+.blog-empty-state[hidden] {
+    display: none;
+}
+
+.blog-empty-state h3 {
+    margin: 0 0 10px;
+    color: var(--gdl-dark);
+    font-size: clamp(1.35rem, 2vw, 1.8rem);
+    letter-spacing: -0.03em;
+}
+
+.blog-empty-state p {
+    max-width: 520px;
+    margin: 0 auto;
+    color: #64748b;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+@media (max-width: 760px) {
+    .blog-collection-nav {
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        width: 100%;
+        margin-bottom: 38px;
+        padding: 7px;
+        overflow-x: auto;
+        border-radius: 20px;
+        scrollbar-width: none;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .blog-collection-nav::-webkit-scrollbar {
+        display: none;
+    }
+
+    .blog-collection-link {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 10px 17px;
+        font-size: 0.86rem;
+    }
+
+    .blog-empty-state {
+        padding: 40px 22px;
+        border-radius: 22px;
+    }
+}
+
+@media (max-width: 420px) {
+    .blog-collection-link {
+        padding-inline: 15px;
+    }
+}

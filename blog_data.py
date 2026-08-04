@@ -24546,8 +24546,40 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
 },
 
 ]
+
 def get_all_posts():
+    """Return every blog post after applying shared derived fields."""
     return [prepare_blog_post(post) for post in BLOG_POSTS]
+
+
+def get_general_posts():
+    """
+    Return posts that do not belong to the Class 9–12 collections.
+
+    General posts may use class=None, an empty class value, "general", or any
+    value outside 9, 10, 11, and 12.
+    """
+    class_collections = {"9", "10", "11", "12"}
+
+    return [
+        prepare_blog_post(post)
+        for post in BLOG_POSTS
+        if str(post.get("class") or "").strip().lower() not in class_collections
+    ]
+
+
+def get_class_posts(class_id):
+    """Return prepared posts belonging to one Class 9–12 collection."""
+    normalized_class = str(class_id).strip()
+
+    if normalized_class not in {"9", "10", "11", "12"}:
+        return []
+
+    return [
+        prepare_blog_post(post)
+        for post in BLOG_POSTS
+        if str(post.get("class") or "").strip() == normalized_class
+    ]
 
 
 def get_post_by_slug(slug):
@@ -24558,25 +24590,30 @@ def get_post_by_slug(slug):
 
     return prepare_blog_post(post)
 
+
 def get_posts_by_category(category):
+    normalized_category = str(category).strip().lower()
+
     return [
-        post for post in BLOG_POSTS
-        if post["category"].lower() == category.lower()
+        prepare_blog_post(post)
+        for post in BLOG_POSTS
+        if str(post.get("category") or "").strip().lower() == normalized_category
     ]
 
 
 def get_posts_by_subject(subject):
+    normalized_subject = str(subject).strip().lower()
+
     return [
-        post for post in BLOG_POSTS
-        if post["subject"].lower() == subject.lower()
+        prepare_blog_post(post)
+        for post in BLOG_POSTS
+        if str(post.get("subject") or "").strip().lower() == normalized_subject
     ]
 
 
 def get_posts_by_class(student_class):
-    return [
-        post for post in BLOG_POSTS
-        if post["class"] == student_class
-    ]
+    """Backward-compatible alias for existing code."""
+    return get_class_posts(student_class)
 
 
 def strip_html_tags(html):
@@ -24614,6 +24651,7 @@ def prepare_blog_post(post):
 
     return post
 
+
 def get_related_posts(current_slug, limit=3):
     current_post = get_post_by_slug(current_slug)
 
@@ -24644,6 +24682,7 @@ def get_related_posts(current_slug, limit=3):
 
     return [post for score, post in related[:limit]]
 
+
 def generate_toc(content):
     soup = BeautifulSoup(content, "html.parser")
     toc = []
@@ -24662,6 +24701,7 @@ def generate_toc(content):
 
     return str(soup), toc
 
+
 def get_prev_next_posts(current_slug):
     posts = get_all_posts()
 
@@ -24678,10 +24718,23 @@ def get_prev_next_posts(current_slug):
 
     return previous_post, next_post
 
-def get_featured_post():
-    posts = get_all_posts()
+
+def get_featured_post(class_id=None, general_only=False):
+    """
+    Return the featured article for a blog collection.
+
+    The function first looks for a post explicitly marked featured=True inside
+    the requested collection. If none is marked, it falls back to that
+    collection's first post.
+    """
+    if class_id is not None:
+        posts = get_class_posts(class_id)
+    elif general_only:
+        posts = get_general_posts()
+    else:
+        posts = get_all_posts()
 
     if not posts:
         return None
 
-    return posts[0]
+    return next((post for post in posts if post.get("featured") is True), posts[0])

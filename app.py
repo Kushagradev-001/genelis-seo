@@ -11,7 +11,15 @@ from seo import (
 )
 from config import CTA_LINKS, tracked_app_link
 from faq_data import FAQ_DATA, build_faq_schema
-from blog_data import get_all_posts, get_post_by_slug, get_related_posts, get_prev_next_posts, get_featured_post
+from blog_data import (
+    get_all_posts,
+    get_general_posts,
+    get_class_posts,
+    get_post_by_slug,
+    get_related_posts,
+    get_prev_next_posts,
+    get_featured_post
+)
 from flask import Response
 from flask import make_response
 
@@ -234,41 +242,94 @@ def pricing():
 
 @app.route("/blog")
 def blog():
-    posts = get_all_posts()
-    featured_post = get_featured_post()
+    return render_blog_collection()
 
-    blog_seo = build_seo({
-        "title": "CBSE Study Guides, Exam Strategies & Learning Tips | Genelis",
-        "description": (
-            "Explore CBSE study guides, board exam strategies, subject preparation "
-            "tips, revision methods, and AI-powered learning insights from Genelis."
-        ),
-        "keywords": [
-            "CBSE study guides",
-            "CBSE exam preparation",
-            "board exam strategy",
-            "study tips for students",
-            "AI learning",
-            "Genelis blog"
-        ],
-        "path": "/blog"
-    })
+
+@app.route("/blog/class-<class_id>")
+def class_blog(class_id):
+    if class_id not in {"9", "10", "11", "12"}:
+        abort(404)
+
+    return render_blog_collection(class_id=class_id)
+
+
+def render_blog_collection(class_id=None):
+    if class_id:
+        posts = get_class_posts(class_id)
+        featured_post = get_featured_post(class_id=class_id)
+
+        page_path = f"/blog/class-{class_id}"
+        page_label = f"Class {class_id}"
+        blog_badge = f"CBSE CLASS {class_id} BLOG"
+        blog_heading = f"Class {class_id} study guides and preparation insights."
+        blog_subheading = (
+            f"Explore CBSE Class {class_id} study strategies, subject guidance, "
+            "revision methods, exam preparation resources, and AI-powered learning insights."
+        )
+
+        blog_seo = build_seo({
+            "title": f"CBSE Class {class_id} Study Guides, Exam Preparation & Learning Tips | Genelis",
+            "description": (
+                f"Explore CBSE Class {class_id} study guides, subject preparation strategies, "
+                "revision methods, exam tips, and AI-powered personalised learning insights from Genelis."
+            ),
+            "keywords": [
+                f"CBSE Class {class_id} study guides",
+                f"Class {class_id} exam preparation",
+                f"Class {class_id} study tips",
+                f"Class {class_id} revision strategy",
+                f"Class {class_id} AI learning",
+                "Genelis blog"
+            ],
+            "path": page_path
+        })
+
+        breadcrumbs = [
+            {"name": "Home", "url": "/"},
+            {"name": "Blog", "url": "/blog"},
+            {"name": page_label, "url": page_path}
+        ]
+    else:
+        posts = get_general_posts()
+        featured_post = get_featured_post(general_only=True)
+
+        page_path = "/blog"
+        page_label = "Blog"
+        blog_badge = "GENELIS BLOG"
+        blog_heading = "Insights for smarter learning."
+        blog_subheading = (
+            "Explore broader learning insights, AI in education, study habits, productivity, "
+            "parent guidance, career awareness, and other topics beyond individual class collections."
+        )
+
+        blog_seo = build_seo({
+            "title": "Learning Insights, Study Strategies & AI Education Blog | Genelis",
+            "description": (
+                "Explore learning strategies, AI education insights, study habits, productivity tips, "
+                "parent guidance, and broader educational resources from Genelis."
+            ),
+            "keywords": [
+                "learning strategies",
+                "study habits for students",
+                "AI in education",
+                "student productivity",
+                "parent education guide",
+                "Genelis blog"
+            ],
+            "path": page_path
+        })
+
+        breadcrumbs = [
+            {"name": "Home", "url": "/"},
+            {"name": "Blog", "url": "/blog"}
+        ]
 
     schemas = [
         organization_schema(),
         website_schema(),
         webpage_schema(blog_seo, page_type="CollectionPage"),
         blog_schema(blog_seo),
-        breadcrumb_schema([
-            {
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "Blog",
-                "url": "/blog"
-            }
-        ])
+        breadcrumb_schema(breadcrumbs)
     ]
 
     return render_template(
@@ -276,7 +337,12 @@ def blog():
         seo=blog_seo,
         schemas=schemas,
         posts=posts,
-        featured_post=featured_post
+        featured_post=featured_post,
+        blog_badge=blog_badge,
+        blog_heading=blog_heading,
+        blog_subheading=blog_subheading,
+        page_label=page_label,
+        active_blog_tab=class_id or "general"
     )
 
 
@@ -331,6 +397,26 @@ def sitemap():
         },
         {
             "url": f"{base_url}/blog",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/blog/class-9",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/blog/class-10",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/blog/class-11",
+            "changefreq": "weekly",
+            "priority": "0.8"
+        },
+        {
+            "url": f"{base_url}/blog/class-12",
             "changefreq": "weekly",
             "priority": "0.8"
         },
@@ -473,6 +559,14 @@ def blog_post(slug):
                 "name": "Blog",
                 "url": "/blog"
             },
+            *(
+                [{
+                    "name": f"Class {post.get('class')}",
+                    "url": f"/blog/class-{post.get('class')}"
+                }]
+                if str(post.get("class")) in {"9", "10", "11", "12"}
+                else []
+            ),
             {
                 "name": post.get("title", "Article"),
                 "url": f"/blog/{post['slug']}"
