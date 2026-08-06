@@ -245,8 +245,10 @@ def blog():
     return render_blog_collection()
 
 
-@app.route("/blog/class-<class_id>")
+@app.route("/blog/class-<int:class_id>")
 def class_blog(class_id):
+    class_id = str(class_id)
+
     if class_id not in {"9", "10", "11", "12"}:
         abort(404)
 

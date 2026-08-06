@@ -6669,3 +6669,220 @@ transform:rotate(90deg);
         padding-inline: 15px;
     }
 }
+/* ==========================================================
+   FORMAT MASTERY — BALANCED 2 × 2 CARD LAYOUT
+========================================================== */
+
+#format-mastery .gdl-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+}
+
+#format-mastery .gdl-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#format-mastery .gdl-card .gdl-exam-tip {
+    margin-top: auto;
+}
+
+#format-mastery .gdl-card .gdl-section-kicker {
+    align-self: flex-start;
+    min-height: 42px;
+}
+
+@media (max-width: 768px) {
+    #format-mastery .gdl-card-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #format-mastery .gdl-card {
+        height: auto;
+    }
+}
+/* CLASS 12 ECONOMICS — MACROECONOMICS CARDS 2 × 2 LAYOUT */
+#macroeconomics-chapter-strategy .gdl-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+}
+
+#macroeconomics-chapter-strategy .gdl-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#macroeconomics-chapter-strategy .gdl-stat-number {
+    align-self: flex-start;
+}
+
+@media (max-width: 768px) {
+    #macroeconomics-chapter-strategy .gdl-card-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #macroeconomics-chapter-strategy .gdl-card {
+        height: auto;
+    }
+}
+/* CLASS 12 ECONOMICS — INDIAN ECONOMY CARDS */
+#indian-economic-development .gdl-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+}
+
+#indian-economic-development .gdl-card {
+    height: 100%;
+}
+
+#indian-economic-development .gdl-card:last-child {
+    grid-column: 1 / -1;
+}
+
+@media (max-width: 768px) {
+    #indian-economic-development .gdl-card-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #indian-economic-development .gdl-card:last-child {
+        grid-column: auto;
+    }
+}
+/* REUSABLE CARD-GRID MODIFIERS */
+
+.gdl-card-grid--2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.gdl-card-grid--3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.gdl-card-grid--last-wide > :last-child {
+    grid-column: 1 / -1;
+}
+
+.gdl-card--stacked {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.gdl-card--stacked .freq-tag,
+.gdl-card--stacked .gdl-exam-tip {
+    align-self: flex-start;
+    margin-top: auto;
+}
+
+@media (max-width: 992px) {
+    .gdl-card-grid--3 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .gdl-card-grid--2,
+    .gdl-card-grid--3 {
+        grid-template-columns: 1fr;
+    }
+
+    .gdl-card-grid--last-wide > :last-child {
+        grid-column: auto;
+    }
+}
+.bar-label-note {
+    display: block;
+    margin-top: 4px;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1.35;
+    color: #6b7280;
+}
+/* Two-part subject split */
+.two-split {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+    margin: 28px 0 34px;
+}
+
+.split-c {
+    position: relative;
+    padding: 28px;
+    border: 1px solid #dfe7f3;
+    border-radius: 22px;
+    background: #ffffff;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.07);
+    overflow: hidden;
+}
+
+.split-c::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, #2563eb, #7c3aed);
+}
+
+.split-c.micro::before {
+    background: linear-gradient(90deg, #7c3aed, #ec4899);
+}
+
+.split-c .s-marks {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 58px;
+    height: 58px;
+    margin-bottom: 18px;
+    border-radius: 16px;
+    background: #eef4ff;
+    color: #2563eb;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.split-c.micro .s-marks {
+    background: #f4efff;
+    color: #7c3aed;
+}
+
+.split-c h4 {
+    margin: 0 0 14px;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #0f172a;
+}
+
+.split-c p {
+    margin: 0 0 20px;
+    font-size: 15px;
+    line-height: 1.75;
+    color: #475569;
+}
+
+.split-c .mode {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: #f1f5f9;
+    color: #334155;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+    .two-split {
+        grid-template-columns: 1fr;
+    }
+
+    .split-c {
+        padding: 22px;
+    }
+}

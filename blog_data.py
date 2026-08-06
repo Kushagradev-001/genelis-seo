@@ -24544,6 +24544,5277 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
 
     """
 },
+{
+    "slug": "class-12-accountancy-partnership-company-accounts-cbse",
+
+    "title": (
+        "Class 12 Accountancy 2025–26: Partnership Accounts, Company Accounts "
+        "& Financial Statement Analysis — Chapter Weightage, Strategy "
+        "& Complete Reference Sheet"
+    ),
+
+    "meta_title": (
+        "Class 12 Accountancy: Partnership Accounts, Company Accounts "
+        "& Financial Statements — Chapter Weightage, Strategy "
+        "& Formula Sheet 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "Partnership Firms carries 36 marks. Company Accounts carries 24 marks. "
+        "Together 60 out of 80. This complete Class 12 Accountancy guide covers "
+        "chapter weightage, format mastery framework, Partnership deep-dive, "
+        "Company Accounts strategy, Financial Statement Analysis quick wins, "
+        "and a complete formula and format reference sheet for CBSE 2025–26."
+    ),
+
+    "focus_keyword": "class 12 accountancy important chapters CBSE",
+
+    "secondary_keywords": [
+        "partnership accounts class 12",
+        "company accounts class 12",
+        "class 12 accountancy chapter weightage 2025-26",
+        "goodwill methods class 12 accountancy",
+        "financial statement analysis class 12",
+        "cash flow statement class 12",
+        "class 12 accountancy formula sheet",
+        "CBSE accountancy board exam 2026"
+    ],
+
+    "class": "12",
+    "subject": "Accountancy",
+    "category": "Commerce",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-17",
+    "updated_date": "",
+
+    "featured": False,
+    "featured_image": "",
+
+    "reading_time": "14 min read",
+
+    "excerpt": (
+        "Partnership Firms carries 36 marks. Company Accounts carries 24 marks. "
+        "Together 60 out of 80. This complete Class 12 Accountancy guide covers "
+        "chapter weightage, format mastery framework, Partnership deep-dive, "
+        "Company Accounts strategy, Financial Statement Analysis quick wins, "
+        "and a complete formula and format reference sheet for CBSE 2025–26."
+    ),
+
+    "content": """
+<section id="introduction">
+
+    <p>
+        Here is the most important thing to understand about Class 12 Accountancy before you open a textbook: it is not enough to get the right answer. The format in which you present that answer decides whether you get full marks, partial marks, or zero — even when the underlying calculation is correct. A Profit and Loss Appropriation Account with the correct figures but presented as a running paragraph earns nothing. A Share Issue journal entry with correct amounts but debits and credits reversed earns nothing. A Goodwill calculation with the right method but missing the working note loses 1–2 marks.
+    </p>
+
+    <div class="editorial-insight">
+        <p>
+            The theory exam carries 80 marks, out of which Accounting for Partnership Firms has the highest weightage of 36 marks. Accounting for Companies carries 24 marks. Together these two units contribute 60 out of 80 marks. This guide is built to prepare both — the concepts and the formats simultaneously. The reference sheet at the end gives you every formula, every ratio, and the standard format for every major question type. Use this guide as your preparation framework from July through February.
+        </p>
+    </div>
+
+</section>
+<section id="unit-wise-marks-distribution">
+
+    <span class="gdl-section-kicker">
+        Marks Distribution
+    </span>
+
+    <h2>
+        Partnership Is 45% of the Paper. Company Accounts Is 30%. Here's the Complete Picture.
+    </h2>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 12 Accountancy — unit-wise marks distribution (theory, 80 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Partnership Firms (Part A)</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:45%">
+                    <strong>45% — highest</strong>
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>36 marks ★</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Company Accounts (Part A)</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:30%">
+                    30%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>24 marks</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Financial Statement Analysis (Part B)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                12 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Cash Flow Statement (Part B)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:10%">
+                    10%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                8 marks
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            <cite>
+                Partnership Firms and Company Accounts dominate the paper. Students should prioritise developing strong conceptual clarity and consistent practice in these units.
+            </cite>
+            Source: CBSE 2025–26 official marks distribution. Theory: 80 marks + Practical/Project: 20 marks = 100 marks total.
+        </p>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The Part B strategy:</strong>
+        <cite>
+            Analysis of Financial Statements, with its moderate weightage, is relatively easier and involves ratio-based and interpretation-based questions that can help students secure marks quickly. The Cash Flow Statement requires clear procedural knowledge and regular revision.
+        </cite>
+        Part B's 20 marks are the most formula-direct marks in the paper — 8–10 ratios, one Cash Flow Statement procedure. Students who secure these 20 marks before the exam arrive at Part A with a buffer that reduces pressure significantly.
+    </div>
+
+</section>
+<section id="format-mastery">
+
+    <span class="gdl-section-kicker">
+        Format Mastery
+    </span>
+
+    <h2>
+        Format Is the Hidden Variable in Accountancy. Correct Answer, Wrong Format = Lost Marks.
+    </h2>
+
+    <p>
+        CBSE Accountancy evaluation is format-specific. Unlike other subjects where correct content earns marks regardless of presentation, Accountancy has defined formats for every major question type — journal entries, ledger accounts, final accounts, ratio analysis. Presenting correct figures in an incorrect format typically results in partial or zero credit for presentation marks that make up 1–2 marks per question.
+    </p>
+
+    <div class="gdl-compare">
+
+        <div class="gdl-bad">
+
+            <h3>
+                ❌ Common mistake — loses marks
+            </h3>
+
+            <p>
+                Writing Goodwill = ₹60,000 with a single line calculation. No working note showing average profit, capital employed, normal profit, or super profit step by step.
+            </p>
+
+        </div>
+
+        <div class="gdl-good">
+
+            <h3>
+                ✅ What earns full marks
+            </h3>
+
+            <p>
+                Working Note clearly numbered: (i) Average Profit calculation, (ii) Normal Profit = Capital × Rate%, (iii) Super Profit = Average − Normal, (iv) Goodwill = Super Profit × Years' Purchase. Then the journal entry in proper T-format.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Format 1 — appears in every paper
+            </span>
+
+            <h3>
+                Profit &amp; Loss Appropriation Account
+            </h3>
+
+            <p>
+                Two-sided account (Dr and Cr). Debit side: Interest on Capital (each partner separately), Partners' Salary/Commission, Transfer to General Reserve, Profit share. Credit side: Net Profit b/d from P&amp;L, Interest on Drawings (each partner). Must balance.
+            </p>
+
+            <div class="gdl-exam-tip">
+                <p>
+                    ✓ Always show each partner's name and amount separately — combined figures lose marks.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Format 2 — admission/retirement questions
+            </span>
+
+            <h3>
+                Partners' Capital Accounts
+            </h3>
+
+            <p>
+                Columnar format — one column per partner. Debit side: Drawings, Interest on Drawings, Share of Loss, Goodwill written off. Credit side: Opening Balance, Additional Capital, Interest on Capital, Share of Profit, Goodwill brought in. Balance c/d on debit or credit as needed.
+            </p>
+
+            <div class="gdl-exam-tip">
+                <p>
+                    ✓ Use columnar format even if not explicitly asked — it saves time and prevents errors.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Format 3 — company accounts
+            </span>
+
+            <h3>
+                Share Issue Journal Entries
+            </h3>
+
+            <p>
+                Four distinct stages: Application (Bank Dr, Application Cr), Allotment (Application Dr to Capital and Securities Premium; Allotment A/c Dr to Capital and Securities Premium), First Call, Final Call. Each stage must show the amount per share × number of shares in the narration.
+            </p>
+
+            <div class="gdl-exam-tip">
+                <p>
+                    ✓ Always mention "being amount due/received on [stage] of X shares @ ₹Y per share" in the narration.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Format 4 — Part B
+            </span>
+
+            <h3>
+                Ratio Analysis Presentation
+            </h3>
+
+            <p>
+                Formula → Substitution → Result in correct unit (times, %, days). For Liquidity Ratios: Current Ratio = Current Assets / Current Liabilities = ₹X / ₹Y = Z:1. For Profitability: Net Profit Ratio = (Net Profit / Net Sales) × 100 = %. Always state the formula before substituting.
+            </p>
+
+            <div class="gdl-exam-tip">
+                <p>
+                    ✓ State the formula first even for 1-mark ratio questions — the formula itself is 0.5 marks.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="partnership-firms">
+
+    <span class="gdl-section-kicker">
+        Partnership Firms
+    </span>
+
+    <h2>
+        Partnership Firms: 36 Marks, Five Topic Areas, One Correct Sequence to Study Them
+    </h2>
+
+    <p>
+        Partnership Firms is the most mark-dense unit in any Commerce subject in Class 12.
+        <cite>
+            Since Partnership Firms and Company Accounts dominate the paper, students should prioritise developing strong conceptual clarity and consistent practice.
+        </cite>
+        Within Partnership, the five topic areas build on each other — studying them out of order produces gaps that surface in every subsequent topic.
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                01
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Partnership Fundamentals
+                </h3>
+
+                <p>
+                    P&amp;L Appropriation + Capital Accounts format
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                02
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Goodwill Valuation
+                </h3>
+
+                <p>
+                    3 methods — all formula-based
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                03
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Admission of Partner
+                </h3>
+
+                <p>
+                    New ratio, sacrificing ratio, revaluation
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                04
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Retirement &amp; Death
+                </h3>
+
+                <p>
+                    Gaining ratio, settlement, executor's account
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                05
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Dissolution
+                </h3>
+
+                <p>
+                    Realisation Account, final cash distribution
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <h3>
+        Goodwill — The Three Methods Every Board Paper Tests
+    </h3>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                1
+            </div>
+
+            <h4>
+                Average Profit Method
+            </h4>
+
+            <p>
+                Find the average of the past 3–5 years' profits (adjusting for abnormal items). Multiply by the agreed number of years' purchase. Simplest method — directly tested as a 3-mark calculation.
+            </p>
+
+            <div class="gdl-formula">
+                Goodwill = Average Profit × Years' Purchase
+                <br>
+                Avg Profit = Total Profits / Number of Years
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                2
+            </div>
+
+            <h4>
+                Super Profit Method
+            </h4>
+
+            <p>
+                Normal Profit = Capital Employed × Normal Rate of Return / 100. Super Profit = Average Profit − Normal Profit. Goodwill = Super Profit × Years' Purchase. Most frequently tested method — requires both capital employed and NRR to be given.
+            </p>
+
+            <div class="gdl-formula">
+                Normal Profit = Capital × NRR%
+                <br>
+                Super Profit = Avg Profit − Normal Profit
+                <br>
+                Goodwill = Super Profit × YP
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                3
+            </div>
+
+            <h4>
+                Capitalisation Method
+            </h4>
+
+            <p>
+                Two variants: (a) Capitalise Average Profit: Total Business Value = Avg Profit / NRR × 100. Goodwill = Total Value − Actual Capital Employed. (b) Capitalise Super Profit: Goodwill = Super Profit / NRR × 100. Second variant appears more frequently in board papers.
+            </p>
+
+            <div class="gdl-formula">
+                Goodwill = Super Profit / NRR × 100
+                <br>
+                or
+                <br>
+                Goodwill = Total Value − Capital Employed
+            </div>
+
+        </div>
+
+    </div>
+
+    <h3>
+        Admission of a Partner — The Four-Step Process CBSE Always Tests
+    </h3>
+
+    <p>
+        Admission questions in board papers follow a consistent four-step structure. Students who know this structure can approach any admission question systematically regardless of surface-level variations.
+    </p>
+
+    <div class="gdl-timeline">
+
+        <div class="gdl-step">
+
+            <h4>
+                Step 1 — Calculate the New Profit Sharing Ratio and Sacrificing Ratio.
+            </h4>
+
+            <p>
+                New Ratio is given or calculated. Sacrificing Ratio = Old Ratio − New Ratio for existing partners. This ratio determines how goodwill brought in by the new partner is distributed.
+            </p>
+
+        </div>
+
+        <div class="gdl-step">
+
+            <h4>
+                Step 2 — Treat Goodwill.
+            </h4>
+
+            <p>
+                If the new partner brings goodwill in cash: Old partners gain in sacrificing ratio — Credit their Capital Accounts. If goodwill is raised (brought into books): Goodwill A/c Dr to Old Partners' Capital A/c in old ratio. If goodwill is raised then written off: further entry to write off in new ratio. CBSE boards most frequently test the "premium for goodwill paid privately" or "goodwill not to appear in books" scenarios.
+            </p>
+
+        </div>
+
+        <div class="gdl-step">
+
+            <h4>
+                Step 3 — Revaluation Account.
+            </h4>
+
+            <p>
+                Revalue assets and liabilities. Increases in assets and decreases in liabilities → Credit side of Revaluation A/c. Decreases in assets and increases in liabilities → Debit side. Profit/Loss on revaluation shared in old ratio.
+            </p>
+
+        </div>
+
+        <div class="gdl-step">
+
+            <h4>
+                Step 4 — Adjust Capital (if required).
+            </h4>
+
+            <p>
+                If capitals are to be proportionate to new ratio: Calculate total required capital from new partner's brought-in amount. Find each partner's required capital. Adjust existing partners' capitals by cash payment/withdrawal.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-callout">
+
+        <div class="gdl-callout-icon">
+            ⚠️
+        </div>
+
+        <div class="gdl-callout-content">
+
+            <h4>
+                The most common Retirement/Death error:
+            </h4>
+
+            <p>
+                Confusing Gaining Ratio with Sacrificing Ratio. Gaining Ratio = New Ratio − Old Ratio (for remaining partners after retirement). Sacrificing Ratio = Old Ratio − New Ratio (for partners on admission). In a retirement question, existing partners gain the retiring partner's share — in their Gaining Ratio. The retiring partner's share of goodwill is credited to their Capital Account and debited from remaining partners' Capital Accounts in their Gaining Ratio.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="company-accounts">
+
+    <span class="gdl-section-kicker">
+        Company Accounts
+    </span>
+
+    <h2>
+        Company Accounts: 24 Marks — Share Issue, Forfeiture, and Debentures
+    </h2>
+
+    <p>
+        Company Accounts carries 24 marks and has three distinct question areas: Issue of Shares (at par, at premium, at discount), Forfeiture and Reissue of Shares, and Issue of Debentures. Share Issue questions are the most marks-dense and most format-sensitive. Every stage of share issue has a specific journal entry, and CBSE marks each entry separately.
+    </p>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Issue of Shares
+            </span>
+
+            <h3>
+                Issue of Shares at Premium — the most frequently tested scenario:
+            </h3>
+
+            <p>
+                When shares are issued above face value, the excess is credited to <em>Securities Premium Reserve Account</em> (not Share Capital). At application stage, the premium may be collected immediately or at allotment. The question will specify when. The journal entries must reflect the exact stage at which each amount is received.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Forfeiture and Reissue
+            </span>
+
+            <h3>
+                Forfeiture and Reissue:
+            </h3>
+
+            <p>
+                When a shareholder fails to pay a call, shares are forfeited. Journal entry on forfeiture: Share Capital A/c Dr (called-up amount) to Share Allotment/Call A/c (amount unpaid) and Share Forfeiture A/c (amount already received). On reissue: Bank A/c Dr and Share Forfeiture A/c Dr to Share Capital A/c. If reissued at a price lower than face value, the discount comes from the Share Forfeiture Account. Any balance remaining in Share Forfeiture after reissue is transferred to Capital Reserve.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <span class="gdl-section-kicker">
+                Debentures
+            </span>
+
+            <h3>
+                Debentures — the key distinction CBSE tests:
+            </h3>
+
+            <p>
+                Debentures are loans to the company (unlike shares which are ownership). CBSE board questions on debentures focus on: issue at par/premium/discount, redemption (repayment) at par/premium, and the accounting treatment of Debenture Redemption Reserve. Know the difference between debentures issued as collateral security (shown as contingent liability, no entry in books until condition is met) and debentures issued for consideration other than cash (valued at agreed price).
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="financial-statement-analysis-cash-flow">
+
+    <span class="gdl-section-kicker">
+        Part B
+    </span>
+
+    <h2>
+        Part B: 20 Marks in Financial Statement Analysis and Cash Flow — The Fastest Marks in the Paper
+    </h2>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                12
+            </div>
+
+            <h4>
+                Financial Statement Analysis — Ratio Analysis
+            </h4>
+
+            <p>
+                10–12 standard ratios, each with a fixed formula. Questions either ask you to calculate a ratio from given data, or interpret what a given ratio means. <cite>Analysis of Financial Statements involves ratio-based and interpretation-based questions that can help students secure marks quickly.</cite> The interpretation skill is learnable: Current Ratio &lt; 2:1 indicates poor short-term liquidity; Debt-Equity Ratio &gt; 2:1 indicates excessive leverage. Know both the formula and the standard interpretation for each ratio.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                8
+            </div>
+
+            <h4>
+                Cash Flow Statement
+            </h4>
+
+            <p>
+                <cite>Cash Flow Statement requires clear procedural knowledge and regular revision to avoid common errors.</cite> The indirect method (starting from Net Profit and adjusting for non-cash items) is the most commonly tested method. Know the three activity classifications: Operating (day-to-day business), Investing (purchase/sale of non-current assets), Financing (equity and debt transactions). The most common error: classifying dividend paid as operating instead of financing, or interest received as operating instead of investing.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="accountancy-performance-analysis">
+
+    <span class="gdl-section-kicker">
+        Personalised Performance Analysis
+    </span>
+
+    <h2>
+        One Accountancy Score Across Four Very Different Skills. Here's How to Find Which One Is Costing You.
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 12 Accountancy mock test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Cash Flow Statement — classification
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:84%;"></div>
+            </div>
+
+            <div class="acc-pct">
+                84%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Company Accounts — share issue journals
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:69%;"></div>
+            </div>
+
+            <div class="acc-pct">
+                69%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Partnership — admission of partner
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:51%;"></div>
+            </div>
+
+            <div class="acc-pct">
+                51%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Partnership — goodwill valuation (super profit)
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:36%;"></div>
+            </div>
+
+            <div class="acc-pct">
+                36%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;">
+            Next session: Goodwill super profit method (36%) — not Cash Flow (84%). Genelis builds this map automatically after every practice session.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all Class 12 Accountancy topics — distinguishing format errors from calculation errors, and goodwill method confusion from ratio formula gaps. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Accountancy session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Topic-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a;">
+            <span class="sn" style="color:#1baf7a;">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <p>
+        <a href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-accountancy&utm_content=cta-inline"
+           class="gdl-inline-cta">
+            Start your personalised Class 12 Accountancy study plan on Genelis — free →
+        </a>
+    </p>
+
+</section>
+<section id="accountancy-reference-sheet" class="gdl-formula-section">
+
+    <span class="gdl-section-kicker gdl-section-kicker--formula">
+        Complete Reference Sheet
+    </span>
+
+    <h2>
+        Complete Class 12 Accountancy Formula &amp; Format Reference Sheet
+    </h2>
+
+    <div id="reference-partnership" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                P
+            </div>
+
+            <div class="gdl-formula-unit-title">
+
+                <h3>
+                    Partnership Firms — Key Formulas &amp; Ratios
+                </h3>
+
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                36 marks ★
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Profit Sharing &amp; Ratios
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            New Ratio (Admission)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            New Ratio = Agreed ratio among all partners (including new). Sacrificing Ratio = Old Ratio − New Ratio (for old partners). New partner's share = purchased from old partners in their sacrificing ratio.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Gaining Ratio (Retirement)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Gaining Ratio = New Ratio − Old Ratio (for remaining partners). Retiring partner's share of goodwill credited to their Capital and debited to remaining partners in Gaining Ratio.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Interest on Capital
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Interest on Capital = Capital × Rate% × Time/12 (if mid-year changes)
+
+                            <span class="gdl-formula-note">
+                                Charged only if partnership deed provides for it. Shown on Debit side of P&amp;L Appropriation Account.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Interest on Drawings
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            If drawings made at start of each month: Interest = Total Drawings × Rate% × 6.5/12
+                            <br>
+                            If at end of each month: Interest = Total Drawings × Rate% × 5.5/12
+                            <br>
+                            If mid-month: Interest = Total Drawings × Rate% × 6/12
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Goodwill Methods
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Average Profit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Average Profit = Total Adjusted Profits / Number of Years
+                            <br>
+                            Goodwill = Average Profit × Years' Purchase
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Super Profit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Normal Profit = Capital Employed × NRR / 100
+                            <br>
+                            Super Profit = Average Profit − Normal Profit
+                            <br>
+                            Goodwill = Super Profit × Years' Purchase
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Capitalisation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Total Business Value = Average Profit / NRR × 100
+                            <br>
+                            Goodwill = Total Value − Actual Capital Employed
+                            <br>
+                            (or) Goodwill = Super Profit / NRR × 100
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Dissolution
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Realisation Account
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Debit: All assets (at book value), Realisation expenses. Credit: All liabilities (at book value), Sale proceeds of assets, Amount paid by partner for asset taken over. Balance = Profit/Loss on realisation, shared in old profit sharing ratio.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="reference-company-accounts" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                C
+            </div>
+
+            <div class="gdl-formula-unit-title">
+
+                <h3>
+                    Company Accounts — Share Issue &amp; Debentures
+                </h3>
+
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                24 marks
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Share Issue Key Points
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Minimum Subscription
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Company must receive at least 90% of the issue amount (minimum subscription) before allotment can be made. If not received within 30 days of issue: application money refunded. Appears as a 1-mark definition question.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Securities Premium Reserve uses
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Can be used for: (i) Issuing fully paid bonus shares, (ii) Writing off preliminary expenses/underwriting commission, (iii) Providing premium on redemption of preference shares, (iv) Buy-back of own shares. Cannot be used for dividend payment.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Forfeiture entry
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Share Capital A/c Dr (called-up amount per share × shares forfeited)
+                            <br>
+                            To Share Allotment A/c (amount due but unpaid)
+                            <br>
+                            To Share Forfeiture A/c (amount already received on forfeited shares)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Reissue of forfeited shares
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Bank A/c Dr (reissue price × shares reissued)
+                            <br>
+                            Share Forfeiture A/c Dr (discount given on reissue)
+                            <br>
+                            To Share Capital A/c (face value × shares reissued)
+                            <br>
+                            Balance in Share Forfeiture → Capital Reserve
+
+                            <span class="gdl-formula-note">
+                                Minimum reissue price = Face Value − Amount received at time of forfeiture. Cannot reissue below this minimum.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Debentures Key Points
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Issue at discount
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Loss on Issue of Debentures A/c Dr (discount amount)
+                            <br>
+                            Bank A/c Dr (proceeds received)
+                            <br>
+                            To Debentures A/c (face value)
+                            <br>
+                            Loss on issue = fictitious asset, written off against Securities Premium Reserve first, then Profit &amp; Loss.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Debenture Redemption Reserve
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Companies must create DRR equal to 25% of the outstanding debenture amount before redemption begins. Transferred from Profit &amp; Loss Appropriation. On redemption: DRR transferred to General Reserve.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="reference-financial-ratios" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                R
+            </div>
+
+            <div class="gdl-formula-unit-title">
+
+                <h3>
+                    Financial Statement Analysis — Key Ratios
+                </h3>
+
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                12 marks · Formula-direct
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Liquidity Ratios
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Current Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Current Assets / Current Liabilities &nbsp;·&nbsp; Ideal: 2:1
+
+                            <span class="gdl-formula-note">
+                                Below 2:1 indicates poor short-term liquidity. Above 2:1 may indicate idle current assets.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Quick (Liquid) Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            (Current Assets − Inventory − Prepaid Expenses) / Current Liabilities &nbsp;·&nbsp; Ideal: 1:1
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Solvency Ratios
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Debt-Equity Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Long-term Debt / Shareholders' Funds &nbsp;·&nbsp; Ideal: 2:1 or less
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Proprietary Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Shareholders' Funds / Total Assets (Non-current + Current)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Debt to Total Assets
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Total Debt / Total Assets
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Interest Coverage Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Net Profit before Interest and Tax / Interest on Long-term Debt
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Activity (Turnover) Ratios
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Inventory Turnover
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Cost of Revenue from Operations / Average Inventory
+
+                            <span class="gdl-formula-note">
+                                Average Inventory = (Opening + Closing) / 2. High turnover = efficient inventory management.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Trade Receivables Turnover
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Net Credit Sales / Average Trade Receivables &nbsp;·&nbsp; Days = 365 / Turnover ratio
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Trade Payables Turnover
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Net Credit Purchases / Average Trade Payables &nbsp;·&nbsp; Days = 365 / Turnover ratio
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Profitability Ratios
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Gross Profit Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            (Gross Profit / Net Sales) × 100
+
+                            <span class="gdl-formula-note">
+                                Gross Profit = Net Sales − Cost of Revenue from Operations
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Net Profit Ratio
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            (Net Profit after Tax / Net Sales) × 100
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Return on Investment
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            (Net Profit before Interest and Tax / Capital Employed) × 100
+
+                            <span class="gdl-formula-note">
+                                Capital Employed = Shareholders' Funds + Long-term Debt = Total Assets − Current Liabilities
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong> For formulas — read, cover, reproduce from memory. For format questions — practise presenting the P&amp;L Appropriation Account and Partners' Capital Account from scratch weekly. For ratio questions — practise identifying which ratio to use from a given scenario before calculating. The goal: every formula recalled in under 10 seconds, every format reproduced correctly from memory in under 5 minutes.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 12 "
+                "Accountancy CBSE 2025–26?"
+            ),
+            "answer": (
+                "Accounting for Partnership Firms carries the highest weightage "
+                "at 36 marks out of 80 theory marks — 45% of the entire paper. "
+                "It covers Fundamentals of Partnership, Goodwill, Admission of "
+                "a Partner, Retirement and Death of a Partner, and Dissolution "
+                "of Partnership. Accounting for Companies follows at 24 marks. "
+                "Together these two units account for 60 out of 80 marks, making "
+                "them the decisive preparation area for Class 12 Accountancy."
+            )
+        },
+        {
+            "question": (
+                "What are the goodwill valuation methods in Class 12 Accountancy?"
+            ),
+            "answer": (
+                "There are three goodwill valuation methods in Class 12 CBSE "
+                "Accountancy: (1) Average Profit Method: Goodwill = Average "
+                "Profit × Number of Years' Purchase. (2) Super Profit Method: "
+                "Goodwill = Super Profit × Number of Years' Purchase, where "
+                "Super Profit = Average Profit − Normal Profit, and Normal "
+                "Profit = Capital Employed × Normal Rate of Return / 100. "
+                "(3) Capitalisation Method: either capitalise average profit "
+                "(Goodwill = Average Profit / Normal Rate of Return × 100 − "
+                "Actual Capital) or capitalise super profit "
+                "(Goodwill = Super Profit / Normal Rate of Return × 100). "
+                "All three methods appear in CBSE board papers regularly."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare for Partnership Accounts "
+                "in Class 12 Accountancy?"
+            ),
+            "answer": (
+                "Partnership Accounts preparation must follow the correct "
+                "sequence: (1) Fundamentals — partnership deed, capital accounts "
+                "(fixed vs fluctuating), profit sharing ratio. (2) Goodwill — "
+                "all three valuation methods, treatment on admission and "
+                "retirement. (3) Admission of a Partner — new ratio, sacrificing "
+                "ratio, goodwill treatment, revaluation, capital adjustment. "
+                "(4) Retirement and Death — gaining ratio, goodwill, revaluation, "
+                "final settlement. (5) Dissolution — realisation account, loan "
+                "accounts, final settlement. Every question type has a specific "
+                "format — practise the format with the concept simultaneously, "
+                "not separately."
+            )
+        },
+        {
+            "question": (
+                "What is the format of the Profit and Loss Appropriation "
+                "Account in Class 12 Accountancy?"
+            ),
+            "answer": (
+                "The Profit and Loss Appropriation Account has a debit side and "
+                "a credit side. Debit side (Appropriations): Interest on Capital "
+                "(all partners), Salary/Commission to partners, Transfer to "
+                "Reserves, Share of Profit to partners. Credit side (Sources): "
+                "Net Profit brought from P&L Account, Interest on Drawings "
+                "(all partners). The account must balance — total debit equals "
+                "total credit. This format is tested in almost every board paper "
+                "either as a standalone question or as part of an "
+                "admission/retirement problem."
+            )
+        },
+        {
+            "question": (
+                "How are shares issued at premium treated "
+                "in Class 12 Accountancy?"
+            ),
+            "answer": (
+                "When shares are issued at premium, the premium amount is "
+                "credited to the Securities Premium Reserve account "
+                "(not the Share Capital account). Journal entries: On "
+                "application — Bank A/c Dr to Share Application A/c. On "
+                "allotment — Share Application A/c Dr to Share Capital A/c; "
+                "Share Allotment A/c Dr to Share Capital A/c and Securities "
+                "Premium Reserve A/c. On calls — Call A/c Dr to Share Capital "
+                "A/c; Bank A/c Dr to Call A/c. Securities Premium Reserve can "
+                "be used for: issuing fully paid bonus shares, writing off "
+                "preliminary expenses, providing premium on redemption of "
+                "preference shares, and buy-back of shares."
+            )
+        }
+    ]
+},
+{
+    "slug": "class-12-economics-macroeconomics-indian-economic-development-cbse",
+
+    "title": (
+        "Class 12 Economics 2025–26: Macroeconomics & Indian Economic "
+        "Development — Chapter Weightage, Strategy & Complete Key Terms Reference"
+    ),
+
+    "meta_title": (
+        "Class 12 Economics: Macroeconomics & Indian Economic Development — "
+        "Chapter Weightage, Strategy & Key Terms 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "40 marks Macroeconomics. 40 marks Indian Economic Development. "
+        "Income Determination is the highest chapter at 12 marks. This complete "
+        "Class 12 Economics guide covers chapter weightage, the diagram-equation "
+        "dual requirement, Macroeconomics deep-dive, Indian Economy strategy, "
+        "must-draw diagrams, and a complete key terms reference for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "40 marks Macroeconomics. 40 marks Indian Economic Development. "
+        "Income Determination carries 12 marks. Explore chapter weightage, "
+        "diagram requirements, preparation strategy, and the complete key terms reference."
+    ),
+
+    "class": "12",
+
+    "subject": "Economics",
+
+    "category": "Commerce",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-17T09:00:00+05:30",
+
+    "updated_date": "2026-07-17T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 12 Economics Macroeconomics and Indian Economic Development "
+        "chapter weightage, strategy and key terms guide"
+    ),
+
+    "keywords": [
+        "class 12 economics important chapters CBSE",
+        "macroeconomics class 12 CBSE",
+        "Indian economic development class 12",
+        "class 12 economics chapter weightage 2025-26",
+        "national income class 12",
+        "income determination class 12",
+        "money and banking class 12",
+        "class 12 economics diagrams",
+        "CBSE economics board exam 2026"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Class 12 Economics has a marking requirement that most students discover too late: every answer needs two things — the explanation AND the diagram. Students who write correct, well-structured explanations without diagrams consistently lose 1–2 marks per question. Students who draw correct diagrams without labelling axes, naming curves, or marking the equilibrium point lose 1 mark per diagram. Together, these two patterns account for the majority of preventable mark loss in Class 12 Economics.
+    </p>
+
+    <p>
+        <cite index="18-1">The CBSE Class 12 Economics theory exam carries a total weightage of 80 marks, divided evenly between two sections: Part A — Introductory Macroeconomics (40 marks) and Part B — Indian Economic Development (40 marks).</cite> The perfect 40+40 split means neither half can be neglected. This guide covers the preparation strategy for both, the specific diagrams that must be drawn from memory, and a complete key terms reference in CBSE-expected language.
+    </p>
+
+</section>
+<section id="chapter-wise-marks-distribution">
+
+    <h2>
+        40 Marks Macro. 40 Marks Indian Economy. Here's the Chapter-Level Breakdown.
+    </h2>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                Part A — Introductory Macroeconomics
+            </h3>
+
+            <p>
+                National Income (10) · Income Determination (12) · Money &amp; Banking (6) · Government Budget (6) · Balance of Payments (6)
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                Part B — Indian Economic Development
+            </h3>
+
+            <p>
+                Development Experience 1947–90 (6) · Economic Reforms since 1991 (6) · Current Challenges (22) · Comparison with Neighbours (6)
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 12 Economics — chapter-wise marks distribution (theory, 80 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Current Challenges — Indian Economy</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:27.5%">
+                    <strong>Highest — 27.5%</strong>
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>22 marks ★</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Income Determination (Keynesian)</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>12 marks</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                National Income &amp; Related Aggregates
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:12.5%">
+                    12.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                10 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Development Experience &amp; Reforms
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                12 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Money &amp; Banking
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:7.5%">
+                    7.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                6 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Government Budget &amp; Economy
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:7.5%">
+                    7.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                6 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Balance of Payments
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:7.5%">
+                    7.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                6 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                India vs China vs Pakistan Comparison
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:7.5%">
+                    7.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                6 marks
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            Source: CBSE 2025–26 official marks distribution. <cite index="23-1">Part A marks: National Income — 10, Money and Banking — 6, Income and Employment — 12, Budget and Economy — 6, Balance of Payments — 6.</cite>
+        </p>
+
+    </div>
+
+</section>
+<section id="diagram-explanation-requirement">
+
+    <h2>
+        Economics Answers Need Two Things. Most Students Only Provide One.
+    </h2>
+
+    <p>
+        CBSE Class 12 Economics long-answer questions (4 marks and 6 marks) award marks in two parts: the verbal explanation and the diagram. A 4-mark question typically allocates 2 marks to the explanation and 2 marks to the diagram. A 6-mark question may allocate 3+3. Missing either component consistently means losing 30–40% of marks on long-answer questions — across a 40-mark Macroeconomics section, this adds up to 8–12 marks lost purely to diagram omission.
+    </p>
+
+    <div class="gdl-compare">
+
+        <div class="gdl-bad">
+
+            <div class="d-label">
+                What the diagram must include
+            </div>
+
+            <h3>
+                Correctly labelled axes, named curves, equilibrium marked
+            </h3>
+
+            <p>
+                For every economics diagram: X-axis and Y-axis must be labelled with the economic variable (not just "X" and "Y"). Each curve must be named (AD, AS, MPC, IS, LM). Equilibrium point must be marked with a dot and its coordinates shown. Shift diagrams must show both the original and new position with arrows indicating direction of shift.
+            </p>
+
+        </div>
+
+        <div class="gdl-good">
+
+            <div class="d-label">
+                What the explanation must include
+            </div>
+
+            <h3>
+                Definition → Mechanism → Effect → Equilibrium
+            </h3>
+
+            <p>
+                For every Economics answer: define the concept in NCERT language, explain the mechanism (why the relationship exists), state the effect (what happens to the dependent variable), and reference the equilibrium position. Answers that describe what happens without explaining why consistently score 1 mark below maximum.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>The axis label mistake that costs 1 mark per diagram:</strong> Most students write "Y" and "X" on the axes. The correct labels for the Income Determination diagram are "Aggregate Demand (AD)" on the Y-axis and "National Income (Y)" on the X-axis. For the Money Market diagram: "Rate of Interest (r)" on Y-axis, "Money Supply/Demand (M)" on X-axis. CBSE evaluators mark unlabelled axes as incorrect — the diagram loses its full marks allocation.
+    </div>
+
+</section>
+<section id="macroeconomics-chapter-strategy">
+
+    <h2>
+        Macroeconomics: Chapter-by-Chapter — What CBSE Actually Tests
+    </h2>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                12 marks
+            </div>
+
+            <h3>
+                Income Determination — The Keynesian Model
+            </h3>
+
+            <p>
+                The most numerical chapter in Economics. Three must-know areas:
+            </p>
+
+            <ul>
+                <li>
+                    <strong>MPC and MPS:</strong> MPC = ΔC/ΔY; MPS = ΔS/ΔY; MPC + MPS = 1. Board papers give one and ask for the other.
+                </li>
+
+                <li>
+                    <strong>Investment Multiplier:</strong> k = 1/(1−MPC) = 1/MPS. Board papers ask: "If MPC is 0.8, what is the multiplier? What will be the change in income if investment increases by ₹100 crore?" Answer: k = 5; ΔY = ₹500 crore.
+                </li>
+
+                <li>
+                    <strong>Deficient Demand and Excess Demand:</strong> Deficient demand = actual AD &lt; AD required for full employment → deflationary gap → unemployment. Excess demand = actual AD &gt; AD at full employment → inflationary gap → price rise. Diagram compulsory for both. Fiscal policy measures (taxation, government spending) to correct each.
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                10 marks
+            </div>
+
+            <h3>
+                National Income — Three Methods, Key Aggregates
+            </h3>
+
+            <p>
+                Two areas dominate the 10-mark allocation:
+            </p>
+
+            <ul>
+                <li>
+                    <strong>The three methods:</strong> Product/Value Added Method (GDP = Σ Value Added), Expenditure Method (GDP = C + I + G + NX), Income Method (GDP = Compensation + Operating Surplus + Mixed Income). Board papers ask students to "calculate GDP using expenditure method given the following data."
+                </li>
+
+                <li>
+                    <strong>Key aggregates:</strong> GDP vs GNP (NNP = GNP − Depreciation), GDP at Market Price vs Factor Cost (GDP_FC = GDP_MP − Net Indirect Taxes), Real vs Nominal GDP, GDP Deflator. "Distinguish between" questions carry 3–4 marks.
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                6 marks
+            </div>
+
+            <h3>
+                Money &amp; Banking
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Credit creation:</strong> Money Multiplier = 1/LRR (Legal Reserve Ratio). Total money created = Initial Deposit × Money Multiplier. Board question: "A bank receives ₹1000 as deposit with LRR 20%. How much credit will be created?" Answer: ₹5000 total money (₹4000 additional).
+                </li>
+
+                <li>
+                    <strong>RBI functions:</strong> Issue of currency, banker's bank, lender of last resort, credit control (CRR, SLR, Repo Rate, Reverse Repo Rate, Open Market Operations). CBSE asks "What is Repo Rate?" as a 1-mark question almost every year.
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                6 marks
+            </div>
+
+            <h3>
+                Government Budget &amp; Balance of Payments
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Budget deficits:</strong> Revenue Deficit = Revenue Expenditure − Revenue Receipts. Fiscal Deficit = Total Expenditure − Total Receipts (excluding borrowings). Primary Deficit = Fiscal Deficit − Interest Payments. Know which is "most important" (Fiscal Deficit) and which shows "debt trap" situation (Primary Deficit).
+                </li>
+
+                <li>
+                    <strong>Balance of Payments:</strong> Current Account (trade in goods and services, transfers) + Capital Account (foreign investment, loans) = Overall BoP. Current Account Deficit (CAD) vs Trade Deficit. Autonomous vs Accommodating transactions.
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="indian-economic-development">
+
+    <h2>
+        Indian Economic Development: 40 Marks — What to Focus on Within the Largest Chapter
+    </h2>
+
+    <p>
+        Part B carries 40 marks and is heavily factual — dates, policy names, committee names, statistical data. Unlike Macroeconomics which requires calculation fluency, Indian Economic Development rewards students who read NCERT carefully and retain specific facts. The most mark-dense chapter is Current Challenges (22 marks), covering poverty, unemployment, infrastructure, environment, and human capital.
+    </p>
+
+    <p>
+        <strong>The five topics within Current Challenges (22 marks) that appear most frequently in board papers:</strong>
+    </p>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+            <h3>Poverty</h3>
+
+            <p>
+                Types (absolute vs relative), poverty line definition (per capita daily calorie intake — 2400 kcal rural, 2100 kcal urban in the older measure), causes, measures — MNREGA, PDS, housing schemes. "Distinguish between absolute and relative poverty" is a near-certain 3-mark question.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Human Capital Formation</h3>
+
+            <p>
+                Education and health as sources of human capital. Distinction between physical capital and human capital. Role of education in economic development. India's literacy rate trends. "What are the sources of human capital formation?" — 3-mark question answered with 4–5 sources: education, health, on-the-job training, migration, information.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Rural Development</h3>
+
+            <p>
+                Agricultural credit (institutional vs non-institutional), land reforms (land ceiling, abolition of zamindari), diversification of agriculture, organic farming, HYV seeds (Green Revolution). "What do you mean by agricultural diversification?" — 3-mark question.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Employment and Unemployment</h3>
+
+            <p>
+                Types of unemployment (seasonal, disguised, structural, cyclical, frictional). Self-help groups (SHGs). MGNREGA — 100 days of guaranteed wage employment. Casualisation of the workforce. "What is disguised unemployment? How does it differ from seasonal unemployment?" — 4-mark question.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Infrastructure</h3>
+
+            <p>
+                Economic infrastructure (energy, transport, communication) vs Social infrastructure (education, health, housing). India's infrastructure challenges. "Differentiate between economic and social infrastructure with examples" — 3-mark question.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The India-China-Pakistan comparison (6 marks):</strong> CBSE specifically tests statistical comparisons between India, China, and Pakistan on: GDP growth rate, per capita income, HDI rank, infant mortality rate, literacy rate, life expectancy, poverty ratio. <cite index="19-1">The economics syllabus covers Development Experience of India — A Comparison with Neighbours, covering development indicators, economic growth, and policies of these countries.</cite> Build a comparison table with 6–8 indicators. Know which country leads on each indicator — China typically leads on most economic indicators; India has certain advantages in specific service sectors.
+    </div>
+
+</section>
+<section id="must-draw-economics-diagrams">
+
+    <h2>
+        6 Must-Draw Economics Diagrams — With Correct Axis Labels
+    </h2>
+
+    <div class="gdl-card-grid gdl-card-grid--3">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Macroeconomics
+            </div>
+
+            <h3>
+                45° Line / Income Determination Diagram
+            </h3>
+
+            <p>
+                Y-axis: Aggregate Demand (AD). X-axis: National Income (Y). 45° line = AS. AD curve (C+I or C+I+G) intersects 45° line at equilibrium E. Mark OY* as equilibrium income.
+            </p>
+
+            <span class="freq-tag">
+                Every year
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Macroeconomics
+            </div>
+
+            <h3>
+                Deflationary &amp; Inflationary Gap
+            </h3>
+
+            <p>
+                Show full employment income (Yf) on X-axis. Deflationary gap: actual AD below AD_fe at Yf. Inflationary gap: actual AD above AD_fe at Yf. Show the vertical distance as the gap.
+            </p>
+
+            <span class="freq-tag">
+                Every year
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Macroeconomics
+            </div>
+
+            <h3>
+                Money Supply &amp; Demand
+            </h3>
+
+            <p>
+                Y-axis: Rate of Interest (r). X-axis: Money (M). Demand for money = downward sloping. Supply of money = vertical line (fixed by RBI). Equilibrium at intersection. Shift supply right → lower interest rate.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Macroeconomics
+            </div>
+
+            <h3>
+                Credit Creation / Money Multiplier
+            </h3>
+
+            <p>
+                Table format showing: Deposit → LRR held → Credit created → next bank's deposit. Each row reduces by LRR%. Total credit = Initial Deposit × (1/LRR). Show the geometric series converging.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Indian Economy
+            </div>
+
+            <h3>
+                Lorenz Curve
+            </h3>
+
+            <p>
+                Y-axis: Cumulative % of income. X-axis: Cumulative % of population. 45° line = perfect equality. Lorenz curve bows below 45° line — greater the bow, greater the inequality. Gini Coefficient = area between curve and 45° line / total area under 45° line.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Indian Economy
+            </div>
+
+            <h3>
+                Production Possibility Curve
+            </h3>
+
+            <p>
+                Y-axis: Good A. X-axis: Good B. Concave to origin (increasing opportunity cost). Points on curve = efficient. Points inside = inefficient/unemployment. Points outside = unattainable. Shift outward = economic growth.
+            </p>
+
+            <span class="freq-tag">
+                Medium-high
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="economics-performance-analysis">
+
+    <h2>
+        One Economics Score. Two Very Different Halves. Which One Is Failing You?
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 12 Economics mock test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Indian Economy — 1991 reforms (LPG)
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:87%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                87%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                National Income — calculation methods
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:72%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                72%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Current Challenges — poverty concepts
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:54%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                54%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Income Determination — multiplier numericals
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:37%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                37%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Multiplier numericals (37%) — not 1991 reforms (87%). Directed by data, not comfort. Genelis builds this map automatically.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all Class 12 Economics chapters — distinguishing diagram errors from calculation errors, and factual Indian Economy gaps from Macroeconomics concept confusion. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and directed for reattempt.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Economics session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Chapter-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-economics&utm_content=cta-inline">
+        Start your personalised Class 12 Economics study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="economics-key-terms-reference" class="gdl-formula-section">
+
+    <h2>
+        Complete Class 12 Economics Key Terms &amp; Formula Reference
+    </h2>
+
+    <div id="economics-macroeconomics-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                M
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Macroeconomics — Key Terms, Formulas &amp; Definitions
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                40 marks
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    National Income Aggregates
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            GDP at Market Price
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            The total market value of all final goods and services produced within the domestic territory of a country during an accounting year. GDP_MP = C + I + G + (X−M).
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            NNP at Factor Cost (National Income)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            NNP_FC = GNP_MP − Depreciation − Net Indirect Taxes. This is the most commonly used measure of national income in India. Represents the income earned by all factors of production owned by residents.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Real vs Nominal GDP
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Nominal GDP: measured at current year prices. Real GDP: measured at constant (base year) prices. Real GDP removes the effect of price changes, reflecting actual production changes. GDP Deflator = (Nominal GDP / Real GDP) × 100.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Value Added Method
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            GVA (Gross Value Added) = Value of Output − Intermediate Consumption. GDP = Sum of GVA of all sectors + Net Taxes on Products. This method avoids double counting by measuring only value added at each production stage.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Income Determination
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            MPC and MPS
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MPC (Marginal Propensity to Consume) = ΔC/ΔY = Change in Consumption / Change in Income. MPS = ΔS/ΔY. MPC + MPS = 1 always. MPC is between 0 and 1 for normal consumers.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Investment Multiplier
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            k = 1/(1−MPC) = 1/MPS. Shows by how much national income increases for a unit increase in investment. If MPC = 0.75, k = 4. Change in Income (ΔY) = Multiplier × Change in Investment (ΔI).
+
+                            <span class="gdl-formula-note">
+                                CBSE board question type: "MPC = 0.8. If investment increases by ₹200 crore, find increase in income." Answer: k = 1/0.2 = 5; ΔY = 5 × 200 = ₹1000 crore.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Deficient Demand
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Situation where Aggregate Demand (AD) is less than Aggregate Supply (AS) at the full employment level. Creates deflationary gap. Effect: output below full employment, unemployment rises, prices fall or remain stable. Fiscal policy correction: increase government spending or reduce taxes to boost AD.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Excess Demand
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Situation where AD exceeds AS at the full employment level. Creates inflationary gap. Effect: prices rise (inflation) since real output cannot increase beyond full employment. Fiscal policy correction: reduce government spending or increase taxes to reduce AD.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Money, Banking &amp; Budget
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Money Multiplier
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Money Multiplier = 1 / LRR (Legal Reserve Ratio = CRR + SLR). Total Deposit Created = Initial Deposit × Money Multiplier. Shows how the banking system creates credit through successive lending of deposits.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Repo Rate vs Reverse Repo Rate
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Repo Rate: rate at which RBI lends to commercial banks (short-term). Increase in Repo Rate → loans become costlier → reduces money supply → controls inflation. Reverse Repo Rate: rate at which RBI borrows from commercial banks. Always lower than Repo Rate.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Fiscal Deficit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Fiscal Deficit = Total Expenditure − Total Receipts (excluding borrowings) = Revenue Deficit + Capital Expenditure − Non-debt Capital Receipts. Indicates the total borrowing requirement of the government. High fiscal deficit leads to increased public debt.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Primary Deficit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Primary Deficit = Fiscal Deficit − Interest Payments. Shows fiscal deficit excluding inherited interest burden. If Primary Deficit = 0, current borrowing is only to pay interest on past debt. Indicates a "debt trap" situation when positive and increasing.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="economics-indian-development-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                I
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Indian Economic Development — Key Terms &amp; Facts
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                40 marks
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Development Experience 1947–90 &amp; Reforms
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Five Year Plans
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            India adopted Soviet-style Five Year Plans (1951 onwards) to direct economic development. First Plan (1951–56): agriculture priority. Second Plan (Mahalanobis Model, 1956–61): heavy industry emphasis. Planning Commission replaced by NITI Aayog in 2015. Plans replaced by three-year action plans.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            LPG Reforms 1991
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Liberalisation: removal of industrial licensing (Licence Raj), deregulation, freedom of entry. Privatisation: disinvestment of public sector, encouraging private sector in previously reserved areas. Globalisation: reduction of trade barriers, current account convertibility, FDI liberalisation. Triggered by balance of payments crisis and IMF conditionality.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Green Revolution
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Introduction of High Yielding Variety (HYV) seeds, irrigation, fertilisers and pesticides — mainly in Punjab, Haryana, western UP from mid-1960s. Led to self-sufficiency in foodgrains (wheat and rice). Limitations: regionally concentrated, widened rural inequality, environmental damage from chemical inputs.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Current Challenges
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Absolute vs Relative Poverty
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Absolute Poverty: based on a fixed minimum standard of living (poverty line). Those below cannot afford minimum caloric intake and basic necessities. Relative Poverty: income inequality — measured relative to the average income of the society. Lorenz Curve and Gini Coefficient measure relative poverty/inequality.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Disguised Unemployment
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            More workers are employed on a task than is actually required — the marginal productivity of the extra workers is zero. Common in Indian agriculture. If some workers leave, total output does not fall. Distinct from seasonal unemployment (workers unemployed during off-season) and structural unemployment (skills mismatch).
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Human Capital Formation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Investment in human beings that increases their productive capacity. Sources: education (formal schooling, vocational training), health (nutrition, medical care), on-the-job training, migration (access to better opportunities), information (market knowledge). Distinguished from physical capital: human capital cannot be separated from the owner; depreciates differently; cannot be used as collateral.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            HDI (Human Development Index)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Composite index measuring development beyond GDP. Three dimensions: Long and healthy life (Life Expectancy at birth), Knowledge (Mean years of schooling + Expected years of schooling), Standard of living (GNI per capita at PPP). HDI value between 0 and 1. India ranks around 130–135 globally — lower than China but ahead of Pakistan on most indicators.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            MGNREGA
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Mahatma Gandhi National Rural Employment Guarantee Act (2005). Guarantees 100 days of wage employment per year to every rural household whose adult members volunteer unskilled manual work. Minimum wages paid — linked to agricultural wages. Also creates rural infrastructure (ponds, roads, land development).
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong> For Macroeconomics formulas — reproduce from memory, especially MPC+MPS=1, Multiplier = 1/MPS, Fiscal Deficit formula, and Money Multiplier. For Indian Economy terms — cover the definition and state it from memory in NCERT-aligned language. Practise writing the multiplier numerical and the National Income calculation from data in under 6 minutes each. By January, every term and formula should be immediate recall.
+    </div>
+
+</section>
+    """,
+
+    "faqs": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 12 Economics "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Class 12 Economics is divided exactly equally: Part A "
+                "(Introductory Macroeconomics) — 40 marks and Part B "
+                "(Indian Economic Development) — 40 marks. Within Part A, "
+                "Determination of Income and Employment carries the highest "
+                "chapter weightage at 12 marks, covering the Keynesian model, "
+                "aggregate demand, multiplier, and the concept of full employment "
+                "equilibrium. Within Part B, Current Challenges Facing Indian "
+                "Economy carries 22 marks — the highest in the entire paper."
+            )
+        },
+        {
+            "question": (
+                "What diagrams are most important for Class 12 Economics "
+                "CBSE boards?"
+            ),
+            "answer": (
+                "The must-draw diagrams for Class 12 Economics boards: "
+                "(1) Aggregate Demand-Aggregate Supply diagram (45° line diagram) "
+                "showing equilibrium income — most frequently tested; "
+                "(2) Money multiplier diagram showing credit creation; "
+                "(3) Deficient demand and excess demand diagrams showing inflationary "
+                "and deflationary gaps; (4) Government budget surplus and deficit "
+                "diagrams; (5) Current Account and Capital Account in Balance of "
+                "Payments; (6) Lorenz Curve for income inequality; "
+                "(7) Production Possibility Curve revisited for opportunity cost. "
+                "Every diagram must have correctly labelled axes, correctly named "
+                "curves, and the equilibrium point marked."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare for Income Determination "
+                "(Keynesian Model) in Class 12 Economics?"
+            ),
+            "answer": (
+                "Income Determination is the highest-weightage chapter "
+                "(12 marks) and the most frequently tested in board papers. "
+                "Focus on: (1) The 45° line diagram — draw it correctly with "
+                "Aggregate Demand (C+I or C+I+G) on Y-axis and National Income "
+                "on X-axis; equilibrium where AD = AS line; "
+                "(2) Marginal Propensity to Consume (MPC) and Marginal Propensity "
+                "to Save (MPS) — their relationship MPC + MPS = 1; "
+                "(3) Investment Multiplier = 1/(1-MPC) = 1/MPS — board papers "
+                "always ask for the multiplier value and its significance; "
+                "(4) Deficient demand vs excess demand — what causes each, "
+                "the gap diagram, and policy measures to correct each."
+            )
+        },
+        {
+            "question": (
+                "What are the three methods of calculating National Income?"
+            ),
+            "answer": (
+                "National Income is calculated using three equivalent methods: "
+                "(1) Product/Value Added Method: Sum of value added "
+                "(output minus intermediate consumption) by all producers in all "
+                "sectors. Avoids double counting by using value added at each stage. "
+                "(2) Expenditure Method: GDP = C + I + G + (X-M), where C = private "
+                "final consumption, I = gross investment, G = government expenditure, "
+                "X-M = net exports. Measures from demand side. "
+                "(3) Income Method: Sum of all factor incomes — Compensation of "
+                "Employees + Operating Surplus (Rent + Interest + Profit) + Mixed "
+                "Income. Measures from income distribution side. All three methods "
+                "give the same GDP if applied correctly."
+            )
+        },
+        {
+            "question": (
+                "What are the key economic reforms introduced in India since 1991?"
+            ),
+            "answer": (
+                "The 1991 economic reforms (LPG reforms) introduced three major "
+                "changes: (1) Liberalisation — removal of licensing requirements "
+                "(licence raj), deregulation of industries, relaxation of MRTP Act "
+                "restrictions, freedom to import technology. "
+                "(2) Privatisation — disinvestment of public sector enterprises, "
+                "encouragement of private sector participation in areas previously "
+                "reserved for public sector. "
+                "(3) Globalisation — reduction of import duties (tariffs), removal "
+                "of quantitative restrictions on imports, convertibility of rupee "
+                "on current account, foreign direct investment liberalisation. "
+                "These reforms transformed India from a mixed-economy with heavy "
+                "state control to a more market-oriented economy."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-accountancy-partnership-company-accounts-cbse",
+        "cbse-class-12-board-exam-preparation-guide-2026-27",
+        "class-11-economics-microeconomics-statistics-cbse",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ]
+},
+{
+    "slug": "class-11-accountancy-journal-entries-trial-balance-cbse",
+
+    "title": (
+        "Class 11 Accountancy 2025–26: Journal Entries, Ledger, Trial Balance "
+        "& Final Accounts — Chapter Weightage, Strategy & Complete Reference Sheet"
+    ),
+
+    "meta_title": (
+        "Class 11 Accountancy: Journal Entries, Ledger, Trial Balance & Final "
+        "Accounts — Chapter Weightage, Strategy & Reference Sheet 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "The accounting equation Assets = Liabilities + Capital runs through "
+        "every chapter in Class 11 Accountancy. This complete guide covers "
+        "chapter weightage, the accounting equation thread, golden rules, "
+        "journal entries, ledger, trial balance, bank reconciliation, "
+        "depreciation, and final accounts format reference for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "The accounting equation Assets = Liabilities + Capital runs through "
+        "every chapter in Class 11 Accountancy. Explore chapter weightage, "
+        "golden rules, journal entries, ledger, trial balance, bank reconciliation, "
+        "depreciation, and final accounts formats."
+    ),
+
+    "class": "11",
+
+    "subject": "Accountancy",
+
+    "category": "Commerce",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-17T09:00:00+05:30",
+
+    "updated_date": "2026-07-17T09:00:00+05:30",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 11 Accountancy journal entries, ledger, trial balance, "
+        "depreciation and final accounts reference guide"
+    ),
+
+    "keywords": [
+        "class 11 accountancy journal entries CBSE",
+        "class 11 accountancy chapter weightage 2025-26",
+        "journal entries class 11",
+        "trial balance class 11",
+        "bank reconciliation statement class 11",
+        "depreciation class 11 accountancy",
+        "final accounts class 11",
+        "golden rules of accounting",
+        "class 11 accountancy study plan"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Every chapter in Class 11 Accountancy is a different application of one equation: Assets = Liabilities + Capital. Journal entries maintain this equation. Ledger accounts organise it. The Trial Balance verifies it. The Balance Sheet presents it. Students who see this thread find each chapter logical and connected. Students who don't see it treat each chapter as a separate set of rules to memorise — and eventually, under exam pressure, the rules blur together and marks are lost.
+    </p>
+
+    <p>
+        Class 11 Accountancy is also the foundation for Class 12 Partnership and Company Accounts. A student who doesn't own journal entries, ledger posting, and trial balance preparation in Class 11 will spend twice as long on Class 12 topics — and still feel shaky. The reference sheet at the end of this guide gives you every golden rule, every key journal entry format, every depreciation formula, and the standard format for Trading, P&amp;L, and Balance Sheet. Build these foundations now.
+    </p>
+
+</section>
+<section id="class-11-accountancy-marks-distribution">
+
+    <h2>
+        Where the Marks Come From in Class 11 Accountancy
+    </h2>
+
+    <p>
+        <cite index="6-1">Class 11 Accountancy theory carries 80 marks. Part A — Financial Accounting I covers Basic Accounting Terms, Theory Base, Recording Transactions, Ledger, Special Purpose Books, and Bank Reconciliation Statement. Part B — Financial Accounting II covers Depreciation, Provisions and Reserves, Bills of Exchange, Financial Statements, and Accounts from Incomplete Records.</cite> Internal Assessment: 20 marks (practical work, project, viva).
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Accountancy — unit-wise marks distribution (theory, 80 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Recording of Transactions (Part A)</strong>
+
+                <span class="bar-label-note">
+                    Highest — Journal + Ledger + TB
+                </span>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:30%">
+                    30%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>~24 marks</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Financial Statements (Part B)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:25%">
+                    25%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                ~20 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Special Purpose Books (Part A)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                ~12 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Depreciation &amp; Provisions (Part B)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:12.5%">
+                    12.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                ~10 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Bank Reconciliation Statement
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:8.75%">
+                    8.75%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                ~7 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Bills of Exchange + Theory Base
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:8.75%">
+                    8.75%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                ~7 marks
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            <cite index="6-1">Part B (Recording Transactions, Trial Balance, Subsidiary Books, Bills, BRS) is the highest priority — approximately 50% of preparation time recommended here.</cite>
+        </p>
+
+    </div>
+
+</section>
+<section id="accounting-equation-thread">
+
+    <h2>
+        The Accounting Equation Is Not a Chapter. It Is the Thread That Connects Everything.
+    </h2>
+
+    <div class="editorial-insight">
+
+        <h3>
+            Assets = Liabilities + Capital
+        </h3>
+
+        <p>
+            Every transaction in Accountancy is a rearrangement of this equation. A journal entry is a record of this rearrangement. A ledger is a collection of these rearrangements by account. A Trial Balance verifies the equation holds. A Balance Sheet presents the equation at a point in time. Students who see this thread in every chapter never get confused about which account to debit or credit.
+        </p>
+
+    </div>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Accounting Equation
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Golden Rules → Journal Entry
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            Ledger Posting
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Trial Balance
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Trading &amp; P&amp;L Account
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 6</span>
+            Balance Sheet
+        </div>
+
+    </div>
+
+    <p>
+        The specific dependency that most students discover too late: <strong>you cannot prepare final accounts without a correct Trial Balance, and you cannot prepare a correct Trial Balance without correct ledger postings, and you cannot post correctly to the ledger without understanding the golden rules for journal entries.</strong> Rushing through journal entries and ledger in the first month of school means every subsequent chapter is built on a shaky foundation. Own the golden rules first — the rest follows.
+    </p>
+
+</section>
+<section id="golden-rules-of-accounting">
+
+    <h2>
+        The Three Golden Rules — The Only Framework You Need for Every Journal Entry
+    </h2>
+
+    <p>
+        Every journal entry in Accountancy is determined by three golden rules. Before writing any entry, identify what type of account each affected account is — Personal, Real, or Nominal. Then apply the corresponding rule. This is the complete decision framework for every debit and credit in Class 11 and Class 12.
+    </p>
+
+    <div class="gdl-card-grid gdl-card-grid--3">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <span class="gr-type">
+                Personal Account
+            </span>
+
+            <h3>
+                Individuals, Firms, Companies
+            </h3>
+
+            <div class="dr">
+                Dr: Debit the Receiver
+            </div>
+
+            <div class="cr">
+                Cr: Credit the Giver
+            </div>
+
+            <div class="examples">
+                Examples: Ramesh's A/c, Bank A/c, Capital A/c, Drawings A/c, Debtors A/c, Creditors A/c, Loan A/c
+            </div>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <span class="gr-type">
+                Real Account
+            </span>
+
+            <h3>
+                Tangible Assets &amp; Goods
+            </h3>
+
+            <div class="dr">
+                Dr: Debit What Comes In
+            </div>
+
+            <div class="cr">
+                Cr: Credit What Goes Out
+            </div>
+
+            <div class="examples">
+                Examples: Cash A/c, Goods/Stock A/c, Machinery A/c, Land A/c, Furniture A/c, Buildings A/c
+            </div>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <span class="gr-type">
+                Nominal Account
+            </span>
+
+            <h3>
+                Incomes, Expenses, Losses, Gains
+            </h3>
+
+            <div class="dr">
+                Dr: Debit All Expenses &amp; Losses
+            </div>
+
+            <div class="cr">
+                Cr: Credit All Incomes &amp; Gains
+            </div>
+
+            <div class="examples">
+                Examples: Salary A/c, Rent A/c, Interest A/c, Commission Received A/c, Bad Debts A/c, Discount A/c
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The journal entry format CBSE expects:</strong> Date | Particulars | L.F. | Dr Amount | Cr Amount. The Particulars column: first line = name of account debited (with "A/c Dr" after), second line = "To [name of account credited]" (indented). Third line = Narration in brackets: "(Being [description of transaction])". Every component is marked — missing the narration or misformatting the "To" indentation typically loses 0.5 marks per entry.
+    </div>
+
+</section>
+<section id="bank-reconciliation-statement">
+
+    <h2>
+        Bank Reconciliation Statement — The Most Common Error Source in Class 11 Accountancy
+    </h2>
+
+    <p>
+        The Bank Reconciliation Statement (BRS) is a statement that reconciles the difference between the Cash Book balance and the Passbook (bank statement) balance on a given date. It carries approximately 7 marks and has one of the highest error rates in Class 11 Accountancy — not because the concept is hard, but because students confuse the direction of adjustment consistently.
+    </p>
+
+    <p>
+        <strong>The framework that prevents all errors:</strong>
+        Always start from the Cash Book balance. Add or subtract items that explain the difference between Cash Book and Passbook.
+    </p>
+
+    <div class="gdl-card-grid gdl-card-grid--2">
+
+        <div class="gdl-card">
+
+            <h3>
+                Items that appear in Passbook but not in Cash Book (yet)
+            </h3>
+
+            <p>
+                Interest credited by bank (not yet entered in Cash Book) → Add to Cash Book balance. Bank charges debited by bank (not yet entered in Cash Book) → Subtract from Cash Book balance. Direct deposits by customers → Add. Direct payments by bank (standing orders) → Subtract.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Items that appear in Cash Book but not in Passbook (yet)
+            </h3>
+
+            <p>
+                Cheques issued but not yet presented for payment → Add back to Cash Book balance (they reduce Cash Book but haven't reduced Passbook yet). Cheques deposited but not yet collected by bank → Subtract from Cash Book balance (they increase Cash Book but haven't increased Passbook yet).
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>The most common BRS mistake:</strong> Students add cheques deposited but not collected instead of subtracting them. The logic: when you deposit a cheque, you immediately increase your Cash Book. But the bank only credits your account after clearing (2–3 days). So the Passbook is lower than the Cash Book by this amount. Starting from Cash Book balance, you subtract to reach Passbook balance. If starting from Passbook balance, you add it. Always identify clearly: "Am I moving from Cash Book to Passbook, or Passbook to Cash Book?" — then apply adjustments consistently in one direction.
+    </div>
+
+</section>
+<section id="depreciation-methods">
+
+    <h2>
+        Depreciation: Two Methods, Specific Journal Entries, and a Question That Appears Every Year
+    </h2>
+
+    <p>
+        Depreciation carries approximately 10 marks in the annual exam and has two distinct methods — each with its own formula, journal entries, and asset account presentation. CBSE boards test both, either as separate calculations or as a comparison question.
+    </p>
+
+    <div class="gdl-card-grid gdl-card-grid--2">
+
+        <div class="gdl-card">
+
+            <div class="d-method">
+                Method 1 — SLM (Fixed Instalment)
+            </div>
+
+            <h3>
+                Straight Line Method
+            </h3>
+
+            <p>
+                Depreciation is calculated on the original cost every year — the same fixed amount is charged annually regardless of book value. Asset reaches exactly the scrap value at the end of useful life. Best when: asset is used uniformly across its life.
+            </p>
+
+            <div class="gdl-formula">
+                Annual Depreciation = (Cost − Scrap Value) / Useful Life (years)
+                <br>
+                Rate % = (Annual Depreciation / Cost) × 100
+            </div>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="d-method">
+                Method 2 — WDV (Diminishing Balance)
+            </div>
+
+            <h3>
+                Written Down Value Method
+            </h3>
+
+            <p>
+                Depreciation is calculated on the book value (cost minus accumulated depreciation) each year — the amount decreases every year. Book value never reaches zero — there is always a residual. Best when: repairs and maintenance increase over time (higher depreciation early offsets lower repairs).
+            </p>
+
+            <div class="gdl-formula">
+                Annual Depreciation = Book Value × Rate%
+                <br>
+                WDV = Cost × (1 − Rate%)^n after n years
+            </div>
+
+        </div>
+
+    </div>
+
+    <p>
+        <strong>Journal entries for depreciation (same for both methods):</strong>
+        <br>
+        At year end: Depreciation A/c Dr &nbsp;|&nbsp; To Asset A/c (or Provision for Depreciation A/c)
+        <br>
+        Transfer to P&amp;L: P&amp;L A/c Dr &nbsp;|&nbsp; To Depreciation A/c
+    </p>
+
+    <p>
+        <strong>When Provision for Depreciation A/c method is used</strong> (more common in board papers): Depreciation A/c Dr → To Provision for Depreciation A/c. The Asset A/c remains at cost. On disposal: Provision for Depreciation A/c Dr (accumulated depreciation) + Asset Disposal A/c Dr (sale proceeds) → To Asset A/c. Profit/Loss on disposal transferred to P&amp;L.
+    </p>
+
+</section>
+<section id="accountancy-performance-analysis">
+
+    <h2>
+        One Accountancy Score, Five Chapter Types. Here's How to Know Where to Focus.
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Accountancy test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Trial Balance — preparation from ledger
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:82%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                82%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Depreciation — WDV method numericals
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:67%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                67%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Journal Entries — compound entries
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:54%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                54%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                BRS — cheques deposited not collected
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:38%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                38%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: BRS adjustment direction (38%) — not Trial Balance (82%). Genelis builds this map automatically after every session.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all Class 11 Accountancy chapters — distinguishing golden rule errors from format errors, and BRS direction confusion from depreciation calculation mistakes. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and directed for reattempt.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Accountancy session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Chapter-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-accountancy&utm_content=cta-inline">
+        Start your personalised Class 11 Accountancy study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-accountancy-reference-sheet" class="gdl-formula-section">
+
+    <h2>
+        Complete Class 11 Accountancy Reference Sheet — Golden Rules, Key Entries &amp; Final Account Formats
+    </h2>
+
+    <div id="journal-entries-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                J
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Journal Entries — Most Important Transactions
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                ~24 marks · Foundation of all chapters
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Basic Transactions
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Started business with cash
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Cash A/c Dr &nbsp;|&nbsp; To Capital A/c
+                            <br>
+                            (Being business started with cash)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Purchased goods for cash
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Purchases A/c Dr &nbsp;|&nbsp; To Cash A/c
+                            <br>
+                            (Being goods purchased for cash)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Purchased goods on credit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Purchases A/c Dr &nbsp;|&nbsp; To [Creditor's Name] A/c
+                            <br>
+                            (Being goods purchased on credit from [name])
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Sold goods for cash
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Cash A/c Dr &nbsp;|&nbsp; To Sales A/c
+                            <br>
+                            (Being goods sold for cash)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Sold goods on credit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            [Debtor's Name] A/c Dr &nbsp;|&nbsp; To Sales A/c
+                            <br>
+                            (Being goods sold on credit to [name])
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Cash received from debtor
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Cash A/c Dr &nbsp;|&nbsp; To [Debtor] A/c
+                            <br>
+                            (Being cash received from [debtor])
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Paid to creditor in full
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            [Creditor] A/c Dr &nbsp;|&nbsp; To Cash A/c
+                            <br>
+                            (Being cash paid to [creditor] in full settlement)
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Adjusting Entries
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Outstanding expense
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            [Expense] A/c Dr &nbsp;|&nbsp; To Outstanding [Expense] A/c
+                            <br>
+                            (Being [expense] outstanding for the period)
+
+                            <span class="gdl-formula-note">
+                                Outstanding expense = accrued expense = expense incurred but not yet paid. Shown as current liability in Balance Sheet.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Prepaid expense
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Prepaid [Expense] A/c Dr &nbsp;|&nbsp; To [Expense] A/c
+                            <br>
+                            (Being [expense] paid in advance)
+
+                            <span class="gdl-formula-note">
+                                Prepaid expense = expense paid in advance. Shown as current asset in Balance Sheet.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Bad debts
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Bad Debts A/c Dr &nbsp;|&nbsp; To Debtor A/c
+                            <br>
+                            (Being amount written off as bad debt)
+
+                            <span class="gdl-formula-note">
+                                Bad debt = irrecoverable amount. Transferred to Debit side of P&amp;L Account at year end.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Provision for bad debts
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P&amp;L A/c Dr &nbsp;|&nbsp; To Provision for Doubtful Debts A/c
+                            <br>
+                            (Being provision created for doubtful debts)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Drawings in goods
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Drawings A/c Dr &nbsp;|&nbsp; To Purchases A/c
+                            <br>
+                            (Being goods withdrawn for personal use)
+
+                            <span class="gdl-formula-note">
+                                Not Sales A/c — goods taken for personal use reduces purchases, not records a sale.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="final-accounts-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                F
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Final Accounts — Trading, P&amp;L &amp; Balance Sheet Format
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                ~20 marks · Format-critical
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Trading Account
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Debit side items
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Opening Stock + Purchases − Purchase Returns + Direct Expenses (Wages, Carriage Inwards, Customs Duty, Factory Expenses) + Gross Profit c/d (if Credit side &gt; Debit side)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Credit side items
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Sales − Sales Returns + Closing Stock + Gross Loss c/d (if Debit side &gt; Credit side)
+
+                            <span class="gdl-formula-note">
+                                Gross Profit transferred to Credit side of P&amp;L A/c. Gross Loss transferred to Debit side of P&amp;L A/c.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Profit &amp; Loss Account
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Debit side items
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Gross Loss b/d (if any) + Indirect Expenses: Salaries, Rent, Insurance, Rates &amp; Taxes, Advertising, Depreciation, Bad Debts, Provision for Bad Debts, Interest on Loan, Commission Paid + Net Profit c/d (if Credit &gt; Debit)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Credit side items
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Gross Profit b/d + Indirect Incomes: Discount Received, Commission Received, Interest Received, Rent Received + Net Loss c/d (if Debit &gt; Credit)
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Balance Sheet
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Liabilities side
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Capital + Net Profit (or − Net Loss) − Drawings + Long-term Loans + Current Liabilities (Creditors, Outstanding Expenses, Bank Overdraft, Bills Payable)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Assets side
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Fixed Assets (Land, Building, Machinery, Furniture − Depreciation) + Current Assets (Cash, Bank, Debtors − Provision for BD, Bills Receivable, Closing Stock, Prepaid Expenses, Accrued Income)
+
+                            <span class="gdl-formula-note">
+                                Balance Sheet is not an account — it has no Dr/Cr. It is a Statement. Both sides must equal (Assets = Liabilities + Capital).
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="depreciation-bills-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                D
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Depreciation Formulas &amp; Bills of Exchange
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                ~10 marks + ~7 marks
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Depreciation
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            SLM formula
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Annual Depreciation = (Cost − Scrap Value) / Useful Life
+                            <br>
+                            Rate % = [(Cost − Scrap Value) / (Cost × Useful Life)] × 100
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            WDV formula
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Depreciation (Year 1) = Cost × Rate%
+                            <br>
+                            Depreciation (Year 2) = (Cost − Year 1 Dep) × Rate%
+                            <br>
+                            Book Value = Cost × (1 − Rate/100)ⁿ after n years
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Profit/Loss on disposal
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Profit on sale = Sale Price − Book Value at date of sale (if +ve)
+                            <br>
+                            Loss on sale = Book Value at date of sale − Sale Price (if +ve)
+                            <br>
+                            Transferred to P&amp;L Account.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Bills of Exchange — Key Terms
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Drawer / Drawee / Payee
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Drawer = creditor who draws the bill (writes it). Drawee = debtor who accepts the bill. Payee = person who receives payment (usually the drawer or endorsee).
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Discounting a bill
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Drawer discounts bill with bank before maturity. Entry: Bank A/c Dr (Bill Amount − Discount) + Discount A/c Dr (bank charges) | To Bills Receivable A/c (full bill amount).
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Dishonour of bill
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Drawee fails to pay on due date. Entry for drawer: Drawee A/c Dr | To Bills Receivable A/c (original amount) + any noting charges also debited to Drawee.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong> For golden rules — identify account type, then apply rule automatically. Practise 20 journal entries daily for the first month. For final accounts — practise presenting the Trading Account, P&amp;L Account, and Balance Sheet from scratch weekly. Check that both sides of the Balance Sheet balance before submission. For BRS — practise 5 complete BRS questions weekly, clearly marking which direction (Cash Book → Passbook or vice versa) you're moving before adjusting.
+    </div>
+
+</section>
+    """,
+
+    "faqs": [
+        {
+            "question": (
+                "What are the golden rules of accounting in Class 11?"
+            ),
+            "answer": (
+                "There are three golden rules of accounting in Class 11 CBSE: "
+                "(1) Personal Account: Debit the receiver, Credit the giver. "
+                "(2) Real Account: Debit what comes in, Credit what goes out. "
+                "(3) Nominal Account: Debit all expenses and losses, Credit all "
+                "incomes and gains. These rules determine which account is debited "
+                "and which is credited for every transaction. Personal accounts "
+                "are for individuals, firms, and companies. Real accounts are for "
+                "tangible assets (cash, goods, machinery). Nominal accounts are "
+                "for income, expenses, profit, and loss."
+            )
+        },
+        {
+            "question": (
+                "What is a Bank Reconciliation Statement and why is it prepared?"
+            ),
+            "answer": (
+                "A Bank Reconciliation Statement (BRS) is a statement prepared "
+                "to reconcile the difference between the balance as per Cash Book "
+                "and the balance as per Passbook (bank statement) on a given date. "
+                "It is prepared because certain transactions appear in the Cash "
+                "Book but not in the Passbook (or vice versa) — such as cheques "
+                "issued but not presented for payment, cheques deposited but not "
+                "yet collected, bank charges, and interest credited directly by "
+                "the bank. The BRS ensures the accuracy of both books and helps "
+                "detect errors or fraud."
+            )
+        },
+        {
+            "question": (
+                "What is the difference between SLM and WDV depreciation methods?"
+            ),
+            "answer": (
+                "Straight Line Method (SLM): Depreciation is calculated on the "
+                "original cost every year — the same fixed amount is charged "
+                "annually. Formula: Annual Depreciation = (Cost − Scrap Value) / "
+                "Useful Life. Under SLM, the book value reaches scrap value at the "
+                "end of useful life. Written Down Value (WDV) Method: Depreciation "
+                "is calculated on the book value (reducing balance) each year — "
+                "so the amount decreases every year. Under WDV, book value never "
+                "reaches zero. CBSE boards test both methods — students must know "
+                "when each is used and the journal entries for each."
+            )
+        },
+        {
+            "question": (
+                "What is the format of the Trading and Profit & Loss Account "
+                "in Class 11 Accountancy?"
+            ),
+            "answer": (
+                "The Trading Account has a Debit side (Opening Stock, Purchases "
+                "minus Returns, Direct Expenses like wages, carriage inwards, "
+                "customs duty) and Credit side (Sales minus Returns, Closing Stock). "
+                "Gross Profit/Loss is the balancing figure transferred to P&L "
+                "Account. The Profit & Loss Account has a Debit side (Gross Loss "
+                "b/d if any, Indirect Expenses like rent, salaries, depreciation, "
+                "bad debts, interest on loan) and Credit side (Gross Profit b/d, "
+                "Other Incomes like commission received, interest received). Net "
+                "Profit/Loss is transferred to Capital Account in the Balance Sheet."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-accountancy-partnership-company-accounts-cbse",
+        "class-11-economics-microeconomics-statistics-cbse",
+        "cbse-class-11-survival-guide-all-streams"
+    ]
+},
+{
+    "slug": "class-11-economics-microeconomics-statistics-cbse",
+
+    "title": (
+        "Class 11 Economics 2025–26: Statistics for Economics & "
+        "Introductory Microeconomics — Chapter Weightage, Strategy & "
+        "Complete Reference Sheet"
+    ),
+
+    "meta_title": (
+        "Class 11 Economics: Statistics for Economics & Microeconomics — "
+        "Chapter Weightage, Strategy & Reference Sheet 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "Class 11 Economics is two subjects in one paper — Statistics "
+        "(40 marks, calculation-based) and Microeconomics (40 marks, "
+        "diagram-based). This complete guide covers chapter weightage, "
+        "the two-subject split, statistics calculation types, "
+        "microeconomics diagrams, consumer equilibrium, elasticity, "
+        "production and costs, and a complete formula and key terms "
+        "reference for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "Class 11 Economics combines Statistics for Economics and "
+        "Introductory Microeconomics. Learn the chapter weightage, "
+        "calculation methods, must-draw diagrams, preparation strategy "
+        "and complete formula and key terms reference."
+    ),
+
+    "blog_type": "subject-guide",
+
+    "class": "11",
+
+    "subject": "Economics",
+
+    "category": "Commerce",
+
+    "tags": [
+        "Class 11",
+        "Economics",
+        "CBSE",
+        "Statistics for Economics",
+        "Introductory Microeconomics",
+        "Chapter Weightage",
+        "Economics Formulas",
+        "Microeconomics Diagrams"
+    ],
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-17T09:00:00+05:30",
+
+    "updated_date": "2026-07-17T09:00:00+05:30",
+
+    "display_date": "July 17, 2026",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class11-economics-microeconomics-statistics-og.jpg",
+
+    "image_alt": (
+        "Class 11 Economics guide covering Statistics for Economics, "
+        "Introductory Microeconomics, chapter weightage, diagrams and formulas"
+    ),
+
+    "keywords": [
+        "class 11 economics important chapters CBSE",
+        "statistics for economics class 11",
+        "microeconomics class 11 CBSE",
+        "class 11 economics chapter weightage 2025-26",
+        "consumer equilibrium class 11",
+        "elasticity of demand class 11",
+        "measures of central tendency class 11",
+        "class 11 economics diagrams",
+        "production and costs class 11"
+    ],
+
+    "faq": [
+        {
+            "question": (
+                "Which part has the highest weightage in Class 11 "
+                "Economics CBSE 2025–26?"
+            ),
+            "answer": (
+                "Class 11 Economics is divided exactly equally: Part A "
+                "(Statistics for Economics) carries 40 marks and Part B "
+                "(Introductory Microeconomics) carries 40 marks. Within "
+                "Statistics, Statistical Tools and Interpretation carries "
+                "approximately 25 marks. Within Microeconomics, Consumer's "
+                "Equilibrium and Demand carries approximately 14 marks."
+            )
+        },
+        {
+            "question": (
+                "What are the formulas for measures of central tendency "
+                "in Class 11 Economics Statistics?"
+            ),
+            "answer": (
+                "The key formulas include Arithmetic Mean using the direct, "
+                "assumed mean and step-deviation methods; Median for grouped "
+                "and ungrouped data; and Mode using the grouped-data formula. "
+                "These formulas are included in the complete reference sheet "
+                "in this guide."
+            )
+        },
+        {
+            "question": (
+                "What diagrams are most important for Class 11 "
+                "Microeconomics CBSE?"
+            ),
+            "answer": (
+                "Important diagrams include the demand curve, supply curve, "
+                "market equilibrium, consumer equilibrium using an "
+                "indifference curve and budget line, TP-AP-MP curves, "
+                "TC-AC-MC curves, perfect competition and monopoly diagrams. "
+                "Every diagram should include correctly labelled axes and "
+                "named curves."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare Consumer's Equilibrium for "
+                "Class 11 Economics?"
+            ),
+            "answer": (
+                "Prepare both approaches: Utility Analysis using the Law of "
+                "Equi-Marginal Utility and Indifference Curve Analysis using "
+                "the tangency between the budget line and the highest "
+                "attainable indifference curve. Learn the equilibrium "
+                "conditions and practise the corresponding diagrams."
+            )
+        },
+        {
+            "question": (
+                "What is the difference between movement along a demand "
+                "curve and shift of the demand curve?"
+            ),
+            "answer": (
+                "Movement along a demand curve occurs because of a change "
+                "in the good's own price. A shift of the demand curve occurs "
+                "because of factors other than price, such as income, prices "
+                "of related goods, preferences or expectations."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-economics-microeconomics-macroeconomics-cbse",
+        "class-11-accountancy-journal-entries-trial-balance-cbse",
+        "cbse-class-11-survival-guide-all-streams",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Class 11 Economics is not one subject. It is two completely different subjects sharing a paper and a syllabus label. Part A — Statistics for Economics — is calculation-based, data-heavy, and rewards students who practise numerical methods regularly. Part B — Introductory Microeconomics — is theory and diagram-based, and rewards students who understand economic concepts and can draw correctly labelled diagrams from memory. The preparation approach that works for Statistics does not work for Microeconomics — and vice versa.
+    </p>
+
+    <p>
+        <cite index="12-1">Part A Statistics for Economics carries 40 marks and Part B Introductory Microeconomics carries 40 marks — making both halves equally important for scoring well.</cite> Students who prepare both halves with their respective methods — calculation fluency for Statistics, diagram mastery for Microeconomics — consistently outperform students who study both halves the same way. This guide separates the two, gives the specific strategy for each, and provides a complete formula and key terms reference sheet.
+    </p>
+
+</section>
+<section id="class-11-economics-marks-distribution">
+
+    <h2>
+        40 Marks Statistics. 40 Marks Microeconomics. Here's the Chapter-Level Picture.
+    </h2>
+
+    <div class="two-split">
+
+        <div class="split-c stats">
+
+            <span class="s-marks">
+                40
+            </span>
+
+            <h4>
+                Part A — Statistics for Economics
+            </h4>
+
+            <p>
+                Introduction to Statistics · Collection of Data · Organisation of Data · Presentation of Data · Measures of Central Tendency · Measures of Dispersion · Correlation · Index Numbers
+            </p>
+
+            <span class="mode">
+                Preparation mode: Calculation fluency
+            </span>
+
+        </div>
+
+        <div class="split-c micro">
+
+            <span class="s-marks">
+                40
+            </span>
+
+            <h4>
+                Part B — Introductory Microeconomics
+            </h4>
+
+            <p>
+                Introduction · Consumer's Equilibrium and Demand · Producer Behaviour and Supply · Forms of Market and Price Determination
+            </p>
+
+            <span class="mode">
+                Preparation mode: Diagram mastery + definition precision
+            </span>
+
+        </div>
+
+    </div>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Economics — chapter-wise marks distribution (theory, 80 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Statistical Tools &amp; Interpretation</strong>
+                <span class="bar-label-note">
+                    Highest — 31.25%
+                </span>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:31.25%">
+                    31.25%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>25 marks ★</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Consumer's Equilibrium &amp; Demand</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:17.5%">
+                    17.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                <strong>14 marks</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Producer Behaviour &amp; Supply
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:12.5%">
+                    12.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                10 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Forms of Market &amp; Price Determination
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:10%">
+                    10%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                8 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Data Collection, Organisation &amp; Presentation
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:10%">
+                    10%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                8 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Introduction (Stats + Micro)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:11.25%">
+                    11.25%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                9 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Indian Economy (Development context)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:7.5%">
+                    7.5%
+                </div>
+            </div>
+
+            <div class="bar-marks">
+                6 marks
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            <cite index="12-1">Statistical Tools carries the highest marks within statistics at 25 marks, making it the most critical chapter for preparation.</cite>
+        </p>
+
+    </div>
+
+</section>
+<section id="statistics-four-numerical-types">
+
+    <h2>
+        Statistics for Economics: 40 Marks of Calculation — The Four Numerical Types That Repeat
+    </h2>
+
+    <p>
+        Statistics is the most calculation-intensive part of Class 11 Economics. The questions are not conceptually difficult — they are procedurally demanding. Students who practise each calculation type systematically (correct formula → correct substitution → correct arithmetic → correct answer with units) score consistently. Students who understand the concept but have not practised the calculation under time pressure make arithmetic errors or skip steps.
+    </p>
+
+    <p>
+        <cite index="15-1">Statistical Tools and Interpretation is the highest weightage chapter in Statistics carrying 25 marks. Focus should be on measures of central tendency and dispersion which together form the bulk of numerical questions.</cite>
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Statistical Type 1 — most marks
+            </div>
+
+            <h3>
+                Measures of Central Tendency
+            </h3>
+
+            <p>
+                Mean (Direct, Assumed Mean, Step Deviation methods), Median (locating median class, applying formula), Mode (identifying modal class, applying formula). Board papers give a frequency distribution table and ask for one or all three measures. Know which method to apply when: Direct when values are small; Assumed Mean when values are large; Step Deviation when class intervals are equal and large values.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Statistical Type 2 — second highest
+            </div>
+
+            <h3>
+                Measures of Dispersion
+            </h3>
+
+            <p>
+                Range (Max − Min), Quartile Deviation (Q3−Q1)/2, Mean Deviation from Mean and Median, Standard Deviation (σ) and Variance (σ²). CBSE boards most frequently test Standard Deviation — either direct method (σ = √[Σf(x−x̄)²/N]) or step deviation method. Know: Coefficient of Variation = (σ/x̄) × 100. "Which city has more consistent rainfall?" → Compare CV values, lower CV = more consistent.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Statistical Type 3
+            </div>
+
+            <h3>
+                Correlation
+            </h3>
+
+            <p>
+                Karl Pearson's coefficient (r) and Spearman's Rank Correlation (rₛ). Pearson's r = Σdxdy / √(Σdx² × Σdy²) where dx = x−x̄ and dy = y−ȳ. Spearman's rₛ = 1 − (6ΣD²)/(N(N²−1)) where D = difference in ranks. Value of r or rₛ: +1 perfect positive, −1 perfect negative, 0 no correlation. Board questions give data and ask to calculate r or rₛ and interpret the result.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Statistical Type 4
+            </div>
+
+            <h3>
+                Index Numbers
+            </h3>
+
+            <p>
+                Simple Aggregative Method: P₀₁ = (ΣP₁/ΣP₀) × 100. Weighted Index (Laspeyre's, Paasche's, Fisher's): know all three formulas and which is called "ideal" (Fisher's = geometric mean of Laspeyre's and Paasche's). Consumer Price Index (CPI) application. Board question type: "Calculate Fisher's Price Index from the following data." Know each formula by name.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>The data presentation question that most students skip:</strong>
+        Organisation and Presentation of Data (frequency distribution tables, histograms, frequency polygons, ogives) carries approximately 8 marks. Students often skip this section because it seems "easy" — then lose 8 marks in the exam because they haven't practised drawing ogives or reading histograms accurately. Practise drawing a less than ogive and a more than ogive from a frequency table. Know how to read the median from their intersection.
+    </div>
+
+</section>
+<section id="microeconomics-answer-framework">
+
+    <h2>
+        Microeconomics: 40 Marks of Diagrams and Definitions — The Framework That Makes Every Question Answerable
+    </h2>
+
+    <p>
+        Microeconomics tests three things in every long-answer question: the definition (in NCERT language), the diagram (with correct labels and equilibrium), and the explanation of the mechanism. Students who consistently provide all three score maximum marks. Students who provide two out of three lose 1–2 marks per question — across a 40-mark section, this adds up to 8–10 marks lost from answers that are otherwise correct.
+    </p>
+
+    <div class="editorial-insight">
+
+        <p>
+            <strong>
+                Consumer's Equilibrium (14 marks) — the highest chapter in Microeconomics:
+            </strong>
+        </p>
+
+        <p>
+            CBSE tests two approaches to consumer equilibrium: the Utility Analysis approach and the Indifference Curve approach. Both must be prepared.
+        </p>
+
+    </div>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Consumer Equilibrium — Approach 1
+            </div>
+
+            <h3>
+                Utility Analysis
+            </h3>
+
+            <p>
+                Consumer maximises utility by spending income such that the ratio of Marginal Utility to Price is equal for all goods: MU_x/P_x = MU_y/P_y = MU of money (= 1 when MU is measured in monetary terms). The Law of Diminishing Marginal Utility states that as consumption increases, additional utility from each extra unit falls. Board questions give a MU schedule and ask to identify the equilibrium quantity at a given price.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Consumer Equilibrium — Approach 2
+            </div>
+
+            <h3>
+                Indifference Curve Analysis
+            </h3>
+
+            <p>
+                Consumer equilibrium is at the point where the Budget Line is tangent to the highest attainable Indifference Curve. At this point: MRS (slope of IC = −ΔY/ΔX) = Price Ratio (P_x/P_y = slope of Budget Line). The IC is convex to origin (due to diminishing MRS). The Budget Line is a straight downward-sloping line. Effect of income change → parallel shift of Budget Line. Effect of price change → rotation of Budget Line around one intercept.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Demand
+            </div>
+
+            <h3>
+                Law of Demand and Elasticity
+            </h3>
+
+            <p>
+                The demand curve is downward sloping because of the substitution effect and income effect. Distinguish clearly between movement along the demand curve (only price of the good changes → change in quantity demanded) and shift of the demand curve (other factors change → change in demand). Price Elasticity of Demand (PED) = % change in quantity demanded / % change in price. Know the five types: perfectly elastic (horizontal curve, PED = ∞), perfectly inelastic (vertical curve, PED = 0), unitary elastic (rectangular hyperbola, PED = 1), relatively elastic (PED &gt; 1), relatively inelastic (PED &lt; 1).
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Producer Behaviour
+            </div>
+
+            <h3>
+                Production and Costs
+            </h3>
+
+            <p>
+                Total Product (TP), Average Product (AP = TP/L), Marginal Product (MP = ΔTP/ΔL). The relationship: AP increases when MP &gt; AP; AP is maximum when MP = AP; AP decreases when MP &lt; AP. Law of Variable Proportions — three stages: increasing returns (MP rising), diminishing returns (MP falling but positive), negative returns (MP negative). For costs: TC = TFC + TVC. AC = TC/Q. MC = ΔTC/ΔQ. The MC curve cuts the AC and AVC curves at their minimum points.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="must-draw-microeconomics-diagrams">
+
+    <h2>
+        6 Must-Draw Microeconomics Diagrams — With Correct Axis Labels
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Consumer Theory
+            </div>
+
+            <h3>
+                Indifference Curve &amp; Budget Line
+            </h3>
+
+            <p>
+                Y-axis: Good Y. X-axis: Good X. IC = convex curves (higher IC = higher utility). Budget Line = straight downward-sloping. Equilibrium E = tangency point. Label MRS = P_x/P_y at E.
+            </p>
+
+            <span class="freq-tag">
+                Every year
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Demand
+            </div>
+
+            <h3>
+                Demand Curve — Movement vs Shift
+            </h3>
+
+            <p>
+                Y-axis: Price (P). X-axis: Quantity (Q). Downward sloping D curve. Movement along = points A and B on same curve. Shift = D curve moves to D₁ (right = increase) or D₂ (left = decrease).
+            </p>
+
+            <span class="freq-tag">
+                Every year
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Market
+            </div>
+
+            <h3>
+                Market Equilibrium
+            </h3>
+
+            <p>
+                Y-axis: Price (P). X-axis: Quantity (Q). D downward sloping + S upward sloping. Equilibrium E at intersection. Mark P* (equilibrium price) and Q* (equilibrium quantity).
+            </p>
+
+            <span class="freq-tag">
+                Every year
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Production
+            </div>
+
+            <h3>
+                TP, AP and MP Curves
+            </h3>
+
+            <p>
+                Y-axis: Output. X-axis: Labour (L). TP = hill-shaped (rises, then falls). AP = inverted-U. MP = inverted-U, starts above AP, falls faster. MP intersects AP at AP's maximum. MP = 0 when TP is maximum.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Costs
+            </div>
+
+            <h3>
+                AC, AVC and MC Curves
+            </h3>
+
+            <p>
+                Y-axis: Cost (₹). X-axis: Output (Q). All three are U-shaped. MC lies below AC and AVC when they are falling; above when they are rising. MC intersects AC and AVC at their minimum points.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="dg-unit">
+                Market Forms
+            </div>
+
+            <h3>
+                Perfect Competition — Firm Equilibrium
+            </h3>
+
+            <p>
+                Y-axis: Price/Cost (₹). X-axis: Output (Q). Horizontal demand curve at P* (price taker). MC = upward sloping. Equilibrium where MC = MR = P*. Mark supernormal profit or normal profit area.
+            </p>
+
+            <span class="freq-tag">
+                High frequency
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="economics-performance-analysis">
+
+    <h2>
+        One Economics Score, Two Very Different Halves. Here's How to Know Which Is Failing You.
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Economics test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Microeconomics — demand curve shifts
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:84%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                84%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Statistics — index numbers (Fisher's)
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:70%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                70%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Microeconomics — IC equilibrium diagram
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:52%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                52%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Statistics — standard deviation (step deviation)
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:36%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                36%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Standard Deviation step deviation method (36%) — not Demand shifts (84%). Genelis builds this map automatically.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across both halves of Class 11 Economics — distinguishing Statistics calculation errors from Microeconomics diagram errors and definition gaps. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and directed for reattempt at the right time.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Economics session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Chapter-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-economics&utm_content=cta-inline">
+        Start your personalised Class 11 Economics study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-economics-reference-sheet" class="gdl-formula-section">
+
+    <h2>
+        Complete Class 11 Economics Formula &amp; Key Terms Reference Sheet
+    </h2>
+
+    <div id="statistics-economics-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                S
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Statistics for Economics — Key Formulas
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                40 marks · Calculation-based
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Measures of Central Tendency
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mean — Direct Method
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x̄ = Σx/N (ungrouped) &nbsp;·&nbsp; x̄ = Σfx/Σf (grouped data)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mean — Assumed Mean
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x̄ = A + Σfd/N &nbsp; where d = x − A (deviation from assumed mean A)
+
+                            <span class="gdl-formula-note">
+                                Choose A = middle value or a convenient value. Works for both grouped and ungrouped data.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mean — Step Deviation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x̄ = A + (Σfu/N) × h &nbsp; where u = (x−A)/h, h = class width
+
+                            <span class="gdl-formula-note">
+                                Most efficient for grouped data with equal class intervals.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Median (grouped data)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Median = L + [(N/2 − cf) / f] × h
+
+                            <span class="gdl-formula-note">
+                                L = lower boundary of median class · cf = cumulative frequency before median class · f = frequency of median class · h = class width · N = Σf. Find median class where cumulative frequency first exceeds N/2.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mode (grouped data)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Mode = L + [(f₁−f₀) / (2f₁−f₀−f₂)] × h
+
+                            <span class="gdl-formula-note">
+                                L = lower boundary of modal class · f₁ = highest frequency · f₀ = preceding class frequency · f₂ = succeeding class frequency.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Relationship
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Mode = 3 Median − 2 Mean (approximate empirical relationship)
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+                        <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Measures of Dispersion
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Range
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Range = Largest Value − Smallest Value
+                            &nbsp;·&nbsp;
+                            Coefficient of Range = (L−S)/(L+S)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Quartile Deviation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            QD = (Q3 − Q1)/2
+                            &nbsp;·&nbsp;
+                            Coefficient of QD = (Q3−Q1)/(Q3+Q1)
+
+                            <span class="gdl-formula-note">
+                                Q1 = N/4 th value; Q3 = 3N/4 th value. Apply median formula to find Q1 and Q3 for grouped data.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mean Deviation from Mean
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MD(x̄) = Σ|x − x̄| / N (ungrouped)
+                            &nbsp;·&nbsp;
+                            MD(x̄) = Σf|x − x̄| / N (grouped)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Standard Deviation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            σ = √[Σ(x − x̄)² / N] (direct)
+                            &nbsp;·&nbsp;
+                            σ = √[Σfd² / N] (assumed mean)
+                            &nbsp;·&nbsp;
+                            σ = (h) × √[Σfu² / N − (Σfu/N)²] (step deviation)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Coefficient of Variation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            CV = (σ / x̄) × 100
+
+                            <span class="gdl-formula-note">
+                                Lower CV = more consistent/uniform data. CBSE question: "Which city has more consistent rainfall?" Compare CV values.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Correlation &amp; Index Numbers
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Karl Pearson's r
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            r = Σdxdy / √(Σdx² × Σdy²)
+                            &nbsp; where dx = x−x̄ and dy = y−ȳ
+
+                            <span class="gdl-formula-note">
+                                r ranges from −1 to +1. +1 = perfect positive, −1 = perfect negative, 0 = no correlation.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Spearman's Rank Correlation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            rₛ = 1 − [6ΣD² / N(N²−1)]
+                            &nbsp; where D = R₁ − R₂ (difference in ranks)
+
+                            <span class="gdl-formula-note">
+                                For tied ranks: average the tied ranks and use a correction factor. rₛ also ranges from −1 to +1.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Laspeyre's Price Index
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P₀₁ = (ΣP₁Q₀ / ΣP₀Q₀) × 100
+                            &nbsp; (uses base year quantities as weights)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Paasche's Price Index
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P₀₁ = (ΣP₁Q₁ / ΣP₀Q₁) × 100
+                            &nbsp; (uses current year quantities as weights)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Fisher's Ideal Index
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P₀₁ = √(Laspeyre's × Paasche's)
+                            = √[(ΣP₁Q₀/ΣP₀Q₀) × (ΣP₁Q₁/ΣP₀Q₁)] × 100
+
+                            <span class="gdl-formula-note">
+                                Called "ideal" because it is the geometric mean of Laspeyre's and Paasche's — satisfies time reversal and factor reversal tests.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="microeconomics-reference" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                M
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Microeconomics — Key Terms &amp; Formulas
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                40 marks · Diagram + definition
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Consumer Theory
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Marginal Utility
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MU = TU_n − TU_(n-1) = Change in Total Utility / Change in Quantity. Law of Diminishing Marginal Utility: as consumption increases, MU falls. Consumer equilibrium (Utility Analysis): MU_x/P_x = MU_y/P_y.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Marginal Rate of Substitution
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MRS = −ΔY/ΔX = units of Good Y given up for one extra unit of Good X while maintaining same utility. MRS diminishes along a convex IC (due to diminishing marginal utility). At equilibrium: MRS = P_x/P_y.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Budget Line
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P_x · X + P_y · Y = M (where M = income). Slope = −P_x/P_y. X-intercept = M/P_x; Y-intercept = M/P_y. Income change → parallel shift. Price change → rotation.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Demand &amp; Elasticity
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Price Elasticity of Demand
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            PED = (% change in Qty Demanded) / (% change in Price) = (ΔQ/Q) / (ΔP/P) = (ΔQ/ΔP) × (P/Q)
+
+                            <span class="gdl-formula-note">
+                                PED is always negative (inverse relationship) — usually expressed as absolute value. PED = 1 along a rectangular hyperbola; PED &gt; 1 for luxury goods; PED &lt; 1 for necessities.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Income Elasticity of Demand
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            YED = % change in Qty Demanded / % change in Income. Positive for normal goods, negative for inferior goods (demand falls as income rises). YED &gt; 1 for luxury goods.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Production &amp; Costs
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Marginal Product
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MP = ΔTP / ΔL. AP = TP / L. Relationship: MP &gt; AP → AP rising. MP = AP → AP at maximum. MP &lt; AP → AP falling. MP = 0 → TP at maximum. MP &lt; 0 → TP falling.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Cost relationships
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            TC = TFC + TVC &nbsp;·&nbsp; AC = TC/Q = AFC + AVC &nbsp;·&nbsp; MC = ΔTC/ΔQ = ΔTVC/ΔQ
+
+                            <span class="gdl-formula-note">
+                                MC cuts AC and AVC at their minimum. TFC is constant; AFC falls continuously. TVC increases at decreasing rate then increasing rate → AVC and MC are U-shaped.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Revenue concepts
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            TR = P × Q &nbsp;·&nbsp; AR = TR/Q = P &nbsp;·&nbsp; MR = ΔTR/ΔQ
+
+                            <span class="gdl-formula-note">
+                                Under perfect competition: AR = MR = P (horizontal demand curve). Under monopoly: MR &lt; AR (MR curve lies below AR/demand curve).
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Producer equilibrium
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Profit is maximised when MR = MC and MC is rising. Under perfect competition: P = MR = MC at equilibrium. Firm is price taker — cannot influence market price.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong> For Statistics formulas — reproduce from memory then solve one complete numerical per formula type weekly. For Microeconomics — cover the definition and state it from memory, then draw the relevant diagram from memory with correct labels. The goal: every Statistics formula recalled and applied correctly in under 5 minutes. Every Microeconomics diagram drawn from memory with all labels in under 3 minutes.
+    </div>
+
+</section>
+
+    """
+},
 
 ]
 
