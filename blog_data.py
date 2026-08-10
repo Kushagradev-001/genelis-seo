@@ -27286,6 +27286,7325 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
     ]
 },
 {
+    "slug": "class-11-maths-limits-trigonometry-coordinate-geometry-cbse",
+
+    "title": (
+        "Class 11 Maths 2025–26: Algebra, Trigonometry, Limits & "
+        "Coordinate Geometry — Chapter Weightage, Strategy & "
+        "Complete Formula Sheet"
+    ),
+
+    "meta_title": (
+        "Class 11 Maths: Algebra, Trigonometry, Limits & Coordinate "
+        "Geometry — Chapter Weightage, Strategy & Formula Sheet "
+        "2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "Algebra is 31% of the paper. Sets & Functions is 29%. "
+        "Together they're 60% of Class 11 Maths. This complete guide "
+        "covers unit-wise marks, the five preparation modes, "
+        "trigonometry identity mastery, limits as the Class 12 gateway, "
+        "coordinate geometry shortcuts, and a complete formula sheet "
+        "for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "Algebra is 31% of the paper. Sets & Functions is 29%. "
+        "Together they're 60% of Class 11 Maths. Explore unit-wise "
+        "marks, preparation modes, trigonometry identity mastery, "
+        "limits, coordinate geometry shortcuts, and the complete "
+        "formula sheet."
+    ),
+
+    "class": "11",
+
+    "subject": "Mathematics",
+
+    "category": "Science & Mathematics",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-16T09:00:00+05:30",
+
+    "updated_date": "2026-07-16T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 11 Maths guide covering Algebra, Trigonometry, "
+        "Limits and Coordinate Geometry with chapter weightage and "
+        "formula sheet"
+    ),
+
+    "keywords": [
+        "class 11 maths important chapters CBSE",
+        "class 11 maths formula sheet",
+        "trigonometry class 11 formulas",
+        "limits class 11 maths",
+        "coordinate geometry class 11",
+        "class 11 maths chapter weightage 2025-26",
+        "algebra class 11 CBSE",
+        "class 11 maths study plan",
+        "AI notes class 11 maths",
+        "sets and functions class 11"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Class 11 Maths is the subject where students split into two groups in the very first month — and rarely cross back. The first group treats it as a continuation of Class 10 Maths: practise enough problems, cover the syllabus, score reasonably. The second group understands that Class 11 Maths is the foundation for Class 12 Calculus (35 marks), Vectors and 3D (14 marks), and Probability (8 marks) — and prepares it accordingly. The difference in approach produces dramatically different outcomes both in the annual exam and in boards a year later.
+    </p>
+
+    <p>
+        <cite index="4-1">Sets and Functions and Algebra, which together account for nearly 60% of the theory marks.</cite> These two units — 48 out of 80 marks — should dominate your preparation calendar. The formula sheet at the end of this guide covers all five units with every formula that matters. Use the strategy sections to understand why each unit is structured the way it is — and what studying it correctly looks like.
+    </p>
+
+</section>
+<section id="class-11-maths-unit-weightage">
+
+    <h2>
+        Algebra Is 31% of the Paper. Sets &amp; Functions Is 29%. Here's the Complete Unit Map.
+    </h2>
+
+    <p>
+        <cite index="11-1">The CBSE Class 11 Maths marks distribution for 2025–26: Sets and Functions — 23 marks, Algebra — 25 marks, Coordinate Geometry — 12 marks, Calculus — 8 marks, Statistics and Probability — 12 marks. Total theory: 80 marks. Internal Assessment: 20 marks.</cite>
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Maths — unit-wise marks distribution (theory, 80 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Algebra</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:31.25%;background:#2a78d6">
+                    <strong>31.25% — highest unit</strong>
+                </div>
+            </div>
+
+            <div class="bar-val" style="color:#2a78d6">
+                <strong>25 marks ★</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                <strong>Sets &amp; Functions</strong>
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:28.75%;background:#1baf7a">
+                    28.75%
+                </div>
+            </div>
+
+            <div class="bar-val" style="color:#1baf7a">
+                <strong>23 marks</strong>
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Coordinate Geometry
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%;background:#eda100">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-val" style="color:#eda100">
+                12 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Statistics &amp; Probability
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:15%;background:#8b6fcb">
+                    15%
+                </div>
+            </div>
+
+            <div class="bar-val" style="color:#8b6fcb">
+                12 marks
+            </div>
+
+        </div>
+
+        <div class="bar-row">
+
+            <div class="bar-label">
+                Calculus (Limits &amp; Derivatives)
+            </div>
+
+            <div class="bar-track">
+                <div class="bar-fill" style="width:10%;background:#e04848">
+                    10%
+                </div>
+            </div>
+
+            <div class="bar-val" style="color:#e04848">
+                8 marks
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            <cite index="7-1">Algebra carries the highest weightage at 31%, making it a priority area.</cite>
+            Source: CBSE official 2025–26 syllabus. Theory paper: 80 marks + Internal Assessment: 20 marks = 100 marks total.
+        </p>
+
+    </div>
+
+<div class="two-split">
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Unit I
+        </div>
+
+        <h3>
+            Sets &amp; Functions
+        </h3>
+
+        <p>
+            23 marks
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Unit II
+        </div>
+
+        <h3>
+            Algebra
+        </h3>
+
+        <p>
+            25 marks
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Unit III
+        </div>
+
+        <h3>
+            Coordinate Geometry
+        </h3>
+
+        <p>
+            12 marks
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Unit IV
+        </div>
+
+        <h3>
+            Calculus
+        </h3>
+
+        <p>
+            8 marks
+        </p>
+
+    </div>
+
+</div>
+
+<div class="gdl-card gdl-card--stacked">
+
+    <div class="s-label">
+        Unit V
+    </div>
+
+    <h3>
+        Statistics &amp; Probability
+    </h3>
+
+    <p>
+        12 marks
+    </p>
+
+</div>
+<section id="five-units-five-skills">
+
+    <h2>
+        Five Units, Five Different Skills. Here's What Each One Actually Demands.
+    </h2>
+
+    <p>
+        Class 11 Maths is not one subject studied five ways — it is five subjects sharing a paper. Each unit requires a distinct preparation approach. Students who study all five units the same way systematically underperform in the units that don't reward their default method.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Sets &amp; Functions — 23 marks
+            </div>
+
+            <h3>
+                Conceptual understanding + identity derivation
+            </h3>
+
+            <p>
+                Sets, Relations and Functions require Venn diagram reasoning and precise definition of domain, codomain, and range — tested in MCQs and short answers. Trigonometric Functions requires identity mastery and derivation ability. The proof questions (prove that sin(A+B) = ...) are 3-mark questions that reward students who understand where identities come from — not just students who memorise them.
+            </p>
+
+            <span class="freq-tag">
+                Sets · Relations &amp; Functions · Trigonometry
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Algebra — 25 marks
+            </div>
+
+            <h3>
+                Formula application + pattern recognition
+            </h3>
+
+            <p>
+                Algebra is the most formula-dense unit in Class 11 Maths. Complex Numbers, Quadratic Equations, Permutations and Combinations (P&amp;C), Binomial Theorem, and Sequences and Series — each has its own formula set, and each formula has specific conditions for application. <cite index="7-1">Regular practice of at least 50 problems per chapter is essential.</cite> P&amp;C and Binomial Theorem especially reward pattern recognition over raw formula recall — the question types recur with predictable structure.
+            </p>
+
+            <span class="freq-tag">
+                Complex Numbers · Quadratic Eq · P&amp;C · Binomial · Sequences
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Coordinate Geometry — 12 marks
+            </div>
+
+            <h3>
+                Formula recall + diagram first
+            </h3>
+
+            <p>
+                Straight Lines and Conic Sections are entirely formula-driven — but the correct formula only becomes apparent once you've drawn the figure. Students who attempt Coordinate Geometry questions without sketching lose marks consistently, not because they don't know the formula but because they apply the wrong one. For every Coordinate Geometry problem: draw first, identify what's being asked, select formula, substitute. In that order, always.
+            </p>
+
+            <span class="freq-tag">
+                Straight Lines · Conic Sections
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Calculus (Limits &amp; Derivatives) — 8 marks
+            </div>
+
+            <h3>
+                Conceptual understanding + standard result application
+            </h3>
+
+            <p>
+                Class 11 Calculus is intentionally conceptual — it introduces what a limit is, what continuity means, and what a derivative represents geometrically. Students who understand limits as a concept (what happens to f(x) as x approaches a value) find derivative rules intuitive. Students who memorise standard limit results without the concept find Class 12 Continuity, L'Hôpital's rule, and Integrals conceptually opaque.
+            </p>
+
+            <span class="freq-tag">
+                Limits · Derivatives
+            </span>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Statistics &amp; Probability — 12 marks
+        </div>
+
+        <h3>
+            Formulaic precision + careful calculation
+        </h3>
+
+        <p>
+            Statistics (measures of dispersion — mean deviation, variance, standard deviation) and Probability (classical and axiomatic) are calculation-based. The formulas are straightforward; the marks are lost to calculation errors and to confusion between variance and standard deviation. Variance = SD² — this distinction alone decides 2 marks in most Statistics questions. Probability questions are precise set-up exercises: define the sample space correctly and the calculation follows automatically.
+        </p>
+
+        <span class="freq-tag">
+            Statistics · Probability
+        </span>
+
+    </div>
+
+</section>
+<section id="trigonometric-functions-framework">
+
+    <h2>
+        Trigonometric Functions: The Identity Mastery Framework That Makes Proof Questions Automatic
+    </h2>
+
+    <p>
+        Trigonometry is the most identity-heavy chapter in Class 11 Maths. Board questions fall into three types: prove an identity, find the value of a trigonometric expression at a given angle, or solve a trigonometric equation. All three reward students who understand where identities come from — not just students who have memorised a list of formulas.
+    </p>
+
+    <p>
+        The most important structural insight for Trigonometry preparation:
+        <strong>
+            everything derives from the Pythagorean identity sin²θ + cos²θ = 1.
+        </strong>
+        Divide by cos²θ → get 1 + tan²θ = sec²θ. Divide by sin²θ → get cot²θ + 1 = cosec²θ. All compound angle formulas derive from the formula for cos(A−B), which can be proven geometrically. All double angle formulas derive from the compound angle formulas by substituting B = A. All half angle formulas derive from double angle by substituting A = θ/2. This derivation chain means there are really only a handful of formulas to truly memorise — the rest follow.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Most tested question type 1
+            </div>
+
+            <h3>
+                Prove the identity
+            </h3>
+
+            <p>
+                A trigonometric identity is given. Prove LHS = RHS. Strategy: start from the more complex side. Convert everything to sin and cos if stuck. Use Pythagorean identities to simplify. Never cross-multiply between sides — work within one side only. Most identity proof questions in Class 11 can be solved using only the compound angle formulas and Pythagorean identities if you start from the right side.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Most tested question type 2
+            </div>
+
+            <h3>
+                Find the value at a given angle
+            </h3>
+
+            <p>
+                Find sin 75°, cos 15°, tan 105° etc. Decompose the angle: 75° = 45° + 30°. Apply the compound angle formula. Substitute standard values from the table. This is entirely procedural once the compound angle formulas are committed to memory. Practise decomposing any angle into sums and differences of standard angles (30°, 45°, 60°, 90°).
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Most tested question type 3
+            </div>
+
+            <h3>
+                Solve a trigonometric equation
+            </h3>
+
+            <p>
+                Find all solutions of 2sin²x − sinx − 1 = 0 or cos2x + cosx = 0 in [0, 2π]. Treat the trigonometric function as a variable (let t = sinx), factorise the algebraic expression, find t values, then find x from the general solution. The general solutions: sinx = k → x = nπ + (−1)ⁿ·sin⁻¹k; cosx = k → x = 2nπ ± cos⁻¹k; tanx = k → x = nπ + tan⁻¹k.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Non-negotiable skill
+            </div>
+
+            <h3>
+                Standard angle values — cold recall in 3 seconds
+            </h3>
+
+            <p>
+                All of sin, cos, tan at 0°, 30°, 45°, 60°, 90° must be recalled without hesitation. Every Trigonometry question — from compound angles to solving equations — requires these values at some step. A student who has to calculate them mid-problem loses 45–60 seconds per question in the exam. They must be automatic.
+            </p>
+
+        </div>
+
+    </div>
+
+    <table class="std-angle-table">
+
+        <thead>
+            <tr>
+                <th>Angle</th>
+                <th>0°</th>
+                <th>30°</th>
+                <th>45°</th>
+                <th>60°</th>
+                <th>90°</th>
+                <th>120°</th>
+                <th>135°</th>
+                <th>150°</th>
+                <th>180°</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td style="font-weight:600;text-align:left;padding-left:12px">
+                    sin
+                </td>
+                <td>0</td>
+                <td>1/2</td>
+                <td>1/√2</td>
+                <td>√3/2</td>
+                <td>1</td>
+                <td>√3/2</td>
+                <td>1/√2</td>
+                <td>1/2</td>
+                <td>0</td>
+            </tr>
+
+            <tr>
+                <td style="font-weight:600;text-align:left;padding-left:12px">
+                    cos
+                </td>
+                <td>1</td>
+                <td>√3/2</td>
+                <td>1/√2</td>
+                <td>1/2</td>
+                <td>0</td>
+                <td>-1/2</td>
+                <td>-1/√2</td>
+                <td>-√3/2</td>
+                <td>-1</td>
+            </tr>
+
+            <tr>
+                <td style="font-weight:600;text-align:left;padding-left:12px">
+                    tan
+                </td>
+                <td>0</td>
+                <td>1/√3</td>
+                <td>1</td>
+                <td>√3</td>
+                <td>∞</td>
+                <td>-√3</td>
+                <td>-1</td>
+                <td>-1/√3</td>
+                <td>0</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+<section id="algebra-preparation-strategy">
+
+    <h2>
+        Algebra: 25 Marks Across Six Chapters — The Volume Problem and How to Solve It
+    </h2>
+
+    <p>
+        Algebra is the highest-weightage unit in Class 11 Maths and also the most formula-dense. Six distinct chapters — Complex Numbers, Quadratic Equations, Linear Inequalities, Permutations and Combinations, Binomial Theorem, Sequences and Series — each with their own formula set and question pattern. The student who tries to prepare all six simultaneously in the last two months consistently runs out of time. The student who builds them progressively from July — one chapter, formula sheet, 50 problems, next chapter — arrives at the annual exam with all six fully functional.
+    </p>
+
+    <p>
+        <strong>
+            The high-priority chapters within Algebra, ranked by marks and frequency:
+        </strong>
+    </p>
+
+    <p>
+        <strong>
+            Sequences and Series
+        </strong>
+        carries the most marks within Algebra and has the most predictable question types. AP and GP formulas — nth term, sum of n terms, sum to infinity for GP — are tested directly. Arithmetic Mean and Geometric Mean, relationship between AM and GM (AM ≥ GM), and special series sums (Σn, Σn², Σn³) appear in nearly every paper.
+        <cite index="11-1">For best results, students should follow the NCERT textbook sequence, as board questions are framed directly from it.</cite>
+    </p>
+
+    <p>
+        <strong>
+            Permutations and Combinations
+        </strong>
+        is the chapter where most Class 11 students lose the most marks relative to their preparation time. P&amp;C questions require setting up the counting problem correctly before applying the formula. Students who apply nPr and nCr formulas without setting up the problem lose marks consistently — the setup is the skill, and it requires practising specific question types (circular permutations, selection with conditions, distribution problems) rather than just formula recall.
+    </p>
+
+    <p>
+        <strong>
+            Binomial Theorem
+        </strong>
+        has the most predictable board question type: find the general term T(r+1), find the middle term, find the term independent of x. All three reduce to T(r+1) = C(n,r)·xⁿ⁻ʳ·yʳ with specific conditions on r. Once this general term formula is internalised, all Binomial Theorem questions become substitution exercises.
+    </p>
+
+    <div class="warn-box">
+        ⚠️ <strong>The Permutations and Combinations trap:</strong>
+        The most common error is applying the combination formula when a permutation is needed (or vice versa) — because students don't ask the foundational question: does order matter? If yes → Permutation. If no → Combination. Ask this before writing any formula. Circular permutation of n objects = (n−1)! — the 1 is subtracted because rotations of the same arrangement are identical. This comes up directly in board papers as "in how many ways can n people sit around a round table."
+    </div>
+
+</section>
+<section id="limits-and-derivatives">
+
+    <h2>
+        Limits &amp; Derivatives: 8 Marks Now, 35 Marks in Class 12. The Chapter Worth Preparing Twice.
+    </h2>
+
+    <p>
+        Limits and Derivatives carries 8 marks in Class 11 — the smallest unit in the paper. Most students treat it as the smallest priority. This is the single most consequential preparation mistake in Class 11 Maths. Class 12 Calculus carries 35 marks (44% of the paper), and every chapter in it — Continuity and Differentiability, Applications of Derivatives, Integrals, Applications of Integrals, Differential Equations — begins where Class 11 Limits ends.
+    </p>
+
+    <p>
+        A student who genuinely understands what a limit is — the value a function approaches as x approaches a value, not necessarily the value at that point — finds Class 12 concepts of continuity (limit = function value), differentiability (limit of [f(x+h)−f(x)]/h exists), and integration (limit of a sum) immediately intuitive. A student who memorised standard limit results without the concept hits each of these Class 12 topics as an entirely new, unrelated idea.
+    </p>
+
+    <p>
+        For the annual exam, limit questions fall into two types: evaluate a limit using factorisation or standard results, and find the derivative of a function using first principles. The first principles derivative — f′(x) = lim(h→0) [f(x+h)−f(x)]/h — is a 3-mark derivation question that appears consistently. Practise it for at least five different functions: xⁿ, sinx, cosx, tan x, and a polynomial.
+    </p>
+
+</section>
+<section id="maths-performance-analysis">
+
+    <h2>
+        One Maths Score Across Five Very Different Units. Here's How to Know Which One Is Failing You.
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Maths test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Statistics — variance and SD
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:88%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                88%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Trigonometry — identity proofs
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:72%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                72%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Algebra — Permutations &amp; Combinations
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:48%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                48%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Calculus — limits using factorisation
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:33%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                33%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Limits (33%) and P&amp;C (48%) — not Statistics (88%). Every session directed by data. Genelis builds this map automatically.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all five Class 11 Maths units — distinguishing trigonometry identity errors from P&amp;C setup errors from limit evaluation errors. Every wrong answer is logged to your <strong>wrong-question notebook</strong>, tagged by chapter and error type. The next session is always directed at the lowest-accuracy area.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Maths session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Unit-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">
+                Result
+            </span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-maths&utm_content=cta-inline">
+        Start your personalised Class 11 Maths study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-maths-formula-sheet" class="gdl-formula-section">
+
+    <h2>
+        Complete Class 11 Maths Formula Sheet — All Five Units, Every Formula That Matters
+    </h2>
+
+    <p>
+        This is your comprehensive formula reference for CBSE Class 11 Maths 2025–26. Method: read each unit, cover the formulas, reproduce from memory, check what you missed, return to those only. Repeat weekly. <cite index="7-1">Regular practice of at least 50 problems per chapter is essential, especially for trigonometric identities and algebraic formulas.</cite>
+    </p>
+
+    <div id="sets-functions-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                S
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Sets &amp; Functions — Sets, Relations &amp; Functions, Trigonometric Functions
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                23 marks · Identity-heavy
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Sets
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Union formula
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            n(A∪B) = n(A) + n(B) − n(A∩B)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Three sets formula
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            n(A∪B∪C) = n(A) + n(B) + n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Complement laws
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            A ∪ A' = U &nbsp;·&nbsp;
+                            A ∩ A' = ∅ &nbsp;·&nbsp;
+                            (A')' = A &nbsp;·&nbsp;
+                            (A∪B)' = A'∩B' &nbsp;·&nbsp;
+                            (A∩B)' = A'∪B' (De Morgan's)
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Trigonometric Functions
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Pythagorean identities
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sin²θ + cos²θ = 1 &nbsp;·&nbsp;
+                            1 + tan²θ = sec²θ &nbsp;·&nbsp;
+                            1 + cot²θ = cosec²θ
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Compound angles
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sin(A±B) = sinA·cosB ± cosA·sinB
+                            <br>
+                            cos(A±B) = cosA·cosB ∓ sinA·sinB
+                            <br>
+                            tan(A±B) = (tanA ± tanB) / (1 ∓ tanA·tanB)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Double angle formulas
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sin2A = 2sinA·cosA &nbsp;·&nbsp;
+                            cos2A = cos²A − sin²A = 1−2sin²A = 2cos²A−1
+                            <br>
+                            tan2A = 2tanA / (1−tan²A)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Half angle formulas
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sin²(A/2) = (1−cosA)/2 &nbsp;·&nbsp;
+                            cos²(A/2) = (1+cosA)/2 &nbsp;·&nbsp;
+                            tan²(A/2) = (1−cosA)/(1+cosA)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Product-to-sum
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            2sinA·cosB = sin(A+B) + sin(A−B)
+                            <br>
+                            2cosA·cosB = cos(A−B) + cos(A+B)
+                            <br>
+                            2sinA·sinB = cos(A−B) − cos(A+B)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Sum-to-product
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sinC + sinD = 2sin[(C+D)/2]·cos[(C−D)/2]
+                            <br>
+                            cosC + cosD = 2cos[(C+D)/2]·cos[(C−D)/2]
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            General solutions
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sinx = k → x = nπ + (−1)ⁿ·sin⁻¹k
+                            <br>
+                            cosx = k → x = 2nπ ± cos⁻¹k
+                            &nbsp;·&nbsp;
+                            tanx = k → x = nπ + tan⁻¹k
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="algebra-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                A
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Algebra — Complex Numbers, Quadratic Equations, P&amp;C, Binomial Theorem, Sequences &amp; Series
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                25 marks ★ Highest unit
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Complex Numbers
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Modulus
+                        </div>
+                        <div class="gdl-formula-expression">
+                            |z| = √(a² + b²) &nbsp; for z = a + ib
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Conjugate
+                        </div>
+                        <div class="gdl-formula-expression">
+                            z̄ = a − ib &nbsp;·&nbsp; z·z̄ = |z|² &nbsp;·&nbsp; (z₁+z₂)̄ = z̄₁ + z̄₂
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Polar form
+                        </div>
+                        <div class="gdl-formula-expression">
+                            z = r(cosθ + i·sinθ) &nbsp; where r = |z|, θ = arg(z) = tan⁻¹(b/a)
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Powers of i
+                        </div>
+                        <div class="gdl-formula-expression">
+                            i¹ = i &nbsp;·&nbsp; i² = −1 &nbsp;·&nbsp; i³ = −i &nbsp;·&nbsp; i⁴ = 1 &nbsp; (cycle of 4)
+
+                            <span class="gdl-formula-note">
+                                iⁿ: find remainder when n is divided by 4 → use the cycle above.
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Quadratic Equations
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Quadratic formula
+                        </div>
+                        <div class="gdl-formula-expression">
+                            x = [−b ± √(b²−4ac)] / 2a &nbsp; for ax² + bx + c = 0
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Sum &amp; product of roots
+                        </div>
+                        <div class="gdl-formula-expression">
+                            α + β = −b/a &nbsp;·&nbsp; αβ = c/a
+
+                            <span class="gdl-formula-note">
+                                For complex roots: if a, b, c are real, complex roots occur in conjugate pairs (α and ᾱ).
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Permutations &amp; Combinations
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Factorial
+                        </div>
+                        <div class="gdl-formula-expression">
+                            n! = n × (n−1) × (n−2) × ... × 1 &nbsp;·&nbsp; 0! = 1
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Permutations
+                        </div>
+                        <div class="gdl-formula-expression">
+                            ⁿPᵣ = n! / (n−r)!
+
+                            <span class="gdl-formula-note">
+                                Order matters. Circular permutation of n distinct objects = (n−1)!. If clockwise = anticlockwise: (n−1)!/2.
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Combinations
+                        </div>
+                        <div class="gdl-formula-expression">
+                            ⁿCᵣ = n! / [r!(n−r)!] &nbsp;·&nbsp; ⁿCᵣ = ⁿCₙ₋ᵣ &nbsp;·&nbsp; ⁿC₀ = ⁿCₙ = 1
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Binomial Theorem
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Binomial expansion
+                        </div>
+                        <div class="gdl-formula-expression">
+                            (x+y)ⁿ = Σ ⁿCᵣ · x^(n−r) · yʳ &nbsp; (r = 0 to n)
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            General term
+                        </div>
+                        <div class="gdl-formula-expression">
+                            T(r+1) = ⁿCᵣ · x^(n−r) · yʳ
+
+                            <span class="gdl-formula-note">
+                                To find term independent of x: set the power of x to 0, solve for r. Middle term: T[(n/2)+1] if n is even.
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Sequences &amp; Series
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            AP — nth term
+                        </div>
+                        <div class="gdl-formula-expression">
+                            aₙ = a + (n−1)d
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            AP — sum of n terms
+                        </div>
+                        <div class="gdl-formula-expression">
+                            Sₙ = n/2 × [2a + (n−1)d] = n/2 × (a + l)
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            GP — nth term
+                        </div>
+                        <div class="gdl-formula-expression">
+                            aₙ = arⁿ⁻¹
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            GP — sum of n terms
+                        </div>
+                        <div class="gdl-formula-expression">
+                            Sₙ = a(rⁿ−1)/(r−1) for r≠1 &nbsp;·&nbsp; S∞ = a/(1−r) for |r|&lt;1
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            AM and GM
+                        </div>
+                        <div class="gdl-formula-expression">
+                            AM = (a+b)/2 &nbsp;·&nbsp; GM = √(ab) &nbsp;·&nbsp; AM ≥ GM (equality when a = b)
+                        </div>
+                    </div>
+
+                    <div class="gdl-formula-row">
+                        <div class="gdl-formula-name">
+                            Special sums
+                        </div>
+                        <div class="gdl-formula-expression">
+                            Σn = n(n+1)/2 &nbsp;·&nbsp; Σn² = n(n+1)(2n+1)/6 &nbsp;·&nbsp; Σn³ = [n(n+1)/2]²
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="coordinate-geometry-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                C
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Coordinate Geometry — Straight Lines &amp; Conic Sections
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                12 marks · Draw first, formula second
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Straight Lines
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Slope
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            m = tanθ = (y₂−y₁)/(x₂−x₁)
+
+                            <span class="gdl-formula-note">
+                                Parallel lines: m₁ = m₂. Perpendicular lines: m₁ × m₂ = −1.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Equation forms
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Slope-intercept: y = mx + c
+                            &nbsp;·&nbsp;
+                            Point-slope: y−y₁ = m(x−x₁)
+
+                            <br>
+
+                            Two-point:
+                            (y−y₁)/(y₂−y₁) = (x−x₁)/(x₂−x₁)
+                            &nbsp;·&nbsp;
+                            Intercept: x/a + y/b = 1
+
+                            <br>
+
+                            Normal:
+                            x·cosα + y·sinα = p
+                            (p = perpendicular distance from origin)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Distance — point to line
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            d = |ax₁ + by₁ + c| / √(a²+b²)
+                            &nbsp; for line ax + by + c = 0
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Distance between parallel lines
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            d = |c₁−c₂| / √(a²+b²)
+                            &nbsp; for ax + by + c₁ = 0 and
+                            ax + by + c₂ = 0
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Conic Sections
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Circle
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            (x−h)² + (y−k)² = r²
+                            &nbsp; Centre (h,k), radius r
+
+                            <span class="gdl-formula-note">
+                                General form: x² + y² + 2gx + 2fy + c = 0.
+                                Centre (−g,−f), radius = √(g²+f²−c).
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Parabola
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            y² = 4ax (opens right)
+                            &nbsp;·&nbsp;
+                            y² = −4ax (opens left)
+
+                            <span class="gdl-formula-note">
+                                Focus: (a,0) for y²=4ax. Directrix: x = −a.
+                                Axis: x-axis. Vertex: (0,0).
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ellipse
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x²/a² + y²/b² = 1 (a &gt; b)
+                            &nbsp;·&nbsp;
+                            c² = a²−b²
+                            &nbsp;·&nbsp;
+                            e = c/a &lt; 1
+
+                            <span class="gdl-formula-note">
+                                Foci: (±c, 0). Length of major axis: 2a.
+                                Length of minor axis: 2b.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Hyperbola
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x²/a² − y²/b² = 1
+                            &nbsp;·&nbsp;
+                            c² = a²+b²
+                            &nbsp;·&nbsp;
+                            e = c/a &gt; 1
+
+                            <span class="gdl-formula-note">
+                                Asymptotes: y = ±(b/a)x. Foci: (±c, 0).
+                                Transverse axis: 2a.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="calculus-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                L
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Calculus — Limits &amp; Derivatives
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                8 marks · Gateway to Class 12 Calculus (35 marks)
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Limits — Standard Results
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Polynomial limit
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            lim(x→a) f(x) = f(a) if f is a polynomial (direct substitution)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            0/0 form — factorise
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            lim(x→a) (xⁿ−aⁿ)/(x−a) = n·aⁿ⁻¹
+
+                            <span class="gdl-formula-note">
+                                For 0/0 forms: factorise numerator and denominator, cancel the common (x−a) factor, then substitute.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Trigonometric limits
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            lim(x→0) sinx/x = 1
+                            &nbsp;·&nbsp;
+                            lim(x→0) tanx/x = 1
+                            &nbsp;·&nbsp;
+                            lim(x→0) (1−cosx)/x = 0
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Exponential limits
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            lim(x→0) (eˣ−1)/x = 1
+                            &nbsp;·&nbsp;
+                            lim(x→0) (aˣ−1)/x = ln a
+                            &nbsp;·&nbsp;
+                            lim(x→0) ln(1+x)/x = 1
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Derivatives
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            First principles
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            f′(x) = lim(h→0) [f(x+h) − f(x)] / h
+
+                            <span class="gdl-formula-note">
+                                This is the definition of derivative — appears as a 3-mark derivation question. Practise for xⁿ, sinx, cosx.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Standard derivatives
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            d(xⁿ)/dx = nxⁿ⁻¹
+                            &nbsp;·&nbsp;
+                            d(sinx)/dx = cosx
+                            &nbsp;·&nbsp;
+                            d(cosx)/dx = −sinx
+
+                            <br>
+
+                            d(tanx)/dx = sec²x
+                            &nbsp;·&nbsp;
+                            d(eˣ)/dx = eˣ
+                            &nbsp;·&nbsp;
+                            d(ln x)/dx = 1/x
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Product rule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            d(uv)/dx = u·dv/dx + v·du/dx
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Quotient rule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            d(u/v)/dx = [v·du/dx − u·dv/dx] / v²
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="statistics-probability-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                P
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Statistics &amp; Probability
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                12 marks · Formulaic + careful calculation
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Statistics — Measures of Dispersion
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mean deviation (mean)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            MD(x̄) = Σ|xᵢ − x̄| / n
+                            &nbsp; (ungrouped)
+                            &nbsp;·&nbsp;
+                            MD(x̄) = Σfᵢ|xᵢ − x̄| / Σfᵢ
+                            &nbsp; (grouped)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Variance
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            σ² = Σ(xᵢ − x̄)² / n = Σxᵢ²/n − (x̄)²
+
+                            <span class="gdl-formula-note">
+                                The second form (using Σxᵢ²) is computationally faster for board questions.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Standard deviation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            σ = √(variance) = √(σ²)
+
+                            <span class="gdl-formula-note">
+                                σ is always non-negative. Variance = σ² — this direction (not the reverse) is how CBSE questions are framed.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Coefficient of variation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            CV = (σ / x̄) × 100
+
+                            <span class="gdl-formula-note">
+                                Used to compare variability of two distributions. Lower CV → more consistent data.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Probability
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Classical probability
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P(E) = n(E) / n(S)
+                            &nbsp; where S is the sample space
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Complement rule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P(E') = 1 − P(E)
+                            &nbsp;·&nbsp;
+                            P(E) + P(E') = 1
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Addition theorem
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P(A∪B) = P(A) + P(B) − P(A∩B)
+
+                            <span class="gdl-formula-note">
+                                For mutually exclusive events: P(A∩B) = 0 → P(A∪B) = P(A) + P(B).
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this formula sheet:</strong>
+        For each unit, cover the formula column and reproduce from memory on blank paper. For Trigonometry specifically: reproduce the compound angle formulas daily for two weeks until they're automatic. For Algebra: verify each formula by solving one worked example. For Calculus: practise first principles for five different functions before relying on standard results. The goal is 10-second recall for every formula by December.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 11 Maths "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Algebra carries the highest unit weightage at 25 marks "
+                "out of 80 theory marks (31%), covering Complex Numbers, "
+                "Quadratic Equations, Linear Inequalities, Permutations "
+                "and Combinations, Binomial Theorem, and Sequences and "
+                "Series. Sets and Functions follows at 23 marks (29%), "
+                "covering Sets, Relations and Functions, and "
+                "Trigonometric Functions. Together, these two units "
+                "account for 48 out of 80 marks — 60% of the entire "
+                "theory paper."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare Trigonometry for Class 11 Maths CBSE?"
+            ),
+            "answer": (
+                "Trigonometry in Class 11 is part of the Sets and "
+                "Functions unit (23 marks total) and requires identity "
+                "mastery above all else. Start with the fundamental "
+                "identity sin²θ + cos²θ = 1 and derive all other "
+                "identities from it. Learn compound angle formulas "
+                "(sin(A+B), cos(A+B), tan(A+B)), then double and half "
+                "angle formulas derived from them. Product-to-sum and "
+                "sum-to-product formulas come next. Practise proof "
+                "questions by starting from the more complex side and "
+                "working toward the simpler side. All standard angle "
+                "values (0°, 30°, 45°, 60°, 90°) must be recalled in "
+                "under 3 seconds."
+            )
+        },
+        {
+            "question": (
+                "What is the role of Limits and Derivatives in Class 11 Maths?"
+            ),
+            "answer": (
+                "Limits and Derivatives carries 8 marks in Class 11 and "
+                "is the direct gateway to Class 12 Calculus (35 marks). "
+                "The Class 11 Calculus unit introduces: the concept of a "
+                "limit and its computation using standard results, "
+                "continuity at a point, and basic derivatives using first "
+                "principles and standard rules (power rule, product rule, "
+                "quotient rule, chain rule). A student who understands "
+                "limits conceptually in Class 11 — not just applies the "
+                "formula — finds Class 12 Continuity, Differentiability, "
+                "and Integration significantly more accessible."
+            )
+        },
+        {
+            "question": (
+                "What are the most important formulas for Class 11 Maths CBSE?"
+            ),
+            "answer": (
+                "Must-know Class 11 Maths formulas: Sets — "
+                "n(A∪B) = n(A) + n(B) − n(A∩B); Trigonometry — all "
+                "compound angle formulas, double angle formulas, "
+                "product-to-sum formulas, and standard angle table; "
+                "Algebra — quadratic formula, sum of AP and GP, binomial "
+                "theorem (1+x)ⁿ = Σ C(n,r)xʳ, Permutations "
+                "nPr = n!/(n-r)!, Combinations nCr = n!/r!(n-r)!; "
+                "Complex Numbers — modulus |z| = √(a²+b²), argument, "
+                "De Moivre's theorem; Coordinate Geometry — distance "
+                "formula, section formula, slope m = tan θ, equation of "
+                "line in all forms, distance from point to line; Limits — "
+                "standard results lim(x→0) sinx/x = 1, "
+                "lim(x→0) (aˣ−1)/x = ln a."
+            )
+        },
+        {
+            "question": (
+                "How is Class 11 Maths connected to Class 12 Maths?"
+            ),
+            "answer": (
+                "Class 11 and Class 12 Maths form a direct progression. "
+                "Trigonometry (Class 11) → Inverse Trigonometry "
+                "(Class 12 Relations and Functions). Sequences and Series "
+                "(Class 11) → necessary for understanding series "
+                "convergence in Calculus. Limits and Derivatives "
+                "(Class 11) → Continuity, Differentiability, Integration, "
+                "Applications of Derivatives, Differential Equations "
+                "(Class 12 Calculus, 35 marks). Coordinate Geometry — "
+                "straight lines (Class 11) → Three Dimensional Geometry "
+                "(Class 12 Vectors and 3D, 14 marks). Permutations and "
+                "Combinations (Class 11) → Probability distributions "
+                "(Class 12 Probability, 8 marks). Every Class 11 unit has "
+                "a direct Class 12 continuation."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-11-chemistry-chemical-bonding-organic-basics-cbse",
+        "class-11-physics-mechanics-important-chapters-cbse",
+        "class-11-biology-cell-biomolecules-human-physiology-cbse",
+        "class-11-economics-microeconomics-statistics-cbse"
+    ]
+},
+{
+    "slug": "class-11-chemistry-chemical-bonding-organic-basics-cbse",
+
+    "title": (
+        "Class 11 Chemistry 2025–26: Chemical Bonding, Organic Basics & "
+        "Thermodynamics — Chapter Weightage, Strategy & Complete Formula Sheet"
+    ),
+
+    "meta_title": (
+        "Class 11 Chemistry: Chemical Bonding, Organic Basics & "
+        "Thermodynamics — Chapter Weightage, Strategy & Formula Sheet "
+        "2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "21 marks are Organic. 9 are Thermodynamics. 7 are Chemical Bonding. "
+        "And s-Block, p-Block, Hydrogen, and Gaseous State are NOT in your "
+        "annual exam. This complete Class 11 Chemistry guide covers the "
+        "dependency chain, mole concept foundation, bonding as organic "
+        "prerequisite, thermodynamics numerical types, and a full formula "
+        "and reaction reference sheet for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "21 marks are Organic, 9 are Thermodynamics, and 7 are Chemical "
+        "Bonding. Learn the Class 11 Chemistry dependency chain, mole concept, "
+        "bonding, thermodynamics, organic basics, and the complete formula "
+        "and reaction reference sheet."
+    ),
+
+    "class": "11",
+
+    "subject": "Chemistry",
+
+    "category": "Science & Mathematics",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-15T09:00:00+05:30",
+
+    "updated_date": "2026-07-15T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class11-chemistry-og.jpg",
+
+    "image_alt": (
+        "CBSE Class 11 Chemistry guide covering Chemical Bonding, "
+        "Thermodynamics, Organic Chemistry, chapter weightage and formula sheet"
+    ),
+
+    "keywords": [
+        "class 11 chemistry important chapters CBSE",
+        "chemical bonding class 11 CBSE",
+        "thermodynamics class 11 formula",
+        "organic chemistry class 11 basics",
+        "mole concept class 11 numericals",
+        "class 11 chemistry chapter weightage 2025-26",
+        "hydrocarbons class 11",
+        "equilibrium class 11",
+        "AI notes class 11 chemistry",
+        "smart revision class 11 chemistry"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        There are four habits that form in Class 11 Chemistry and follow students directly into Class 12 boards. The mole concept gets rushed through in two weeks because "it's just calculations." Chemical Bonding gets memorised — VSEPR shapes, hybridisation types — without understanding why molecular geometry matters for reactions. Thermodynamics gets "covered" through reading but never through numerical practice. And Organic Basics gets treated as an easy chapter because it doesn't have heavy numericals. Every one of these shortcuts produces a specific failure mode in Class 12.
+    </p>
+
+    <p>
+        This guide is built to prevent all four. It starts with the most immediately useful information in any Class 11 Chemistry guide — the chapters that are NOT in your annual exam. Then it covers where every mark comes from, the dependency chain that makes Chemistry's chapters interconnected rather than independent, and a specific preparation strategy for each high-value unit. The formula and reference sheet at the end gives you every formula, hybridisation rule, and key reaction for board-exam-ready recall.
+    </p>
+
+    <p>
+        <cite index="8-1">Class 11 Chemistry serves as the foundation for Class 12 board exams and competitive exams such as JEE Main, JEE Advanced, and NEET.</cite> Every hour invested correctly in Class 11 Chemistry returns value on three exams simultaneously. The key word is correctly.
+    </p>
+
+</section>
+<section id="chapters-not-in-annual-exam">
+
+    <h2>
+        Before You Open Chapter 1 — These Chapters Are Not in Your Annual Exam. Stop Studying Them.
+    </h2>
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ NOT in CBSE Class 11 Chemistry summative examination 2025–26
+        </h3>
+
+        <ul>
+            <li>
+                <strong>Hydrogen</strong>
+                (was Unit 9 in old syllabus) — assessed formatively only
+            </li>
+
+            <li>
+                <strong>s-Block Elements</strong>
+                (alkali and alkaline earth metals) — assessed formatively only
+            </li>
+
+            <li>
+                <strong>p-Block Elements</strong>
+                (some p-block elements) — assessed formatively only
+            </li>
+
+            <li>
+                <strong>The Gaseous State</strong>
+                (Kinetic Molecular Theory, gas laws) — assessed formatively only
+            </li>
+        </ul>
+
+        <p>
+            <cite index="20-1">
+                As per the official CBSE Class 11 Chemistry Syllabus 2025–26, Hydrogen, s-Block Elements, p-Block Elements, and the Gaseous State are not part of the summative (board) examination.
+            </cite>
+            These are taught in school and assessed formatively — but will NOT appear in your annual exam. Students targeting JEE and NEET must study them regardless. For annual exam preparation, prioritise the 9 units that actually carry marks.
+        </p>
+
+    </div>
+
+    <p>
+        This single clarification reclaims weeks of preparation time that most Class 11 students waste. If you've been spending significant effort on s-Block or p-Block Elements for annual exam purposes — redirect that time to Organic Basics (21 marks) and Thermodynamics (9 marks) immediately.
+    </p>
+
+</section>
+<section id="class-11-chemistry-marks-distribution">
+
+    <h2>
+        21 Marks Are Organic. 9 Are Thermodynamics. 7 Are Bonding. Here's the Complete Picture.
+    </h2>
+
+    <p>
+        <cite index="15-1">
+            The official CBSE Class 11 Chemistry marks distribution for 2025–26:
+            Some Basic Concepts of Chemistry — 7, Structure of Atom — 9,
+            Classification of Elements — 6, Chemical Bonding — 7,
+            Chemical Thermodynamics — 9, Equilibrium — 7,
+            Redox Reactions — 4, Organic Chemistry: Basic Principles and
+            Techniques — 11, Hydrocarbons — 10. Total: 70 marks.
+        </cite>
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Chemistry — unit-wise marks distribution
+            (theory, 70 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Organic Chem: Basic Principles</strong>
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:15.71%;background:#c62828">
+                    <strong>Highest unit</strong>
+                </div>
+            </div>
+            <div class="bar-val" style="color:#c62828">
+                <strong>11 marks ★</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Hydrocarbons
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:14.29%;background:#e04848">
+                    14.3%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e04848">
+                10 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Structure of Atom
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:12.86%;background:#8b6fcb">
+                    12.9%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#8b6fcb">
+                9 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Chemical Thermodynamics</strong>
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:12.86%;background:#eda100">
+                    12.9%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#eda100">
+                <strong>9 marks</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Chemical Bonding</strong>
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:10%;background:#1baf7a">
+                    10%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#1baf7a">
+                <strong>7 marks</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Equilibrium
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:10%;background:#4a90d9">
+                    10%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#4a90d9">
+                7 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Some Basic Concepts (Mole Concept)
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:10%;background:#2a78d6">
+                    10%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#2a78d6">
+                7 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Classification of Elements
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:8.57%;background:#aaa">
+                    8.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#888">
+                6 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Redox Reactions
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:5.71%;background:#ccc">
+                    5.7%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#888">
+                4 marks
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            <cite index="16-1">
+                Organic Chemistry: Some Basic Principles and Techniques
+                (11 marks) and Hydrocarbons (10 marks) together form a large
+                portion of the paper
+            </cite>
+            — 21 out of 70 marks, the single largest block in Class 11 Chemistry.
+        </p>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The three strategic insights from this chart:</strong>
+        (1) Organic Chemistry Units 8+9 = 21 marks — the largest block.
+        Invest the most time here.
+        (2) <cite index="14-1">
+            Numericals contribute around 35–40% of the total marks, mainly
+            from mole concept, thermodynamics, and equilibrium.
+        </cite>
+        These three numerical-heavy units together = 23 marks.
+        (3) Structure of Atom (9 marks) is high-weightage but conceptual —
+        derivations and quantum numbers, not heavy numericals.
+    </div>
+
+</section>
+<section id="chemistry-dependency-chain">
+
+    <h2>
+        Chemistry's Chapters Are Not Independent. Study Them Out of Order and Pay the Price.
+    </h2>
+
+    <p>
+        <cite index="8-1">
+            Chemistry is a subject where chapters are deeply interconnected — concepts from early chapters like mole concept and atomic structure are prerequisites for later chapters like thermodynamics and equilibrium.
+        </cite>
+        Here is the actual dependency sequence — the order in which understanding must be built for each chapter to make sense:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Unit 1</div>
+            <h3>Mole Concept</h3>
+            <p>7 marks</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Unit 2</div>
+            <h3>Structure of Atom</h3>
+            <p>9 marks</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Unit 4</div>
+            <h3>Chemical Bonding</h3>
+            <p>7 marks</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Unit 5</div>
+            <h3>Thermodynamics</h3>
+            <p>9 marks</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Unit 6</div>
+            <h3>Equilibrium</h3>
+            <p>7 marks</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Units 8 + 9</div>
+            <h3>Organic Basics + Hydrocarbons</h3>
+            <p>21 marks</p>
+        </div>
+
+    </div>
+
+    <p>
+        The specific dependencies that most students discover too late: Thermodynamics numericals require mole concept fluency — every enthalpy calculation involves moles of reactants. Equilibrium requires both Thermodynamics (ΔG and equilibrium are related) and basic mole concept (calculating concentrations). Organic Chemistry mechanisms require Chemical Bonding concepts — VSEPR shapes, hybridisation, resonance, and electronic effects are the language in which every organic reaction is explained. Skip or rush any link in this chain and every subsequent chapter becomes harder than it needs to be.
+    </p>
+
+</section>
+<section id="mole-concept">
+
+    <h2>
+        The Mole Concept Is Not One Chapter. It's the Foundation of Every Calculation in Class 11 Chemistry.
+    </h2>
+
+    <p>
+        Unit 1 — Some Basic Concepts of Chemistry — carries 7 marks and is the most under-invested chapter relative to its impact. Students rush through it in the first two weeks of school, do the NCERT exercises, and move on. Then they struggle with Thermodynamics enthalpy calculations in October, Equilibrium numericals in November, and Organic stoichiometry questions in December — all of which trace their difficulty back to shaky mole concept foundations.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mole Concept Numerical Type 1
+            </div>
+
+            <h3>
+                Moles from mass, atoms, or molecules
+            </h3>
+
+            <p>
+                n = mass/molar mass. n = number of atoms / 6.022×10²³. Converting between grams, moles, and molecules in both directions. This is the base calculation that appears inside every Thermodynamics and Equilibrium numerical — not as its own question but as Step 1 of every complex problem.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mole Concept Numerical Type 2
+            </div>
+
+            <h3>
+                Empirical and molecular formula
+            </h3>
+
+            <p>
+                Given percentage composition, find empirical formula → find molecular formula using molar mass. The most common 3-mark standalone mole concept question in CBSE Class 11 annual papers. Method: convert % to grams (assume 100g), find moles of each element, find simplest ratio, scale to whole numbers.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mole Concept Numerical Type 3
+            </div>
+
+            <h3>
+                Stoichiometry — limiting reagent
+            </h3>
+
+            <p>
+                Given masses of reactants, find mass of product. Identify the limiting reagent (the one that runs out first). Calculate moles of product from moles of limiting reagent using the balanced equation ratio. Then convert moles of product back to grams. This structure recurs in Thermodynamics (moles of reactants → ΔH of reaction).
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                The habit that secures these marks
+            </div>
+
+            <h3>
+                Practise 100+ mole concept numericals before October
+            </h3>
+
+            <p>
+                <cite index="5-1">
+                    Practise 100+ numericals, especially from mole concept, thermodynamics, and equilibrium.
+                </cite>
+                Mole concept fluency is built through volume — not through reading examples. A student who has solved 100 mole concept problems of varying types has automatic fluency. One who has solved 20 has conscious fluency. The exam rewards the first.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="chemical-bonding">
+
+    <h2>
+        Chemical Bonding: Where 7 Marks of Theory Build the Understanding That Organic Chemistry Requires
+    </h2>
+
+    <p>
+        Chemical Bonding carries 7 marks in the annual exam. But its real value is disproportionate to those 7 marks — it is the direct prerequisite for understanding every Organic Chemistry mechanism in both Class 11 and Class 12. A student who genuinely understands hybridisation, resonance, and electronic effects does not need to memorise organic reactions as isolated rules. They can predict reaction outcomes logically. A student who memorised hybridisation types without understanding the underlying electron behaviour cannot do this.
+    </p>
+
+    <p>
+        <strong>
+            The three Chemical Bonding concepts with the highest downstream value:
+        </strong>
+    </p>
+
+    <p>
+        <strong>VSEPR theory and hybridisation:</strong>
+        VSEPR (Valence Shell Electron Pair Repulsion) theory explains the shape of any molecule by counting electron pairs around the central atom. Combined with hybridisation — sp (linear, 180°), sp² (trigonal planar, 120°), sp³ (tetrahedral, 109.5°), sp³d (trigonal bipyramidal), sp³d² (octahedral) — it predicts bond angles and molecular geometry. In Organic Chemistry, the shape of a carbon atom in different functional groups (sp³ in alkanes, sp² in alkenes and carbonyls, sp in alkynes) determines exactly how it reacts.
+        <cite index="13-1">
+            Important diagrams like molecular orbital diagrams, hybridisation models, and structures of hydrocarbons must be practiced neatly with labels.
+        </cite>
+    </p>
+
+    <p>
+        <strong>Resonance:</strong>
+        Certain molecules cannot be represented by a single Lewis structure — the actual structure is a hybrid of two or more contributing structures. Benzene (alternating double and single bonds → actually equivalent) and the carboxylate ion (CO₂⁻, both C-O bonds equivalent) are the most exam-relevant examples. Understanding resonance is essential for understanding why benzene undergoes electrophilic substitution (not addition), why carboxylic acids are stronger acids than alcohols, and why phenol is acidic.
+    </p>
+
+    <p>
+        <strong>Electronic effects — inductive and mesomeric:</strong>
+        The inductive effect is the transmission of electron density through sigma bonds due to electronegativity differences. The mesomeric (resonance) effect is the transmission through pi bonds or lone pairs. Together, these effects explain why certain positions in a molecule are more reactive than others — they are the language of Organic Chemistry mechanisms. A student who understands inductive and mesomeric effects in Class 11 reads Organic Chemistry as a logical system. One who doesn't reads it as a collection of rules to memorise.
+    </p>
+
+    <p>
+        <strong>
+            Hybridisation and molecular geometry — quick reference:
+        </strong>
+    </p>
+
+<div style="overflow-x:auto;margin-top:16px;">
+
+    <table style="min-width:920px;">
+
+        <thead>
+            <tr>
+                <th>Hybridisation</th>
+                <th>Geometry</th>
+                <th>Bond Angle</th>
+                <th>Examples</th>
+                <th>Lone Pairs on<br>Central Atom</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>sp</td>
+                <td>Linear</td>
+                <td>180°</td>
+                <td>BeCl₂, C₂H₂ (ethyne), CO₂</td>
+                <td>0</td>
+            </tr>
+
+            <tr>
+                <td>sp²</td>
+                <td>Trigonal planar</td>
+                <td>120°</td>
+                <td>BF₃, C₂H₄ (ethene), HCHO</td>
+                <td>0</td>
+            </tr>
+
+            <tr>
+                <td>sp³ (0 LP)</td>
+                <td>Tetrahedral</td>
+                <td>109.5°</td>
+                <td>CH₄, CCl₄, NH₄⁺</td>
+                <td>0</td>
+            </tr>
+
+            <tr>
+                <td>sp³ (1 LP)</td>
+                <td>Trigonal pyramidal</td>
+                <td>107°</td>
+                <td>NH₃</td>
+                <td>1</td>
+            </tr>
+
+            <tr>
+                <td>sp³ (2 LP)</td>
+                <td>Bent / V-shape</td>
+                <td>104.5°</td>
+                <td>H₂O</td>
+                <td>2</td>
+            </tr>
+
+            <tr>
+                <td>sp³d</td>
+                <td>Trigonal bipyramidal</td>
+                <td>90°, 120°</td>
+                <td>PCl₅</td>
+                <td>0</td>
+            </tr>
+
+            <tr>
+                <td>sp³d²</td>
+                <td>Octahedral</td>
+                <td>90°</td>
+                <td>SF₆</td>
+                <td>0</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</div>
+<section id="thermodynamics">
+
+    <h2>
+        Thermodynamics: 9 Marks, Three Numerical Types, and the Chapter Most Students Read Without Practising
+    </h2>
+
+    <p>
+        Chemical Thermodynamics carries 9 marks — tied with Structure of Atom as the second highest unit. It is primarily numerical and derivation-based, which means reading the chapter theory without attempting numericals produces zero exam readiness.
+        <cite index="14-1">
+            Numericals contribute around 35–40% of the total marks, mainly from mole concept, thermodynamics, and equilibrium.
+        </cite>
+        A student who practises the three numerical types below specifically can approach Thermodynamics with a clear method for every question type.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Numerical Type 1
+            </div>
+
+            <h3>
+                Hess's Law — Enthalpy of Reaction
+            </h3>
+
+            <p>
+                Given standard enthalpies of formation of reactants and products, calculate ΔH of reaction. Or given enthalpies of two known reactions, calculate the unknown reaction's enthalpy by algebraic combination.
+            </p>
+
+            <span class="freq-tag">
+                ΔH°rxn = Σ ΔH°f(products) − Σ ΔH°f(reactants)
+                <br>
+                Hess's Law: ΔH = ΔH₁ + ΔH₂ (algebraic sum)
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Numerical Type 2
+            </div>
+
+            <h3>
+                ΔG = ΔH − TΔS (Spontaneity)
+            </h3>
+
+            <p>
+                Given ΔH and ΔS (or entropy data), determine whether the reaction is spontaneous at a given temperature. Find the temperature at which spontaneity changes (ΔG = 0 → T = ΔH/ΔS).
+            </p>
+
+            <span class="freq-tag">
+                ΔG = ΔH − TΔS
+                <br>
+                Spontaneous if ΔG &lt; 0
+                <br>
+                T_transition = ΔH / ΔS
+            </span>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Numerical Type 3
+        </div>
+
+        <h3>
+            ΔH = ΔU + ΔngRT
+        </h3>
+
+        <p>
+            Convert between ΔH (enthalpy change, measured at constant pressure) and ΔU (internal energy change, at constant volume). Δng = moles of gaseous products − moles of gaseous reactants.
+        </p>
+
+        <span class="freq-tag">
+            ΔH = ΔU + ΔngRT
+            <br>
+            Δng = Σn(products, gas) − Σn(reactants, gas)
+            <br>
+            R = 8.314 J/mol·K
+        </span>
+
+    </div>
+
+    <p>
+        Beyond numericals, Thermodynamics also tests definitions and the relationships between state functions. The most frequently tested definition questions: distinguish between system and surroundings, intensive vs extensive properties, state vs path functions, endothermic vs exothermic, spontaneous vs non-spontaneous processes. These are 2-mark questions answered directly from NCERT — know them precisely.
+    </p>
+
+    <div class="warn-box">
+        ⚠️ <strong>The Thermodynamics mistake that costs the most marks:</strong>
+        Confusing ΔH and ΔU, or forgetting to include the sign convention. In CBSE Chemistry, Q is positive when heat flows INTO the system and W is positive when work is done BY the system. Therefore ΔU = Q − W. If the system releases heat: Q is negative. If work is done ON the system (compression): W is negative. Applying the wrong sign produces wrong answers even when the numerical method is correct.
+    </div>
+
+</section>
+<section id="organic-chemistry-foundation">
+
+    <h2>
+        21 Marks, and the Gateway to All of Class 12 Organic Chemistry. Here's How to Build It Right.
+    </h2>
+
+    <p>
+        <cite index="20-1">
+            Organic Chemistry: Some Basic Principles and Techniques carries 11 marks — the highest among all individual units. Hydrocarbons follows closely with 10 marks. Together, Organic Chemistry accounts for 21 marks, making it the most important section for board exam scoring.
+        </cite>
+        But the reason to invest deeply in these two units goes beyond their Class 11 marks. Class 12 Organic Chemistry carries 33 marks — and every chapter in it builds directly on the Class 11 foundation.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">
+                Class 11 Unit 8
+            </div>
+
+            <h3>
+                IUPAC Nomenclature
+            </h3>
+
+            <p>
+                Names every functional group in Class 12
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">
+                Class 11 Unit 8
+            </div>
+
+            <h3>
+                Reaction Intermediates
+            </h3>
+
+            <p>
+                Carbocations, carbanions, free radicals
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">
+                Class 11 Unit 9
+            </div>
+
+            <h3>
+                Hydrocarbon Reactions
+            </h3>
+
+            <p>
+                Addition, substitution, elimination
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">
+                Class 12 Organic
+            </div>
+
+            <h3>
+                Named Reactions
+            </h3>
+
+            <p>
+                33 marks built on Class 11 base
+            </p>
+        </div>
+
+    </div>
+
+    <p>
+        <strong>
+            The four Class 11 Organic skills that must be owned before Class 12 begins:
+        </strong>
+    </p>
+
+    <p>
+        <strong>
+            1. IUPAC Nomenclature
+        </strong>
+        — the non-negotiable skill. A student who cannot name an organic compound from its structural formula cannot write a conversion reaction correctly. Practise IUPAC naming with increasing complexity: simple alkanes → branched alkanes → alkenes and alkynes → multiple functional groups. The naming rules are systematic — learn the priority order of functional groups once and it applies everywhere.
+    </p>
+
+    <p>
+        <strong>
+            2. Reaction intermediates
+        </strong>
+        — carbocations (positive charge on carbon), carbanions (negative charge), free radicals (unpaired electron). Stability order of carbocations: tertiary &gt; secondary &gt; primary &gt; methyl. This stability order explains SN1 vs SN2, Markovnikov's addition, rearrangements — essentially everything in Class 12 Organic that students find unpredictable. Understand the intermediates, and "unpredictable" becomes "logical."
+    </p>
+
+    <p>
+        <strong>
+            3. Markovnikov's Rule and the Peroxide Effect
+        </strong>
+        — in electrophilic addition of HX to an asymmetric alkene, H goes to the carbon with more hydrogens (Markovnikov's rule). In the presence of peroxides (anti-Markovnikov), H goes to the carbon with fewer hydrogens. Both appear in board papers as "predict the product" questions and as "explain the mechanism" questions.
+    </p>
+
+    <p>
+        <strong>
+            4. Electrophilic substitution in benzene
+        </strong>
+        — nitration, sulphonation, halogenation, Friedel-Crafts alkylation and acylation. All five are testable in CBSE Class 11. Know the reagents, conditions, and why the electrophile is attracted to the electron-rich benzene ring. This is the direct precursor to Class 12's aromatic compound questions.
+    </p>
+
+</section>
+<section id="chemistry-performance-analysis">
+
+    <h2>
+        One Chemistry Score Hides Four Unit Gaps. Here's How to Find All Four.
+    </h2>
+
+    <p>
+        A Class 11 Chemistry test score of 44 out of 70 contains completely different information depending on where those marks were lost. Organic Basics errors (wrong IUPAC name, wrong product), Thermodynamics numerical errors (sign convention, wrong ΔH formula), Mole Concept calculation errors, and Chemical Bonding concept errors each require a different response. Without chapter-level data, the next revision session goes wherever feels most urgent — which is never where data says it should go.
+    </p>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Chemistry test
+        </h4>
+
+        <div class="acc-row">
+            <div class="acc-subject">
+                Equilibrium — Le Chatelier's principle
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:83%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                83%
+            </div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subject">
+                Chemical Bonding — hybridisation shapes
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:68%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                68%
+            </div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subject">
+                Organic — IUPAC nomenclature
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:51%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                51%
+            </div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subject">
+                Thermodynamics — Hess's law numericals
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:34%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                34%
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Thermodynamics Hess's law (34%) — not Equilibrium (83%). Directed by data, not comfort. Genelis builds this map automatically after every session.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks accuracy separately across all 9 Class 11 Chemistry units — distinguishing numerical errors from conceptual errors and IUPAC naming errors from mechanism errors. Every wrong answer is logged to your <strong>wrong-question notebook</strong> automatically, tagged by unit and question type. The next session is directed at the lowest-accuracy unit — not the most comfortable one.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Chemistry session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Unit-level gaps detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">
+                Result
+            </span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-chemistry&utm_content=cta-inline">
+        Start your personalised Class 11 Chemistry study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-chemistry-formula-sheet">
+
+    <h2>
+        Your Complete Class 11 Chemistry Formula &amp; Reference Sheet — All Key Units
+    </h2>
+
+    <p>
+        This is your one-stop formula and concept reference for the highest-weightage Class 11 Chemistry units. Method: read each section, close this page, reproduce from memory on blank paper, check what you missed, return to those only. Repeat weekly. <cite index="10-1">Master NCERT basics, prioritize high-weightage chapters, practice Physical Chemistry numericals and Organic reaction daily.</cite>
+    </p>
+
+    <div id="mole-concept-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                M
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Mole Concept &amp; Stoichiometry (Unit 1)
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                7 marks · Foundation of all numericals
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Number of moles
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        n = mass (g) / molar mass (g/mol) = number of particles / 6.022×10²³
+
+                        <span class="gdl-formula-note">
+                            Molar mass in g/mol = atomic/molecular weight numerically. Avogadro's number: Nₐ = 6.022 × 10²³ mol⁻¹
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Mole-volume relation
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        1 mole of any gas at STP = 22.4 L (molar volume)
+
+                        <span class="gdl-formula-note">
+                            STP: 0°C (273.15 K) and 1 atm pressure. Used in gas stoichiometry problems.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Percentage composition
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        % of element = (mass of element in 1 mol / molar mass of compound) × 100
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Empirical formula steps
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        1. Convert % → grams (assume 100g sample)
+                        &nbsp; 2. Find moles of each element
+                        &nbsp; 3. Divide by smallest
+                        &nbsp; 4. Scale to whole numbers
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Molecular formula
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        Molecular formula = (Empirical formula)ₙ
+                        &nbsp; where n = molar mass / empirical formula mass
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Molarity
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        M = moles of solute / volume of solution (in litres)
+
+                        <span class="gdl-formula-note">
+                            Units: mol/L or M. To find moles from molarity: n = M × V(L)
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Limiting reagent
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        Find moles of each reactant. Divide by coefficient in balanced equation. Smallest value = limiting reagent.
+
+                        <span class="gdl-formula-note">
+                            Moles of product = (moles of limiting reagent / its coefficient) × coefficient of product
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="thermodynamics-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                T
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Chemical Thermodynamics (Unit 5)
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                9 marks · Numerical + derivation mix
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Key Relationships
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            First Law
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔU = Q − W
+
+                            <span class="gdl-formula-note">
+                                Q positive: heat absorbed by system. W positive: work done by system. For expansion: W = PΔV.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Enthalpy
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            H = U + PV
+                            &nbsp;·&nbsp;
+                            ΔH = ΔU + PΔV = ΔU + ΔngRT
+
+                            <span class="gdl-formula-note">
+                                At constant pressure: ΔH = Qₚ (heat absorbed at constant pressure). Δng = moles of gaseous products − moles of gaseous reactants.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Hess's Law
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔH°rxn = Σ ΔH°f(products) − Σ ΔH°f(reactants)
+
+                            <span class="gdl-formula-note">
+                                Standard enthalpy of elements in their standard state = 0. ΔH°f of a compound = enthalpy change when 1 mole is formed from elements.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Bond enthalpy
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔH°rxn = Σ Bond enthalpies (broken) − Σ Bond enthalpies (formed)
+
+                            <span class="gdl-formula-note">
+                                Bonds broken: endothermic (+ΔH). Bonds formed: exothermic (−ΔH). Apply to gaseous reactants and products only.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Gibbs Free Energy
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔG = ΔH − TΔS
+                            &nbsp;·&nbsp;
+                            ΔG° = −RT ln K
+
+                            <span class="gdl-formula-note">
+                                ΔG &lt; 0: spontaneous. ΔG &gt; 0: non-spontaneous. ΔG = 0: equilibrium. T (K) always used, not °C.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Spontaneity conditions
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔH(−), ΔS(+): always spontaneous (ΔG always −)
+                            <br>
+                            ΔH(+), ΔS(−): never spontaneous (ΔG always +)
+                            <br>
+                            ΔH(−), ΔS(−): spontaneous at low T (when |ΔH| &gt; T|ΔS|)
+                            <br>
+                            ΔH(+), ΔS(+): spontaneous at high T (when TΔS &gt; ΔH)
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="chemical-bonding-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                B
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Chemical Bonding &amp; Molecular Structure (Unit 4)
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                7 marks · Organic prerequisite
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    VSEPR &amp; Hybridisation — Quick Reference
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            VSEPR rule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Shape determined by total electron pairs (bonding + lone pairs) around central atom. Lone pairs repel more than bonding pairs → compress bond angles.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Bond angle effect
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            CH₄ (109.5°) &gt; NH₃ (107°) &gt; H₂O (104.5°)
+
+                            <span class="gdl-formula-note">
+                                Each lone pair reduces bond angle by ~2.5°. Same hybridisation (sp³), different geometry due to lone pairs.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Formal charge
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            FC = Valence electrons − (Non-bonding electrons) − ½(Bonding electrons)
+
+                            <span class="gdl-formula-note">
+                                Used to select the most stable resonance structure (lowest formal charges, negative FC on more electronegative atom).
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Electronic Effects
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Inductive effect (−I)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Electron withdrawal through σ bonds due to electronegativity. −I groups: −F, −Cl, −Br, −OH, −NO₂, −CN. Decreases with distance from the group.
+
+                            <span class="gdl-formula-note">
+                                +I groups (electron donating through σ bonds): alkyl groups (−CH₃). Alkyl groups stabilise carbocations.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mesomeric effect (M)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Electron donation or withdrawal through π bonds or lone pairs (conjugation). −M groups: −NO₂, −COOH, −CHO (withdraw electrons from ring). +M groups: −OH, −NH₂, −OR (donate electrons into ring).
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Hydrogen Bonding
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Conditions for H-bonding
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            H must be bonded to a highly electronegative atom (F, O, or N) with a lone pair.
+
+                            <span class="gdl-formula-note">
+                                Intermolecular H-bonding (between molecules): raises BP and MP. Examples: H₂O, HF, NH₃, alcohols. Intramolecular H-bonding (within molecule): lowers BP. Example: o-nitrophenol.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="equilibrium-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                E
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Equilibrium (Unit 6)
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                7 marks · Numerical + concept mix
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Chemical Equilibrium
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Equilibrium constant Kc
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            For aA + bB ⇌ cC + dD:
+                            <br>
+                            Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ
+
+                            <span class="gdl-formula-note">
+                                Pure solids and pure liquids are not included in the equilibrium expression.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Kp and Kc relation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Kp = Kc(RT)Δn
+
+                            <span class="gdl-formula-note">
+                                Δn = moles of gaseous products − moles of gaseous reactants.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Reaction quotient Q
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Same expression as K, but using concentrations or partial pressures at any instant.
+
+                            <span class="gdl-formula-note">
+                                Q &lt; K → reaction proceeds forward.
+                                Q &gt; K → reaction proceeds backward.
+                                Q = K → system is at equilibrium.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Le Chatelier's Principle
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            A system at equilibrium shifts in the direction that opposes an imposed change.
+
+                            <span class="gdl-formula-note">
+                                Increase concentration → shifts to consume added species.
+                                Increase pressure → shifts toward fewer gaseous moles.
+                                Increase temperature → favours the endothermic direction.
+                                Catalyst does not change equilibrium position or K; it only speeds up attainment of equilibrium.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Ionic Equilibrium
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ionic product of water
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25°C
+
+                            <span class="gdl-formula-note">
+                                In pure water at 25°C:
+                                [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ M.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            pH and pOH
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            pH = −log[H⁺]
+                            &nbsp;·&nbsp;
+                            pOH = −log[OH⁻]
+                            &nbsp;·&nbsp;
+                            pH + pOH = 14 at 25°C
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Acid dissociation constant
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            For HA ⇌ H⁺ + A⁻:
+                            <br>
+                            Ka = [H⁺][A⁻] / [HA]
+
+                            <span class="gdl-formula-note">
+                                Higher Ka → stronger acid.
+                                pKa = −log Ka.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Base dissociation constant
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            For BOH ⇌ B⁺ + OH⁻:
+                            <br>
+                            Kb = [B⁺][OH⁻] / [BOH]
+
+                            <span class="gdl-formula-note">
+                                Higher Kb → stronger base.
+                                pKb = −log Kb.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ka and Kb relation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Ka × Kb = Kw
+                            &nbsp;·&nbsp;
+                            pKa + pKb = 14
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Degree of dissociation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            α = amount dissociated / initial amount
+
+                            <span class="gdl-formula-note">
+                                For a weak electrolyte, Ostwald's dilution law relates dissociation with concentration and equilibrium constant.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Henderson equation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            pH = pKa + log([salt]/[acid])
+
+                            <span class="gdl-formula-note">
+                                Used for acidic buffer solutions.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="organic-chemistry-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                O
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Organic Chemistry: Basic Principles &amp; Hydrocarbons (Units 8+9)
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                21 marks ★ Largest block
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    IUPAC Naming Rules
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Step 1
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Find the longest carbon chain containing the principal functional group. This is the parent chain.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Step 2
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Number from the end nearest the principal functional group. If no functional group: nearest the first branch.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Functional group priority
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            COOH &gt; CHO &gt; C=O &gt; OH &gt; NH₂ &gt; C≡C &gt; C=C &gt; halogen
+
+                            <span class="gdl-formula-note">
+                                Higher priority group gets the lowest locant. Others named as prefixes (hydroxy-, amino-, oxo-).
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Reaction Intermediates — Stability Order
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Carbocation stability
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            3° &gt; 2° &gt; 1° &gt; CH₃⁺
+
+                            <span class="gdl-formula-note">
+                                Alkyl groups (electron donating, +I effect) stabilise carbocations by hyperconjugation and inductive effect. More alkyl groups = more stable carbocation = SN1 preferred.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Carbanion stability
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            CH₃⁻ &gt; 1° &gt; 2° &gt; 3°
+
+                            <span class="gdl-formula-note">
+                                Opposite of carbocation. Electron withdrawing groups stabilise carbanions. More alkyl groups = less stable carbanion.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Free radical stability
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            3° &gt; 2° &gt; 1° &gt; CH₃•
+
+                            <span class="gdl-formula-note">
+                                Same order as carbocations — stabilised by hyperconjugation. Free radical halogenation of alkanes proceeds through the most stable radical.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Key Hydrocarbon Reactions
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Markovnikov's Rule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            HX adds to alkene: H goes to carbon with more H atoms (more substituted position gets X)
+
+                            <span class="gdl-formula-note">
+                                Reason: the more substituted carbocation intermediate is more stable. Anti-Markovnikov (peroxide effect): H adds to less substituted carbon (free radical mechanism).
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Electrophilic addition to alkenes
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Alkene + HBr → bromoalkane (Markovnikov)
+                            &nbsp;·&nbsp;
+                            Alkene + Br₂/CCl₄ → vicinal dibromide (decolourises Br₂ — test for unsaturation)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Free radical halogenation (alkanes)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            RH + Cl₂ → RCl + HCl &nbsp; [UV light or heat, hν]
+
+                            <span class="gdl-formula-note">
+                                Chain mechanism: initiation (Cl₂ → 2Cl•), propagation (Cl• + RH → R• + HCl; R• + Cl₂ → RCl + Cl•), termination.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Electrophilic substitution (benzene)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Nitration: C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O [conc. H₂SO₄ catalyst]
+
+                            <span class="gdl-formula-note">
+                                Friedel-Crafts alkylation: C₆H₆ + RCl → C₆H₅R + HCl [anhydrous AlCl₃]. Acylation: C₆H₆ + RCOCl → C₆H₅COR + HCl [AlCl₃].
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ozonolysis of alkenes
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            R₁CH=CHR₂ + O₃/H₂O → R₁CHO + R₂CHO (aldehydes from terminal C=C)
+
+                            <span class="gdl-formula-note">
+                                Used to determine structure of alkene. If R group is on both carbons: ketone formed. Useful in finding location of double bond.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong>
+        For formulas — read, cover, reproduce from memory, check. For organic reactions — cover the product side, state the product from memory, then check. For hybridisation table — cover the geometry column, state shape and bond angle from hybridisation alone. Repeat weekly from August. By December, every item in this sheet should take under 10 seconds to recall. That speed is what saves time in the exam for questions that actually require thinking.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 11 Chemistry "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Organic Chemistry: Some Basic Principles and Techniques "
+                "carries the highest individual unit weightage at 11 marks, "
+                "followed by Hydrocarbons at 10 marks. Together, these two "
+                "organic units account for 21 marks out of 70 — the largest "
+                "single block in Class 11 Chemistry. Chemical Thermodynamics "
+                "and Structure of Atom are tied at 9 marks each, followed by "
+                "Chemical Bonding, Equilibrium, and Some Basic Concepts of "
+                "Chemistry (Mole Concept) at 7 marks each."
+            )
+        },
+        {
+            "question": (
+                "Which chapters are NOT in the CBSE Class 11 Chemistry "
+                "annual exam 2025–26?"
+            ),
+            "answer": (
+                "As per the official CBSE Class 11 Chemistry Syllabus "
+                "2025–26, the following chapters are not part of the "
+                "summative (annual) examination: Hydrogen (Unit 9), "
+                "s-Block Elements (Unit 10), p-Block Elements (Unit 11), "
+                "and the Gaseous State. These are assessed only formatively "
+                "at the school level. Students targeting JEE and NEET must "
+                "study them regardless, but for board/annual exam preparation, "
+                "do not allocate significant time to these chapters."
+            )
+        },
+        {
+            "question": (
+                "Why is Chemical Bonding important for Class 11 and "
+                "Class 12 Chemistry?"
+            ),
+            "answer": (
+                "Chemical Bonding (7 marks in Class 11) is the direct "
+                "prerequisite for understanding Organic Chemistry mechanisms "
+                "in both Class 11 and Class 12. VSEPR theory and hybridisation "
+                "explain molecular shapes used in every Organic reaction. "
+                "Resonance explains why benzene and carboxylic acids behave "
+                "the way they do. Electronic effects — inductive and mesomeric "
+                "— are the language of Organic reaction mechanisms "
+                "(SN1, SN2, electrophilic addition, nucleophilic addition). "
+                "A student who memorises bonding without conceptual "
+                "understanding will face Organic Chemistry as a collection "
+                "of isolated rules rather than logical consequences of "
+                "electron behaviour."
+            )
+        },
+        {
+            "question": (
+                "What types of numericals appear in Class 11 Chemistry "
+                "Thermodynamics?"
+            ),
+            "answer": (
+                "Class 11 Chemistry Thermodynamics numericals cluster around "
+                "three types: (1) Enthalpy calculations using Hess's law — "
+                "finding enthalpy of reaction from standard enthalpies of "
+                "formation or bond enthalpies; (2) ΔG = ΔH − TΔS — determining "
+                "whether a reaction is spontaneous at a given temperature; "
+                "(3) Internal energy and enthalpy relationship — "
+                "ΔH = ΔU + ΔngRT. Numericals contribute approximately "
+                "35–40% of total Class 11 Chemistry marks, with "
+                "Thermodynamics being one of the three highest-numerical "
+                "units alongside Mole Concept and Equilibrium."
+            )
+        },
+        {
+            "question": (
+                "How is Class 11 Organic Chemistry connected to "
+                "Class 12 Organic Chemistry?"
+            ),
+            "answer": (
+                "Class 11 Organic Chemistry (Units 8 and 9, together "
+                "21 marks) is the direct foundation for Class 12 Organic "
+                "Chemistry (33 marks). Every named reaction in Class 12 "
+                "requires: IUPAC nomenclature skills from Class 11 Unit 8, "
+                "understanding of reaction intermediates (carbocations, "
+                "carbanions, free radicals) from Unit 8, and knowledge of "
+                "base hydrocarbon reactions (addition, substitution, "
+                "elimination) from Unit 9. A student who builds genuine "
+                "understanding of Class 11 Organic Basics — not just "
+                "memorises — finds Class 12 Organic Chemistry significantly "
+                "more accessible."
+            )
+        }
+    ]
+},
+{
+    "slug": "class-11-biology-cell-structure-plant-physiology-cbse-neet",
+
+    "title": (
+        "Class 11 Biology 2025–26: Cell Biology, Plant Physiology & "
+        "Human Physiology — Chapter Weightage, Strategy & Key Terms Reference"
+    ),
+
+    "meta_title": (
+        "Class 11 Biology: Cell Biology, Plant Physiology & Human Physiology — "
+        "Chapter Weightage, Strategy & Key Terms 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "Human Physiology carries 18 marks — the highest unit in Class 11 "
+        "Biology. Three chapters are deleted from the 2025-26 syllabus. "
+        "This complete guide covers unit-wise weightage, the NCERT-first "
+        "rule, deleted chapters, cell biology diagrams, plant physiology "
+        "concepts, human physiology processes, must-draw diagrams, and a "
+        "full key terms reference for CBSE 2025-26 and NEET."
+    ),
+
+    "excerpt": (
+        "Human Physiology carries 18 marks, Cell Biology 15, and three "
+        "chapters are deleted from the 2025–26 syllabus. Learn the "
+        "NCERT-first strategy, unit weightage, must-draw diagrams, and "
+        "key Biology terms for CBSE and NEET."
+    ),
+
+    "class": "11",
+
+    "subject": "Biology",
+
+    "category": "Science & Mathematics",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-16T09:00:00+05:30",
+
+    "updated_date": "2026-07-16T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 11 Biology guide covering Cell Biology, Plant Physiology, "
+        "Human Physiology, chapter weightage, diagrams and key terms"
+    ),
+
+    "keywords": [
+        "class 11 biology important chapters CBSE NEET",
+        "class 11 biology chapter weightage 2025-26",
+        "cell biology class 11",
+        "plant physiology class 11",
+        "human physiology class 11",
+        "class 11 biology deleted chapters 2025-26",
+        "NCERT class 11 biology",
+        "class 11 biology diagrams",
+        "AI notes class 11 biology",
+        "smart revision class 11 biology"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Class 11 Biology has a preparation advantage that almost no other Class 11 subject offers: the exam is almost entirely from NCERT. Not paraphrased, not adapted — directly from NCERT text, NCERT diagrams, and NCERT in-text questions. A student who reads NCERT carefully, practises every diagram from memory, and uses precise NCERT terminology in their answers is fully prepared for the annual exam. A student who reads summaries, uses shortcut notes, and skips diagram practice is not.
+    </p>
+
+    <p>
+        The second advantage — and the second urgency — is NEET. <cite index="17-1">Nearly 45% of NEET Biology content comes from Class 11, especially cell biology and physiology.</cite> Class 11 Biology is not just an annual exam subject — it is half of the most important competitive exam for medical students. The preparation overlap is so complete that a student who genuinely masters Class 11 Biology for boards is simultaneously building their NEET Biology foundation.
+    </p>
+
+    <p>
+        Before opening a textbook: know which chapters are NOT in your annual exam. Three have been deleted from the 2025–26 rationalised NCERT syllabus. Studying them for annual exam purposes wastes time that should go to Human Physiology (18 marks) and Cell Biology.
+    </p>
+
+</section>
+<section id="deleted-chapters">
+
+    <h2>
+        Stop. These Three Chapters Are Not in Your Annual Exam.
+    </h2>
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ Deleted from CBSE Class 11 Biology annual exam 2025–26
+        </h3>
+
+        <ul>
+            <li>
+                <strong>Digestion and Absorption</strong>
+                — deleted from Human Physiology unit (was Chapter 16)
+            </li>
+
+            <li>
+                <strong>Transport in Plants</strong>
+                — deleted from Plant Physiology unit (was Chapter 11)
+            </li>
+
+            <li>
+                <strong>Mineral Nutrition</strong>
+                — deleted from Plant Physiology unit (was Chapter 12)
+            </li>
+        </ul>
+
+        <p>
+            <cite index="18-1">
+                Chapters like Digestion and Absorption, Transport in Plants, and Mineral Nutrition are DELETED and will not be asked in the annual exam.
+            </cite>
+            These are assessed only formatively at school level. Students targeting NEET must study them regardless — NEET follows the complete NCERT syllabus. For annual exam preparation: redirect that time to Human Physiology (18 marks), Cell Structure and Function, and Plant Physiology chapters that remain in the exam.
+        </p>
+
+    </div>
+
+</section>
+<section id="class-11-biology-unit-weightage">
+
+    <h2>
+        Human Physiology Is 18 Marks. Cell Biology Is 15. Here's the Complete Unit Weightage.
+    </h2>
+
+    <p>
+        <cite index="17-1">
+            Human Physiology carries the highest weightage with 18 marks.
+            There are 22 chapters divided across 5 major units.
+            Diagrams account for around 25–30 marks and are compulsory
+            in many questions.
+        </cite>
+        The theory paper carries 70 marks total.
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Biology — unit-wise marks distribution
+            (theory, 70 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Human Physiology</strong>
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:25.71%;background:#e04848">
+                    <strong>Highest — 25.7%</strong>
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e04848">
+                <strong>18 marks ★</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Structural Organisation in Animals &amp; Plants
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:18.57%;background:#eda100">
+                    18.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#eda100">
+                13 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Cell Structure &amp; Function
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:21.43%;background:#2a78d6">
+                    21.4%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#2a78d6">
+                15 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Diversity of Living Organisms
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:17.14%;background:#8b6fcb">
+                    17.1%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#8b6fcb">
+                12 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Plant Physiology
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:17.14%;background:#1baf7a">
+                    17.1%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#1baf7a">
+                12 marks
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            Source: CBSE official 2025–26 curriculum.
+            <cite index="18-1">
+                Unit V (Human Physiology) carrying the highest weightage of
+                18 marks, understanding the official curriculum is crucial
+                for both Board Exams and NEET.
+            </cite>
+        </p>
+
+    </div>
+
+    <div class="vis-wrap" style="margin-top:16px">
+
+        <div class="vis-title">
+            Class 11 Biology contribution to NEET — by unit
+        </div>
+
+        <div class="neet-bar">
+            <div class="neet-label">
+                Cell Biology
+            </div>
+            <div class="neet-track">
+                <div class="neet-fill"
+                     style="width:28%;background:#2a78d6">
+                    ~28% of Class 11 NEET Qs
+                </div>
+            </div>
+        </div>
+
+        <div class="neet-bar">
+            <div class="neet-label">
+                Human Physiology
+            </div>
+            <div class="neet-track">
+                <div class="neet-fill"
+                     style="width:25%;background:#e04848">
+                    ~25%
+                </div>
+            </div>
+        </div>
+
+        <div class="neet-bar">
+            <div class="neet-label">
+                Plant Physiology
+            </div>
+            <div class="neet-track">
+                <div class="neet-fill"
+                     style="width:22%;background:#1baf7a">
+                    ~22%
+                </div>
+            </div>
+        </div>
+
+        <div class="neet-bar">
+            <div class="neet-label">
+                Diversity &amp; Classification
+            </div>
+            <div class="neet-track">
+                <div class="neet-fill"
+                     style="width:15%;background:#8b6fcb">
+                    ~15%
+                </div>
+            </div>
+        </div>
+
+        <div class="neet-bar">
+            <div class="neet-label">
+                Structural Organisation
+            </div>
+            <div class="neet-track">
+                <div class="neet-fill"
+                     style="width:10%;background:#eda100">
+                    ~10%
+                </div>
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:8px 0 0;text-align:center">
+            <cite index="17-1">
+                Nearly 45% of NEET Biology content comes from Class 11,
+                especially cell biology and physiology.
+            </cite>
+        </p>
+
+    </div>
+
+</section>
+<section id="ncert-first-rule">
+
+    <h2>
+        The NCERT-First Rule — Why It Applies Even More Strongly in Class 11 Than Class 12
+    </h2>
+
+    <p>
+        Every CBSE Biology annual exam question — from 1-mark MCQs to 5-mark diagram questions — is sourced from NCERT text, NCERT diagrams, NCERT in-text questions, or NCERT chapter-end exercises. This is not an approximation. It is a structural fact about how CBSE Biology papers are set. The rationalised NCERT textbook is the only source material available to question setters for the annual exam.
+    </p>
+
+    <p>
+        The three NCERT habits that produce the most marks:
+    </p>
+
+    <p>
+        <strong>1. In-text questions.</strong>
+        NCERT Biology has questions embedded within the chapter text, not just at chapter end. Most students skip these because they appear too simple or informal. CBSE tests them directly — sometimes using the exact same question phrasing. Every in-text question should be answered in writing at least once.
+    </p>
+
+    <p>
+        <strong>2. Diagram captions.</strong>
+        Every diagram in NCERT Biology has a caption explaining what is shown. These captions are frequently tested as "identify this structure" MCQs or "label the diagram" questions. Read every caption. Understand every label. Diagrams in Biology are not illustrations — they are testable content.
+    </p>
+
+    <p>
+        <strong>3. Exact NCERT terminology.</strong>
+        CBSE Biology evaluators mark answers against expected NCERT language. Writing "the cell divides" instead of "the cell undergoes mitosis" loses a mark. Writing "DNA copies" instead of "DNA undergoes semi-conservative replication" loses a mark. Build a terminology list for each chapter. Revise it weekly. Use only NCERT terms in written answers.
+    </p>
+<div class="highlight-box">
+    💡 <cite index="17-1">
+        Diagrams account for around 25–30 marks and are compulsory in many questions.
+    </cite>
+    This is the single most mark-significant preparation habit in Class 11 Biology. A student who practises 12–15 key diagrams weekly from memory, with accurate labels and correct structure, can secure 25–30 marks from diagrams alone — more than one-third of the theory paper.
+</div>
+</section>
+<section id="biology-unit-preparation-modes">
+
+    <h2>
+        Cell Biology, Plant Physiology, Human Physiology — What Each Unit Demands
+    </h2>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Cell Structure &amp; Function — 15 marks
+        </div>
+
+        <h3>
+            Diagram accuracy + process understanding
+        </h3>
+
+        <p>
+            Cell biology tests two things: the structure of organelles (draw and label the cell, chloroplast, mitochondria) and the process of cell division (mitosis and meiosis — stages, significance, differences). Both require diagram mastery and precise NCERT language.
+        </p>
+
+        <ul>
+            <li>
+                Cell organelles — structure and function of all (ER, Golgi, ribosome, lysosome, mitochondria, chloroplast, nucleus)
+            </li>
+            <li>
+                Mitosis — 4 stages with diagrams, significance (growth and repair)
+            </li>
+            <li>
+                Meiosis — overview, crossing over, significance (variation)
+            </li>
+            <li>
+                Biomolecules — carbohydrates, proteins, lipids, nucleic acids — structure and function
+            </li>
+        </ul>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Plant Physiology — 12 marks (after deletions)
+        </div>
+
+        <h3>
+            Process description + Z-scheme diagram
+        </h3>
+
+        <p>
+            With Transport in Plants and Mineral Nutrition deleted, Plant Physiology now covers: Photosynthesis (the highest-returning chapter — Z-scheme diagram, light and dark reactions, C3 vs C4), Respiration in Plants (glycolysis, Krebs cycle, oxidative phosphorylation), and Plant Growth and Development (auxin, gibberellin, cytokinin — their roles and interactions).
+        </p>
+
+        <ul>
+            <li>
+                Photosynthesis — light reactions (Z-scheme), Calvin cycle (dark reactions), C3 vs C4, CAM plants
+            </li>
+            <li>
+                Respiration — aerobic vs anaerobic, RQ values for different substrates
+            </li>
+            <li>
+                Plant growth regulators — 5 types, their specific roles, seed germination, fruit development
+            </li>
+        </ul>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Human Physiology — 18 marks (after deletions)
+        </div>
+
+        <h3>
+            Process explanation + diagram-based questions
+        </h3>
+
+        <p>
+            With Digestion deleted, Human Physiology covers: Breathing (mechanism, lung volumes), Circulation (heart structure and cardiac cycle, blood groups, coagulation), Excretion (nephron structure, urine formation process — ultrafiltration, reabsorption, secretion), Locomotion (muscle contraction — sliding filament theory, sarcomere), and Neural Control (neuron structure, impulse transmission, reflex arc). Each chapter has a major diagram and a process explanation question.
+        </p>
+
+        <ul>
+            <li>
+                Breathing — lung volumes (TV, IRV, ERV, RV), mechanism of breathing, oxygen and CO₂ transport
+            </li>
+            <li>
+                Circulation — cardiac cycle, ECG, blood groups (ABO + Rh), coagulation
+            </li>
+            <li>
+                Excretion — nephron (must draw), urine formation (3 steps with exact NCERT terms)
+            </li>
+            <li>
+                Locomotion — sarcomere (must draw), sliding filament theory, types of muscles
+            </li>
+            <li>
+                Neural — neuron (must draw), resting and action potential, reflex arc
+            </li>
+        </ul>
+
+    </div>
+
+</section>
+<section id="must-draw-biology-diagrams">
+
+    <h2>
+        12 Diagrams That Decide Your Biology Score — Learn to Draw Every One from Memory
+    </h2>
+
+    <p>
+        <cite index="17-1">
+            Diagrams account for around 25–30 marks and are compulsory in many questions.
+        </cite>
+        Every diagram in this list has appeared in CBSE Class 11 annual papers or NEET papers — many appear in both every year. The preparation method: once per week, pick four diagrams, close all notes, draw from memory with all labels, check against NCERT, note missing labels, return to those the next day.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Cell Biology</div>
+            <h3>Animal &amp; Plant Cell</h3>
+            <p>
+                All organelles labelled: nucleus, ER (rough and smooth), Golgi, ribosome, mitochondria, lysosome, centriole (animal), chloroplast and cell wall (plant)
+            </p>
+            <span class="freq-tag">Every year</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Cell Biology</div>
+            <h3>Mitosis Stages</h3>
+            <p>
+                Prophase, Metaphase (chromosomes at equatorial plate), Anaphase, Telophase. Chromosomes must be drawn accurately at each stage.
+            </p>
+            <span class="freq-tag">Every year</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Cell Biology</div>
+            <h3>Chloroplast Ultrastructure</h3>
+            <p>
+                Outer and inner membrane, stroma, grana (stacked thylakoids), thylakoid membrane, stroma lamellae. Site of light reactions = thylakoid; dark reactions = stroma.
+            </p>
+            <span class="freq-tag">High frequency</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Cell Biology</div>
+            <h3>Mitochondria Ultrastructure</h3>
+            <p>
+                Outer membrane, inner membrane, cristae (invaginations), matrix, F₀F₁ particles on cristae. Krebs cycle = matrix; oxidative phosphorylation = inner membrane.
+            </p>
+            <span class="freq-tag">High frequency</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Plant Physiology</div>
+            <h3>Z-Scheme (Light Reactions)</h3>
+            <p>
+                P680 (PSII) → electron transport → P700 (PSI) → NADPH. Water splitting at PSII releasing O₂. ATP synthesis via photophosphorylation. Cyclic vs non-cyclic.
+            </p>
+            <span class="freq-tag">Every year (NEET)</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Plant Physiology</div>
+            <h3>Stomatal Apparatus</h3>
+            <p>
+                Guard cells (bean-shaped), subsidiary cells, stomatal pore. Opening mechanism: K⁺ ion accumulation → water enters guard cells by osmosis → turgid → pore opens.
+            </p>
+            <span class="freq-tag">High frequency</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Human Physiology</div>
+            <h3>Nephron Structure</h3>
+            <p>
+                Bowman's capsule, glomerulus, PCT (proximal convoluted tubule), loop of Henle (ascending and descending), DCT, collecting duct. Vasa recta alongside.
+            </p>
+            <span class="freq-tag">Every year</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Human Physiology</div>
+            <h3>Human Heart</h3>
+            <p>
+                4 chambers, 4 valves (tricuspid, bicuspid/mitral, pulmonary semilunar, aortic semilunar), major vessels, blood flow direction with arrows (deoxygenated and oxygenated paths).
+            </p>
+            <span class="freq-tag">Every year</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Human Physiology</div>
+            <h3>Neuron Structure</h3>
+            <p>
+                Cell body (soma), dendrites, axon, myelin sheath, nodes of Ranvier, axon terminals. Multipolar neuron is the most commonly tested form. Include synapse with neurotransmitter vesicles.
+            </p>
+            <span class="freq-tag">Every year</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Human Physiology</div>
+            <h3>Sarcomere Structure</h3>
+            <p>
+                A-band, I-band, H-zone, Z-line, M-line. Thick filaments (myosin) in A-band; thin filaments (actin) in I-band and A-band overlap. During contraction: I-band and H-zone shorten; A-band stays constant.
+            </p>
+            <span class="freq-tag">High — NEET essential</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Human Physiology</div>
+            <h3>Reflex Arc</h3>
+            <p>
+                Receptor → sensory (afferent) neuron → spinal cord (integration centre) → motor (efferent) neuron → effector (muscle/gland). Label synapse between neurons in spinal cord.
+            </p>
+            <span class="freq-tag">High frequency</span>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Structural Organisation</div>
+            <h3>TS of Dicot Root</h3>
+            <p>
+                Epidermis, cortex (parenchyma cells), endodermis (Casparian strips), pericycle, xylem (star-shaped, exarch), phloem (between xylem arms). Include root hair on epidermis.
+            </p>
+            <span class="freq-tag">High frequency</span>
+        </div>
+
+    </div>
+
+</section>
+<section id="biology-performance-analysis">
+
+    <h2>
+        Biology Has Five Units. A Single Score Tells You Nothing About Which One Is Failing.
+    </h2>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Biology test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Diversity — biological classification
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:85%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                85%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Cell Biology — organelle functions
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:73%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                73%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Plant Physiology — Z-scheme and Calvin cycle
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:52%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                52%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Human Physiology — nephron and urine formation
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:38%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                38%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Human Physiology nephron (38%) — not Diversity (85%). Genelis builds this map automatically after every practice session and test.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all five Class 11 Biology units — distinguishing diagram errors from process explanation errors, and terminology gaps from conceptual misunderstanding. Every wrong answer is logged to your <strong>wrong-question notebook</strong>, tagged by unit and question type. The next session is directed at the lowest-accuracy unit — not the most comfortable one.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Biology session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Unit-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">
+                Result
+            </span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-biology&utm_content=cta-inline">
+        Start your personalised Class 11 Biology study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-biology-key-terms-reference">
+
+    <h2>
+        Complete Class 11 Biology Key Terms &amp; Process Reference — Cell Biology, Plant Physiology &amp; Human Physiology
+    </h2>
+
+    <p>
+        Every definition below is in NCERT-aligned language — the exact phrasing that earns full marks in CBSE Biology answers. Method: cover the definition, state it from memory, check, return to gaps weekly.
+    </p>
+
+    <div id="cell-biology-key-terms" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                C
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Cell Structure &amp; Function — Key Terms
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                15 marks · Diagram + process
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Cell Organelles
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Endoplasmic Reticulum
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            A network of membranous tubules and sacs (cisternae) throughout the cytoplasm. Rough ER (with ribosomes) synthesises and transports proteins. Smooth ER synthesises lipids and detoxifies drugs and poisons.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Golgi Apparatus
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Stack of membrane-bound flattened sacs (cisternae) involved in processing, packaging, and secretion of proteins and lipids. Cis face receives from ER; trans face dispatches to destinations. Functions: glycosylation of proteins, formation of lysosomes, secretory vesicle production.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Lysosome
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Membrane-bound vesicles containing hydrolytic enzymes (acid hydrolases, active at pH 5). Function: intracellular digestion of phagocytosed material. Called "suicide bags" because rupture releases enzymes that digest the cell itself.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ribosome
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Non-membranous organelle consisting of rRNA and proteins. Site of protein synthesis (translation). 80S in eukaryotes (60S + 40S subunits); 70S in prokaryotes (50S + 30S). Mitochondria and chloroplasts have 70S ribosomes — evidence of endosymbiotic origin.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Cell Division
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Mitosis
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Type of cell division producing two daughter cells genetically identical to the parent cell and to each other. Occurs in somatic (body) cells. Four stages: Prophase (chromatin condenses), Metaphase (chromosomes align at equatorial plate), Anaphase (chromatids separate to poles), Telophase (nuclear envelope reforms). Significance: growth, repair, and asexual reproduction.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Meiosis
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Two-stage cell division (Meiosis I and Meiosis II) producing four haploid daughter cells from one diploid parent cell. Occurs in reproductive organs (gonads) to produce gametes. Crossing over in Prophase I creates genetic recombination. Significance: maintains chromosome number across generations and creates genetic variation.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Crossing Over
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Exchange of segments between non-sister chromatids of homologous chromosomes during Prophase I (at the pachytene stage). Occurs at points called chiasmata. Results in new combinations of alleles (recombinant chromosomes). Major source of genetic variation in sexually reproducing organisms.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="plant-physiology-key-terms" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                P
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Plant Physiology — Key Terms &amp; Processes
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                12 marks · Z-scheme + Calvin cycle essential
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Photosynthesis
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Light Reactions (Z-scheme)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Occur in thylakoid membranes. P680 (Photosystem II) absorbs light → water is split (photolysis) releasing O₂, electrons, and H⁺. Electrons pass through electron transport chain to P700 (Photosystem I) → electrons reduce NADP⁺ to NADPH. ATP is produced by photophosphorylation. Products: ATP, NADPH, O₂.
+
+                            <span class="gdl-formula-note">
+                                Cyclic photophosphorylation: only PSI involved; only ATP produced; no NADPH, no O₂.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Calvin Cycle (Dark Reactions)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Occurs in stroma. CO₂ is fixed by RuBisCO enzyme onto RuBP (5C) → 3-phosphoglycerate (3C) → reduced to G3P using ATP and NADPH → G3P used to regenerate RuBP and form glucose. Net: 3CO₂ + 9ATP + 6NADPH → 1 G3P.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            C3 vs C4 Plants
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            C3 plants: CO₂ first fixed into 3C compound (3-PGA) by RuBisCO in mesophyll cells. Photorespiration occurs — wasteful. Examples: wheat, rice, potato. C4 plants: CO₂ first fixed into 4C compound (oxaloacetate) in mesophyll cells; transferred to bundle sheath cells where CO₂ is released and refixed by RuBisCO. No photorespiration. Examples: maize, sugarcane.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Respiration in Plants
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Glycolysis
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Occurs in cytoplasm. Glucose (6C) → 2 pyruvate (3C). Net yield: 2 ATP and 2 NADH per glucose. Common to both aerobic and anaerobic respiration. Substrate-level phosphorylation.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Respiration Quotient (RQ)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            RQ = volume of CO₂ released / volume of O₂ consumed. RQ for carbohydrates = 1 (equal volumes). RQ for fats &lt; 1 (more O₂ needed). RQ for proteins ≈ 0.9. RQ &gt; 1 for anaerobic respiration of carbohydrates.
+
+                            <span class="gdl-formula-note">
+                                CBSE frequently asks "what does an RQ of X indicate" — know the RQ values for each substrate.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Plant Growth Regulators
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Auxin (IAA)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Promotes cell elongation in shoots (positive phototropism, apical dominance). Inhibits lateral bud growth — removing apical bud releases lateral buds (apical dominance). High concentration inhibits root growth while promoting shoot growth. Produced at shoot apex.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Gibberellin
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Promotes stem elongation, seed germination (breaking dormancy), and fruit development without fertilisation (parthenocarpy). Application on dwarf mutants restores normal height. Promotes bolting in long-day plants.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Cytokinin
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Promotes cell division (cytokinesis). Delays leaf senescence (aging). Produced mainly in roots. Works synergistically with auxin — ratio of auxin:cytokinin determines differentiation (high ratio → root formation; low ratio → shoot formation in tissue culture).
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Abscisic Acid (ABA)
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            The "stress hormone" — promotes seed dormancy, causes stomatal closure during water stress (triggers K⁺ ion efflux from guard cells → water leaves → stomata close). Promotes leaf abscission. Called the "inhibitor" growth regulator.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="human-physiology-key-terms" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                H
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Human Physiology — Key Terms &amp; Processes
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                18 marks ★ Highest unit · After deletions
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Breathing &amp; Exchange of Gases
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Lung Volumes
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Tidal Volume (TV) = 500 mL (normal breath). Inspiratory Reserve Volume (IRV) = ~2500 mL. Expiratory Reserve Volume (ERV) = ~1000 mL. Residual Volume (RV) = ~1100 mL (air that cannot be expelled). Vital Capacity = TV + IRV + ERV = ~4000 mL. Total Lung Capacity = VC + RV = ~5100 mL.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Oxyhaemoglobin dissociation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Haemoglobin has higher affinity for O₂ at high pO₂ (lungs) and releases O₂ at low pO₂ (tissues). CO₂ and H⁺ decrease Hb's affinity for O₂ (Bohr effect) — promoting O₂ release at metabolically active tissues. CO transport: 70% as bicarbonate (HCO₃⁻), 20–25% as carbaminohaemoglobin, 7% dissolved.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Body Fluids &amp; Circulation
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Cardiac Cycle
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            One complete heartbeat lasting ~0.8 seconds. Atrial systole (0.1s) → Ventricular systole (0.3s, lub sound = AV valves close) → Joint diastole (0.4s, dub sound = semilunar valves close). Stroke volume ≈ 70 mL. Heart rate ≈ 72 beats/min. Cardiac output = 70 × 72 ≈ 5 L/min.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            ABO Blood Groups
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Determined by presence of antigens (A and/or B) on RBC surface and antibodies in plasma. Group A: antigen A, antibody anti-B. Group B: antigen B, antibody anti-A. Group AB: both antigens, no antibodies (universal recipient). Group O: no antigens, both antibodies (universal donor).
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Excretory Products &amp; Their Elimination
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Urine Formation — 3 Steps
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Step 1 — Ultrafiltration: blood filtered under high pressure in glomerulus → glomerular filtrate (GFR ~125 mL/min = ~180 L/day). Step 2 — Selective reabsorption: glucose, amino acids, 70–80% water, Na⁺ reabsorbed in tubules. Step 3 — Tubular secretion: H⁺, K⁺, creatinine, ammonia secreted into tubule. Final urine: ~1–1.8 L/day.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Locomotion &amp; Neural Control
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Sliding Filament Theory
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Muscle contraction occurs when myosin heads (thick filaments) attach to actin (thin filaments) and pull them toward the M-line, shortening the sarcomere. Requires ATP (for myosin detachment and movement) and Ca²⁺ (released from sarcoplasmic reticulum to expose actin binding sites by moving tropomyosin). I-band and H-zone shorten; A-band length remains constant.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Resting Membrane Potential
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            In resting neuron: inside is −70mV relative to outside (polarised). Maintained by Na⁺-K⁺ ATPase pump (3 Na⁺ out, 2 K⁺ in) and selective permeability. Stimulus → Na⁺ channels open → Na⁺ rushes in → depolarisation → action potential generated → propagates along axon.
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Synapse
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Junction between two neurons (or neuron and effector). Action potential reaches presynaptic terminal → Ca²⁺ influx → neurotransmitter (acetylcholine) released from synaptic vesicles into synaptic cleft → binds to receptors on postsynaptic membrane → generates new action potential. Neurotransmitter then broken down by acetylcholinesterase.
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference sheet:</strong>
+        For each definition — cover and reproduce in writing from memory. For process descriptions (Z-scheme, urine formation, cardiac cycle) — reproduce as a numbered step sequence without looking. Practise weekly from August. By December, all terms and processes should come to mind in under 10 seconds. In the exam, that speed is the difference between completing long-answer questions fully and running out of time.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 11 Biology "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Human Physiology (Unit V) carries the highest weightage at "
+                "18 marks out of 70 theory marks. It covers Breathing and "
+                "Exchange of Gases, Body Fluids and Circulation, Excretory "
+                "Products and Their Elimination, Locomotion and Movement, "
+                "and Neural Control and Coordination. This unit is also "
+                "critically important for NEET, where physiology questions "
+                "appear in every paper."
+            )
+        },
+        {
+            "question": (
+                "Which chapters are deleted from Class 11 Biology "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Three chapters are deleted from the Class 11 Biology "
+                "2025–26 rationalised NCERT syllabus and will NOT appear "
+                "in the annual exam: (1) Digestion and Absorption — "
+                "previously in Human Physiology unit; (2) Transport in "
+                "Plants — previously in Plant Physiology unit; "
+                "(3) Mineral Nutrition — previously in Plant Physiology "
+                "unit. Students targeting NEET must study these chapters "
+                "regardless, as NEET follows the complete NCERT syllabus. "
+                "For CBSE board/annual exam preparation, do not allocate "
+                "significant time to these three deleted chapters."
+            )
+        },
+        {
+            "question": (
+                "Is NCERT enough for Class 11 Biology CBSE annual exam?"
+            ),
+            "answer": (
+                "Yes — unequivocally. CBSE Class 11 Biology annual exam "
+                "questions are almost entirely from NCERT text, NCERT "
+                "diagrams, and NCERT in-text questions. The rationalised "
+                "NCERT textbook is the only resource students need for "
+                "board/annual exam preparation. Read every line, every "
+                "diagram caption, every in-text question. Do not rely on "
+                "reference books or additional guides for board preparation. "
+                "For NEET, supplement NCERT with MCQ practice but keep NCERT "
+                "as the primary resource."
+            )
+        },
+        {
+            "question": (
+                "What diagrams are most important for Class 11 Biology "
+                "CBSE and NEET?"
+            ),
+            "answer": (
+                "The must-draw diagrams for Class 11 Biology, ranked by "
+                "frequency: cell structure (animal and plant cell with all "
+                "organelles), mitosis stages (especially metaphase and "
+                "anaphase), meiosis overview, chloroplast ultrastructure, "
+                "mitochondria ultrastructure, photosynthesis Z-scheme "
+                "(light reactions), nephron structure, human heart, neuron "
+                "structure with synapse, reflex arc, sarcomere structure "
+                "(muscle contraction), stomatal apparatus cross-section, "
+                "and TS and LS of dicot and monocot roots/stems. Each must "
+                "be drawn from memory with minimum 6 accurate labels."
+            )
+        },
+        {
+            "question": (
+                "How much of NEET Biology comes from Class 11?"
+            ),
+            "answer": (
+                "Approximately 45% of NEET Biology questions come from "
+                "Class 11 content, making Class 11 Biology preparation "
+                "critically important for medical entrance. The "
+                "highest-contributing Class 11 chapters for NEET are Cell "
+                "Structure and Function (cell organelles, cell cycle, cell "
+                "division), Plant Physiology (photosynthesis, respiration, "
+                "growth and development), Human Physiology (breathing, "
+                "circulation, excretion, nervous system, locomotion), and "
+                "Diversity of Living Organisms (biological classification "
+                "and plant kingdom). The Class 11 Biology foundation "
+                "directly determines NEET Biology performance."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-biology-important-chapters-pyq-cbse-neet",
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "class-11-chemistry-chemical-bonding-organic-basics-cbse",
+        "class-11-maths-limits-trigonometry-coordinate-geometry-cbse"
+    ]
+},
+{
+    "slug": "class-11-physics-mechanics-important-chapters-cbse",
+
+    "title": (
+        "Class 11 Physics 2025–26: Mechanics, Thermodynamics & Waves — "
+        "Chapter Weightage, Strategy & Complete Formula Sheet"
+    ),
+
+    "meta_title": (
+        "Class 11 Physics: Mechanics, Thermodynamics & Waves — "
+        "Chapter Weightage, Strategy & Formula Sheet 2025–26 | Genelis"
+    ),
+
+    "meta_description": (
+        "Class 11 Physics requires four skills at once — conceptual "
+        "understanding, derivation mastery, numerical fluency, and graph "
+        "interpretation. This guide covers unit-wise marks, the Mechanics "
+        "dependency chain, FBD framework, Thermodynamics strategy, "
+        "Oscillations & Waves, and a complete formula sheet for CBSE 2025–26."
+    ),
+
+    "excerpt": (
+        "Mechanics is more than half the Class 11 Physics paper, while "
+        "Thermodynamics and Oscillations demand completely different "
+        "preparation methods. Learn the unit-wise weightage, FBD framework, "
+        "dependency chain, JEE/NEET overlap, and complete formula sheet."
+    ),
+
+    "class": "11",
+
+    "subject": "Physics",
+
+    "category": "Science & Mathematics",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-07-14T09:00:00+05:30",
+
+    "updated_date": "2026-07-14T09:00:00+05:30",
+
+    "reading_time": "14 min read",
+
+    "featured": False,
+
+    "image": "/static/blog/class11-physics-og.jpg",
+
+    "image_alt": (
+        "CBSE Class 11 Physics guide covering Mechanics, Thermodynamics, "
+        "Oscillations and Waves with chapter weightage, strategy and "
+        "complete formula sheet"
+    ),
+
+    "keywords": [
+        "class 11 physics important chapters CBSE",
+        "class 11 physics formula sheet",
+        "laws of motion class 11 important questions",
+        "class 11 physics chapter weightage 2025-26",
+        "thermodynamics class 11 important questions",
+        "class 11 physics mechanics JEE NEET",
+        "oscillations waves class 11",
+        "class 11 physics study plan",
+        "AI notes class 11 physics",
+        "smart revision class 11 physics"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Students who found Class 10 Science manageable routinely describe Class 11 Physics as a different subject entirely. They're right — and the reason isn't what most people think. It isn't that the concepts are harder in any abstract sense. It's that Class 11 Physics demands four distinct skills simultaneously, and Class 10 Science only ever required one: recall with basic application.
+    </p>
+
+    <p>
+        A student who tries to prepare Class 11 Physics the way they prepared Class 10 Science — read the chapter, understand the concept, attempt a few exercises — will consistently fall behind. Not because they're less capable, but because the preparation method doesn't match what the subject demands.
+        <cite index="23-1">
+            Chapters like Laws of Motion, Work, Energy, and Power, and Gravitation are known for a heavy emphasis on numericals. Meanwhile, chapters like Thermodynamics and Kinetic Theory often feature important derivations. The goal is to test your conceptual clarity and problem-solving ability, not just memorisation.
+        </cite>
+    </p>
+
+    <p>
+        This guide names the four skills, maps where every mark comes from, gives you the specific preparation approach for each high-value unit, and provides a complete formula sheet covering every chapter. It also makes the case — backed by JEE and NEET data — for why the hours you invest in Class 11 Physics this year return value on two exams simultaneously. Use this guide as a strategic reference across your entire Class 11 year, not just before the annual exam.
+    </p>
+
+</section>
+<section id="class-11-physics-marks-distribution">
+
+    <h2>
+        Mechanics Is Half the Paper. Properties of Bulk Matter Is the Most Underestimated Unit. Here's the Full Map.
+    </h2>
+
+    <p>
+        <cite index="10-1">
+            Class 11 Physics theory carries 70 marks distributed across 10 units:
+            Kinematics — 11 marks, Laws of Motion — 7 marks, Work Energy and Power — 6 marks,
+            Rotational Motion — 6 marks, Gravitation — 6 marks, Properties of Bulk Matter — 12 marks,
+            Thermodynamics — 6 marks, Kinetic Theory — 4 marks, Oscillations and Waves — 8 marks,
+            Physical World and Measurement — 4 marks.
+        </cite>
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            CBSE Class 11 Physics — unit-wise marks distribution
+            (theory, 70 marks) 2025–26
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Properties of Bulk Matter
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:17.14%;background:#8b6fcb">
+                    Highest unit
+                </div>
+            </div>
+            <div class="bar-val" style="color:#8b6fcb">
+                    <strong>12 marks ★</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                <strong>Kinematics</strong>
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:15.71%;background:#2a78d6">
+                    15.7%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#2a78d6">
+                <strong>11 marks</strong>
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Oscillations &amp; Waves
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:11.43%;background:#1baf7a">
+                    11.4%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#1baf7a">
+                8 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Laws of Motion
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:10%;background:#e04848">
+                    10%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e04848">
+                7 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Work, Energy &amp; Power
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:8.57%;background:#e06060">
+                    8.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e06060">
+                6 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Rotational Motion
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:8.57%;background:#e06060">
+                    8.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e06060">
+                6 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Gravitation
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:8.57%;background:#e06060">
+                    8.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#e06060">
+                6 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Thermodynamics
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:8.57%;background:#eda100">
+                    8.6%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#eda100">
+                6 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Kinetic Theory
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:5.71%;background:#aaa">
+                    5.7%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#aaa">
+                4 marks
+            </div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">
+                Physical World &amp; Measurement
+            </div>
+            <div class="bar-track">
+                <div class="bar-fill"
+                     style="width:5.71%;background:#ccc">
+                    5.7%
+                </div>
+            </div>
+            <div class="bar-val" style="color:#888">
+                4 marks
+            </div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            Source: CBSE official 2025–26 syllabus (Code 042).
+            <cite index="3-1">
+                Mechanics and oscillations are especially important for students aiming for JEE or NEET.
+            </cite>
+        </p>
+
+    </div>
+
+    <p>
+        <strong>The two strategic insights this chart reveals:</strong>
+        First, Mechanics as a combined group — Kinematics (11) + Laws of Motion (7) + Work-Energy (6) + Rotational Motion (6) + Gravitation (6) — adds up to <strong>36 marks</strong>, more than half the paper. Any student who masters Mechanics has effectively secured the foundation of their score. Second, Properties of Bulk Matter at 12 marks is the single highest-weightage unit — yet most students under-prepare it because it spans three chapters (Solids, Fluids, Thermal Properties) that feel disconnected. They're not. All three test the same underlying skill: applying material properties to numerical and conceptual problems.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">JEE Physics</div>
+            <h3>40–45%</h3>
+            <p>
+                JEE Physics questions from Class 11 content — Laws of Motion, Work-Energy, Gravitation, SHM most frequent
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">NEET Physics</div>
+            <h3>~30%</h3>
+            <p>
+                NEET Physics questions from Class 11 — Laws of Motion in every paper since 2013 without exception
+            </p>
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+        <div class="s-label">Preparation Return</div>
+        <h3>2×</h3>
+        <p>
+            Return on Class 11 Physics hours — every session builds both board and competitive exam foundation simultaneously
+        </p>
+    </div>
+
+</section>
+<section id="four-skills-class-11-physics">
+
+    <h2>
+        Class 11 Physics Isn't Harder. It Requires Four Skills You've Never Needed Before — All at Once.
+    </h2>
+
+    <p>
+        The difficulty jump into Class 11 Physics is not conceptual — it's structural. The subject demands four distinct preparation modes, each applying to specific chapters. A student who understands this and adapts their study method per chapter dramatically outperforms a student who approaches all chapters the same way.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Skill 1 — Conceptual Understanding
+            </div>
+
+            <h3>
+                Grasp the "why" before the "how"
+            </h3>
+
+            <p>
+                Why does inertia exist? Why does conservation of momentum hold in a collision but not when friction is present? Why does a satellite in circular orbit have zero work done by gravity? These conceptual questions are tested directly in board papers — 2-mark "give reason" and "explain why" questions that cannot be answered by formula recall.
+            </p>
+
+            <span class="freq-tag">
+                Key chapters: Laws of Motion, Gravitation, Thermodynamics
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Skill 2 — Derivation Mastery
+            </div>
+
+            <h3>
+                Write the proof — don't just follow it
+            </h3>
+
+            <p>
+                Derivations in Class 11 Physics are not exercises in copying steps. They are marks — typically 3–5 marks per derivation question. The simple pendulum time period, equations of rotational motion, Bernoulli's equation, first law of thermodynamics — these must be written from memory, with correct assumptions stated and logical steps sequenced. Following along in a textbook and reproducing independently under 6 minutes are different skills.
+            </p>
+
+            <span class="freq-tag">
+                Key chapters: Thermodynamics, Waves, Rotational Motion, Gravitation
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Skill 3 — Numerical Fluency
+            </div>
+
+            <h3>
+                Calculate under time pressure — not just in peace
+            </h3>
+
+            <p>
+                A student who can solve a Kinematics numerical in 8 minutes at home is not ready for the board exam if the same problem needs to be done in 3 minutes under pressure. Numerical fluency comes from volume — 5–8 numericals per chapter per week, under timed conditions, with increasing complexity.
+                <cite index="16-1">
+                    A significant portion of the paper tests numerical problem-solving, especially from mechanics and thermodynamics.
+                </cite>
+            </p>
+
+            <span class="freq-tag">
+                Key chapters: Kinematics, Work-Energy, Fluids, Kinetic Theory
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Skill 4 — Graph Interpretation
+            </div>
+
+            <h3>
+                Extract information from graphs — not just plot them
+            </h3>
+
+            <p>
+                CBSE Class 11 Physics tests graph reading extensively: v-t and s-t graphs in Kinematics (slope = acceleration, area = displacement), PV diagrams in Thermodynamics (area under curve = work done), displacement-time graphs in Waves (read wavelength, amplitude, phase). Graph questions are routinely 3 marks and routinely answered poorly because students practise plotting but not interpreting.
+            </p>
+
+            <span class="freq-tag">
+                Key chapters: Kinematics, Thermodynamics, Oscillations, Waves
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="mechanics-dependency-chain">
+
+    <h2>
+        Study Mechanics in This Exact Order — or Spend Twice as Long on Every Chapter After It
+    </h2>
+
+    <p>
+        Mechanics is not five independent chapters. It is a dependency chain — each chapter uses the concepts from the previous one as its foundation. Students who follow textbook order (which mirrors this dependency) build understanding progressively and find each chapter faster than the last. Students who skip ahead or study chapters in the order they feel comfortable hit conceptual walls that feel like "Physics is too hard" — but are actually just sequencing failures.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">First</div>
+            <h3>Kinematics</h3>
+            <p>
+                Defines motion vocabulary: displacement, velocity, acceleration. Everything else uses these.
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Second</div>
+            <h3>Laws of Motion</h3>
+            <p>
+                Explains why motion changes. Requires Kinematics (F=ma uses acceleration from Ch 3/4).
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Third</div>
+            <h3>Work, Energy &amp; Power</h3>
+            <p>
+                Energy framework for motion. Work-Energy theorem uses F (from Newton) and displacement (from Kinematics).
+            </p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Fourth</div>
+            <h3>Rotational Motion</h3>
+            <p>
+                Rotation equivalent of Kinematics + Newton's Laws. Torque = I·α mirrors F = ma exactly.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+        <div class="s-label">Fifth</div>
+        <h3>Gravitation</h3>
+        <p>
+            Applies Newton's Laws to planetary motion. Orbital velocity uses energy conservation from Ch 6.
+        </p>
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The specific dependency that most students miss:</strong>
+        Friction (within Laws of Motion) is only fully understandable after Newton's Laws are solid — because friction depends on normal reaction (N), and finding N in non-trivial situations (inclined planes, connected blocks) requires applying F = ma in both directions. A student who hasn't mastered FBD-based N calculations will find friction problems unsolvable even after "reading" the friction section.
+    </div>
+
+</section>
+<section id="free-body-diagram-framework">
+
+    <h2>
+        The Free Body Diagram Is the Most Important Skill in Class 11 Physics. Most Students Never Learn It Properly.
+    </h2>
+
+    <p>
+        <cite index="27-1">
+            Most mistakes in Laws of Motion happen when students identify forces incorrectly. A correct FBD helps in applying ΣF = ma or equilibrium conditions properly.
+        </cite>
+        This is not an overstatement. The Free Body Diagram is the bridge between reading a physics problem and solving it correctly. Without it, multi-force problems — blocks on inclined planes, Atwood's machines, objects in circular motion — are essentially guesswork. With it, any Laws of Motion problem reduces to a systematic procedure.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Step 1
+            </div>
+
+            <h3>
+                Isolate the object
+            </h3>
+
+            <p>
+                Draw the object alone — completely separated from everything it's touching. A block on a table is drawn as just the block, floating in space. The table disappears. The hand pushing it disappears. Only the object remains.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Step 2
+            </div>
+
+            <h3>
+                Identify and draw every force acting on it
+            </h3>
+
+            <p>
+                For every surface the object touches: Normal force (perpendicular to surface), Friction force (parallel to surface, opposing motion). Always: Weight (mg downward). Any applied forces, tension in strings, or pressure forces. Draw each as an arrow from the object's centre, labelled with its symbol.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Step 3
+            </div>
+
+            <h3>
+                Choose coordinate axes
+            </h3>
+
+            <p>
+                For inclined planes: set x-axis along the incline, y-axis perpendicular. This resolves weight into components (mg·sinθ along incline, mg·cosθ perpendicular) and makes both equations simpler. Always align axes to reduce the number of force components needing resolution.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Step 4
+            </div>
+
+            <h3>
+                Apply ΣF = ma in each direction
+            </h3>
+
+            <p>
+                Write ΣFₓ = maₓ and ΣFᵧ = maᵧ separately. For equilibrium: ΣF = 0. Substitute force symbols, solve for unknowns. Every variable should come from the FBD — not from the problem text directly. If you can't find it in the FBD, you've missed a force.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        <strong>
+            The two most common FBD errors — and how they cost marks:
+        </strong>
+    </p>
+
+    <div class="warn-box">
+        ⚠️ <strong>Error 1: Treating action-reaction pairs as the same body.</strong>
+        <cite index="26-1">
+            Action and reaction forces do NOT cancel each other. They act on different bodies. Cancellation would mean they act on the same object — which is never the case in a Newton's Third Law pair.
+        </cite>
+        When a block rests on a table, the block's weight acts on the block — and its reaction acts on the Earth, not the table. The normal force from the table acts on the block — its reaction acts on the table. Drawing all four forces on one diagram creates a false equilibrium that produces wrong equations.
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>Error 2: Treating centripetal force as an additional force.</strong>
+        Centripetal force is not a separate force to be added to the FBD — it is the net inward force that results from the forces already drawn. In circular motion, gravity, normal force, and tension together produce the centripetal acceleration. Adding a separate "centripetal force" arrow is a conceptual error that produces incorrect equations.
+    </div>
+
+</section>
+<section id="thermodynamics-strategy">
+
+    <h2>
+        Thermodynamics: 6 Marks, Zero Heavy Numericals, and a Clear Pattern. The Scoring Chapter Most Students Underestimate.
+    </h2>
+
+    <p>
+        Thermodynamics carries 6 marks and has one of the most predictable patterns in the entire Class 11 Physics paper. It is primarily derivation-based and definition-based — not heavily numerical. A student who builds the three laws cold, understands the PV diagram for all four processes, and can write the first law derivation cleanly is looking at 5–6 guaranteed marks. Yet most students underinvest in Thermodynamics because it sits between the numerically intense Fluids unit and the conceptually demanding Oscillations unit — and gets squeezed out of study time.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Zeroth Law
+            </div>
+
+            <h3>
+                Thermal Equilibrium
+            </h3>
+
+            <p>
+                If A is in thermal equilibrium with B, and B with C, then A is in thermal equilibrium with C. Defines temperature. Board question type: state and explain with example (2 marks).
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                First Law
+            </div>
+
+            <h3>
+                ΔU = Q − W
+            </h3>
+
+            <p>
+                Change in internal energy = heat added to system − work done by system. Board question type: derive the expression, or apply to a specific process (3–5 marks). Know W = PΔV for isobaric specifically.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Second Law
+        </div>
+
+        <h3>
+            Heat Engine Efficiency
+        </h3>
+
+        <p>
+            No heat engine can have 100% efficiency. η = 1 − T₂/T₁ for Carnot engine. Board question type: state the law, distinguish Kelvin-Planck from Clausius statements, calculate Carnot efficiency (2–3 marks).
+        </p>
+
+    </div>
+
+    <p>
+        The PV diagram is the most important visual in Thermodynamics. For the four standard processes — isothermal (T constant, hyperbolic curve), adiabatic (steeper than isothermal), isochoric (vertical line, no work done), isobaric (horizontal line, maximum work done) — you should be able to: draw the curve, state what is constant, write the work expression, and state whether Q is positive, negative, or zero. This covers every Thermodynamics question type in the CBSE board paper.
+    </p>
+
+</section>
+<section id="oscillations-and-waves">
+
+    <h2>
+        SHM Today, Class 12 Physics Tomorrow. Why Oscillations &amp; Waves Are More Important Than Their 8 Marks Suggest.
+    </h2>
+
+    <p>
+        Oscillations and Waves carry 8 marks in Class 11 and are the most forward-looking unit in the entire syllabus. <cite index="3-1">Mechanics and oscillations are especially important for students aiming for JEE or NEET.</cite> More specifically, Simple Harmonic Motion is the conceptual foundation for Electromagnetic Waves, Optics, and AC Circuits in Class 12. A student who truly understands why x = A·sin(ωt + φ), what ω represents, and how energy distributes between kinetic and potential in SHM will find Class 12 Physics conceptually accessible. A student who memorises the SHM formula without understanding it will find Class 12 Wave Optics and AC circuits opaque — because the mathematics is the same and the physical intuition is the same.
+    </p>
+
+    <p>
+        For the board exam specifically, two questions appear with extraordinary regularity from this unit: the simple pendulum time period derivation (T = 2π√(l/g)) and the standing waves in strings and organ pipes (fundamental mode and harmonics). The simple pendulum derivation is a 3-mark question that is fully predictable — learn it once, write it under 4 minutes, secure 3 marks reliably.
+    </p>
+
+    <p>
+        For Waves: the displacement relation y = A·sin(kx − ωt) for a progressive wave, the speed relation v = fλ, and the speed of sound v = √(γP/ρ) for gases are the three most tested formulas. Wave questions also frequently include graph interpretation — read the wavelength (distance between two successive crests) and amplitude (maximum displacement from equilibrium) directly from a displacement-position graph.
+    </p>
+
+    <div class="highlight-box">
+        💡 <cite index="8-1">
+            Studying Class 11 Physics builds a strong foundation for competitive exams like JEE and NEET. It covers key topics such as Kinematics, Laws of Motion, Thermodynamics, and Oscillations, along with practical experiments and activities.
+        </cite>
+        The return on Class 11 Physics investment is genuinely double — every well-understood concept serves both your annual exam in March and your JEE/NEET preparation the following year.
+    </div>
+
+</section>
+<section id="physics-performance-analysis">
+
+    <h2>
+        One Physics Score Hides Four Different Skill Gaps. Here's How to Find All Four.
+    </h2>
+
+    <p>
+        A Class 11 Physics test score of 48 out of 70 is almost useless as preparation data. It tells you 22 marks were lost — nothing about whether those marks came from FBD errors in Laws of Motion numericals, a derivation that ran out of time in Thermodynamics, graph misreading in Kinematics, or conceptual confusion in Waves. Without that breakdown, the next study session goes wherever feels least intimidating, not wherever the data says it should go.
+    </p>
+
+    <div class="accuracy-demo">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 11 Physics mock test
+        </h4>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Thermodynamics — process identification
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:82%;background:#1baf7a"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#1baf7a">
+                82%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Kinematics — graph interpretation
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:71%;background:#4a90d9"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#4a90d9">
+                71%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Gravitation — orbital mechanics numericals
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:54%;background:#eda100"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#eda100">
+                54%
+            </div>
+
+        </div>
+
+        <div class="acc-row">
+
+            <div class="acc-subject">
+                Laws of Motion — FBD numericals (inclined plane)
+            </div>
+
+            <div class="acc-bar">
+                <div class="acc-fill"
+                     style="width:36%;background:#e04848"></div>
+            </div>
+
+            <div class="acc-pct" style="color:#e04848">
+                36%
+            </div>
+
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Laws of Motion FBD (36%) — not Thermodynamics (82%). Every session directed by data. Genelis builds this map automatically after every practice session and mock test.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. For Class 11 Physics, the <strong>Genelis learning system</strong> tracks your accuracy separately across all 10 units — distinguishing numerical errors from conceptual errors, and derivation gaps from graph misreading. Wrong answers are automatically logged to your <strong>wrong-question notebook</strong>, tagged by chapter and question type. FBD errors in Laws of Motion are logged separately from concept questions. The next session is directed at the lowest-accuracy area — not the most comfortable one.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt Physics session
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Chapter-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step" style="border-color:#1baf7a">
+            <span class="sn" style="color:#1baf7a">
+                Result
+            </span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-physics&utm_content=cta-inline">
+        Start your personalised Class 11 Physics study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class-11-physics-formula-sheet">
+
+    <h2>
+        Complete Class 11 Physics Formula Sheet — Mechanics, Thermodynamics, Oscillations &amp; Waves
+    </h2>
+
+    <p>
+        Use this as a weekly recall sheet, not a passive reading page. Read one unit, close the page, reproduce the formulas from memory, check what you missed, and return to those specifically.
+    </p>
+
+    <div id="kinematics-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                K
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Kinematics — Motion in a Straight Line &amp; Motion in a Plane
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                11 marks ★ Highest chapter
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Five Equations of Motion (uniform acceleration)
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Velocity-time
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v = u + at
+
+                            <span class="gdl-formula-note">
+                                u = initial velocity, v = final velocity, a = acceleration, t = time
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Position-time
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            s = ut + ½at²
+
+                            <span class="gdl-formula-note">
+                                s = displacement from initial position
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Velocity-position
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v² = u² + 2as
+
+                            <span class="gdl-formula-note">
+                                Use when time is not given and not needed
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Average velocity
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            s = ½(u + v)t
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            nth second displacement
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            sₙ = u + a(2n−1)/2
+
+                            <span class="gdl-formula-note">
+                                Displacement in the nth second specifically (not total displacement in n seconds)
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Projectile Motion
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Time of flight
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            T = 2u·sinθ / g
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Maximum height
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            H = u²·sin²θ / 2g
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Horizontal range
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            R = u²·sin2θ / g
+
+                            <span class="gdl-formula-note">
+                                Maximum range occurs at θ = 45°
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="laws-of-motion-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                N
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Laws of Motion
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                7 marks · FBD-heavy · JEE/NEET essential
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Newton's Second Law
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        F = ma &nbsp;·&nbsp; F = dp/dt (general form)
+
+                        <span class="gdl-formula-note">
+                            F = ma only when mass is constant. F = dp/dt is always valid. Both appear in board papers.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Impulse
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        J = F·t = Δp = mv − mu
+
+                        <span class="gdl-formula-note">
+                            Area under F-t graph = impulse. Appears in NEET MCQs frequently as F-t graph interpretation.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Conservation of momentum
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+                        (no external force)
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Friction
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        f<sub>s</sub> ≤ μ<sub>s</sub>·N
+                        &nbsp;·&nbsp;
+                        f<sub>k</sub> = μ<sub>k</sub>·N
+                        &nbsp;·&nbsp;
+                        μ<sub>k</sub> &lt; μ<sub>s</sub> always
+
+                        <span class="gdl-formula-note">
+                            Static friction is self-adjusting up to maximum μs·N. Once motion begins, kinetic friction μk·N applies.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Lift — apparent weight
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        N = m(g+a) upward
+                        &nbsp;·&nbsp;
+                        N = m(g−a) downward
+                        &nbsp;·&nbsp;
+                        N = 0 free fall
+
+                        <span class="gdl-formula-note">
+                            Always draw FBD first: weight mg down, normal N up. Apply ΣF = ma vertically.
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="work-energy-power-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                W
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Work, Energy &amp; Power
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                6 marks · WET is the core concept
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Work done
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        W = F·s·cosθ = F⃗·s⃗
+
+                        <span class="gdl-formula-note">
+                            θ = angle between force and displacement. W = 0 if force ⊥ displacement (circular motion by centripetal force).
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Kinetic energy
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        KE = ½mv²
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Work-Energy Theorem
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        W<sub>net</sub> = ΔKE = ½mv² − ½mu²
+
+                        <span class="gdl-formula-note">
+                            Total work done by ALL forces = change in kinetic energy. Include friction, normal, gravity — all forces.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Gravitational PE
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        PE = mgh
+
+                        <span class="gdl-formula-note">
+                            Always measured relative to a reference level. Only the change in PE (ΔPE) has physical meaning.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Spring PE
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        PE = ½kx²
+
+                        <span class="gdl-formula-note">
+                            k = spring constant (N/m), x = compression/extension from natural length
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Power
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        P = W/t = F·v = F·v·cosθ
+
+                        <span class="gdl-formula-note">
+                            Instantaneous power = F·v. Average power = total work / total time.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Elastic collision
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        v₁ = (m₁−m₂)u₁/(m₁+m₂) + 2m₂u₂/(m₁+m₂)
+
+                        <span class="gdl-formula-note">
+                            If m₁ = m₂: v₁ = u₂ and v₂ = u₁ (velocities exchange). Special case asked frequently.
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="rotational-motion-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                R
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Rotational Motion
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                6 marks · Mirror of linear motion
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Rotational kinematics
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        ω = ω₀ + αt
+                        &nbsp;·&nbsp;
+                        θ = ω₀t + ½αt²
+                        &nbsp;·&nbsp;
+                        ω² = ω₀² + 2αθ
+
+                        <span class="gdl-formula-note">
+                            Direct rotational equivalents of v=u+at, s=ut+½at², v²=u²+2as
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Torque
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        τ = r × F = rF·sinθ = Iα
+
+                        <span class="gdl-formula-note">
+                            Rotational equivalent of F = ma. I = moment of inertia, α = angular acceleration.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Angular momentum
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        L = Iω = mvr (for particle)
+
+                        <span class="gdl-formula-note">
+                            Conservation: if τ<sub>net</sub> = 0, then L = constant. Ice skater spinning faster when arms pulled in.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Rotational KE
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        KE = ½Iω²
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Key moments of inertia
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        Solid sphere: (2/5)MR²
+                        &nbsp;·&nbsp;
+                        Hollow sphere: (2/3)MR²
+                        &nbsp;·&nbsp;
+                        Disc: ½MR²
+                        &nbsp;·&nbsp;
+                        Ring: MR²
+                        &nbsp;·&nbsp;
+                        Rod (centre): ML²/12
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Parallel axis theorem
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        I = I<sub>cm</sub> + Md²
+
+                        <span class="gdl-formula-note">
+                            I about any axis = I about parallel axis through CM + Md². d = distance between axes.
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="gravitation-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                G
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Gravitation
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                6 marks · Orbital mechanics + energy
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-list">
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Universal Law of Gravitation
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        F = Gm₁m₂ / r²
+
+                        <span class="gdl-formula-note">
+                            Force is always attractive and acts along the line joining the two masses. G is the universal gravitational constant.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Acceleration due to gravity
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        g = GM / R²
+
+                        <span class="gdl-formula-note">
+                            G is universal; g depends on the planet and location. g decreases with both altitude and depth.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Gravitational potential energy
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        U = −GMm / r
+
+                        <span class="gdl-formula-note">
+                            Gravitational potential energy is negative for a bound system because zero potential energy is taken at infinity.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Escape velocity
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        v<sub>e</sub> = √(2GM/R) = √(2gR)
+
+                        <span class="gdl-formula-note">
+                            Minimum speed needed to escape Earth's gravitational influence without further propulsion. Independent of the mass of the escaping object.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Orbital velocity
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        v<sub>o</sub> = √(GM/r)
+
+                        <span class="gdl-formula-note">
+                            For circular orbit, gravity itself provides the centripetal force. Remember that r is measured from Earth's centre.
+                        </span>
+                    </div>
+
+                </div>
+
+                <div class="gdl-formula-row">
+
+                    <div class="gdl-formula-name">
+                        Satellite time period
+                    </div>
+
+                    <div class="gdl-formula-expression">
+                        T = 2π√(r³/GM)
+
+                        <span class="gdl-formula-note">
+                            This gives Kepler's third-law relation: T² ∝ r³ for satellites orbiting the same central body.
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="properties-of-bulk-matter-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                B
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Properties of Bulk Matter — Solids, Fluids &amp; Thermal Properties
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                12 marks ★ Highest single unit
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Mechanical Properties of Solids
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Stress
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Stress = F / A
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Longitudinal strain
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Strain = ΔL / L
+
+                            <span class="gdl-formula-note">
+                                Strain is dimensionless.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Young's modulus
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Y = Stress / Strain
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Bulk modulus
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            B = −ΔP / (ΔV/V)
+
+                            <span class="gdl-formula-note">
+                                The negative sign indicates that volume decreases when pressure increases.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Shear modulus
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            η = Tangential stress / Shear strain
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Mechanical Properties of Fluids
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Pressure
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P = F / A
+                            &nbsp;·&nbsp;
+                            Gauge pressure = ρgh
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Continuity equation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            A₁v₁ = A₂v₂ = constant
+
+                            <span class="gdl-formula-note">
+                                For incompressible steady flow: smaller cross-sectional area means higher fluid speed.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Bernoulli's equation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P + ½ρv² + ρgh = constant
+
+                            <span class="gdl-formula-note">
+                                Applies to ideal, incompressible, non-viscous steady flow.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Stokes' force
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            F = 6πηrv
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Surface energy
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Surface energy = Surface tension × Increase in surface area
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Thermal Properties of Matter
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Linear expansion
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔL = αLΔT
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Heat capacity relation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Q = mcΔT
+
+                            <span class="gdl-formula-note">
+                                In calorimetry, if heat loss to surroundings is neglected: heat lost by hot body = heat gained by cold body.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Latent heat
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Q = mL
+
+                            <span class="gdl-formula-note">
+                                During a phase change, temperature remains constant while latent heat is absorbed or released.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Thermal conduction rate
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            H = kAΔT / L
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Stefan's law
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            P = σAT⁴
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="thermodynamics-kinetic-theory-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                T
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Thermodynamics &amp; Kinetic Theory
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                6 + 4 = 10 marks combined · Derivation-heavy
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Thermodynamics
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            First Law
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            ΔU = Q − W
+
+                            <span class="gdl-formula-note">
+                                Q = heat added to system (positive), W = work done by system (positive). ΔU = change in internal energy.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Work done by gas
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            W = PΔV (isobaric)
+                            &nbsp;·&nbsp;
+                            W = 0 (isochoric)
+                            &nbsp;·&nbsp;
+                            W = nRT·ln(V<sub>f</sub>/V<sub>i</sub>) (isothermal)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Adiabatic process
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            PV<sup>γ</sup> = constant
+                            &nbsp;·&nbsp;
+                            TV<sup>(γ−1)</sup> = constant
+
+                            <span class="gdl-formula-note">
+                                γ = Cₚ/Cᵥ = 5/3 for monoatomic, 7/5 for diatomic gases. Q = 0 in adiabatic.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Carnot efficiency
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            η = 1 − T₂/T₁ = 1 − Q₂/Q₁
+
+                            <span class="gdl-formula-note">
+                                T₁ = temperature of source (hot reservoir), T₂ = temperature of sink. Always express T in Kelvin.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Kinetic Theory of Gases
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Ideal gas equation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            PV = nRT
+                            &nbsp;·&nbsp;
+                            PV = NkT
+
+                            <span class="gdl-formula-note">
+                                R = 8.314 J/mol·K, k = 1.38 × 10⁻²³ J/K (Boltzmann constant), N = number of molecules
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            RMS speed
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v<sub>rms</sub> = √(3RT/M) = √(3kT/m)
+
+                            <span class="gdl-formula-note">
+                                M = molar mass (kg/mol), m = mass of one molecule. v<sub>rms</sub> &gt; v<sub>avg</sub> &gt; v<sub>mp</sub>
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            KE per molecule
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            KE = (f/2)kT
+                            &nbsp; where f = degrees of freedom
+
+                            <span class="gdl-formula-note">
+                                Monoatomic: f = 3, KE = (3/2)kT. Diatomic: f = 5, KE = (5/2)kT.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+        <div id="oscillations-waves-formulas" class="gdl-formula-unit">
+
+        <div class="gdl-formula-unit-header">
+
+            <div class="gdl-formula-unit-number">
+                ~
+            </div>
+
+            <div class="gdl-formula-unit-title">
+                <h3>
+                    Oscillations (SHM) &amp; Waves
+                </h3>
+            </div>
+
+            <div class="gdl-formula-unit-marks">
+                8 marks · Class 12 gateway
+            </div>
+
+        </div>
+
+        <div class="gdl-formula-unit-body">
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Simple Harmonic Motion
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Displacement
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            x = A·sin(ωt + φ)
+
+                            <span class="gdl-formula-note">
+                                A = amplitude, ω = angular frequency, φ = initial phase. Cosine form also valid: x = A·cos(ωt + φ)
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Velocity in SHM
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v = ω√(A²−x²)
+                            &nbsp;·&nbsp;
+                            v<sub>max</sub> = ωA (at x=0)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Acceleration in SHM
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            a = −ω²x
+                            &nbsp;·&nbsp;
+                            a<sub>max</sub> = ω²A (at x = ±A)
+
+                            <span class="gdl-formula-note">
+                                Restoring force F = −kx = −mω²x. Negative sign means directed towards equilibrium.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Time period — spring
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            T = 2π√(m/k)
+                            &nbsp;·&nbsp;
+                            f = 1/T = (1/2π)√(k/m)
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Simple pendulum
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            T = 2π√(l/g)
+
+                            <span class="gdl-formula-note">
+                                Valid for small oscillations (θ &lt; 15°). Independent of mass and amplitude. Board derivation — 3 marks.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Energy in SHM
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            KE = ½mω²(A²−x²)
+                            &nbsp;·&nbsp;
+                            PE = ½mω²x²
+                            &nbsp;·&nbsp;
+                            Total E = ½mω²A²
+
+                            <span class="gdl-formula-note">
+                                Total energy is constant. KE maximum at x=0. PE maximum at x=±A.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-formula-subsection">
+
+                <h4 class="gdl-formula-subtitle">
+                    Waves
+                </h4>
+
+                <div class="gdl-formula-list">
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Wave speed
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v = fλ = λ/T
+
+                            <span class="gdl-formula-note">
+                                f = frequency (Hz), λ = wavelength (m), T = time period (s)
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Progressive wave equation
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            y = A·sin(kx − ωt)
+                            &nbsp;·&nbsp;
+                            k = 2π/λ
+                            &nbsp;·&nbsp;
+                            ω = 2πf
+
+                            <span class="gdl-formula-note">
+                                k = wave number (rad/m). The sign convention: (kx−ωt) for wave travelling in +x direction.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Speed of sound
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            v = √(γP/ρ) (in gas)
+                            &nbsp;·&nbsp;
+                            v = √(T/μ) (in string)
+
+                            <span class="gdl-formula-note">
+                                μ = linear mass density of string (kg/m). v ∝ √T for string.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Standing waves — string
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            Fundamental: λ = 2L
+                            &nbsp;·&nbsp;
+                            f₁ = v/2L
+
+                            <span class="gdl-formula-note">
+                                nth harmonic: fₙ = nf₁. Both ends fixed: nodes at both ends. Open pipe: antinodes at both ends.
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="gdl-formula-row">
+
+                        <div class="gdl-formula-name">
+                            Doppler Effect
+                        </div>
+
+                        <div class="gdl-formula-expression">
+                            f' = f × (v ± v<sub>o</sub>) / (v ∓ v<sub>s</sub>)
+
+                            <span class="gdl-formula-note">
+                                Upper signs: observer approaching source / source approaching observer (frequency increases). Lower: moving away.
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this formula sheet:</strong>
+        After reading each unit, close this page and reproduce every formula from memory on blank paper. Check against this sheet. Return to missed formulas the next day. Repeat weekly. By November, all formulas should take under 10 seconds to write. Use the Class 11 JEE/NEET blog on Genelis to understand which of these formulas are tested at JEE depth vs board depth — the overlap is large and the effort is shared.
+    </div>
+
+</section>
+
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which unit has the highest weightage in Class 11 Physics "
+                "CBSE 2025–26?"
+            ),
+            "answer": (
+                "Properties of Bulk Matter (Unit VII) carries the highest "
+                "single-unit weightage at 12 marks out of 70 theory marks, "
+                "covering Mechanical Properties of Solids, Mechanical "
+                "Properties of Fluids, and Thermal Properties of Matter. "
+                "However, Mechanics as a combined group — Kinematics (11) + "
+                "Laws of Motion (7) + Work-Energy-Power (6) + Rotational "
+                "Motion (6) + Gravitation (6) — accounts for 36 marks, "
+                "making it the most critical preparation area for Class 11 "
+                "Physics."
+            )
+        },
+        {
+            "question": (
+                "How should I prepare Laws of Motion for Class 11 Physics "
+                "boards and JEE?"
+            ),
+            "answer": (
+                "Start with conceptual clarity on all three Newton's Laws, "
+                "especially the distinction between First Law (inertia) and "
+                "Second Law (F = ma). Then master Free Body Diagrams — draw "
+                "them for every problem before writing an equation. FBDs are "
+                "the single most important skill in Laws of Motion; most "
+                "numerical errors happen because students identify forces "
+                "incorrectly before applying F = ma. Practice the lift "
+                "problem (N = m(g+a) or m(g-a)), friction on inclined plane, "
+                "Atwood's machine, and circular motion on banked roads. Laws "
+                "of Motion has appeared in every NEET paper since 2013 and "
+                "carries 6-8% weightage in JEE Main."
+            )
+        },
+        {
+            "question": (
+                "What are the most important formulas for Class 11 Physics "
+                "CBSE?"
+            ),
+            "answer": (
+                "The must-know Class 11 Physics formulas span all units: "
+                "Kinematics — five equations of motion (v=u+at, "
+                "s=ut+½at², v²=u²+2as, s=½(u+v)t, "
+                "sₙ=u+a(2n-1)/2); Laws of Motion — F=ma, impulse "
+                "J=Ft=Δp, friction f=μN; Work-Energy — W=Fs·cosθ, "
+                "KE=½mv², WET: Wnet=ΔKE; Gravitation — "
+                "F=Gm₁m₂/r², g=GM/R², escape velocity v=√(2gR); "
+                "Thermodynamics — first law ΔU=Q-W, W=PΔV for isobaric; "
+                "SHM — T=2π√(m/k), T=2π√(l/g), "
+                "x=A·sin(ωt+φ); Waves — v=fλ, v=√(T/μ) for string. "
+                "All formulas are in the complete formula sheet in this guide."
+            )
+        },
+        {
+            "question": (
+                "Is Class 11 Physics important for JEE and NEET?"
+            ),
+            "answer": (
+                "Critically so. Class 11 Physics contributes approximately "
+                "40–45% of JEE Physics questions and around 30% of NEET "
+                "Physics questions. Laws of Motion has appeared in every "
+                "NEET paper since 2013 without exception. Work-Energy-Power "
+                "and Gravitation are high-frequency JEE chapters. "
+                "Oscillations and Waves from Class 11 form the conceptual "
+                "base for Electromagnetic Waves, Optics, and AC Circuits "
+                "in Class 12. A student who masters Class 11 Physics "
+                "properly builds both board and competitive exam foundation "
+                "simultaneously."
+            )
+        },
+        {
+            "question": (
+                "Why do students find Class 11 Physics so much harder than "
+                "Class 10 Science?"
+            ),
+            "answer": (
+                "Class 11 Physics requires four new skills simultaneously — "
+                "conceptual understanding (why laws work), derivation mastery "
+                "(reproducing mathematical proofs), numerical fluency "
+                "(solving multi-step problems under time pressure), and "
+                "graph interpretation (extracting information from v-t, "
+                "s-t, PV diagrams). Class 10 Science required only recall "
+                "and basic application. Students who try to prepare Class 11 "
+                "Physics the same way they prepared Class 10 Science "
+                "consistently struggle — not because the concepts are beyond "
+                "them, but because the preparation method doesn't match what "
+                "the subject demands."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "cbse-class-11-survival-guide-all-streams",
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "class-12-physics-pyq-analysis-optics-electrostatics",
+        "how-to-use-mock-tests-board-exam-preparation",
+        "wrong-question-notebook-board-exams"
+    ]
+},
+{
     "slug": "class-11-accountancy-journal-entries-trial-balance-cbse",
 
     "title": (
