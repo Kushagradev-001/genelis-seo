@@ -34605,6 +34605,1631 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
     ]
 },
 {
+    "slug": "cbse-class-9-half-yearly-exam-2026-27-study-plan",
+
+    "title": (
+        "CBSE Class 9 Half-Yearly Exam 2026–27: "
+        "30-Day Study Plan for All Subjects"
+    ),
+
+    "meta_title": (
+        "CBSE Class 9 Half-Yearly Exam 2026–27: "
+        "30-Day Study Plan for All Subjects | Genelis"
+    ),
+
+    "meta_description": (
+        "Class 9 has an entirely new NCERT curriculum this year — "
+        "Ganita Manjari, Exploration, and a restructured Social Science "
+        "book, with Part II not yet released. This 30-day plan covers "
+        "what your half-yearly syllabus almost certainly includes, "
+        "week-by-week strategy, and subject-wise priorities for 2026–27."
+    ),
+
+    "excerpt": (
+        "A new NCERT curriculum, only Part I published, and a half-yearly "
+        "syllabus that almost certainly follows from that. Explore the "
+        "complete 30-day preparation plan for Class 9 Maths, Science, "
+        "Social Science and English."
+    ),
+
+    "class": "9",
+
+    "subject": "All Subjects",
+
+    "category": "Exam Preparation",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-11T09:00:00+05:30",
+
+    "updated_date": "2026-08-11T09:00:00+05:30",
+
+    "reading_time": "12 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 9 half-yearly exam 2026-27 "
+        "30-day study plan for all subjects"
+    ),
+
+    "keywords": [
+        "class 9 half yearly exam 2026",
+        "class 9 half yearly syllabus",
+        "class 9 new syllabus 2026-27",
+        "Ganita Manjari class 9",
+        "Exploration class 9 science",
+        "class 9 30 day study plan",
+        "CBSE class 9 half yearly preparation",
+        "class 9 social science new syllabus"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        If you're searching for a Class 9 half-yearly study guide right now, you should know one thing before anything else: this is not a normal year. CBSE Class 9 has adopted a completely new NCERT curriculum for 2026–27 — new textbooks in Maths, Science, and Social Science, built under the National Curriculum Framework for School Education (NCF-SE) 2023. The chapter names are different. The question style is different. And, most usefully for planning your next 30 days, only <strong>Part I</strong> of each new textbook has been published so far — Part II has not yet been released by NCERT.
+    </p>
+
+    <p>
+        That last fact matters more than almost anything else in this guide. It means your half-yearly syllabus — whatever your school's exact portion turns out to be — is very unlikely to include content that doesn't exist yet. This guide is built around that reality: what's genuinely new this year, why the half-yearly carries more real weight than most students assume, and a day-by-day 30-day plan across Maths, Science, Social Science, and English.
+    </p>
+
+</section>
+
+
+<section id="half-yearly-clarification">
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ A quick, important clarification
+        </h3>
+
+        <p>
+            Half-yearly exams are set and conducted by your individual school — not by CBSE centrally. There is no official CBSE half-yearly datesheet, question paper, or national marking scheme. Schools typically follow the CBSE curriculum and set their own papers, usually somewhere in the mid-September to mid-October window. This guide gives you the most reliable, verified framework available — the actual CBSE 2026–27 curriculum and the realistic syllabus pattern most schools follow — but always cross-check your exact dates and chapter list against your own school's circular.
+        </p>
+
+    </div>
+
+</section>
+<section id="class-9-new-curriculum">
+
+    <h2>
+        What's Actually New in Class 9 This Year — and Why It Changes How You Should Prepare
+    </h2>
+
+    <p>
+        Every Class 9 study guide written before April 2026 is describing a syllabus that no longer exists. Here is exactly what changed, subject by subject:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mathematics
+            </div>
+
+            <h3>
+                <em>Ganita Manjari</em> replaces the old textbook
+            </h3>
+
+            <p>
+                A more reasoning-based, activity-led approach — questions often appear before the method is taught. Chapters cover coordinates, linear polynomials, number systems, algebraic identities, sequences and progressions, mensuration, and probability.
+            </p>
+
+            <span class="freq-tag">
+                Part I published — 8 chapters
+            </span>
+
+            <br><br>
+
+            <span class="freq-tag">
+                Part II — not yet released
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Science
+            </div>
+
+            <h3>
+                <em>Exploration</em> merges all four sciences
+            </h3>
+
+            <p>
+                Physics, Chemistry, Biology, and — for the first time at this level — Earth Science, combined into one 13-chapter book. Reproduction and classification have moved down from Class 10 into Class 9. An optional Advanced Level track now exists alongside the standard course.
+            </p>
+
+            <span class="freq-tag">
+                Full 13 chapters published
+            </span>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Social Science
+        </div>
+
+        <h3>
+            Four textbooks become one integrated book
+        </h3>
+
+        <p>
+            History, Geography, Political Science, and Economics — previously four separate books — are now a single India-centric, integrated volume. New themes include financial literacy, entrepreneurship, and Indian Knowledge Systems. Some Class 11-level Geography and Political Science topics have moved down into Class 9.
+        </p>
+
+        <span class="freq-tag">
+            Part I published
+        </span>
+
+        <br><br>
+
+        <span class="freq-tag">
+            Part II — not yet released
+        </span>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>A small but important caveat:</strong>
+        Different sources currently use slightly different names and chapter counts for the new Social Science book, since this is a newly rolled-out curriculum still settling across publishers and schools. Confirm the exact title and chapter list printed on your own textbook rather than relying on any single external source — including this one.
+    </div>
+
+    <p>
+        Science has also introduced something genuinely new: an <strong>optional Advanced Level track</strong>, assessed through a separate exam alongside the mandatory standard paper — aimed at students who want to go beyond the core syllabus. It's additional, not a replacement, and this rollout will extend to Class 10 in 2027–28. If your school has opted into it, factor that into your 30-day plan; if not, ignore it entirely for this year's half-yearly.
+    </p>
+
+</section>
+<section id="why-half-yearly-matters">
+
+    <h2>
+        Why the Half-Yearly Actually Counts — And What It Almost Certainly Covers
+    </h2>
+
+    <p>
+        Class 9, like Class 10, follows CBSE's standard 80 marks theory + 20 marks internal assessment structure per subject. Within that 20-mark internal assessment, Periodic Assessment typically carries 10 marks — based on the average of the best 2 of 3 periodic tests conducted through the year. In most CBSE schools, the half-yearly exam is treated as one of these periodic tests. That means it isn't just a diagnostic check-in — it has direct, real weight on your final internal assessment score.
+    </p>
+
+    <p>
+        On syllabus coverage: half-yearly exams conventionally cover roughly the first half of the year's content. This year, that expectation lines up unusually well with what's actually available to be taught — since NCERT has published only Part I of Ganita Manjari, Exploration's full 13 chapters, and Part I of the new Social Science book, with Part II of Maths and SST not yet released. It is reasonable to expect most schools will draw their half-yearly syllabus from this published material. Confirm the exact chapter list with your school, since some schools cover only a subset even of Part I.
+    </p>
+
+</section>
+<section id="30-day-framework">
+
+    <h2>
+        The 30-Day Framework — How to Split Your Time Across Subjects
+    </h2>
+
+    <p>
+        Don't divide 30 days equally across five subjects. Split by volume and difficulty, not by subject count. Mathematics and Science both use entirely new, reasoning-heavy textbooks this year — both reward practice and application, not memorisation, and both need the most days. Social Science needs focused time to adjust to its new integrated, application-style questions. English needs daily consistency rather than one large block.
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            Recommended 30-day time allocation across subjects
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Mathematics</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:30%">
+                    9 days
+                </div>
+            </div>
+            <div class="bar-val">30%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Science</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:30%">
+                    9 days
+                </div>
+            </div>
+            <div class="bar-val">30%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Social Science</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:20%">
+                    6 days
+                </div>
+            </div>
+            <div class="bar-val">20%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">English</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:13.3%">
+                    4 days
+                </div>
+            </div>
+            <div class="bar-val">13%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Mixed revision + mock</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:6.7%">
+                    2days
+                </div>
+            </div>
+            <div class="bar-val">7%</div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            Adjust this split based on your own school's exact syllabus portion and how confident you already feel in each subject — this is a starting framework, not a rigid rule.
+        </p>
+
+    </div>
+
+</section>
+<section id="week-by-week-plan">
+
+    <h2>
+        Week-by-Week Plan
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 1
+            </div>
+
+            <h3>
+                Foundation — Maths &amp; Science
+            </h3>
+
+            <ul>
+                <li>
+                    Read each chapter once from the textbook before attempting exercises
+                </li>
+                <li>
+                    Attempt every in-text question — Ganita Manjari and Exploration both embed reasoning questions mid-chapter
+                </li>
+                <li>
+                    Build a running formula and definition list per chapter
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 2
+            </div>
+
+            <h3>
+                Continue + Start SST &amp; English
+            </h3>
+
+            <ul>
+                <li>
+                    Finish remaining Maths and Science chapters from your syllabus portion
+                </li>
+                <li>
+                    Begin Social Science — read each theme, note key terms and dates
+                </li>
+                <li>
+                    Start daily 20-minute English writing practice (paragraphs, letters)
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 3
+            </div>
+
+            <h3>
+                Full Coverage + Weak Areas
+            </h3>
+
+            <ul>
+                <li>
+                    Complete first full pass across all four subjects
+                </li>
+                <li>
+                    Identify 2–3 weakest topics per subject and revisit them specifically
+                </li>
+                <li>
+                    Attempt sample/practice papers if your school has released any
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 4
+            </div>
+
+            <h3>
+                Mixed Practice + Final Revision
+            </h3>
+
+            <ul>
+                <li>
+                    Alternate subjects daily rather than blocking one subject per day
+                </li>
+                <li>
+                    Attempt at least one full timed paper per subject in the final week
+                </li>
+                <li>
+                    Revise formula lists, key terms, and diagrams — not new content
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="subject-wise-priorities">
+
+    <h2>
+        Subject-Wise Priorities Under the New Curriculum
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mathematics
+            </div>
+
+            <h3>
+                Mathematics — Ganita Manjari
+            </h3>
+
+            <p>
+                The new book is built around reasoning before procedure — questions often appear before the method is formally taught. Don't just memorise steps; attempt to reason through why a method works before practising it repeatedly. Coordinate geometry, algebraic identities, and sequences &amp; progressions are new or restructured chapters this year — give them extra attention since there's less established practice material available yet.
+            </p>
+
+            <span class="freq-tag">
+                ~9 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Science
+            </div>
+
+            <h3>
+                Science — Exploration
+            </h3>
+
+            <p>
+                You're now studying Physics, Chemistry, Biology, and Earth Science from a single integrated book rather than separate sections. Build a subject tag next to each chapter as you study it (Physics / Chemistry / Biology / Earth Science) so your revision stays organised by discipline even though the textbook doesn't separate them. Reproduction and classification are new to Class 9 this year — don't assume you'll revisit them properly in Class 10.
+            </p>
+
+            <span class="freq-tag">
+                ~9 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Social Science
+            </div>
+
+            <h3>
+                Social Science — Integrated Volume
+            </h3>
+
+            <p>
+                The new book combines History, Geography, Political Science, and Economics into one narrative rather than four silos, with a strong India-centric and application focus — financial literacy, entrepreneurship, and Indian Knowledge Systems are genuinely new themes. The book does not use the traditional MCQ/VSA/SA/LA exercise structure, so practise writing full, structured answers rather than relying on end-of-chapter question banks that may not match this year's format.
+            </p>
+
+            <span class="freq-tag">
+                ~6 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                English
+            </div>
+
+            <h3>
+                English
+            </h3>
+
+            <p>
+                Reading and writing skills need daily, short practice far more than they need long study sessions. Spend 15–20 minutes daily on grammar (tenses, modals, reported speech) and one piece of structured writing (paragraph, diary entry, or letter) rather than saving English for a single large block near the end.
+            </p>
+
+            <span class="freq-tag">
+                ~4 days recommended
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="half-yearly-preparation-mistakes">
+
+    <h2>
+        The Mistakes Students Make Preparing for This Specific Half-Yearly
+    </h2>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 1
+        </div>
+
+        <h3>
+            Using old chapter-wise notes or guides
+        </h3>
+
+        <p>
+            Any reference material published before April 2026 is describing a syllabus that has since changed substantially in Maths, Science, and Social Science. Cross-check every resource against your actual current textbook before relying on it.
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 2
+        </div>
+
+        <h3>
+            Treating the new textbooks like the old ones
+        </h3>
+
+        <p>
+            Ganita Manjari and Exploration are built around reasoning and in-text questions, not end-of-chapter drilling. Skipping the in-text questions to jump straight to exercises skips exactly the part of the book the new curriculum is designed to test.
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 3
+        </div>
+
+        <h3>
+            Assuming the half-yearly doesn't really count
+        </h3>
+
+        <p>
+            It typically feeds directly into your Periodic Assessment marks — 10 of your 20 internal assessment marks per subject. Treating it as low-stakes practice, rather than a real graded exam, is a genuine cost.
+        </p>
+
+    </div>
+
+</section>
+<section id="genelis-weak-area-map">
+
+    <h2>
+        A New Syllabus Means Old "Weak Areas" Data Doesn't Apply Anymore
+    </h2>
+
+    <p>
+        Because the Class 9 curriculum changed so significantly this year, any assumptions you or your school had about "which topics are usually hard" from previous years may no longer hold — the chapters themselves are different. Building an accurate, chapter-specific picture of your own strengths and gaps, from scratch, on the actual current syllabus, matters more this year than most.
+    </p>
+
+    <div class="acc-card">
+
+        <h4>
+            What a Genelis weak area map looks like for Class 9 this term
+        </h4>
+
+        <div class="acc-row">
+            <div class="acc-subj">Number Systems (Maths)</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:81%"></div>
+            </div>
+            <div class="acc-pct">81%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Motion &amp; Forces (Science)</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:64%"></div>
+            </div>
+            <div class="acc-pct">64%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Algebraic Identities (Maths)</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:47%"></div>
+            </div>
+            <div class="acc-pct">47%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Sequences &amp; Progressions (Maths)</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:33%"></div>
+            </div>
+            <div class="acc-pct">33%</div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: Sequences &amp; Progressions (33%) — a genuinely new chapter this year with limited existing practice material. Genelis builds this map automatically as you practise, without relying on outdated syllabus assumptions.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy chapter by chapter against the actual current 2026–27 syllabus — not last year's. Every wrong answer is logged to your <strong>wrong-question notebook</strong>, tagged by chapter, and queued for reattempt, so your revision time goes to genuinely weak areas rather than chapters that only feel unfamiliar because they're new to everyone this year.
+    </p>
+
+    <div class="loop-steps">
+
+    <div class="loop-step">
+        <span class="sn">Step 1</span>
+        Attempt a topic
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="sn">Step 2</span>
+        Chapter-level gap detected
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="sn">Step 3</span>
+        AI notes for weak concept
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="sn">Step 4</span>
+        Wrong Qs auto-logged
+    </div>
+
+    <div class="loop-arrow">→</div>
+
+    <div class="loop-step">
+        <span class="sn">Step 5</span>
+        Reattempt those questions
+    </div>
+
+</div>
+
+<div class="highlight-box">
+    ✓ <strong>Result:</strong> Gap closed. Map updates.
+</div>
+
+<a
+    class="gdl-inline-cta"
+    href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class9-halfyearly&utm_content=cta-inline"
+>
+    Start your personalised Class 9 half-yearly prep on Genelis — free →
+</a>
+ </div>
+
+</section>
+<section id="30-day-half-yearly-checklist">
+
+    <h2>
+        Your 30-Day Half-Yearly Checklist
+    </h2>
+
+    <table class="checklist-table">
+
+        <colgroup>
+            <col style="width:16%">
+            <col style="width:30%">
+            <col style="width:54%">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th>Days</th>
+                <th>Focus</th>
+                <th>Goal by end of block</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td style="white-space:nowrap">Day 1–9</td>
+                <td>Mathematics — Ganita Manjari</td>
+                <td>
+                    All syllabus chapters read once, in-text questions attempted, formula list started
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 10–18</td>
+                <td>Science — Exploration</td>
+                <td>
+                    All syllabus chapters covered, tagged by discipline, key diagrams practised
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 19–24</td>
+                <td>Social Science</td>
+                <td>
+                    All themes read, key terms and dates noted, 2–3 full written answers practised
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 25–28</td>
+                <td>English + weak-area revisit</td>
+                <td>
+                    Daily writing practice done, grammar revised, weakest topics across all subjects revisited
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 29–30</td>
+                <td>Full mixed revision + 1 timed mock</td>
+                <td>
+                    At least one full-length timed paper attempted under exam conditions
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": "Is the Class 9 half-yearly exam conducted by CBSE?",
+            "answer": (
+                "No. Half-yearly exams for Class 9 are set and conducted "
+                "by individual CBSE-affiliated schools, not by CBSE centrally. "
+                "There is no official CBSE half-yearly datesheet, question "
+                "paper, or marking scheme published at the national level. "
+                "Schools typically follow the CBSE curriculum and set their "
+                "own papers, usually in the September to mid-October window. "
+                "Always confirm exact dates, syllabus portion, and marks "
+                "weightage from your own school's circular."
+            )
+        },
+        {
+            "question": "What is new in the Class 9 syllabus for 2026-27?",
+            "answer": (
+                "CBSE Class 9 has adopted a completely new NCERT curriculum "
+                "for 2026-27 under the National Curriculum Framework for "
+                "School Education (NCF-SE) 2023. Mathematics now uses a new "
+                "textbook, Ganita Manjari, with a more reasoning-based approach. "
+                "Science now uses a single integrated book, Exploration, "
+                "covering Physics, Chemistry, Biology, and for the first time, "
+                "Earth Science, with an optional Advanced Level track. Social "
+                "Science has been restructured from four separate subject "
+                "textbooks into one integrated, India-centric volume. Only "
+                "Part I of each new textbook has been published so far; "
+                "Part II has not yet been released by NCERT as of August 2026."
+            )
+        },
+        {
+            "question": (
+                "What syllabus will the Class 9 half-yearly exam cover "
+                "in 2026-27?"
+            ),
+            "answer": (
+                "This varies by school, but there is a strong reason to expect "
+                "most schools will base the Class 9 half-yearly 2026-27 syllabus "
+                "on Part I of the new textbooks specifically: NCERT has "
+                "published only Part I of Ganita Manjari (Maths), Exploration "
+                "(Science), and the new integrated Social Science book so far, "
+                "with Part II not yet released. Since half-yearly exams typically "
+                "cover roughly the first half of the year's content, and Part II "
+                "material is not yet available to teach from, Part I chapters "
+                "are the most likely half-yearly syllabus. Confirm the exact "
+                "chapter list with your school, since some schools may cover "
+                "only a subset of Part I."
+            )
+        },
+        {
+            "question": (
+                "How much does the half-yearly exam count toward my final "
+                "Class 9 marks?"
+            ),
+            "answer": (
+                "Class 9 (like Class 10) follows an 80 marks theory plus "
+                "20 marks internal assessment structure per subject. Within "
+                "that 20-mark internal assessment, Periodic Assessment typically "
+                "carries 10 marks, based on the average of the best 2 of 3 "
+                "periodic tests conducted through the year. In most CBSE schools, "
+                "the half-yearly exam is treated as one of these periodic tests, "
+                "meaning it has direct, real weight on your final internal "
+                "assessment score, not just diagnostic value. The exact weighting "
+                "can vary by school — check your school's assessment calendar "
+                "to confirm."
+            )
+        },
+        {
+            "question": (
+                "How should I divide 30 days of preparation across "
+                "Class 9 subjects?"
+            ),
+            "answer": (
+                "Don't split 30 days equally across 5 subjects. Allocate time "
+                "by volume and difficulty: Mathematics and Science typically "
+                "need the most days since both now use new, reasoning-heavy "
+                "textbooks (Ganita Manjari and Exploration) that reward practice "
+                "over memorisation. Social Science needs dedicated time for the "
+                "new integrated, application-style questions. English needs "
+                "consistent daily writing practice rather than one large block. "
+                "A reasonable 30-day split is roughly 9 days Maths, 9 days "
+                "Science, 6 days Social Science, 4 days English, and 2 days "
+                "for full mixed revision and a timed mock paper."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "cbse-class-10-half-yearly-exam-2026-27-preparation-plan",
+        "how-to-use-mock-tests-board-exam-preparation",
+        "wrong-question-notebook-board-exams"
+    ]
+},
+{
+    "slug": "cbse-class-10-half-yearly-exam-2026-27-preparation-plan",
+
+    "title": (
+        "CBSE Class 10 Half-Yearly Exam 2026–27: "
+        "30-Day Subject-Wise Preparation Plan"
+    ),
+
+    "meta_title": (
+        "CBSE Class 10 Half-Yearly Exam 2026–27: "
+        "30-Day Subject-Wise Preparation Plan | Genelis"
+    ),
+
+    "meta_description": (
+        "Class 10's half-yearly is now the first real practice run for the "
+        "actual two-phase, five-section board exam format introduced in "
+        "2025-26. This 30-day plan covers what the half-yearly typically "
+        "tests, subject-wise priorities for Maths, Science, Social Science "
+        "and English, and how to use it as genuine board-exam preparation."
+    ),
+
+    "excerpt": (
+        "Your Class 10 half-yearly can act as a genuine rehearsal for the "
+        "five-section, competency-based board exam format. Follow this "
+        "30-day subject-wise preparation plan for Maths, Science, Social "
+        "Science and English."
+    ),
+
+    "class": "10",
+
+    "subject": "All Subjects",
+
+    "category": "Exam Preparation",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-11T09:00:00+05:30",
+
+    "updated_date": "2026-08-11T09:00:00+05:30",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 10 half-yearly exam 2026-27 "
+        "30-day subject-wise preparation plan"
+    ),
+
+    "keywords": [
+        "class 10 half yearly exam 2026",
+        "class 10 half yearly syllabus",
+        "class 10 30 day study plan",
+        "CBSE class 10 half yearly preparation",
+        "class 10 two phase board exam",
+        "class 10 competency based questions",
+        "class 10 pre board practice"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Most Class 10 students treat the half-yearly exam as a low-stakes practice round — something to get through before the "real" preparation begins closer to boards. This year, that assumption is worth reconsidering. Since the 2025–26 session, CBSE has run Class 10 board exams under a genuinely new structure: a two-phase scheme (a mandatory Phase 1 plus an optional Phase 2 improvement attempt), with each subject's paper split across five sections testing MCQs, short answers, long answers, and case-based questions — roughly half the paper now competency-based rather than pure recall.
+    </p>
+
+    <p>
+        Many CBSE schools have started designing their half-yearly papers to mirror this exact five-section format. If your school is one of them, your half-yearly isn't just a syllabus checkpoint — it's your first real rehearsal of the actual exam structure you'll face for real in February. This guide covers what the half-yearly typically tests, why it matters more than students usually assume, and a full 30-day, subject-wise preparation plan.
+    </p>
+
+</section>
+
+
+<section id="half-yearly-clarification">
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ A quick, important clarification
+        </h3>
+
+        <p>
+            Half-yearly exams are set and conducted by your individual school — not by CBSE centrally. There is no official CBSE half-yearly datesheet or national marking scheme. Schools typically follow the CBSE curriculum and set their own papers in-house, usually somewhere in the mid-September to mid-October window. This guide uses CBSE's official 2025–26 curriculum structure (largely unchanged going into 2026–27) and the realistic patterns most schools follow — but always confirm your exact dates, syllabus portion, and paper format with your own school's circular.
+        </p>
+
+    </div>
+
+</section>
+<section id="five-section-format">
+
+    <h2>
+        Why This Year's Half-Yearly Is Different — The Five-Section Format
+    </h2>
+
+    <p>
+        The CBSE Class 10 two-examination scheme was announced in February 2025 and implemented from the 2025–26 academic year, and continues into 2026–27. Each subject's theory paper carries 80 marks (plus 20 for internal assessment), structured across five sections:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Section A</div>
+            <h3>MCQs</h3>
+            <p>Objective, 1 mark each</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Section B</div>
+            <h3>Very Short Answer</h3>
+            <p>2 marks each</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Section C</div>
+            <h3>Short Answer</h3>
+            <p>3–4 marks each</p>
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+            <div class="s-label">Section D</div>
+            <h3>Long Answer</h3>
+            <p>5 marks each</p>
+        </div>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Section E
+        </div>
+
+        <h3>
+            Case-Based
+        </h3>
+
+        <p>
+            Passage/data + questions
+        </p>
+
+    </div>
+
+    <p>
+        Roughly half the paper is now competency-based — case studies, source-based questions, and application-type problems rather than direct recall. If your half-yearly follows this same structure, treat it as genuine rehearsal: practising the actual pacing across five different question types under real time pressure is a skill in itself, separate from knowing the content.
+    </p>
+
+    <div class="highlight-box">
+        💡 <strong>What this means practically:</strong> Don't just revise content for the half-yearly — practise the format. Time yourself doing a Section A MCQ block in under 15 minutes. Practise reading a case-based passage and extracting the answer without re-reading it three times. These are exam skills that only improve with repeated practice under the same structure you'll see in February.
+    </div>
+
+</section>
+<section id="half-yearly-syllabus-coverage">
+
+    <h2>
+        What the Half-Yearly Typically Covers
+    </h2>
+
+    <p>
+        Since half-yearly exams conventionally cover roughly the first half of the year's syllabus, here's what that commonly includes based on CBSE's official Class 10 curriculum structure — confirm your school's exact portion, since this varies:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mathematics
+            </div>
+
+            <h3>
+                Commonly: Real Numbers, Polynomials, Pair of Linear Equations
+            </h3>
+
+            <p>
+                These are typically the first three chapters taught and the most likely half-yearly portion. Real Numbers and Polynomials each carry meaningful weightage in the full-year paper — building them solidly now saves revision time before boards.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Science
+            </div>
+
+            <h3>
+                Commonly: Chemical Reactions, Acids/Bases/Salts, Life Processes
+            </h3>
+
+            <p>
+                The Class 10 Science paper spans Physics (25 marks), Chemistry (25 marks), and Biology (30 marks) across the full year. The half-yearly typically draws from the earlier Chemistry and Biology chapters taught first in most school timetables.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Social Science
+            </div>
+
+            <h3>
+                Commonly: early History and Geography units
+            </h3>
+
+            <p>
+                Social Science splits into History, Geography, Political Science, and Economics, each carrying roughly equal weight across the full year. The half-yearly typically covers the first unit or two of History and Geography, including introductory map work.
+            </p>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                English
+            </div>
+
+            <h3>
+                Commonly: early prose/poetry sections + grammar
+            </h3>
+
+            <p>
+                English coverage is usually the first few literature sections plus foundational grammar and writing skills — reading comprehension, letter writing, and the early chapters of the prescribed reader.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="30-day-framework">
+
+    <h2>
+        The 30-Day Framework — How to Split Your Time
+    </h2>
+
+    <p>
+        Weight your time toward Mathematics and Science — both are numerical- and diagram-heavy, and both reward consistent daily practice far more than last-minute reading. Social Science needs dedicated time specifically for map work, which is a distinct skill from content recall. English needs steady, spread-out practice.
+    </p>
+
+    <div class="vis-wrap">
+
+        <div class="vis-title">
+            Recommended 30-day time allocation across subjects
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Mathematics</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:26.7%">
+                    8 days
+                </div>
+            </div>
+            <div class="bar-val">27%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Science</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:26.7%">
+                    8 days
+                </div>
+            </div>
+            <div class="bar-val">27%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Social Science</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:23.3%">
+                    7 days
+                </div>
+            </div>
+            <div class="bar-val">23%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">English</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:16.7%">
+                    5 days
+                </div>
+            </div>
+            <div class="bar-val">17%</div>
+        </div>
+
+        <div class="bar-row">
+            <div class="bar-label">Mixed revision + mock</div>
+            <div class="bar-track">
+                <div class="bar-fill" style="width:6.7%">
+                    2days
+                </div>
+            </div>
+            <div class="bar-val">7%</div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0;text-align:center">
+            Adjust based on your own school's exact syllabus portion — this is a starting framework built for a typical five-subject split.
+        </p>
+
+    </div>
+
+</section>
+<section id="week-by-week-plan">
+
+    <h2>
+        Week-by-Week Plan
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 1
+            </div>
+
+            <h3>
+                Maths &amp; Science Foundation
+            </h3>
+
+            <ul>
+                <li>
+                    Cover Real Numbers, Polynomials, and early Linear Equations with full worked examples
+                </li>
+                <li>
+                    Cover Chemical Reactions and Acids/Bases/Salts, practising every named reaction
+                </li>
+                <li>
+                    Build a running formula sheet as you go — don't leave it for later
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 2
+            </div>
+
+            <h3>
+                Continue + Start SST &amp; English
+            </h3>
+
+            <ul>
+                <li>
+                    Finish remaining Maths and Science chapters in your syllabus portion
+                </li>
+                <li>
+                    Start History and Geography, including specific map-work practice
+                </li>
+                <li>
+                    Begin daily English writing and grammar practice, 20 minutes minimum
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 3
+            </div>
+
+            <h3>
+                Full Coverage + Format Practice
+            </h3>
+
+            <ul>
+                <li>
+                    Complete first full pass across all four subjects
+                </li>
+                <li>
+                    Practise Section A (MCQ) blocks under strict time limits
+                </li>
+                <li>
+                    Practise at least one Section E case-based question per subject
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Week 4
+            </div>
+
+            <h3>
+                Timed Mocks + Final Revision
+            </h3>
+
+            <ul>
+                <li>
+                    Attempt at least one full timed paper per subject, five-section format
+                </li>
+                <li>
+                    Revise formula lists, named reactions, and map locations — not new content
+                </li>
+                <li>
+                    Review every mock mistake and reattempt those specific questions
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="subject-wise-priorities">
+
+    <h2>
+        Subject-Wise Priorities
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Mathematics
+            </div>
+
+            <h3>
+                Mathematics
+            </h3>
+
+            <p>
+                Algebra carries the highest weightage in the full-year paper, so Polynomials and Pair of Linear Equations — likely half-yearly chapters — deserve full attention now, not a rushed pass. Show every working step; step marking rewards this even in mid-year exams, and building the habit now pays off at boards.
+            </p>
+
+            <span class="freq-tag">
+                ~8 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Science
+            </div>
+
+            <h3>
+                Science
+            </h3>
+
+            <p>
+                Practise writing balanced chemical equations for every reaction type, not just recognising them. For Biology, diagrams matter — a correctly labelled diagram can rescue a partially complete answer. Don't skip numerical questions in Physics chapters if they fall within your portion.
+            </p>
+
+            <span class="freq-tag">
+                ~8 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                Social Science
+            </div>
+
+            <h3>
+                Social Science
+            </h3>
+
+            <p>
+                Map work is a distinct skill from content knowledge — practise locating and marking specific features on outline maps repeatedly, not just reading about them. Build timelines for History chapters and practise short, precise answers rather than long paragraphs for definition-style questions.
+            </p>
+
+            <span class="freq-tag">
+                ~7 days recommended
+            </span>
+
+        </div>
+
+        <div class="gdl-card gdl-card--stacked">
+
+            <div class="s-label">
+                English
+            </div>
+
+            <h3>
+                English
+            </h3>
+
+            <p>
+                Practise the specific writing formats you'll be tested on — formal and informal letters, analytical paragraphs — rather than generic essay writing. Reading comprehension improves with regular timed practice more than with passive reading.
+            </p>
+
+            <span class="freq-tag">
+                ~5 days recommended
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="half-yearly-preparation-mistakes">
+
+    <h2>
+        The Mistakes Students Make Preparing for This Half-Yearly
+    </h2>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 1
+        </div>
+
+        <h3>
+            Treating it as low-stakes and under-preparing
+        </h3>
+
+        <p>
+            The half-yearly typically counts as one of your periodic tests — worth real marks within your internal assessment — and if your school mirrors the board format, it's also your first genuine test of exam-day pacing across five sections.
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 2
+        </div>
+
+        <h3>
+            Only revising content, never practising format
+        </h3>
+
+        <p>
+            Knowing Real Numbers doesn't automatically mean you can answer a Section E case-based question about it under time pressure. Practise the question types specifically, not just the content.
+        </p>
+
+    </div>
+
+    <div class="gdl-card gdl-card--stacked">
+
+        <div class="s-label">
+            Mistake 3
+        </div>
+
+        <h3>
+            Skipping map work until "closer to boards"
+        </h3>
+
+        <p>
+            Map work is a skill that degrades quickly without regular practice. Doing it consistently from Week 2 onward is far more effective than a single intensive session before the exam.
+        </p>
+
+    </div>
+
+</section>
+<section id="genelis-weak-area-map">
+
+    <h2>
+        Your Half-Yearly Score Is a Preview. Here's How to Read It Correctly.
+    </h2>
+
+    <p>
+        A half-yearly score of 62 out of 100 in Maths tells you almost nothing useful on its own. What matters is the breakdown underneath it — which chapters are solid, which need work, and whether errors are conceptual, calculation-based, or format-related (running out of time in a specific section, for instance).
+    </p>
+
+    <div class="acc-card">
+
+        <h4>
+            What a Genelis weak area map looks like after a Class 10 half-yearly
+        </h4>
+
+        <div class="acc-row">
+            <div class="acc-subj">Real Numbers</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:85%"></div>
+            </div>
+            <div class="acc-pct">85%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Chemical Reactions &amp; Equations</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:70%"></div>
+            </div>
+            <div class="acc-pct">70%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Pair of Linear Equations</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:55%"></div>
+            </div>
+            <div class="acc-pct">55%</div>
+        </div>
+
+        <div class="acc-row">
+            <div class="acc-subj">Map work — Geography</div>
+            <div class="acc-bar">
+                <div class="acc-fill" style="width:38%"></div>
+            </div>
+            <div class="acc-pct">38%</div>
+        </div>
+
+        <p style="font-size:11px;color:#888;margin:10px 0 0">
+            Next session: map work (38%) — not Real Numbers (85%). Directed by data, not comfort. Genelis builds this map automatically after every practice session and mock paper.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy chapter by chapter, distinguishing conceptual gaps from calculation errors and format-related time pressure. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt — so the months between your half-yearly and your board exam are spent closing real gaps, not re-covering what's already solid.
+    </p>
+
+    <div class="loop-steps">
+
+        <div class="loop-step">
+            <span class="sn">Step 1</span>
+            Attempt half-yearly / mock
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 2</span>
+            Chapter-level gap detected
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="loop-arrow">→</div>
+
+        <div class="loop-step">
+            <span class="sn">Step 5</span>
+            Reattempt those questions
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        ✓ <strong>Result:</strong> Gap closed. Map updates.
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-halfyearly&utm_content=cta-inline"
+    >
+        Start your personalised Class 10 half-yearly prep on Genelis — free →
+    </a>
+
+</section>
+<section id="30-day-half-yearly-checklist">
+
+    <h2>
+        Your 30-Day Half-Yearly Checklist
+    </h2>
+
+    <table class="checklist-table">
+
+        <colgroup>
+            <col style="width:16%">
+            <col style="width:30%">
+            <col style="width:54%">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th>Days</th>
+                <th>Focus</th>
+                <th>Goal by end of block</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td style="white-space:nowrap">Day 1–8</td>
+                <td>Mathematics</td>
+                <td>
+                    Portion chapters covered with full worked examples, running formula sheet started
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 9–16</td>
+                <td>Science</td>
+                <td>
+                    All portion chapters covered, equations balanced, diagrams practised from memory
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 17–23</td>
+                <td>Social Science</td>
+                <td>
+                    Content read, timelines built, map-work practice started and repeated
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 24–28</td>
+                <td>English + weak-area revisit</td>
+                <td>
+                    Writing formats practised, grammar revised, weakest topics across all subjects revisited
+                </td>
+            </tr>
+
+            <tr>
+                <td style="white-space:nowrap">Day 29–30</td>
+                <td>Full mixed revision + 1 timed five-section mock</td>
+                <td>
+                    At least one full paper attempted under real exam-day time pressure
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": "Is the Class 10 half-yearly exam conducted by CBSE?",
+            "answer": (
+                "No. Half-yearly exams for Class 10 are set and conducted "
+                "by individual CBSE-affiliated schools, not by CBSE centrally. "
+                "There is no official CBSE half-yearly datesheet or national "
+                "marking scheme published. Schools typically follow the CBSE "
+                "curriculum and set their own papers in-house, usually in the "
+                "September to mid-October window. Confirm exact dates, syllabus "
+                "portion, and weightage from your own school's circular."
+            )
+        },
+        {
+            "question": (
+                "How does the half-yearly relate to the actual "
+                "Class 10 board exam?"
+            ),
+            "answer": (
+                "Since the 2025-26 session, CBSE Class 10 board exams follow "
+                "a two-phase scheme: a mandatory Phase 1 exam and an optional "
+                "Phase 2 improvement exam, with the better score counting on "
+                "the final marksheet. Each subject's theory paper is structured "
+                "across five sections (A to E) covering MCQs, very short answer, "
+                "short answer, long answer, and case-based questions, with "
+                "roughly half the paper being competency-based. Many CBSE "
+                "schools now design their half-yearly papers to mirror this "
+                "same five-section, competency-based format, making the "
+                "half-yearly genuine practice for the real exam structure "
+                "rather than just a syllabus checkpoint."
+            )
+        },
+        {
+            "question": (
+                "What syllabus does the Class 10 half-yearly exam "
+                "typically cover?"
+            ),
+            "answer": (
+                "Half-yearly exams conventionally cover roughly the first half "
+                "of the year's syllabus, though the exact chapter list is set "
+                "by each school individually. Based on CBSE's official Class 10 "
+                "curriculum, this commonly includes early units such as Real "
+                "Numbers, Polynomials, and Pair of Linear Equations in Maths; "
+                "Chemical Reactions and Acids, Bases and Salts in Chemistry; "
+                "Life Processes in Biology; and the first History and Geography "
+                "units in Social Science. Always confirm your school's specific "
+                "portion, since coverage varies."
+            )
+        },
+        {
+            "question": (
+                "How much does the half-yearly count toward my final "
+                "Class 10 marks?"
+            ),
+            "answer": (
+                "Class 10 follows an 80 marks theory plus 20 marks internal "
+                "assessment structure per subject. Within that 20 marks, "
+                "Periodic Assessment typically carries 10 marks, based on "
+                "the average of the best 2 of 3 periodic tests through the "
+                "year. In most schools, the half-yearly is treated as one of "
+                "these periodic tests, giving it real, direct weight on your "
+                "internal assessment score in addition to its value as board "
+                "exam practice. Confirm the exact weighting with your own school."
+            )
+        },
+        {
+            "question": (
+                "How should I divide 30 days of preparation across "
+                "Class 10 subjects?"
+            ),
+            "answer": (
+                "Weight your time toward Mathematics and Science, since both "
+                "are numerical- and diagram-heavy and reward consistent daily "
+                "practice over last-minute reading. A reasonable 30-day split "
+                "is roughly 8 days Mathematics, 8 days Science, 7 days Social "
+                "Science (including dedicated map work practice), 5 days "
+                "English, and 2 days for full mixed revision and a timed, "
+                "five-section mock paper that mirrors the actual board format."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "cbse-class-9-half-yearly-exam-2026-27-study-plan",
+        "class-10-board-exam-preparation-guide-cbse",
+        "how-to-use-mock-tests-board-exam-preparation",
+        "wrong-question-notebook-board-exams"
+    ]
+},
+{
     "slug": "class-11-accountancy-journal-entries-trial-balance-cbse",
 
     "title": (
