@@ -36230,6 +36230,1417 @@ The result: coaching hours go to JEE/NEET depth. Genelis handles board weak area
     ]
 },
 {
+    "slug": "falling-behind-class-11-recovery-plan",
+
+    "title": (
+        "Falling Behind in Class 11? The Complete Recovery Plan "
+        "for Science, Commerce & Humanities Students"
+    ),
+
+    "meta_title": (
+        "Falling Behind in Class 11? The Complete Recovery Plan "
+        "for Science, Commerce & Humanities Students | Genelis"
+    ),
+
+    "meta_description": (
+        "Falling behind in Class 11 is common, and it's fixable. "
+        "This guide gives you an honest diagnostic to see how far "
+        "behind you really are, a triage framework for what to fix "
+        "first, and genuinely different recovery paths for Science, "
+        "Commerce, and Humanities students."
+    ),
+
+    "excerpt": (
+        "An honest diagnostic, a triage plan, and a genuinely different "
+        "recovery path for each stream — Science, Commerce, and Humanities."
+    ),
+
+    "class": "11",
+
+    "subject": "All Streams",
+
+    "category": "Study Strategy",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-13T09:00:00+05:30",
+
+    "updated_date": "2026-08-13T09:00:00+05:30",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 11 recovery plan for Science Commerce and Humanities students"
+    ),
+
+    "keywords": [
+        "falling behind class 11",
+        "class 11 recovery plan",
+        "class 11 catching up",
+        "class 11 science commerce humanities",
+        "class 11 half yearly bad marks",
+        "how to catch up class 11",
+        "class 11 study plan struggling students"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        If you're reading this because a half-yearly result, a test score, or just a general feeling of "I don't understand what's happening in class anymore" has made you think you're falling behind in Class 11 — you're not alone, and this is genuinely fixable. Class 11 is the sharpest difficulty jump in CBSE schooling. It asks for deeper reasoning, more independent practice, and less hand-holding than Class 10 ever did, all at once, and it catches a large number of capable students off guard in the first term — regardless of how well they did before.
+    </p>
+
+    <div class="gdl-callout">
+
+        <div class="gdl-callout-icon">
+            💡
+        </div>
+
+        <div class="gdl-callout-content">
+
+            <p>
+                This guide isn't a general "study harder" pep talk. It's a specific process: an honest way to figure out how far behind you actually are (usually less than it feels), a framework for deciding what to fix first, and — because Science, Commerce, and Humanities genuinely test different skills — three separate recovery paths rather than one generic one.
+            </p>
+
+            <p>
+                If this guide is for a fresh start at the beginning of the year rather than recovery mid-way through, our <a href="/blog/cbse-class-11-survival-guide-all-streams">Class 11 Survival Guide</a> covers that instead. This one is specifically for catching up once you're already behind.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="recovery-diagnostic">
+
+    <h2>
+        Step 1: Find Out How Far Behind You Actually Are
+    </h2>
+
+    <p>
+        "I'm behind" is a feeling, not a plan. Before deciding what to do, sort your syllabus so far — chapter by chapter, subject by subject — into three honest categories. Most students discover the "genuine gap" category is smaller than it felt, which changes the whole recovery plan from overwhelming to manageable.
+    </p>
+
+    <div class="gdl-card-grid">
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                ✅
+            </div>
+
+            <h4>
+                Solid
+            </h4>
+
+            <p>
+                You could explain this chapter to someone else right now and solve a new problem from it without help.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                🟡
+            </div>
+
+            <h4>
+                Shaky
+            </h4>
+
+            <p>
+                You've covered it, it sounds familiar, but you'd hesitate on an unfamiliar question or couldn't fully explain the reasoning.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-card-icon">
+                🔴
+            </div>
+
+            <h4>
+                Genuine Gap
+            </h4>
+
+            <p>
+                You haven't properly studied this chapter, or nothing from it has actually stuck when you try to recall it.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Do this for every subject. The "Shaky" category needs targeted practice, not a restart. The "Genuine Gap" category is where real, focused catch-up time needs to go. Conflating the two — treating everything as a total restart — is the single biggest reason recovery attempts stall before they start.
+    </p>
+
+</section>
+<section id="recovery-triage" class="gdl-prep-section">
+
+    <h2>
+        Step 2: Triage — You Can't Fix Everything at Once, So Don't Try To
+    </h2>
+
+    <p class="gdl-section-intro">
+        Trying to catch up in every subject simultaneously usually produces shallow progress everywhere and real progress nowhere. Instead, prioritise deliberately:
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                1
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Fix foundational, dependency-heavy chapters first
+                </h3>
+
+                <p>
+                    Some chapters are prerequisites for everything that follows — Laws of Motion before advanced Mechanics in Physics, journal entries before final accounts in Accountancy, basic grammar and reading fluency before advanced writing in any language subject. Fixing these unlocks faster progress in every chapter built on top of them. Fixing an advanced chapter while its foundation is shaky wastes the effort.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                2
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Pick one or two subjects to properly recover before spreading out
+                </h3>
+
+                <p>
+                    Choose the subject where you're furthest behind or where the stakes feel highest, and commit real, focused time to it before dividing attention across everything. A subject brought from "genuine gap" to "shaky but functional" is more valuable than five subjects nudged slightly.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                3
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Maintain — don't ignore — the subjects you're not actively recovering
+                </h3>
+
+                <p>
+                    Subjects you're not focusing on this week still need light, regular contact — attending class, doing the homework, staying present — so they don't slide from "shaky" into "genuine gap" while your attention is elsewhere.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ <strong>A note on how to actually do this:</strong> Recovery works better in steady, sustainable sessions than in occasional intense bursts. Cramming through the night or skipping sleep to "catch up faster" tends to backfire — retention drops sharply when you're exhausted, so the same hours spent well-rested and consistently produce more actual progress. If the stress around this feels bigger than the academics themselves, talking to a teacher, parent, or school counsellor is a genuinely useful step, not a sign you've failed to handle it alone.
+    </div>
+
+</section>
+<section id="stream-specific-recovery">
+
+    <h2>
+        Step 3: The Recovery Path Is Different by Stream — Because the Skill Being Tested Is Different
+    </h2>
+
+    <p>
+        This is the part most generic study advice misses. Science, Commerce, and Humanities don't just have different content — they reward fundamentally different skills. Using a Science-style catch-up method (drill numericals, memorise formulas) on a Humanities subject, or vice versa, wastes real time.
+    </p>
+
+    <div class="gdl-subject-grid">
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-section-kicker">
+                Science Stream
+            </div>
+
+            <h3>
+                Recovery is about rebuilding the dependency chain — in the correct order
+            </h3>
+
+            <p>
+                Science subjects — Physics, Chemistry, Biology, Maths — are built as chains where each chapter depends on the one before it. Skipping ahead to "catch up on everything" without securing the foundation just moves the gap further down the chain.
+            </p>
+
+            <ul>
+                <li>
+                    Identify the earliest chapter in each subject that's a genuine gap — start there, not wherever the class currently is
+                </li>
+                <li>
+                    Rebuild using worked examples first, then attempt problems independently — don't jump straight to hard practice questions
+                </li>
+                <li>
+                    For numerical subjects specifically, redo foundational numerical types (basic Free Body Diagrams, basic mole concept calculations) until they're automatic before attempting anything advanced
+                </li>
+                <li>
+                    Use diagrams and derivations as anchors — a solid diagram often makes the surrounding concept click faster than re-reading text
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-section-kicker">
+                Commerce Stream
+            </div>
+
+            <h3>
+                Recovery is about re-securing format and calculation fluency
+            </h3>
+
+            <p>
+                Commerce subjects reward precise, correctly formatted answers as much as correct content. A shaky foundation here usually isn't about not understanding concepts — it's about not yet having automatic fluency with the mechanics.
+            </p>
+
+            <ul>
+                <li>
+                    In Accountancy, return to the golden rules and basic journal entries until identifying account type and debit/credit becomes automatic, before attempting final accounts
+                </li>
+                <li>
+                    In Economics, rebuild formula fluency (multiplier, elasticity, national income methods) through repeated short numerical practice, not just re-reading definitions
+                </li>
+                <li>
+                    In Business Studies, focus on precise keyword-based answers rather than long paragraphs — this stream rewards specific terminology used correctly
+                </li>
+                <li>
+                    Practise presenting answers in the exact expected format (ledger, T-accounts, ratio calculations) — format errors cost marks independently of content knowledge
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-section-kicker">
+                Humanities Stream
+            </div>
+
+            <h3>
+                Recovery is about reading volume and structured argument-writing — not formulas
+            </h3>
+
+            <p>
+                History, Political Science, Geography, Economics, Sociology, and Psychology reward depth of understanding expressed through writing, not calculation. Falling behind here usually shows up as thin, vague answers rather than wrong answers — and the fix is different from Science or Commerce.
+            </p>
+
+            <ul>
+                <li>
+                    Build a running glossary per subject — key terms, frameworks, and named concepts (constitutional provisions, historical periods, sociological theories) — and revise it actively, not just once
+                </li>
+                <li>
+                    Increase reading volume specifically, not just re-reading the same NCERT pages — read the source boxes, maps, and case studies most students skip
+                </li>
+                <li>
+                    Practise writing full, structured answers regularly rather than only reading model answers — the skill being tested is your own argument construction, which only improves through your own writing practice
+                </li>
+                <li>
+                    For Geography and Psychology specifically, don't neglect diagram and practical components even while catching up on theory — these carry real, separate marks
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="recovery-timeline">
+
+    <h2>
+        A Realistic Recovery Timeline
+    </h2>
+
+    <p>
+        How long recovery takes depends on how far behind you genuinely are — but the phases below apply regardless of subject or stream.
+    </p>
+
+    <div class="gdl-timeline">
+
+        <div class="gdl-step">
+
+            <h3>
+                Phase 1 — Week 1–2: Diagnose &amp; Triage
+            </h3>
+
+            <p>
+                Sort every chapter into Solid / Shaky / Genuine Gap. Pick one or two subjects to focus on first. Don't start "fixing" yet — get the map right first.
+            </p>
+
+        </div>
+
+        <div class="gdl-step">
+
+            <h3>
+                Phase 2 — Week 3–6: Systematic Rebuild
+            </h3>
+
+            <p>
+                Work through genuine gaps in dependency order, starting from the earliest foundational chapter. Maintain light contact with non-priority subjects so they don't slide further behind.
+            </p>
+
+        </div>
+
+        <div class="gdl-step">
+
+            <h3>
+                Phase 3 — Ongoing: Steady State
+            </h3>
+
+            <p>
+                Once priority subjects reach "Shaky but functional" or better, shift into consistent, current-pace study alongside your class — not permanent catch-up mode.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>The goal isn't to be "fully caught up" by a fixed date.</strong> It's to steadily convert genuine gaps into shaky understanding, and shaky understanding into solid understanding, subject by subject. Progress that feels slow but steady beats an unsustainable sprint that burns out in two weeks.
+    </div>
+
+</section>
+<section id="genelis-recovery-analysis" class="gdl-analysis-section">
+
+    <h2>
+        The Hardest Part of Catching Up Is Knowing Exactly Where the Gaps Are
+    </h2>
+
+    <p>
+        Self-assessing "Solid / Shaky / Genuine Gap" honestly is genuinely difficult — it's easy to overestimate how well you know something until you're tested on it without warning. An accurate, chapter-level picture of your own gaps, built from how you actually perform rather than how confident you feel, makes the triage step in this guide far more reliable.
+    </p>
+
+    <div class="gdl-accuracy-panel">
+
+        <div class="gdl-accuracy-header">
+
+            <span class="gdl-accuracy-eyebrow">
+                Genelis Recovery Map
+            </span>
+
+            <h3>
+                What a Genelis weak area map looks like for a student mid-recovery
+            </h3>
+
+        </div>
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Number Systems (foundational)
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:82%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    82%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Trigonometric Identities
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:63%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    63%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Laws of Motion (foundational)
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:44%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    44%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Chemical Bonding (foundational)
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:29%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    29%
+                </div>
+
+            </div>
+
+        </div>
+
+        <p class="gdl-accuracy-note">
+            Next priority: Chemical Bonding and Laws of Motion — both foundational chapters other topics depend on. Trigonometric Identities, while not perfect, isn't blocking progress elsewhere yet. Genelis builds this map automatically and flags which gaps are foundational versus which can wait.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy chapter by chapter across every subject, so the "how far behind am I" diagnostic in this guide is based on actual performance data rather than guesswork. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt, so recovery time goes to real gaps in the right order — not wherever feels most urgent that day.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            <strong>Attempt a topic</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            <strong>Chapter-level gap detected</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            <strong>AI notes for weak concept</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            <strong>Wrong Qs auto-logged</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            <strong>Reattempt those questions</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            <strong>Gap closed. Map updates. ✓</strong>
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-fallingbehind&utm_content=cta-inline"
+    >
+        Get an honest, chapter-level map of where you stand on Genelis — free →
+    </a>
+
+</section>
+<section id="recovery-checklist">
+
+    <h2>
+        Your Recovery Checklist
+    </h2>
+
+    <table class="checklist-table">
+
+        <colgroup>
+            <col style="width:18%">
+            <col style="width:42%">
+            <col style="width:40%">
+        </colgroup>
+
+        <thead>
+            <tr>
+                <th>Step</th>
+                <th>What to do</th>
+                <th>Sign you're ready for the next step</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>1. Diagnose</td>
+                <td>
+                    Sort every chapter so far into Solid / Shaky / Genuine Gap, per subject
+                </td>
+                <td>
+                    You have an honest, written list — not a vague feeling
+                </td>
+            </tr>
+
+            <tr>
+                <td>2. Triage</td>
+                <td>
+                    Pick 1–2 subjects to focus on, prioritising foundational chapters within each
+                </td>
+                <td>
+                    You know exactly which chapter you're starting with, and why
+                </td>
+            </tr>
+
+            <tr>
+                <td>3. Rebuild</td>
+                <td>
+                    Work through genuine gaps in dependency order; maintain light contact elsewhere
+                </td>
+                <td>
+                    Priority subjects have moved from Genuine Gap to at least Shaky
+                </td>
+            </tr>
+
+            <tr>
+                <td>4. Stabilise</td>
+                <td>
+                    Shift into steady, current-pace study rather than permanent catch-up mode
+                </td>
+                <td>
+                    You're keeping pace with new class content without falling further behind
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": "Is it normal to fall behind in Class 11?",
+            "answer": (
+                "Yes, and it's more common than most students realise. "
+                "Class 11 requires several new skills at once — deeper "
+                "conceptual reasoning, heavier numerical or writing volume, "
+                "and less hand-holding than Class 10 — and the jump catches "
+                "a large number of students off guard in the first term, "
+                "regardless of how well they did in Class 10. Falling behind "
+                "is a signal to adjust your approach, not a reflection of ability."
+            )
+        },
+        {
+            "question": (
+                "Is it too late to catch up after a bad half-yearly "
+                "result in Class 11?"
+            ),
+            "answer": (
+                "No. A half-yearly typically covers only the first portion "
+                "of the year's syllabus, and internal assessment marks are "
+                "usually based on the average of your better attempts across "
+                "multiple tests through the year — meaning one weak result "
+                "doesn't define your final score. What matters most now is "
+                "diagnosing specifically which chapters and skills are weak, "
+                "and rebuilding from the actual foundational gaps rather than "
+                "trying to cover everything at once."
+            )
+        },
+        {
+            "question": "How do I know how far behind I actually am?",
+            "answer": (
+                "Go chapter by chapter through your syllabus so far and sort "
+                "each one into three categories: chapters you're confident in, "
+                "chapters you've covered but don't fully trust, and chapters "
+                "you haven't properly studied at all. Most students discover "
+                "the third category is smaller than it feels — a lot of what "
+                "feels like being 'completely behind' is actually a mix of a "
+                "few genuine gaps and several chapters that just need more "
+                "practice, not a fresh start."
+            )
+        },
+        {
+            "question": (
+                "Should I try to catch up in every subject at the same time?"
+            ),
+            "answer": (
+                "No. Trying to fix everything simultaneously usually means "
+                "making shallow progress everywhere rather than real progress "
+                "anywhere. Prioritise foundational, dependency-heavy chapters "
+                "first — the ones later topics build directly on, such as Laws "
+                "of Motion in Physics or journal entries in Accountancy — since "
+                "fixing these unlocks faster progress in everything that follows. "
+                "Address one or two subjects properly before spreading attention "
+                "across all of them."
+            )
+        },
+        {
+            "question": (
+                "Is recovery different for Science, Commerce, and "
+                "Humanities students?"
+            ),
+            "answer": (
+                "Yes, meaningfully. Science recovery is largely about rebuilding "
+                "foundational, numerical, and diagram-based concepts in the "
+                "correct dependency order. Commerce recovery is largely about "
+                "re-securing format and calculation fluency — golden rules, "
+                "journal entries, and formula application. Humanities recovery "
+                "is largely about reading volume and structured, argument-based "
+                "writing rather than formula or numerical practice. Using a "
+                "Science-style catch-up method for a Humanities subject, or "
+                "vice versa, tends to waste time because the underlying skill "
+                "being tested is different."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "cbse-class-11-survival-guide-all-streams",
+        "cbse-class-10-half-yearly-exam-2026-27-preparation-plan",
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "wrong-question-notebook-board-exams"
+    ]
+},
+{
+    "slug": "cbse-class-10-competency-based-questions-2027-preparation",
+
+    "title": (
+        "CBSE Class 10 Competency-Based Questions 2027: "
+        "What They Actually Test & How to Prepare"
+    ),
+
+    "meta_title": (
+        "CBSE Class 10 Competency-Based Questions 2027: "
+        "What They Test & How to Prepare | Genelis"
+    ),
+
+    "meta_description": (
+        "Half your CBSE Class 10 board paper — 50% — is now "
+        "competency-based, not recall-based. This guide covers the "
+        "five question types you'll actually face, subject-wise patterns, "
+        "official CBSE practice resources, and how to genuinely prepare "
+        "for a paper that tests what you can do, not just what you remember."
+    ),
+
+    "excerpt": (
+        "50% of your board paper now tests application, not recall. "
+        "Explore the five question types, subject-wise patterns, and a "
+        "genuine preparation strategy for competency-based questions."
+    ),
+
+    "class": "10",
+
+    "subject": "All Subjects",
+
+    "category": "Board Exam Preparation",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-13T09:00:00+05:30",
+
+    "updated_date": "2026-08-13T09:00:00+05:30",
+
+    "reading_time": "12 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Class 10 competency-based questions 2027 "
+        "question types and preparation strategy"
+    ),
+
+    "keywords": [
+        "CBSE competency based questions class 10",
+        "class 10 board exam 2027",
+        "competency based questions types",
+        "case based questions class 10",
+        "assertion reason questions CBSE",
+        "CBSE exam pattern 2026-27",
+        "CFPQ CBSE class 10",
+        "class 10 board exam preparation"
+    ],
+
+    "content": """
+    <section id="introduction">
+
+    <p>
+        Half of your CBSE Class 10 board paper no longer tests what you remember. It tests what you can do with what you know. Since the 2024–25 academic session, competency-based questions have made up 50% of the theory paper across every major subject — Maths, Science, Social Science, and English — and this structure has stayed unchanged through 2025–26 and into the current 2026–27 session. If you're preparing for boards using older notes, older question banks, or a study method built around memorising model answers, you're preparing for a paper that no longer exists in that form.
+    </p>
+
+    <div class="gdl-stat-strip">
+
+        <div class="gdl-stat-card highlight">
+
+            <span class="gdl-stat-number">
+                37%
+            </span>
+
+            <span class="gdl-stat-label">
+                of Class 8 students in the 2025 National Achievement Survey could apply mathematical concepts to real-life problems — the finding that added real urgency to CBSE's shift toward competency-based assessment, aligned with National Education Policy 2020.
+            </span>
+
+        </div>
+
+    </div>
+
+    <p>
+        This guide covers exactly what competency-based questions are, the five distinct forms they take, how they show up differently across subjects, and — most usefully — how to actually practise for them using CBSE's own official resources.
+    </p>
+
+</section>
+<section id="competency-weightage-clarification">
+
+    <div class="warn-box">
+        <strong>⚠️ A quick clarification on the numbers</strong><br><br>
+        You may come across older articles online citing a lower figure — around 30% — for competency-based questions. That figure reflects an earlier stage of this shift, before CBSE raised the weightage to 50% starting the 2024–25 session. Multiple current sources, including CBSE's own public statements around the 2025 results, confirm 50% as the correct and current figure, unchanged for 2026–27. If a resource you're using still says 30%, it's likely out of date — check the publication date before relying on it.
+    </div>
+
+</section>
+
+
+<section id="competency-paper-structure">
+
+    <h2>
+        The Paper Is Now Split Three Ways — Not Just MCQ vs Descriptive
+    </h2>
+
+    <p>
+        Every 80-mark theory paper in a major Class 10 subject now breaks down into three distinct categories, not the old simple binary of "objective vs subjective":
+    </p>
+
+    <div class="gdl-stat-strip">
+
+        <div class="gdl-stat-card highlight">
+
+            <span class="gdl-stat-number">
+                50%
+            </span>
+
+            <span class="gdl-stat-label">
+                <strong>Competency-Based</strong><br>
+                Case studies, source-based questions, data interpretation, assertion-reason, and application-style MCQs — testing whether you can use a concept, not just state it.
+            </span>
+
+        </div>
+
+        <div class="gdl-stat-card">
+
+            <span class="gdl-stat-number">
+                20%
+            </span>
+
+            <span class="gdl-stat-label">
+                <strong>Standard MCQs</strong><br>
+                Direct, single-answer objective questions testing factual recall and straightforward concept identification.
+            </span>
+
+        </div>
+
+        <div class="gdl-stat-card">
+
+            <span class="gdl-stat-number">
+                30%
+            </span>
+
+            <span class="gdl-stat-label">
+                <strong>Descriptive</strong><br>
+                Short and long answer questions requiring written explanation, derivation, or structured multi-step answers.
+            </span>
+
+        </div>
+
+    </div>
+
+    <p>
+        This means a student who has only ever practised "define X" or "state the formula for Y" is only genuinely prepared for a fraction of the paper. The other half requires reading a scenario, extracting what's relevant, and applying the right concept — a skill that has to be practised specifically, separately from content memorisation.
+    </p>
+
+</section>
+<section id="competency-question-types" class="gdl-prep-section">
+
+    <h2>
+        The Five Types of Competency-Based Questions — and How to Approach Each
+    </h2>
+
+    <p class="gdl-section-intro">
+        Competency-based questions aren't one uniform question type. They take five distinct forms, each requiring a slightly different reading and answering approach:
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                1
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Case-Based Questions
+                </h3>
+
+                <p>
+                    A real-world scenario or short story sets up a situation, followed by several linked questions — typically appearing in the paper's final section, worth 3–4 marks per question.
+                </p>
+
+                <div class="editorial-insight">
+                    <p>
+                        Example pattern: a passage describes a small business tracking its monthly expenses, followed by questions asking you to calculate values and interpret trends using concepts from the relevant chapter.
+                    </p>
+                </div>
+
+                <div class="gdl-exam-tip">
+                    <p>
+                        ✓ Tip: Read the entire scenario once before attempting any sub-question — later questions often depend on details established earlier in the passage.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                2
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Source-Based Integrated Questions
+                </h3>
+
+                <p>
+                    A passage, image, map, cartoon, or data table is provided, and you answer multiple questions by analysing it directly — common in Social Science and Science.
+                </p>
+
+                <div class="editorial-insight">
+                    <p>
+                        Example pattern: a labelled map or historical source excerpt is given, followed by questions asking you to identify features, interpret context, or draw conclusions from what's shown.
+                    </p>
+                </div>
+
+                <div class="gdl-exam-tip">
+                    <p>
+                        ✓ Tip: Underline or mentally flag key data points in the source before reading the questions — this prevents re-reading the whole source for every sub-part.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                3
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Assertion-Reason Questions
+                </h3>
+
+                <p>
+                    Two linked statements are given — an Assertion and a Reason. You evaluate whether each is individually true, and whether the Reason correctly explains the Assertion. Especially common in Science, particularly Chemistry.
+                </p>
+
+                <div class="editorial-insight">
+                    <p>
+                        Example pattern: Assertion — a stated fact about a concept. Reason — a stated explanation. You determine both truth and logical connection between the two.
+                    </p>
+                </div>
+
+                <div class="gdl-exam-tip">
+                    <p>
+                        ✓ Tip: Evaluate the Assertion and Reason as two separate true/false judgements first, then check the logical link — don't judge the connection before confirming both are individually correct.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                4
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Data Interpretation Questions
+                </h3>
+
+                <p>
+                    A graph, chart, or numerical dataset is provided, and questions require you to read, calculate, or infer from it directly — increasingly common in Maths, Science, and even English unseen passages framed around infographics.
+                </p>
+
+                <div class="editorial-insight">
+                    <p>
+                        Example pattern: a bar graph or table of values is given, followed by questions asking for a specific calculation, trend identification, or comparison drawn from the data.
+                    </p>
+                </div>
+
+                <div class="gdl-exam-tip">
+                    <p>
+                        ✓ Tip: Note the units and scale on any graph or table first — misreading these is the single most common error in this question type.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                5
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Application-Based MCQs
+                </h3>
+
+                <p>
+                    Multiple choice, but framed around a situation rather than direct recall — you can't answer from memory alone, you have to work through the scenario to eliminate options.
+                </p>
+
+                <div class="editorial-insight">
+                    <p>
+                        Example pattern: instead of "define X," the question describes a situation and asks which option correctly explains or resolves it, requiring you to apply the concept rather than simply state it.
+                    </p>
+                </div>
+
+                <div class="gdl-exam-tip">
+                    <p>
+                        ✓ Tip: Treat these like short case-based questions, not quick-recall MCQs — budget more time for them than for standard objective questions.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="competency-by-subject">
+
+    <h2>
+        How Competency Questions Show Up Differently by Subject
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-card-icon">
+                📐
+            </div>
+
+            <h4>
+                Mathematics
+            </h4>
+
+            <p>
+                Competency questions typically cluster in the paper's final section as case-based problems worth 4 marks each — built around genuinely real-world scenarios (park dimensions, transport schedules, sports statistics) that require applying concepts from coordinate geometry, statistics, or algebra rather than solving an isolated equation.
+            </p>
+
+        </div>
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-card-icon">
+                🔬
+            </div>
+
+            <h4>
+                Science
+            </h4>
+
+            <p>
+                Assertion-reason questions are especially prominent, particularly in Chemistry. Data interpretation appears through graph-based questions on topics like reaction rates or motion. Case-based questions often connect concepts to everyday situations — electrical circuits at home, or biological processes in daily life.
+            </p>
+
+        </div>
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-card-icon">
+                🌍
+            </div>
+
+            <h4>
+                Social Science
+            </h4>
+
+            <p>
+                Source-based questions dominate — map work, historical excerpts, political cartoons, and economic data tables. These reward students who've engaged with the source material in NCERT (including the source boxes many students skip) rather than only reading the main narrative text.
+            </p>
+
+        </div>
+
+        <div class="gdl-subject-card">
+
+            <div class="gdl-card-icon">
+                ✍️
+            </div>
+
+            <h4>
+                English
+            </h4>
+
+            <p>
+                Unseen passages are increasingly infographic or data-based rather than purely textual, requiring you to extract information from a visual format under time pressure — a genuinely different skill from reading a traditional prose passage.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="how-to-practise-competency-questions">
+
+    <h2>
+        How to Actually Prepare — Using CBSE's Own Official Resources
+    </h2>
+
+    <p>
+        The most effective preparation for competency-based questions starts with genuine conceptual clarity, not additional memorisation. You can't apply a concept you don't actually understand — so the first step is always making sure your NCERT foundation is solid, not skipping ahead to practice questions before the underlying concept is clear.
+    </p>
+
+    <div class="gdl-callout">
+
+        <div class="gdl-callout-icon">
+            📚
+        </div>
+
+        <div class="gdl-callout-content">
+
+            <h4>
+                A resource most students don't know exists
+            </h4>
+
+            <p>
+                CBSE, in collaboration with Educational Initiatives (Ei), publishes <strong>Competency Focused Practice Questions (CFPQ)</strong> — free, chapter-wise practice booklets with detailed solutions, available directly on the official CBSE Academic website (cbseacademic.nic.in). These are prepared by CBSE itself, which means they reflect the actual question style far more reliably than most third-party guides.
+            </p>
+
+            <p>
+                If you find CFPQ material on a third-party site behind a paywall, that isn't the official source — the genuine CFPQ resources are free.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Once your concepts are solid, work through official CBSE sample papers under timed conditions. This does two things: it shows you the actual current format (rather than an outdated one), and it builds the specific skill of pacing yourself across five different question types in one sitting — which is a genuinely separate skill from knowing the content.
+    </p>
+
+    <div class="warn-box">
+        ⚠️ <strong>The most common mistake:</strong> Rushing through case-based and source-based questions to save time. These questions are specifically designed to reward careful reading — the answer is usually embedded in the passage or data itself. Reading too quickly and missing a key detail is the single most common reason students lose marks here, even when they understand the underlying concept perfectly well.
+    </div>
+
+</section>
+<section id="genelis-competency-analysis" class="gdl-analysis-section">
+
+    <h2>
+        Why "I Know the Concept But Still Got It Wrong" Needs a Different Kind of Tracking
+    </h2>
+
+    <p>
+        Competency-based questions create a specific diagnostic problem: a student can genuinely understand a concept and still lose marks — not because of a knowledge gap, but because they misread the case, applied the right concept to the wrong part of the scenario, or ran out of time. A simple score doesn't tell you which of these actually happened. And without knowing which one, you can't fix the right thing.
+    </p>
+
+    <div class="gdl-accuracy-panel">
+
+        <div class="gdl-accuracy-header">
+
+            <span class="gdl-accuracy-eyebrow">
+                Genelis Performance Map
+            </span>
+
+            <h3>
+                What a Genelis weak area map looks like for competency-based practice
+            </h3>
+
+        </div>
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Standard MCQs — factual recall
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:88%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    88%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Descriptive — derivations &amp; explanations
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:74%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    74%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Assertion-reason questions
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:58%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    58%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Case-based &amp; source-based questions
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:41%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    41%
+                </div>
+
+            </div>
+
+        </div>
+
+        <p class="gdl-accuracy-note">
+            Next session: case-based and source-based practice specifically (41%) — not more standard MCQ drilling (already 88%). Genelis distinguishes concept gaps from application gaps automatically, which a single overall score never can.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately by question type — not just by chapter — so it can tell the difference between "doesn't know the concept" and "knows the concept but struggles with case-based application." Every wrong answer is logged to your <strong>wrong-question notebook</strong>, tagged by both chapter and question format, and queued for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            <strong>Attempt mixed practice</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            <strong>Format-level gap detected</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            <strong>AI notes for weak pattern</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            <strong>Wrong Qs auto-logged</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            <strong>Reattempt similar formats</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            <strong>Gap closed. Map updates. ✓</strong>
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-competency&utm_content=cta-inline"
+    >
+        Practise competency-based questions with instant, format-aware feedback on Genelis — free →
+    </a>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What percentage of the CBSE Class 10 board paper "
+                "is competency-based?"
+            ),
+            "answer": (
+                "50% of the CBSE Class 10 theory paper is competency-based, "
+                "with the remaining split as 20% standard MCQs and 30% "
+                "descriptive (short and long answer) questions. This structure "
+                "was raised to 50% starting the 2024-25 academic session and "
+                "has remained unchanged through 2025-26 and into 2026-27. "
+                "Some older articles online still reference a lower figure of "
+                "around 30%, which reflects an earlier, since-superseded stage "
+                "of this shift — 50% is the current, confirmed figure."
+            )
+        },
+        {
+            "question": (
+                "What are the different types of competency-based "
+                "questions in CBSE Class 10?"
+            ),
+            "answer": (
+                "CBSE Class 10 competency-based questions generally take "
+                "five forms: (1) Case-based questions — a real-world scenario "
+                "followed by multiple related questions; (2) Source-based "
+                "integrated questions — a passage, image, map, or data source "
+                "with questions built around it; (3) Assertion-reason questions "
+                "— two linked statements you must evaluate for individual truth "
+                "and logical connection; (4) Data interpretation questions — "
+                "graphs, tables, or datasets requiring calculation or inference; "
+                "(5) Competency-style or application-based MCQs — multiple "
+                "choice questions framed around a situation rather than direct recall."
+            )
+        },
+        {
+            "question": (
+                "Which subjects have the most competency-based "
+                "questions in Class 10?"
+            ),
+            "answer": (
+                "Science, Mathematics, Social Science, and English have seen "
+                "the greatest emphasis on competency-based content. In Science, "
+                "particularly Chemistry, assertion-reason questions are especially "
+                "common. In Mathematics, competency questions typically appear as "
+                "case-based problems in the final section of the paper, worth "
+                "4 marks each, often built around real-world scenarios like "
+                "designing a park or calculating a metro schedule. Social Science "
+                "tends to favour source-based and map-based questions. English "
+                "increasingly uses infographic or data-based unseen passages "
+                "rather than purely textual ones."
+            )
+        },
+        {
+            "question": (
+                "How should I practise for competency-based questions "
+                "in CBSE Class 10?"
+            ),
+            "answer": (
+                "Start by building genuine conceptual clarity from NCERT rather "
+                "than memorising answers, since competency questions specifically "
+                "test whether you can apply a concept in an unfamiliar situation. "
+                "Use CBSE's own official Competency Focused Practice Questions "
+                "(CFPQ), prepared in collaboration with Educational Initiatives "
+                "and available free on the CBSE Academic website, as chapter-wise "
+                "practice with solutions. Practise official CBSE sample papers "
+                "under timed conditions to get used to the actual format. When "
+                "answering case-based or source-based questions, read the full "
+                "passage carefully before attempting any question, underline key "
+                "data, and avoid rushing straight to an answer."
+            )
+        },
+        {
+            "question": (
+                "Why did CBSE increase the weightage of "
+                "competency-based questions?"
+            ),
+            "answer": (
+                "The shift is part of CBSE's alignment with the National "
+                "Education Policy (NEP) 2020, which pushes Indian education "
+                "away from rote memorisation toward critical thinking, "
+                "problem-solving, and real-world application. The 2025 National "
+                "Achievement Survey found that only 37% of Class 8 students "
+                "could apply mathematical concepts to real-life problems, "
+                "which added urgency to this reform. CBSE has stated the goal "
+                "is to test whether a student can think, not merely recall."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "cbse-class-10-half-yearly-exam-2026-27-preparation-plan",
+        "class-10-board-exam-preparation-guide-cbse",
+        "how-to-use-mock-tests-board-exam-preparation",
+        "wrong-question-notebook-board-exams"
+    ]
+},
+{
     "slug": "class-11-accountancy-journal-entries-trial-balance-cbse",
 
     "title": (
