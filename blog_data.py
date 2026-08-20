@@ -8897,6 +8897,1305 @@ cursor.execute(<span class="str">"SELECT * FROM students"</span>)
         "class-9-english-kaveri-scoring-strategy-cbse",
         "cbse-class-9-half-yearly-exam-2026-27-study-plan"
     ]
+},{
+    "slug": "class-11-computer-science-python-fundamentals-cbse",
+
+    "title": (
+        "Class 11 Computer Science 2026–27: "
+        "Python Fundamentals & Preparation Guide"
+    ),
+
+    "meta_title": (
+        "Class 11 Computer Science 2026–27: "
+        "Python Fundamentals & Preparation Guide | Genelis"
+    ),
+
+    "meta_description": (
+        "Python is 45 of 70 theory marks — and 40% of those specifically test "
+        "whether you can predict a program's output by hand, not whether you can "
+        "type it into a computer. This guide covers the exact unit-wise weightage, "
+        "Computer Systems basics, Python fundamentals, Society Law and Ethics, "
+        "and a complete preparation strategy for CBSE Class 11 Computer Science "
+        "2026-27."
+    ),
+
+    "excerpt": (
+        "Python is 45 of 70 marks. 40% of that tests output prediction by hand. "
+        "The complete Class 11 Computer Science preparation guide — units, syntax, "
+        "and strategy."
+    ),
+
+    "class": "11",
+
+    "subject": "Computer Science",
+
+    "category": "Study Strategy",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-19T09:00:00+05:30",
+
+    "updated_date": "2026-08-19T09:00:00+05:30",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 11 Computer Science Python fundamentals and preparation guide "
+        "CBSE 2026-27"
+    ),
+
+    "keywords": [
+        "class 11 computer science syllabus CBSE",
+        "class 11 computer science marks distribution 2025-26",
+        "python class 11 CBSE fundamentals",
+        "class 11 computer systems organisation",
+        "society law ethics class 11",
+        "class 11 computer science practical exam"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        Python carries 45 of the 70 theory marks in Class 11 Computer Science — nearly two-thirds of the entire paper. But the more useful fact isn't the weightage itself, it's what's actually being tested within it: roughly 40% of the Python section is estimated to be output-prediction questions — code you read and trace through by hand to determine exactly what it prints, without a computer to check your work. This means the core exam skill isn't "can you write a working program," it's "can you read someone else's code and correctly predict what it does."
+    </p>
+
+    <p>
+        This guide covers exactly where every mark comes from, the specific skill output-prediction questions demand, Computer Systems fundamentals, Python syntax you need cold, and the Society, Law and Ethics unit — a genuinely distinct component of Class 11 that's structured differently from anything in Class 12.
+    </p>
+
+</section>
+<section id="class11-cs-marks">
+
+    <h2>
+        10 Marks Computer Systems. 45 Marks Python. 15 Marks Society, Law & Ethics.
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                70
+            </div>
+
+            <h3>
+                Theory Examination
+            </h3>
+
+            <p>
+                Pen-and-paper exam across three units
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                30
+            </div>
+
+            <h3>
+                Practical Examination
+            </h3>
+
+            <p>
+                Conducted at school — Python programs, SQL, project, viva
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-card">
+
+        <h3>
+            CBSE Class 11 Computer Science — theory unit-wise marks distribution (70 marks) 2025–26
+        </h3>
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Computational Thinking & Programming-1 (Python)
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:64.3%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    45 marks ★
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Society, Law and Ethics
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:21.4%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    15 marks
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Computer Systems and Organisation
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:14.3%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    10 marks
+                </div>
+
+            </div>
+
+        </div>
+
+        <p class="gdl-accuracy-note">
+            Source: CBSE official 2025–26 curriculum (Code 083). Python alone accounts for nearly two-thirds of the theory paper.
+        </p>
+
+    </div>
+
+    <p>
+        <strong>Typical practical exam breakdown (30 marks):</strong>
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">12</div>
+            <h3>Python Programs</h3>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">5</div>
+            <h3>SQL Queries</h3>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">8</div>
+            <h3>Project Work</h3>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">5</div>
+            <h3>Viva + Practical File</h3>
+        </div>
+
+    </div>
+
+</section>
+<section id="class11-cs-output-prediction">
+
+    <h2>
+        The Skill That Decides 40% of Your Python Marks
+    </h2>
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ Output prediction is a distinct, practisable skill
+        </h3>
+
+        <p>
+            Since the theory exam is entirely pen-and-paper, questions frequently give you a Python code snippet and ask what it prints — without letting you run it. This question type is estimated to make up around 40% of the marks within the Python section alone. Reading code fluently and typing working code fluently are genuinely different skills, and only the first one is directly tested in the theory paper.
+        </p>
+
+    </div>
+
+    <p>
+        The reliable way to build this skill: for every program you study, close your notes and trace through it manually — write down the value of every variable after each line executes, exactly as the Python interpreter would. Pay particular attention to loops (where values change repeatedly) and any place indentation determines which block a line belongs to, since misreading indentation is one of the most common tracing errors.
+    </p>
+
+    <div class="code-block">
+        <pre><span class="cmt"># Practise tracing this by hand before checking the answer</span>
+total = 0
+<span class="kw">for</span> i <span class="kw">in</span> range(1, 5):
+    <span class="kw">if</span> i % 2 == 0:
+        total += i
+    <span class="kw">else</span>:
+        total -= i
+<span class="kw">print</span>(total)</pre>
+    </div>
+
+</section>
+<section id="class11-cs-computer-systems">
+
+    <h2>
+        Computer Systems and Organisation — 10 Marks, Fast to Secure
+    </h2>
+
+    <p>
+        This unit is the smallest by weightage but almost entirely definition and conversion-based, making it one of the fastest units to fully secure with focused revision.
+    </p>
+
+    <p>
+        <strong>Core content:</strong> input and output devices, memory (RAM, ROM, cache), the CPU, and the distinction between system software and application software. Number systems — binary and decimal, including conversions between them — and logic gates (AND, OR, NOT, and related gates) are core, reliably-tested topics. Encoding systems (ASCII, Unicode) round out the unit.
+    </p>
+
+    <div class="table-wrap">
+
+        <table class="checklist-table">
+
+            <thead>
+                <tr>
+                    <th>Gate</th>
+                    <th>Symbol Logic</th>
+                    <th>Output is 1 (True) when</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+                    <td>AND</td>
+                    <td>A · B</td>
+                    <td>Both inputs are 1</td>
+                </tr>
+
+                <tr>
+                    <td>OR</td>
+                    <td>A + B</td>
+                    <td>At least one input is 1</td>
+                </tr>
+
+                <tr>
+                    <td>NOT</td>
+                    <td>A'</td>
+                    <td>Input is 0 (inverts the input)</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 Practise binary-to-decimal and decimal-to-binary conversions until they're automatic — this is a near-guaranteed, low-effort source of marks in this unit.
+    </div>
+
+</section>
+<section id="class11-cs-python-fundamentals">
+
+    <h2>
+        Python Fundamentals — What's Actually in Scope
+    </h2>
+
+    <p>
+        Unlike Class 12's Programming-2 (which covers file handling and exception handling), Class 11 focuses on the genuine building blocks: data types, control flow, and the core data structures — strings, lists, tuples, and dictionaries.
+    </p>
+
+    <div class="code-block">
+        <pre><span class="cmt"># Data types</span>
+age = 15                    <span class="cmt"># int</span>
+height = 5.6                <span class="cmt"># float</span>
+name = <span class="str">"Aditi"</span>              <span class="cmt"># str</span>
+is_student = <span class="kw">True</span>          <span class="cmt"># bool</span>
+
+<span class="cmt"># Control flow</span>
+<span class="kw">if</span> age >= 13 <span class="kw">and</span> age <= 19:
+    <span class="kw">print</span>(<span class="str">"Teenager"</span>)
+<span class="kw">elif</span> age < 13:
+    <span class="kw">print</span>(<span class="str">"Child"</span>)
+<span class="kw">else</span>:
+    <span class="kw">print</span>(<span class="str">"Adult"</span>)</pre>
+    </div>
+
+    <div class="code-block">
+        <pre><span class="cmt"># Lists, Tuples, Dictionaries</span>
+marks = [78, 85, 92, 67]           <span class="cmt"># list — mutable</span>
+coordinates = (10, 20)             <span class="cmt"># tuple — immutable</span>
+student = {<span class="str">"name"</span>: <span class="str">"Rahul"</span>, <span class="str">"age"</span>: 16}  <span class="cmt"># dictionary</span>
+
+<span class="cmt"># Functions</span>
+<span class="kw">def</span> average(numbers):
+    <span class="kw">return</span> sum(numbers) / len(numbers)</pre>
+    </div>
+
+    <p>
+        Memorise the roughly 25 core Python keywords, and practise identifying data types, operator precedence, and the difference between mutable (list) and immutable (tuple) structures — these fundamentals underpin almost every question type in this unit, from output-prediction to program-writing.
+    </p>
+
+</section>
+<section id="class11-cs-debugging">
+
+    <h2>
+        A Systematic Debugging Order Speeds Up Every Practice Session
+    </h2>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">1</div>
+            <div class="gdl-prep-content">
+                <p>
+                    <strong>Syntax errors first</strong> — code that won't run at all due to incorrect Python grammar (missing colons, mismatched brackets, incorrect indentation).
+                </p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">2</div>
+            <div class="gdl-prep-content">
+                <p>
+                    <strong>Logical errors second</strong> — code that runs but produces the wrong result, because the underlying approach or condition is flawed.
+                </p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">3</div>
+            <div class="gdl-prep-content">
+                <p>
+                    <strong>Runtime errors last</strong> — code that fails partway through execution, such as dividing by zero or accessing an invalid list index.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <p>
+        Practising this order specifically — rather than scanning for all error types simultaneously — makes debugging faster and reduces the chance of missing an error type under timed exam conditions.
+    </p>
+
+</section>
+<section id="class11-cs-society-law-ethics">
+
+    <h2>
+        Society, Law and Ethics — 15 Marks, Genuinely Distinct from Class 12
+    </h2>
+
+    <p>
+        This unit doesn't appear in the same form in Class 12 Computer Science, making it a genuinely Class-11-specific component worth dedicated attention rather than something to defer.
+    </p>
+
+    <p>
+        <strong>Core content:</strong> e-waste management and proper disposal of electronic devices, the Information Technology (IT) Act, and the broader impact of technology on society — including gender and disability considerations in digital access. Like Computer Systems, this unit is largely definition and awareness-based, rewarding focused revision of specific terms and concepts rather than extensive practice.
+    </p>
+
+</section>
+<section id="class11-cs-genelis" class="gdl-analysis-section">
+
+    <h2>
+        Reading Code and Writing Code Are Different Skills — One Score Won't Tell You Which One Is Weak
+    </h2>
+
+    <p>
+        A CS mock score of 45 out of 70 doesn't distinguish between a student who can't write correct Python and one who writes it fine but struggles specifically with output-prediction tracing under exam conditions. These need different fixes.
+    </p>
+
+    <div class="gdl-accuracy-panel">
+
+        <div class="gdl-accuracy-header">
+
+            <h3>
+                What a Genelis weak area map looks like after a Class 11 CS practice session
+            </h3>
+
+        </div>
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Society, Law & Ethics — definitions
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:85%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    85%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Computer Systems — number conversions
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:72%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    72%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Python — writing correct programs
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:64%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    64%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Python — output prediction / tracing
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:38%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    38%
+                </div>
+
+            </div>
+
+        </div>
+
+        <p class="gdl-accuracy-note">
+            Next session: output prediction (38%) — the exact skill worth 40% of Python marks, and the specific gap a single overall score would never reveal. Genelis builds this map automatically after every practice session.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy across Computer Systems, Python, and Society Law & Ethics separately — and specifically distinguishes code-writing ability from code-tracing ability, since the theory exam tests the latter far more heavily. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            <strong>Attempt CS practice set</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            <strong>Unit-level gap detected</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            <strong>AI notes for weak concept</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            <strong>Wrong Qs auto-logged</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            <strong>Reattempt those questions</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            <strong>Gap closed. Map updates. ✓</strong>
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-computerscience&utm_content=cta-inline"
+    >
+        Start your personalised Class 11 Computer Science study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class11-cs-python-reference">
+
+    <h2>
+        Quick Reference: Python Essentials
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>
+            Core Syntax to Know Cold
+        </h3>
+
+        <p>
+            <strong>45 marks unit</strong>
+        </p>
+
+        <div class="code-block">
+            <pre><span class="kw">for</span> i <span class="kw">in</span> range(0, 10, 2):  <span class="cmt"># start, stop, step</span>
+    <span class="kw">print</span>(i)</pre>
+        </div>
+
+        <div class="code-block">
+            <pre>count = 0
+<span class="kw">while</span> count < 5:
+    <span class="kw">print</span>(count)
+    count += 1</pre>
+        </div>
+
+        <p>
+            <strong>String slicing</strong>
+        </p>
+
+        <p>
+            text[start:stop:step] — text[1:4] gives characters at index 1, 2, 3 (stop index excluded). text[::-1] reverses a string.
+        </p>
+
+        <p>
+            <strong>List vs Tuple</strong>
+        </p>
+
+        <p>
+            List [ ] is mutable (can change after creation). Tuple ( ) is immutable (cannot change after creation). Both allow duplicate values and are ordered.
+        </p>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference:</strong> Copy each syntax pattern by hand, not by typing — the theory exam is handwritten. For every code block, trace through it with sample values and write out what it would output at each step, before checking. Practise 30+ small Python programs covering loops, conditionals, lists, and functions specifically — volume builds the fluency that output-prediction questions reward.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What is the unit-wise marks distribution for CBSE Class 11 "
+                "Computer Science?"
+            ),
+            "answer": (
+                "The subject carries 100 total marks: 70 theory and 30 practical. "
+                "Theory splits into three units: Computer Systems and Organisation "
+                "(10 marks), Computational Thinking and Programming-1, based on "
+                "Python (45 marks — the highest weightage at roughly 64% of theory), "
+                "and Society, Law and Ethics (15 marks). The 30-mark practical exam "
+                "typically splits as Python programs (12 marks), SQL queries "
+                "(5 marks), project work (8 marks), and viva plus practical file "
+                "(5 marks)."
+            )
+        },
+        {
+            "question": (
+                "What does 'output prediction' mean in Class 11 Computer Science, "
+                "and why does it matter so much?"
+            ),
+            "answer": (
+                "Output prediction questions give you a piece of Python code and "
+                "ask you to determine exactly what it will print or produce, without "
+                "running it on a computer — since the theory exam is pen-and-paper. "
+                "These questions are estimated to make up around 40% of the marks "
+                "within the Python programming section, making them one of the "
+                "highest-concentration question types in the entire paper. This "
+                "means the ability to trace through code line by line and track "
+                "variable values by hand, not just the ability to write correct "
+                "code, is a core, separately practisable skill."
+            )
+        },
+        {
+            "question": (
+                "What topics are covered in the Computer Systems and "
+                "Organisation unit?"
+            ),
+            "answer": (
+                "This unit covers the basic components of a computer — input and "
+                "output devices, memory, the CPU, and the distinction between "
+                "system and application software — along with number systems "
+                "(binary and decimal, including conversions), logic gates "
+                "(AND, OR, NOT, and related gates), and encoding systems such as "
+                "ASCII and Unicode. It carries 10 marks, the lowest of the three "
+                "theory units, but is almost entirely definition and conversion-based, "
+                "making it a reliably fast unit to secure fully."
+            )
+        },
+        {
+            "question": (
+                "What is covered in the Society, Law and Ethics unit of "
+                "Class 11 Computer Science?"
+            ),
+            "answer": (
+                "This unit covers responsible and ethical use of technology, "
+                "including e-waste management and proper disposal of electronic "
+                "devices, the Information Technology (IT) Act, and considerations "
+                "of technology's impact on society, including gender and disability "
+                "perspectives in digital access. It carries 15 marks and is a "
+                "distinct unit at the Class 11 level, separate in structure from "
+                "how ethics-related content is organised in Class 12 Computer Science."
+            )
+        },
+        {
+            "question": (
+                "How should I approach debugging Python programs for "
+                "Class 11 Computer Science exams?"
+            ),
+            "answer": (
+                "A systematic order works best: first identify syntax errors "
+                "(code that won't run at all due to incorrect Python grammar), "
+                "then logical errors (code that runs but produces the wrong result "
+                "due to a flawed approach), and finally runtime errors (code that "
+                "fails partway through execution, such as dividing by zero). "
+                "Practising this order specifically, rather than checking for all "
+                "error types at once, makes debugging faster and reduces the chance "
+                "of missing an error type during timed practice."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-computer-science-python-sql-networks-cbse",
+        "class-11-business-studies-chapters-case-study-strategy-cbse",
+        "cbse-class-11-survival-guide-all-streams"
+    ]
+},
+{
+    "slug": "class-11-business-studies-chapters-case-study-strategy-cbse",
+
+    "title": (
+        "Class 11 Business Studies 2026–27: "
+        "Important Chapters & Case Study Strategy"
+    ),
+
+    "meta_title": (
+        "Class 11 Business Studies 2026–27: "
+        "Important Chapters & Case Study Strategy | Genelis"
+    ),
+
+    "meta_description": (
+        "Nature and Purpose of Business carries 16 marks — the highest single unit. "
+        "Case-based questions test Class 11 students too, not just Class 12. "
+        "This guide covers the exact chapter weightage, why building a business-terms "
+        "glossary from day one matters, and a complete preparation strategy for "
+        "CBSE Class 11 Business Studies 2026-27."
+    ),
+
+    "excerpt": (
+        "16 marks in the single highest-weightage unit. Case studies from Class 11 "
+        "onward. The complete chapter and case-study strategy for CBSE Class 11 "
+        "Business Studies."
+    ),
+
+    "class": "11",
+
+    "subject": "Business Studies",
+
+    "category": "Study Strategy",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-19T09:00:00+05:30",
+
+    "updated_date": "2026-08-19T09:00:00+05:30",
+
+    "reading_time": "13 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 11 Business Studies important chapters and case study strategy "
+        "CBSE 2026-27"
+    ),
+
+    "keywords": [
+        "class 11 business studies important chapters CBSE",
+        "class 11 BST chapter weightage 2025-26",
+        "class 11 business studies case study questions",
+        "nature and purpose of business class 11",
+        "class 11 business studies preparation strategy"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        Most Class 11 Commerce students assume case-study questions are a Class 12 problem — something to worry about later, once the "real" board exam arrives. That assumption costs a year of preparation time it doesn't need to. Case-based questions are confirmed as part of the Class 11 Business Studies paper too, alongside objective, short-answer, and long-answer formats. The identification skill that matters so much in Class 12 — reading a scenario and naming the exact business concept it describes — needs to start building now, not next year.
+    </p>
+
+    <p>
+        This guide covers exactly where every mark comes from in Class 11 BST, which units carry the most weight, why this subject rewards precise terminology from day one, and a complete preparation strategy built around genuinely confirmed CBSE data.
+    </p>
+
+</section>
+<section id="class11-bst-marks">
+
+    <h2>
+        40 Marks Foundations. 40 Marks Corporate Organisation, Finance & Trade.
+    </h2>
+
+    <p>
+        The subject carries 100 total marks: 80 for the theory paper, 20 for project work. The theory paper splits evenly across two parts:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                Part A — Foundations of Business
+            </h3>
+
+            <ul>
+                <li>Nature and Purpose of Business</li>
+                <li>Forms of Business Organisations</li>
+                <li>Public and Private Enterprises</li>
+                <li>Business Services</li>
+                <li>Emerging Modes of Business</li>
+                <li>Business Ethics</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                Part B — Corporate Organisation, Finance & Trade
+            </h3>
+
+            <ul>
+                <li>Sources of Business Finance</li>
+                <li>Small Business</li>
+                <li>Internal Trade</li>
+                <li>International Business</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+
+        <h3>
+            ⭐ The single highest-weightage unit
+        </h3>
+
+        <p>
+            Nature and Purpose of Business is confirmed as the highest-weightage single unit at 16 marks — meaning it alone accounts for a fifth of the entire theory paper. Combined with the general pattern that units 1 through 4 carry the heaviest weighting in the syllabus, this is where your earliest and deepest preparation should go.
+        </p>
+
+    </div>
+
+    <p>
+        Project work carries 20 marks and is compulsory — students choose one project from five prescribed topics. A well-organised project file with a clear structure and confident viva preparation is a genuinely reliable source of marks, separate from theory paper performance.
+    </p>
+
+</section>
+<section id="class11-bst-case-study">
+
+    <h2>
+        The Case-Study Skill Starts Here — Not in Class 12
+    </h2>
+
+    <p>
+        Business Studies case questions test one specific ability: can you read a realistic business scenario and correctly identify the concept, form, or principle it's describing? This is the same fundamental skill tested more heavily in Class 12 — and building it now, on Class 11's more foundational content, makes the Class 12 version significantly easier to handle later.
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                1
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Identify — name the exact concept
+                </h3>
+
+                <p>
+                    Read the scenario fully before answering. Ask: which specific business form, service, or principle from the syllabus does this describe? Name it precisely — not with a loose paraphrase.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                2
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Link — justify with the case itself
+                </h3>
+
+                <p>
+                    Point to the specific detail in the scenario that led you to that identification, in one or two lines. This demonstrates understanding rather than a lucky guess.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-index">
+                3
+            </div>
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Respond — state your answer clearly
+                </h3>
+
+                <p>
+                    Close with a direct, clearly stated answer — don't leave it buried inside a longer explanation.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 This same three-step structure — identify, link, respond — is exactly what you'll need refined further for Class 12 Business Studies case studies. Practising it now on Class 11's foundational content means you arrive at Class 12 already fluent in the method, needing only to apply it to more advanced concepts.
+    </div>
+
+</section>
+<section id="class11-bst-part-b">
+
+    <h2>
+        What's Actually Inside Part B — Finance & Trade
+    </h2>
+
+    <p>
+        Part B's content is more concrete and applied than Part A's — it covers real financial instruments, services, and trade mechanisms rather than purely conceptual definitions.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                Business Services — Banking
+            </h3>
+
+            <ul>
+                <li>Types of accounts: savings, current, recurring, fixed deposit, multiple option deposit</li>
+                <li>Bank Draft, Bank Overdraft, Cash Credit</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Business Services — Insurance & Postal
+            </h3>
+
+            <ul>
+                <li>Insurance principles; types: life, health, fire, marine</li>
+                <li>Postal services: registered post, parcel, speed post, courier</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                International Trade — Documentation
+            </h3>
+
+            <ul>
+                <li>Indent, letter of credit, shipping order, shipping bills</li>
+                <li>Mate's receipt (DA/DP)</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                International Trade — Institutions
+            </h3>
+
+            <ul>
+                <li>World Trade Organization (WTO) — meaning and objectives</li>
+                <li>India's position in the world economy</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class11-bst-syllabus-deletions">
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ A note on syllabus deletions
+        </h3>
+
+        <p>
+            CBSE has confirmed that some topics were rationalised out of Class 11 Business Studies as part of the broader syllabus revision aligned with NEP 2020, to reduce academic load. A complete, specific list of exactly which sub-topics were removed wasn't consistently detailed across the sources available for this guide. Confirm the exact, current syllabus — including any deleted content — directly from the official CBSE syllabus document on cbseacademic.nic.in before finalising your preparation.
+        </p>
+
+    </div>
+
+</section>
+<section id="class11-bst-glossary-strategy">
+
+    <h2>
+        Why a Business Terms Glossary Is the Single Highest-Leverage Habit
+    </h2>
+
+    <p>
+        Most questions in Class 11 Business Studies revolve around precise, correct usage of specific terms — sole proprietorship, outsourcing, multinational company, and dozens of others across the syllabus. A student who understands a concept but names it imprecisely, or confuses it with a similar term, loses marks even with genuinely correct underlying understanding.
+    </p>
+
+    <p>
+        Keep an active glossary as you move through each chapter — term, precise definition, and one distinguishing feature that separates it from similar terms. Revise this glossary regularly rather than building it once and setting it aside. This single habit does more for exam-day precision than almost any other study technique for this specific subject.
+    </p>
+
+    <p>
+        Reading current business news — newspapers, magazines, or reliable online sources — builds the same skill from a different angle, helping you recognise real-world examples of the concepts you're studying, which directly improves performance on application-based and case-based questions.
+    </p>
+
+</section>
+<section id="class11-bst-genelis" class="gdl-analysis-section">
+
+    <h2>
+        One BST Score Hides Whether You Know the Term — or Just the Idea
+    </h2>
+
+    <p>
+        A Business Studies test score of 58 out of 80 doesn't tell you whether lost marks came from not knowing a concept, or knowing it but naming it imprecisely — two very different problems needing different fixes.
+    </p>
+
+    <div class="gdl-accuracy-panel">
+
+        <div class="gdl-accuracy-header">
+
+            <h3>
+                What a Genelis weak area map looks like after a Class 11 BST practice session
+            </h3>
+
+        </div>
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Forms of Business Organisations
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:82%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    82%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Business Services — Banking & Insurance
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:68%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    68%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Nature and Purpose of Business — case identification
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:49%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    49%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    International Business — trade documentation
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:33%"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    33%
+                </div>
+
+            </div>
+
+        </div>
+
+        <p class="gdl-accuracy-note">
+            Next session: trade documentation (33%) — not Forms of Organisation (already 82%). Genelis builds this map automatically and distinguishes concept gaps from terminology-precision errors.
+        </p>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across all 10 units, distinguishing genuine concept gaps from case-study identification errors and terminology precision issues. Every wrong answer is logged to your <strong>wrong-question notebook</strong>, tagged by unit and error type, and queued for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            <strong>Attempt BST practice</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            <strong>Unit-level gap detected</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            <strong>AI notes for weak concept</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            <strong>Wrong Qs auto-logged</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            <strong>Reattempt those questions</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            <strong>Gap closed. Map updates. ✓</strong>
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class11-businessstudies&utm_content=cta-inline"
+    >
+        Start your personalised Class 11 Business Studies study plan on Genelis — free →
+    </a>
+
+</section>
+<section id="class11-bst-quick-reference">
+
+    <h2>
+        Quick Reference: The 10 Units
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                A — Foundations of Business
+            </h3>
+
+            <ul>
+                <li>Nature and Purpose of Business (16 marks — highest unit)</li>
+                <li>Forms of Business Organisations</li>
+                <li>Public and Private Enterprises</li>
+                <li>Business Services</li>
+                <li>Emerging Modes of Business</li>
+                <li>Business Ethics</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                40
+            </div>
+
+            <h3>
+                B — Corporate Organisation, Finance & Trade
+            </h3>
+
+            <ul>
+                <li>Sources of Business Finance</li>
+                <li>Small Business</li>
+                <li>Internal Trade</li>
+                <li>International Business</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 <strong>How to use this reference:</strong> Prioritise units 1-4 first, given they carry the heaviest weighting. Build your glossary chapter by chapter as you go. Practise the identify-link-respond method on every case-based question you encounter, even in early chapters — this habit compounds directly into Class 12 readiness.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "How are marks distributed in CBSE Class 11 Business Studies?"
+            ),
+            "answer": (
+                "The subject carries 100 total marks: 80 for the theory paper and "
+                "20 for project work. The theory paper splits into two parts: Part A, "
+                "Foundations of Business, carrying 40 marks across 6 units, and Part B, "
+                "Corporate Organisation, Finance and Trade, carrying 40 marks across "
+                "4 units — 10 units in total. Nature and Purpose of Business is "
+                "confirmed as the highest-weightage single unit at 16 marks, and units "
+                "1 through 4 together are generally considered the highest-weightage "
+                "cluster in the syllabus."
+            )
+        },
+        {
+            "question": (
+                "Are case-based questions part of the Class 11 Business Studies exam, "
+                "or only Class 12?"
+            ),
+            "answer": (
+                "Case-based questions are confirmed as part of the Class 11 Business "
+                "Studies paper, alongside objective, short-answer, and long-answer "
+                "questions. This means the case-study identification skill many students "
+                "assume is Class-12-specific actually needs to be built starting in "
+                "Class 11 — students who wait until Class 12 to develop this skill are "
+                "starting a year later than they need to."
+            )
+        },
+        {
+            "question": (
+                "What topics does Part B of Class 11 Business Studies cover?"
+            ),
+            "answer": (
+                "Part B, Corporate Organisation, Finance and Trade, covers Business "
+                "Services in detail — including banking (types of accounts, bank draft, "
+                "overdraft, cash credit), insurance (principles and types: life, health, "
+                "fire, marine), and postal services (registered post, parcel, speed post, "
+                "courier) — alongside International Trade, including trade documentation "
+                "such as indents, letters of credit, shipping bills, and the role of the "
+                "World Trade Organization."
+            )
+        },
+        {
+            "question": (
+                "Were any chapters removed from Class 11 Business Studies for 2025-26?"
+            ),
+            "answer": (
+                "Yes, CBSE has confirmed that some topics were rationalised to reduce "
+                "academic load, as part of the broader NEP 2020-aligned syllabus "
+                "revision. However, a complete, specific list of exactly which sub-topics "
+                "were removed was not consistently detailed across the sources available "
+                "at the time of writing. Students should confirm the exact current "
+                "syllabus, including any deleted topics, directly from the official "
+                "CBSE syllabus document on cbseacademic.nic.in."
+            )
+        },
+        {
+            "question": (
+                "Why does building a business terminology glossary matter so much "
+                "in Class 11 BST?"
+            ),
+            "answer": (
+                "Most questions in Class 11 Business Studies revolve around correct "
+                "usage of precise terms — such as sole proprietorship, outsourcing, "
+                "or multinational company — rather than general familiarity with the "
+                "concept. A student who understands the idea of a term but can't name "
+                "it precisely, or confuses it with a similar term, loses marks even "
+                "with correct underlying understanding. Keeping an active, regularly "
+                "revised glossary of terms as you progress through each chapter is one "
+                "of the highest-leverage habits for this specific subject."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-business-studies-case-studies-answer-writing-cbse",
+        "class-11-accountancy-journal-entries-trial-balance-cbse",
+        "class-11-economics-microeconomics-statistics-cbse",
+        "cbse-class-11-survival-guide-all-streams"
+    ]
 },
     {
     "slug": "class-12-business-studies-case-studies-answer-writing-cbse",
