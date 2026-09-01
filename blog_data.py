@@ -10197,6 +10197,5252 @@ student = {<span class="str">"name"</span>: <span class="str">"Rahul"</span>, <s
         "cbse-class-11-survival-guide-all-streams"
     ]
 },
+{
+    "slug": "class-12-organic-chemistry-named-reactions-mechanisms-practice",
+
+    "title": (
+        "Class 12 Organic Chemistry Named Reactions: "
+        "Practice Set with Mechanisms"
+    ),
+
+    "meta_title": (
+        "Class 12 Organic Chemistry Named Reactions: "
+        "Practice Set with Mechanisms | Genelis"
+    ),
+
+    "meta_description": (
+        "Not every named reaction is tested at the same depth. This guide "
+        "separates the reactions where CBSE expects a full step-by-step mechanism "
+        "from those tested as reagents-plus-reasoning, covering Nucleophilic "
+        "Addition, Aldol Condensation, Cannizzaro, Hoffmann Bromamide Degradation, "
+        "Reimer-Tiemann, and Friedel-Crafts Acylation."
+    ),
+
+    "excerpt": (
+        "Full mechanisms where CBSE actually expects them. Reagents plus reasoning "
+        "where it doesn't. Six named reactions, correctly calibrated to board depth."
+    ),
+
+    "class": "12",
+
+    "subject": "Chemistry",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-20T09:00:00+05:30",
+
+    "updated_date": "2026-08-20T09:00:00+05:30",
+
+    "reading_time": "17 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 12 Organic Chemistry named reactions practice set "
+        "with mechanisms"
+    ),
+
+    "keywords": [
+        "class 12 organic chemistry named reactions",
+        "aldol condensation mechanism",
+        "Cannizzaro reaction mechanism",
+        "Hoffmann bromamide degradation",
+        "Reimer-Tiemann reaction mechanism",
+        "Friedel-Crafts acylation mechanism",
+        "class 12 chemistry mechanism practice"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        Most named-reaction guides make the same mistake in one of two directions: they either give you nothing but the overall equation for every reaction — leaving you unable to answer a single "explain why" question — or they hand you a full university-level curved-arrow mechanism for everything, including reactions where CBSE never expects that depth. Both approaches waste your time, just in opposite ways.
+    </p>
+
+    <p>
+        This guide does something different: it tells you honestly which reactions genuinely need a full step-by-step mechanism at board level, and which ones need reagents, product, and reasoning instead — then delivers exactly that, correctly calibrated, for six of the highest-value named reactions in Class 12 Organic Chemistry.
+    </p>
+
+</section>
+<section id="class12-organic-two-tiers">
+
+    <h2>
+        Why This Guide Splits Every Reaction Into Two Tiers
+    </h2>
+
+    <div class="highlight-box">
+
+        <p>
+            CBSE's own prescribed mechanism content is specific: full step-by-step mechanisms are expected for reactions like SN1/SN2 substitution, nucleophilic addition to carbonyl compounds, Aldol condensation, esterification, and acid-catalysed dehydration. For other well-known named reactions — Cannizzaro, Hoffmann Bromamide Degradation, Reimer-Tiemann, Friedel-Crafts Acylation — the expected depth is different: reagents, conditions, correct product, and the reasoning behind why the reaction proceeds that way, without a full curved-arrow derivation.
+        </p>
+
+        <p>
+            Treating every reaction the same way — either all shallow or all deep — either leaves you unprepared for the ones that DO demand a full mechanism, or wastes hours memorising derivation-level detail for ones that don't. This guide is tiered to match reality.
+        </p>
+
+    </div>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Tier 1 — Full Mechanism Expected</strong>
+            </p>
+
+            <h3>
+                Step-by-step electron movement
+            </h3>
+
+            <p>
+                You should be able to draw or describe every intermediate, in order, from starting material to product. Nucleophile identified, electron movement described, intermediate named at each stage.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Tier 2 — Reagents + Reasoning Expected</strong>
+            </p>
+
+            <h3>
+                Transformation, conditions, and why
+            </h3>
+
+            <p>
+                You should know exactly what's added, what forms, and the key mechanistic idea that explains the outcome — without needing to derive every curved arrow from scratch.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">1</div>
+            <div class="gdl-prep-content">
+                <h3>Nucleophilic Addition of HCN to a Carbonyl</h3>
+                <p><strong>Tier 1</strong></p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">2</div>
+            <div class="gdl-prep-content">
+                <h3>Aldol Condensation</h3>
+                <p><strong>Tier 1</strong></p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">3</div>
+            <div class="gdl-prep-content">
+                <h3>Cannizzaro Reaction</h3>
+                <p><strong>Tier 2</strong></p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">4</div>
+            <div class="gdl-prep-content">
+                <h3>Hoffmann Bromamide Degradation</h3>
+                <p><strong>Tier 2</strong></p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">5</div>
+            <div class="gdl-prep-content">
+                <h3>Reimer-Tiemann Reaction</h3>
+                <p><strong>Tier 2</strong></p>
+            </div>
+        </div>
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-index">6</div>
+            <div class="gdl-prep-content">
+                <h3>Friedel-Crafts Acylation</h3>
+                <p><strong>Tier 2</strong></p>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+<section id="class12-organic-tier1">
+
+    <h2>
+        Tier 1: Full Mechanisms
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>
+            Nucleophilic Addition — HCN to Ethanal
+        </h3>
+
+        <p>
+            <strong>Tier 1</strong>
+        </p>
+
+        <div class="highlight-box">
+            CH₃CHO + HCN → CH₃CH(OH)CN <em>(2-hydroxypropanenitrile, a cyanohydrin)</em>
+        </div>
+
+        <details>
+
+            <summary>
+                Reveal Full Mechanism
+            </summary>
+
+            <div class="gdl-prep-flow">
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        1
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Nucleophile attacks the electrophilic carbonyl carbon
+                        </h3>
+
+                        <p>
+                            The C=O bond in ethanal is polarised — oxygen, being more electronegative, pulls electron density away from carbon, making that carbon electrophilic. The cyanide ion (CN⁻) is a strong nucleophile and attacks this carbon directly.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        2
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            The π bond breaks, forming a tetrahedral alkoxide intermediate
+                        </h3>
+
+                        <p>
+                            As CN⁻ forms a new bond to carbon, the π electrons of C=O are pushed entirely onto oxygen. Carbon is now sp³-hybridised, bonded to CH₃, H, CN, and O⁻ — a tetrahedral alkoxide intermediate.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        3
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Protonation gives the final cyanohydrin
+                        </h3>
+
+                        <p>
+                            The alkoxide, being strongly basic, is rapidly protonated by a nearby proton source (HCN or the solvent), giving the neutral -OH group of the final product.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="highlight-box">
+                💡 <strong>Why a trace of base is added:</strong> pure HCN barely ionises on its own. A small amount of base (like NaOH or NaCN) generates enough free CN⁻ ions to actually drive the reaction — it's the CN⁻ ion, not neutral HCN, that acts as the nucleophile.
+            </div>
+
+        </details>
+
+    </div>
+
+</section>
+<div class="gdl-card">
+
+    <h3>
+        Aldol Condensation
+    </h3>
+
+    <p>
+        <strong>Tier 1</strong>
+    </p>
+
+    <div class="highlight-box">
+        2 CH₃CHO <sup>dil. NaOH</sup>→ CH₃CH(OH)CH₂CHO <sup>heat, −H₂O</sup>→ CH₃CH=CHCHO
+    </div>
+
+    <details>
+
+        <summary>
+            Reveal Full Mechanism
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    1
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Enolate formation
+                    </h3>
+
+                    <p>
+                        Hydroxide ion removes an acidic α-hydrogen from one ethanal molecule. The resulting carbanion is stabilised by resonance with the adjacent carbonyl, forming a resonance-stabilised enolate ion.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    2
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Nucleophilic addition to a second molecule
+                    </h3>
+
+                    <p>
+                        This enolate acts as a nucleophile and attacks the electrophilic carbonyl carbon of a second ethanal molecule, forming a new C–C bond and pushing that molecule's π electrons onto oxygen — generating an alkoxide intermediate.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    3
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Protonation gives the aldol
+                    </h3>
+
+                    <p>
+                        The alkoxide is protonated by water, giving 3-hydroxybutanal — a molecule with both an -OH and a -CHO group. This is the "aldol" (aldehyde + alcohol).
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    4
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Dehydration on heating — the "condensation" step
+                    </h3>
+
+                    <p>
+                        On heating, base removes an α-hydrogen adjacent to the new -OH group, forming another carbanion, which eliminates hydroxide in an E1cb-type step. This creates a C=C double bond conjugated with the carbonyl, giving the final α,β-unsaturated aldehyde, crotonaldehyde.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            💡 <strong>Why this needs an α-hydrogen:</strong> the entire pathway depends on forming an enolate in Step 1. Without an α-hydrogen, this first step simply can't happen — which is exactly why formaldehyde and benzaldehyde can't undergo Aldol condensation. See the Cannizzaro reaction below for what happens to them instead.
+        </div>
+
+    </details>
+
+</div>
+<section id="class12-organic-tier2">
+
+    <h2>
+        Tier 2: Reagents, Products & the Reasoning Behind Them
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>
+            Cannizzaro Reaction
+        </h3>
+
+        <p>
+            <strong>Tier 2</strong>
+        </p>
+
+        <div class="highlight-box">
+            2 HCHO <sup>conc. NaOH</sup>→ CH₃OH + HCOONa <em>(general: aldehydes with no α-H disproportionate)</em>
+        </div>
+
+        <details>
+
+            <summary>
+                Reveal Reasoning
+            </summary>
+
+            <div class="gdl-prep-flow">
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        1
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Why this pathway exists at all
+                        </h3>
+
+                        <p>
+                            These aldehydes have no α-hydrogen, so the enolate-forming first step of Aldol condensation simply isn't available to them. A completely different pathway takes over.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        2
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Hydroxide attacks one molecule directly
+                        </h3>
+
+                        <p>
+                            OH⁻ attacks the carbonyl carbon of one aldehyde molecule, forming a tetrahedral "gem-diolate" intermediate — a carbon bearing both an O⁻ and an OH group, still carrying its original hydrogen.
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        3
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Hydride transfer — the key redox step
+                        </h3>
+
+                        <p>
+                            This gem-diolate transfers a hydride ion (H⁻, a hydrogen taking both bonding electrons with it) to the carbonyl carbon of a second aldehyde molecule. The donor is oxidised to a carboxylate ion; the acceptor is reduced, and after protonation becomes the alcohol.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="highlight-box">
+                💡 This is a disproportionation reaction — one molecule of the same starting material is oxidised while another is simultaneously reduced.
+            </div>
+
+            <div class="warn-box">
+                ✍️ <strong>What to write for full marks:</strong> the correct reagent (conc. NaOH), the correct products (one alcohol + one carboxylate salt), and the stated condition — the aldehyde must have no α-hydrogen. Mentioning "hydride transfer" and "disproportionation" earns extra clarity credit.
+            </div>
+
+        </details>
+
+    </div>
+
+<div class="gdl-card">
+
+    <h3>
+        Hoffmann Bromamide Degradation
+    </h3>
+
+    <p>
+        <strong>Tier 2</strong>
+    </p>
+
+    <div class="highlight-box">
+        RCONH₂ + Br₂ + 4 NaOH → RNH₂ + Na₂CO₃ + 2 NaBr + 2 H₂O
+    </div>
+
+    <details>
+
+        <summary>
+            Reveal Reasoning
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    1
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        N-bromination
+                    </h3>
+
+                    <p>
+                        Br₂ reacts with NaOH to form NaOBr in situ. This brominates the amide's nitrogen, replacing one N-H with N-Br.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    2
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Migration to nitrogen — the key step
+                    </h3>
+
+                    <p>
+                        Base removes the remaining N-H proton. The resulting anion undergoes rearrangement: the R group migrates from carbon directly to nitrogen, carrying its bonding electrons with it, while Br⁻ simultaneously leaves. This produces an isocyanate intermediate, R-N=C=O.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    3
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Hydrolysis and decarboxylation
+                    </h3>
+
+                    <p>
+                        The isocyanate is hydrolysed to an unstable carbamic acid, which spontaneously loses CO₂ (decarboxylates) to give the final primary amine. The released CO₂ reacts with excess NaOH to form Na₂CO₃.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            💡 <strong>Why the product has one less carbon:</strong> the original carbonyl carbon of the amide is lost as CO₂ during decarboxylation — this is the single most frequently tested fact about this reaction.
+        </div>
+
+        <div class="warn-box">
+            ✍️ <strong>What to write for full marks:</strong> correct reagents (Br₂/NaOH), correct product (primary amine with one fewer carbon than the starting amide), and — if asked to explain why — mention the isocyanate intermediate and loss of CO₂.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <h3>
+        Reimer-Tiemann Reaction
+    </h3>
+
+    <p>
+        <strong>Tier 2</strong>
+    </p>
+
+    <div class="highlight-box">
+        C₆H₅OH + CHCl₃ <sup>NaOH</sup>→ <em>o</em>-C₆H₄(OH)CHO <em>(salicylaldehyde, major product)</em>
+    </div>
+
+    <details>
+
+        <summary>
+            Reveal Reasoning
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    1
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Dichlorocarbene forms
+                    </h3>
+
+                    <p>
+                        Base removes the acidic hydrogen from CHCl₃ (acidic because three chlorines withdraw electron density), forming CCl₃⁻. This carbanion rapidly loses a chloride ion, generating the highly electrophilic dichlorocarbene, :CCl₂.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    2
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Phenoxide is highly electron-rich
+                    </h3>
+
+                    <p>
+                        In basic conditions, phenol exists as the phenoxide ion, C₆H₅O⁻. The negative charge delocalises into the ring, making the ortho and para positions strongly nucleophilic.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    3
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Electrophilic attack and hydrolysis
+                    </h3>
+
+                    <p>
+                        The electron-poor dichlorocarbene is attacked at the ortho position of the electron-rich ring, and after rearomatisation and hydrolysis of the resulting dichloromethyl group, the aldehyde (-CHO) is formed.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            💡 Dichlorocarbene is the reactive intermediate to name if asked "what is the electrophile in this reaction?" — it's the single most commonly tested specific fact here.
+        </div>
+
+        <div class="warn-box">
+            ✍️ <strong>What to write for full marks:</strong> correct reagents (CHCl₃, NaOH), correct major product (salicylaldehyde, ortho-substituted), and identification of dichlorocarbene as the attacking species.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <h3>
+        Friedel-Crafts Acylation
+    </h3>
+
+    <p>
+        <strong>Tier 2</strong>
+    </p>
+
+    <div class="highlight-box">
+        C₆H₆ + RCOCl <sup>anhyd. AlCl₃</sup>→ C₆H₅COR + HCl
+    </div>
+
+    <details>
+
+        <summary>
+            Reveal Reasoning
+        </summary>
+
+        <div class="two-split">
+
+    <div class="gdl-card">
+        <p><strong>Nucleophilic Addition of HCN to a Carbonyl</strong></p>
+        <p>Tier 1</p>
+    </div>
+
+    <div class="gdl-card">
+        <p><strong>Aldol Condensation</strong></p>
+        <p>Tier 1</p>
+    </div>
+
+    <div class="gdl-card">
+        <p><strong>Cannizzaro Reaction</strong></p>
+        <p>Tier 2</p>
+    </div>
+
+    <div class="gdl-card">
+        <p><strong>Hoffmann Bromamide Degradation</strong></p>
+        <p>Tier 2</p>
+    </div>
+
+    <div class="gdl-card">
+        <p><strong>Reimer-Tiemann Reaction</strong></p>
+        <p>Tier 2</p>
+    </div>
+
+    <div class="gdl-card">
+        <p><strong>Friedel-Crafts Acylation</strong></p>
+        <p>Tier 2</p>
+    </div>
+
+</div>
+
+        <div class="highlight-box">
+            💡 <strong>Why acylation, not alkylation, is preferred in synthesis:</strong> the acylium ion can't rearrange the way an alkyl carbocation can (no hydride/alkyl shifts possible, since the charge is resonance-stabilised by oxygen), and the ketone product is deactivated toward further substitution — preventing unwanted polysubstitution.
+        </div>
+
+        <div class="warn-box">
+            ✍️ <strong>What to write for full marks:</strong> identify the acylium ion as the electrophile, name AlCl₃'s role as a Lewis acid catalyst, and describe the standard EAS sequence (attack → arenium ion → deprotonation).
+        </div>
+
+    </details>
+
+</div>
+
+</section>
+<section id="class12-organic-genelis">
+
+    <h2>
+        Can You Tell Which Tier a New Reaction Belongs To — Without Being Told?
+    </h2>
+
+    <p>
+        The real board-exam skill isn't reproducing these six mechanisms from memory — it's recognising, when a new question describes a reaction, whether it demands a full mechanism or a reasoning-based answer, and responding at the right depth either way.
+    </p>
+
+    <div class="gdl-analysis-section">
+
+        <div class="gdl-accuracy-panel">
+
+            <h4>
+                What a Genelis weak area map looks like after working through named reaction practice
+            </h4>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Cannizzaro & Hoffmann — reasoning-based answers
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill" style="width:80%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value">
+                    80%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Nucleophilic addition — full mechanism
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill" style="width:66%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value">
+                    66%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Aldol condensation — full mechanism
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill" style="width:49%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value">
+                    49%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Friedel-Crafts — electrophile identification
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill" style="width:31%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value">
+                    31%
+                </div>
+
+            </div>
+
+            <p>
+                Next session: Friedel-Crafts electrophile identification (31%) — not more Cannizzaro practice. Genelis tracks accuracy separately for full-mechanism recall versus reasoning-based recall, since they're genuinely different skills.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh named-reaction questions calibrated to the correct board depth for each reaction type, tracks your accuracy separately by tier, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh reactions
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Tier-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak reaction
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that reaction
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-organic-mechanisms&utm_content=cta-inline"
+    >
+        Practise unlimited named-reaction questions on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For the full PYQ-verified named reactions list, formula sheet, and chapter strategy, see the <a href="/blog/class-12-chemistry-important-chapters-pyq-analysis">complete Class 12 Chemistry guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Which named reactions does CBSE Class 12 expect a full "
+                "step-by-step mechanism for?"
+            ),
+            "answer": (
+                "CBSE explicitly prescribes full mechanism understanding for a "
+                "specific set of reactions: SN1 and SN2 substitution, nucleophilic "
+                "addition to carbonyl compounds (such as HCN adding to an aldehyde), "
+                "Aldol condensation, esterification, and acid-catalysed dehydration "
+                "reactions. For these, students are expected to describe electron "
+                "movement step by step — nucleophile attack, intermediate formation, "
+                "and final product — not just state the overall transformation."
+            )
+        },
+        {
+            "question": (
+                "Do I need to memorise the full mechanism for Cannizzaro, Hoffmann, "
+                "Reimer-Tiemann, and Friedel-Crafts reactions?"
+            ),
+            "answer": (
+                "Not to the same depth as SN1/SN2 or Aldol condensation. For these "
+                "named reactions, CBSE typically expects you to know the reactants, "
+                "reagents and conditions, the correct product, and the key reasoning "
+                "behind why the reaction proceeds the way it does — such as identifying "
+                "the reactive intermediate (dichlorocarbene, acylium ion) or the "
+                "underlying principle (hydride transfer, carbon migration). A full "
+                "curved-arrow derivation for these specific reactions goes beyond "
+                "typical board-exam depth, though understanding the reasoning helps "
+                "you answer 'why' questions confidently."
+            )
+        },
+        {
+            "question": (
+                "Why can't formaldehyde or benzaldehyde undergo Aldol condensation?"
+            ),
+            "answer": (
+                "Aldol condensation requires an α-hydrogen atom — a hydrogen on the "
+                "carbon adjacent to the carbonyl group — because the first mechanistic "
+                "step is base removing this α-hydrogen to form a resonance-stabilised "
+                "enolate ion, which then acts as the nucleophile. Formaldehyde (HCHO) "
+                "has no carbon adjacent to its carbonyl carbon at all, and "
+                "benzaldehyde's adjacent position is the aromatic ring, which has no "
+                "removable α-hydrogen in the required sense. Without an α-hydrogen, "
+                "the enolate pathway is unavailable, so these aldehydes instead "
+                "undergo the Cannizzaro reaction."
+            )
+        },
+        {
+            "question": (
+                "Why does the Hoffmann Bromamide Degradation product have one less "
+                "carbon than the starting amide?"
+            ),
+            "answer": (
+                "During the reaction, the amide's R group migrates from the carbonyl "
+                "carbon to the nitrogen atom, forming an isocyanate intermediate. "
+                "This isocyanate is then hydrolysed to an unstable carbamic acid, "
+                "which spontaneously loses carbon dioxide (decarboxylates) to give "
+                "the final primary amine. The original carbonyl carbon of the amide "
+                "is lost as CO2 during this decarboxylation step, which is why the "
+                "resulting amine has exactly one fewer carbon atom than the starting "
+                "amide."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-chemistry-important-chapters-pyq-analysis",
+        "class-12-electrochemistry-numericals-practice-set",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ]
+},
+{
+    "slug": "class-12-electrochemistry-numericals-practice-set",
+
+    "title": (
+        "Class 12 Electrochemistry Numericals: "
+        "Practice Set with Step-by-Step Solutions"
+    ),
+
+    "meta_title": (
+        "Class 12 Electrochemistry Numericals: "
+        "Practice Set with Step-by-Step Solutions | Genelis"
+    ),
+
+    "meta_description": (
+        "10 original Electrochemistry problems covering every numerical sub-type "
+        "CBSE Class 12 tests — Nernst equation, concentration cells, ΔG and "
+        "equilibrium constant, Faraday's laws, comparative electrolysis, and "
+        "Kohlrausch's law — each with a complete, independently verified "
+        "step-by-step solution."
+    ),
+
+    "excerpt": (
+        "10 original problems, every numerical sub-type covered, every answer "
+        "independently verified. Attempt each one before revealing the solution."
+    ),
+
+    "class": "12",
+
+    "subject": "Chemistry",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-20T09:00:00+05:30",
+
+    "updated_date": "2026-08-20T09:00:00+05:30",
+
+    "reading_time": "16 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 12 Electrochemistry numericals practice set "
+        "with step-by-step solutions"
+    ),
+
+    "keywords": [
+        "class 12 electrochemistry numericals",
+        "electrochemistry practice problems CBSE",
+        "Nernst equation solved examples",
+        "Faraday law numericals class 12",
+        "electrochemistry step by step solutions",
+        "concentration cell problems class 12"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        Our <a href="/blog/class-12-chemistry-important-chapters-pyq-analysis">Class 12 Chemistry strategy guide</a> told you Electrochemistry numericals cluster into a handful of recurring types. This is that practice, delivered — 10 original problems, one for every distinct sub-type CBSE actually tests, each with a complete solution you can follow line by line.
+    </p>
+
+    <div class="highlight-box">
+
+        <p>
+            <strong>How to use this page:</strong> Read each problem, attempt it fully on paper first, then tap "Reveal Solution" to check your working — not just your final answer. Every calculation on this page was computed independently and verified before publishing, so you can trust the numbers you're checking against.
+        </p>
+
+    </div>
+
+</section>
+<section id="class12-electrochemistry-subtypes">
+
+    <h2>
+        Every Sub-Type Covered — Not Just the Popular Three
+    </h2>
+
+    <p>
+        Most practice sets repeat the same easy Nernst-equation problem five times. This one covers the complete landscape:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">1</div>
+            <p>Nernst equation — basic EMF calculation</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">2</div>
+            <p>Nernst equation — find unknown concentration</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">3</div>
+            <p>Concentration cell (E°cell = 0)</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">4</div>
+            <p>Gibbs free energy from E°cell</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">5</div>
+            <p>Equilibrium constant from E°cell</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">6</div>
+            <p>Faraday's law — mass deposited</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">7</div>
+            <p>Faraday's law — time required</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">8</div>
+            <p>Comparative electrolysis — cells in series</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">9</div>
+            <p>Conductivity & molar conductivity</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">10</div>
+            <p>Kohlrausch's law & degree of dissociation</p>
+        </div>
+
+    </div>
+
+</section>
+<section id="class12-electrochemistry-problems">
+
+    <h2>
+        The 10 Problems
+    </h2>
+
+    <div class="gdl-card">
+
+        <div class="gdl-prep-index">
+            1
+        </div>
+
+        <h3>
+            Nernst Equation — Basic EMF Calculation
+        </h3>
+
+        <p>
+            For the cell Zn(s) | Zn²⁺(0.01 M) || Cu²⁺(1.0 M) | Cu(s), given E°cell = 1.10 V, calculate the cell potential (E<sub>cell</sub>) at 298 K.
+        </p>
+
+        <details>
+
+            <summary>
+                Reveal Solution
+            </summary>
+
+            <div class="gdl-prep-flow">
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        1
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Step 1 — Identify n and write Q
+                        </h3>
+
+                        <p>
+                            Zn → Zn²⁺ + 2e⁻ and Cu²⁺ + 2e⁻ → Cu, so n = 2. Reaction quotient: Q = [Zn²⁺]/[Cu²⁺] (solids don't appear).
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        2
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Step 2 — Substitute
+                        </h3>
+
+                        <p>
+                            Q = 0.01/1.0 = 0.01, so log₁₀(Q) = −2
+                        </p>
+
+                        <div class="highlight-box">
+                            E<sub>cell</sub> = E°<sub>cell</sub> − (0.0591/n) log Q = 1.10 − (0.0591/2)(−2)
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-index">
+                        3
+                    </div>
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Step 3 — Calculate
+                        </h3>
+
+                        <p>
+                            E<sub>cell</sub> = 1.10 − (0.02955 × −2) = 1.10 − (−0.0591) = 1.10 + 0.0591
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="highlight-box">
+                ✓ <strong>E<sub>cell</sub> = 1.1591 V</strong>
+            </div>
+
+            <div class="warn-box">
+                ⚠️ <strong>Common mistake:</strong> sign errors when Q &lt; 1 makes log Q negative — subtracting a negative number increases E<sub>cell</sub>. Diluting the anode's ion concentration always raises the cell potential above E°<sub>cell</sub>.
+            </div>
+
+        </details>
+
+    </div>
+    <div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        2
+    </div>
+
+    <h3>
+        Nernst Equation — Find Unknown Concentration
+    </h3>
+
+    <p>
+        A cell is set up as Ni(s) | Ni²⁺(x M) || Cu²⁺(1.0 M) | Cu(s). Given E°(Cu²⁺/Cu) = +0.34 V, E°(Ni²⁺/Ni) = −0.25 V, and the measured E<sub>cell</sub> = 0.6196 V at 298 K, find [Ni²⁺].
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    1
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Find E°cell
+                    </h3>
+
+                    <p>
+                        E°<sub>cell</sub> = E°<sub>cathode</sub> − E°<sub>anode</sub> = 0.34 − (−0.25) = 0.59 V
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    2
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Rearrange the Nernst equation for Q
+                    </h3>
+
+                    <p>
+                        n = 2 (both are two-electron processes)
+                    </p>
+
+                    <div class="highlight-box">
+                        log Q = (E°<sub>cell</sub> − E<sub>cell</sub>) × n / 0.0591
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-index">
+                    3
+                </div>
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Substitute and solve
+                    </h3>
+
+                    <p>
+                        log Q = (0.59 − 0.6196) × 2 / 0.0591 = (−0.0296 × 2)/0.0591 = −1.0017
+                    </p>
+
+                    <p>
+                        Q = 10⁻¹·⁰⁰¹⁷ ≈ 0.0996. Since Q = [Ni²⁺]/[Cu²⁺] and [Cu²⁺] = 1.0 M:
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>[Ni²⁺] ≈ 0.0996 M ≈ 0.1 M</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> forgetting to reverse the sign when rearranging — since E<sub>cell</sub> here is greater than E°<sub>cell</sub>, Q must come out less than 1, meaning the numerator concentration is diluted relative to the standard state.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        3
+    </div>
+
+    <h3>
+        Concentration Cell (E°cell = 0)
+    </h3>
+
+    <p>
+        A concentration cell is constructed as Cu(s) | Cu²⁺(0.001 M) || Cu²⁺(0.1 M) | Cu(s). Calculate its EMF at 298 K.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Recognise the cell type
+                    </h3>
+
+                    <p>
+                        Both electrodes are the same metal (Cu), so E°<sub>cell</sub> = 0. The entire EMF comes purely from the concentration difference. The dilute side is the anode (oxidation, higher tendency to lose electrons at lower concentration); the concentrated side is the cathode.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Write Q
+                    </h3>
+
+                    <p>
+                        Q = [Cu²⁺]<sub>anode</sub>/[Cu²⁺]<sub>cathode</sub> = 0.001/0.1 = 0.01, log Q = −2
+                    </p>
+
+                    <div class="highlight-box">
+                        E<sub>cell</sub> = 0 − (0.0591/n) log Q = 0 − (0.0591/2)(−2)
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Calculate
+                    </h3>
+
+                    <p>
+                        E<sub>cell</sub> = 0.0591 V
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>E<sub>cell</sub> = 0.0591 V</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> trying to look up E° for "Cu vs Cu" — there's no such standard value to find, because E°<sub>cell</sub> for a concentration cell is always exactly zero by definition. The entire answer comes from the log term.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        4
+    </div>
+
+    <h3>
+        Gibbs Free Energy from E°cell
+    </h3>
+
+    <p>
+        For the Daniell cell reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), E°cell = 1.10 V. Calculate ΔG° for the reaction.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Identify n
+                    </h3>
+
+                    <p>
+                        Zn → Zn²⁺ + 2e⁻, so n = 2
+                    </p>
+
+                    <div class="highlight-box">
+                        ΔG° = −nFE°<sub>cell</sub>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Substitute
+                    </h3>
+
+                    <p>
+                        ΔG° = −(2)(96500 C/mol)(1.10 V) = −2 × 96500 × 1.10
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>ΔG° = −212300 J/mol = −212.3 kJ/mol</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> forgetting units — F is in C/mol and E is in V (=J/C), so the product nFE gives J/mol directly. No unit conversion needed, but always show units to catch errors.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        5
+    </div>
+
+    <h3>
+        Equilibrium Constant from E°cell
+    </h3>
+
+    <p>
+        Using the same Daniell cell data (E°cell = 1.10 V, n = 2), calculate the equilibrium constant K for the reaction at 298 K.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <div class="highlight-box">
+                        log K = nE°<sub>cell</sub> / 0.0591
+                    </div>
+
+                    <h3>
+                        Step 1 — Substitute
+                    </h3>
+
+                    <p>
+                        log K = (2 × 1.10) / 0.0591 = 2.20/0.0591 = 37.225
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Take antilog
+                    </h3>
+
+                    <p>
+                        K = 10³⁷·²²⁵
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>K ≈ 1.68 × 10³⁷</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ Don't panic at the size of this number — a large, positive E°cell genuinely does correspond to an astronomically large K. This reflects that the Daniell cell reaction is essentially irreversible; it goes to completion.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        6
+    </div>
+
+    <h3>
+        Faraday's Law — Mass Deposited
+    </h3>
+
+    <p>
+        A current of 2.0 A is passed through a CuSO₄ solution for 1 hour using platinum electrodes. Calculate the mass of copper deposited at the cathode. (Atomic mass of Cu = 63.5)
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Identify n and convert time
+                    </h3>
+
+                    <p>
+                        Cu²⁺ + 2e⁻ → Cu, so n = 2. t = 1 hour = 3600 s
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Find charge passed
+                    </h3>
+
+                    <p>
+                        Q = I × t = 2.0 × 3600 = 7200 C
+                    </p>
+
+                    <div class="highlight-box">
+                        mass = (M × I × t) / (n × F)
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Substitute
+                    </h3>
+
+                    <p>
+                        mass = (63.5 × 2.0 × 3600) / (2 × 96500) = 457200 / 193000
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>mass ≈ 2.37 g</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> writing mass = M×I×t/F and forgetting to divide by n. This only works for a one-electron process — for Cu²⁺ (n=2), forgetting n doubles your answer incorrectly.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        7
+    </div>
+
+    <h3>
+        Faraday's Law — Time Required
+    </h3>
+
+    <p>
+        What time is required to deposit 5.0 g of silver from an AgNO₃ solution using a current of 1.5 A? (Atomic mass of Ag = 108)
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Identify n and find moles
+                    </h3>
+
+                    <p>
+                        Ag⁺ + e⁻ → Ag, so n = 1. Moles of Ag = 5.0/108 = 0.04630 mol
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Find moles of electrons and charge
+                    </h3>
+
+                    <p>
+                        Moles of e⁻ needed = 0.04630 mol (since n=1). Q = moles_e × F = 0.04630 × 96500 = 4467.6 C
+                    </p>
+
+                    <div class="highlight-box">
+                        t = Q / I
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Substitute
+                    </h3>
+
+                    <p>
+                        t = 4467.6 / 1.5
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>t ≈ 2978.4 s ≈ 49.6 minutes</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> mixing up which variable to solve for — set up moles → charge → time in that fixed order every time, rather than trying to rearrange the combined formula from memory under pressure.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        8
+    </div>
+
+    <h3>
+        Comparative Electrolysis — Cells in Series
+    </h3>
+
+    <p>
+        Three electrolytic cells containing AgNO₃, CuSO₄, and ZnSO₄ solutions are connected in series. When 2.16 g of silver is deposited in the first cell, calculate: (a) the mass of copper deposited in the second cell, (b) the mass of zinc deposited in the third cell, and (c) the time taken if a steady current of 2.0 A was used. (Atomic masses: Ag=108, Cu=63.5, Zn=65.4)
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — The key idea
+                    </h3>
+
+                    <p>
+                        Cells in series carry the <em>same charge</em> — so find moles of electrons from the silver data first, then apply that same charge to the other two cells.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Moles of electrons from Ag
+                    </h3>
+
+                    <p>
+                        Ag⁺ + e⁻ → Ag (n=1). Moles Ag = 2.16/108 = 0.02 mol = moles of electrons passed.
+                    </p>
+
+                    <div class="highlight-box">
+                        Cu: moles = 0.02/2 = 0.01 mol → mass = 0.01 × 63.5 = 0.635 g
+                    </div>
+
+                    <div class="highlight-box">
+                        Zn: moles = 0.02/2 = 0.01 mol → mass = 0.01 × 65.4 = 0.654 g
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Time from charge and current
+                    </h3>
+
+                    <p>
+                        Q = 0.02 × 96500 = 1930 C. t = Q/I = 1930/2.0 = 965 s = 16.08 min
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>Cu = 0.635 g, Zn = 0.654 g, t ≈ 965 s ≈ 16.08 min</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> using n=1 for Cu and Zn too. Copper and zinc are both two-electron processes even though silver is one-electron — the masses deposited are in the ratio of their equivalent weights (M/n), not their atomic masses directly.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        9
+    </div>
+
+    <h3>
+        Conductivity & Molar Conductivity
+    </h3>
+
+    <p>
+        The resistance of a 0.1 M KCl solution in a conductivity cell is 100 Ω, and its conductivity is known to be 1.29 S/m. When the same cell is filled with 0.02 M KCl solution, the resistance is found to be 520 Ω. Calculate the conductivity and molar conductivity of the 0.02 M KCl solution.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Find the cell constant using 0.1 M KCl
+                    </h3>
+
+                    <p>
+                        The cell constant (G*) is fixed for a given cell, regardless of what solution fills it.
+                    </p>
+
+                    <div class="highlight-box">
+                        G* = κ × R = 1.29 S/m × 100 Ω = 129 m⁻¹
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Find κ for 0.02 M KCl using the same cell constant
+                    </h3>
+
+                    <p>
+                        κ = G*/R = 129/520 = 0.2481 S/m
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Convert to molar conductivity
+                    </h3>
+
+                    <p>
+                        Convert κ to S/cm: 0.2481/100 = 0.002481 S/cm
+                    </p>
+
+                    <div class="highlight-box">
+                        Λm = κ(S/cm) × 1000 / c(mol/L) = 0.002481 × 1000 / 0.02
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>κ = 0.2481 S/m, Λm ≈ 124.04 S cm² mol⁻¹</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> unit mismatch. Molar conductivity's standard formula uses κ in S/cm and c in mol/L — if your κ is in S/m (SI unit), you must divide by 100 first before applying the ×1000/c formula.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card">
+
+    <div class="gdl-prep-index">
+        10
+    </div>
+
+    <h3>
+        Kohlrausch's Law & Degree of Dissociation
+    </h3>
+
+    <p>
+        The molar conductivity of 0.001 M acetic acid (CH₃COOH) solution is 48.15 S cm² mol⁻¹. Given λ°(H⁺) = 349.6 S cm² mol⁻¹ and λ°(CH₃COO⁻) = 40.9 S cm² mol⁻¹, calculate the degree of dissociation (α) and the dissociation constant (Ka) of acetic acid.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Find Λ°m using Kohlrausch's law
+                    </h3>
+
+                    <div class="highlight-box">
+                        Λ°m(CH₃COOH) = λ°(H⁺) + λ°(CH₃COO⁻) = 349.6 + 40.9 = 390.5 S cm² mol⁻¹
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Find α
+                    </h3>
+
+                    <div class="highlight-box">
+                        α = Λm / Λ°m = 48.15 / 390.5 = 0.1233
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Find Ka
+                    </h3>
+
+                    <div class="highlight-box">
+                        Ka = cα² / (1−α) = (0.001 × 0.1233²) / (1 − 0.1233)
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>α = 0.1233 (12.33% dissociated), Ka ≈ 1.73 × 10⁻⁵</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Sanity check worth knowing:</strong> the real literature value for acetic acid's Ka is close to 1.8 × 10⁻⁵ — a computed answer this close confirms your method is correct. If your Ka comes out wildly different from this order of magnitude, re-check your α calculation first.
+        </div>
+
+    </details>
+
+</div>
+
+</section>
+<section id="class12-electrochemistry-genelis">
+
+    <h2>
+        Which of These 10 Types Would You Actually Get Right Under Exam Pressure?
+    </h2>
+
+    <p>
+        Reading through 10 solved problems and being able to solve 10 new ones cold are different things. The real test is whether you can identify which sub-type a fresh question belongs to and apply the right formula without the type being labelled for you.
+    </p>
+
+    <div class="gdl-analysis-section">
+
+        <div class="gdl-accuracy-panel">
+
+    <h4>
+        What a Genelis weak area map looks like after working through Electrochemistry problem sets
+    </h4>
+
+    <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+            Faraday's law — mass & time
+        </div>
+
+        <div class="gdl-accuracy-track">
+            <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:83%;"></div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+            83%
+        </div>
+
+    </div>
+
+    <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+            Nernst equation — basic EMF
+        </div>
+
+        <div class="gdl-accuracy-track">
+            <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:69%;"></div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--good">
+            69%
+        </div>
+
+    </div>
+
+    <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+            Kohlrausch's law & degree of dissociation
+        </div>
+
+        <div class="gdl-accuracy-track">
+            <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:48%;"></div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--average">
+            48%
+        </div>
+
+    </div>
+
+    <div class="gdl-accuracy-row">
+
+        <div class="gdl-accuracy-label">
+            Comparative electrolysis (series cells)
+        </div>
+
+        <div class="gdl-accuracy-track">
+            <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:32%;"></div>
+        </div>
+
+        <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+            32%
+        </div>
+
+    </div>
+
+    <p>
+        Next session: comparative electrolysis (32%) — not more basic Nernst practice. Genelis tracks accuracy by sub-type, not just by chapter, so it can tell you exactly which of these 10 patterns needs more reps.
+    </p>
+
+</div>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled Electrochemistry problems across all 10 sub-types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt — so you find out which type trips you up before the exam does.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Sub-type gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that type
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-electrochemistry-practice&utm_content=cta-inline"
+    >
+        Practise unlimited fresh Electrochemistry problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For the full formula reference and exam strategy behind these problem types, see the <a href="/blog/class-12-chemistry-important-chapters-pyq-analysis">complete Class 12 Chemistry guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What numerical types appear in CBSE Class 12 Electrochemistry?"
+            ),
+            "answer": (
+                "Ten distinct numerical sub-types appear across CBSE Class 12 "
+                "Electrochemistry: Nernst equation EMF calculation, Nernst equation "
+                "applied to find an unknown concentration, concentration cell EMF "
+                "(where E°cell = 0), Gibbs free energy from cell potential, "
+                "equilibrium constant from cell potential, Faraday's law for mass "
+                "deposited, Faraday's law for time required, comparative or series "
+                "electrolysis across multiple cells, conductivity and molar "
+                "conductivity from resistance measurements, and Kohlrausch's law "
+                "combined with degree of dissociation for weak electrolytes."
+            )
+        },
+        {
+            "question": (
+                "What value of the Nernst equation constant should I use — "
+                "0.0591 or 0.0592?"
+            ),
+            "answer": (
+                "At 298 K, the precise value of 2.303RT/F works out to "
+                "approximately 0.05913, which rounds to 0.0591. This is the "
+                "standard value used throughout NCERT and CBSE board solutions. "
+                "Some resources round to 0.0592 instead — both are acceptable in "
+                "a board exam, but 0.0591 is the more precise and more commonly "
+                "used convention, and is used consistently throughout this "
+                "practice set."
+            )
+        },
+        {
+            "question": (
+                "Why is the equilibrium constant for a cell reaction like the "
+                "Daniell cell such an enormous number?"
+            ),
+            "answer": (
+                "Because the relationship log K = nE°cell/0.0591 is exponential "
+                "in E°cell, even a moderate cell potential produces an "
+                "astronomically large equilibrium constant. For the Daniell cell "
+                "(E°cell = 1.10 V, n = 2), K works out to approximately "
+                "1.68 × 10³⁷. This reflects a genuinely useful chemical fact: "
+                "a favourable, spontaneous cell reaction with positive E°cell "
+                "essentially goes to completion, which is exactly what a large K "
+                "value represents."
+            )
+        },
+        {
+            "question": (
+                "What is the most common mistake students make in Faraday's law "
+                "numericals?"
+            ),
+            "answer": (
+                "Forgetting to divide by n, the number of electrons transferred "
+                "per ion. Writing mass = (M × I × t)/F instead of mass = "
+                "(M × I × t)/(nF) is the single most common error — it works only "
+                "for a one-electron process like Ag+ + e- → Ag, and gives a wrong "
+                "answer for anything else, such as Cu2+ + 2e- → Cu. Always "
+                "identify n from the half-reaction before substituting into the "
+                "formula."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-chemistry-important-chapters-pyq-analysis",
+        "class-12-organic-chemistry-named-reactions-mechanisms-practice",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ]
+},
+{
+    "slug": "cuet-2027-preparation-guide-class-12",
+
+    "title": (
+        "CUET 2027: Complete Preparation Guide for Class 12 Students"
+    ),
+
+    "meta_title": (
+        "CUET 2027: Complete Preparation Guide for Class 12 Students | Genelis"
+    ),
+
+    "meta_description": (
+        "All 50 questions per paper are now compulsory — no more skipping weak "
+        "chapters. This guide covers the current CUET structure, the major 2026 "
+        "changes every Class 12 student needs to know, why 80-85% of domain "
+        "questions come straight from NCERT, and a dual-track strategy for "
+        "preparing boards and CUET together."
+    ),
+
+    "excerpt": (
+        "No more skipping questions — all 50 per paper are compulsory now. "
+        "The complete, currently-accurate guide to CUET structure and a "
+        "dual-track strategy with boards."
+    ),
+
+    "class": "general",
+
+    "subject": "CUET",
+
+    "category": "Entrance Exam",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-21T09:00:00+05:30",
+
+    "updated_date": "2026-08-21T09:00:00+05:30",
+
+    "reading_time": "15 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CUET 2027 complete preparation guide for Class 12 students"
+    ),
+
+    "keywords": [
+        "CUET 2027 preparation",
+        "CUET exam pattern 2026",
+        "CUET domain subjects",
+        "CUET boards together strategy",
+        "CUET NCERT overlap",
+        "CUET marking scheme",
+        "CUET General Test preparation"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        CUET isn't a CBSE exam, and it isn't optional background noise for most Class 12 students planning to apply to a central or state university. It's the Common University Entrance Test, conducted by the National Testing Agency (NTA), and for 200+ participating universities — including Delhi University, Banaras Hindu University, and Jawaharlal Nehru University — it's the actual admission gatekeeper. Strong board marks alone don't guarantee a seat; a strong CUET score usually does the real work.
+    </p>
+
+    <p>
+        If you're a current Class 12 student, you'll appear for CUET in 2027 — and the exam you'll face has changed significantly from what older guides describe. This guide covers the current, verified CUET structure, the major changes from the most recent session that directly affect how you should prepare, and a realistic strategy for handling boards and CUET at the same time without burning out.
+    </p>
+
+</section>
+<section id="cuet-2027-transparency">
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ A note on "2027" in this guide's title
+        </h3>
+
+        <p>
+            NTA has not yet released official CUET 2027-specific details as of this writing — exact dates, and any further pattern changes, are announced closer to the exam. This guide is built on the most recently confirmed CUET structure (which governed the exam most recently conducted in May 2026), since that's the most reliable basis for understanding what you'll likely face. Always cross-check the final details against the official notification on cuet.nta.nic.in once released for your specific year.
+        </p>
+
+    </div>
+
+</section>
+<section id="cuet-current-structure">
+
+    <h2>
+        The Current CUET Structure — Three Sections, One Consistent Format
+    </h2>
+
+    <div class="three-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                Section I — Languages
+            </h3>
+
+            <p>
+                13 languages offered, including English and Hindi. Tests reading comprehension, vocabulary, and grammar.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Section II — Domain Subjects
+            </h3>
+
+            <p>
+                23 domain subjects, entirely based on Class 12 NCERT content, chosen regardless of your actual Class 12 stream.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Section III — General Test (GAT)
+            </h3>
+
+            <p>
+                General Knowledge, Current Affairs, Logical Reasoning, and Quantitative Aptitude — required by some universities/courses, not all.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Every paper — regardless of section — follows the same format: <strong>50 questions, 60 minutes, 250 marks maximum</strong>. Marking is +5 for a correct answer, −1 for a wrong one, and 0 for an unattempted question. The exam is entirely Computer-Based Test (CBT) mode, run across multiple shifts and days, with score normalisation applied afterward to account for any difficulty variation between shifts.
+    </p>
+
+</section>
+<section id="cuet-major-changes">
+
+    <div class="warn-box">
+
+        <h3>
+            🔔 The single biggest change you need to know about
+        </h3>
+
+        <p>
+            All 50 questions in every paper are now <strong>compulsory</strong> — there's no longer an option to attempt a chosen subset (such as 40 out of 50, which was allowed in earlier years). This eliminates the old strategy of quietly skipping 2-3 weaker chapters per subject. Every chapter in your chosen subjects is now genuinely examinable, with nowhere to hide a gap.
+        </p>
+
+    </div>
+
+    <p>
+        Alongside this, several other structural changes took effect recently:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <p><s>63 subjects</s></p>
+            <h3>37 subjects</h3>
+            <p>
+                Total subject options reduced — 26 subjects (including Entrepreneurship, Teaching Aptitude, Legal Studies) removed; affected fields now use General Test scores instead
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <p><s>Up to 6 subjects</s></p>
+            <h3>Maximum 5 subjects</h3>
+            <p>
+                Drawn flexibly across Languages, Domain subjects, and the General Test — depth now matters more than breadth
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <p><s>Hybrid modes in some years</s></p>
+            <h3>Fully CBT only</h3>
+            <p>
+                No pen-and-paper option — every candidate takes the exam on computer
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <p><s>Standard photo upload</s></p>
+            <h3>Live Image Capture</h3>
+            <p>
+                Mandatory real-time photo during registration, an anti-fraud identity measure
+            </p>
+        </div>
+
+    </div>
+
+</section>
+<section id="cuet-ncert-overlap">
+
+    <h2>
+        The Genuine Advantage: Your Board Prep Already Covers Most of This
+    </h2>
+
+    <div class="gdl-stat-card">
+
+        <div class="gdl-stat-number">
+            80–85%
+        </div>
+
+        <p>
+            of CUET domain-subject questions come directly from NCERT Class 12 textbook content
+        </p>
+
+    </div>
+
+    <p>
+        This is the single most useful fact for planning your time. Domain subject papers are built entirely on the Class 12 NCERT syllabus — the same syllabus your board exam already tests. Genuine, thorough board preparation using NCERT doesn't just help with CUET; it does the large majority of the work already. What's left is adapting that knowledge to a fast, accurate, negative-marking-aware MCQ format — not learning separate content from scratch.
+    </p>
+
+    <p>
+        <strong>This also means the deep, chapter-level guides you've already used to prepare for boards double as CUET domain-subject preparation.</strong> The specific high-weightage topics CUET tests per subject match closely with what genuinely carries the most board weightage too:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <h3>Physics</h3>
+            <p>
+                Electrostatics, Current Electricity, Optics, Modern Physics — see our <a href="/blog/class-12-physics-pyq-analysis-optics-electrostatics">Class 12 Physics PYQ guide</a> for exactly these chapters.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Chemistry</h3>
+            <p>
+                Chemical Kinetics, Electrochemistry, Organic Chemistry named reactions — covered in our <a href="/blog/class-12-chemistry-important-chapters-pyq-analysis">Class 12 Chemistry guide</a> and <a href="/blog/class-12-electrochemistry-numericals-practice-set">Electrochemistry practice set</a>.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Mathematics</h3>
+            <p>
+                Calculus, Vectors & 3D Geometry, Probability — the exact focus of our <a href="/blog/class-12-maths-calculus-formula-sheet-board-exam-cbse">Class 12 Maths Calculus guide</a>.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Accountancy</h3>
+            <p>
+                Partnership Accounts, Company Accounts, Financial Statements — matches our <a href="/blog/class-12-accountancy-partnership-company-accounts-cbse">Class 12 Accountancy guide</a> directly.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Economics</h3>
+            <p>
+                National Income, Money & Banking, Balance of Payments — the highest-weightage content in our <a href="/blog/class-12-economics-microeconomics-macroeconomics-cbse">Class 12 Economics guide</a>.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 The General Test is the one section without this natural overlap — it needs dedicated, separate preparation covering Quantitative Aptitude, Logical Reasoning, and General Knowledge/Current Affairs, since board exams don't test these directly.
+    </div>
+
+</section>
+<section id="cuet-dual-track-strategy">
+
+    <h2>
+        The Dual-Track Strategy — Boards and CUET Together, Not Separately
+    </h2>
+
+    <p>
+        Treating boards and CUET as two completely separate preparation tracks doubles your effort for no reason, given how much they overlap. The better approach: study each chapter once, thoroughly, for boards — then immediately test that same chapter in CUET's MCQ format while it's fresh.
+    </p>
+
+    <div class="three-split">
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Now — Pre-Boards</strong>
+            </p>
+
+            <h3>
+                Board-Weighted, Light CUET Contact
+            </h3>
+
+            <p>
+                Roughly 70-80% of study time toward board syllabus completion and revision. Reserve 1-1.5 hours daily for CUET-style MCQ practice on chapters you've just studied for boards — not new content.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>During Board Exams</strong>
+            </p>
+
+            <h3>
+                Boards Fully Prioritised
+            </h3>
+
+            <p>
+                Pause dedicated CUET practice almost entirely. Board performance matters in its own right and shouldn't be compromised for CUET prep in this window.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Post-Boards — Final Stretch</strong>
+            </p>
+
+            <h3>
+                CUET-Weighted, Intensive Practice
+            </h3>
+
+            <p>
+                Shift roughly 80% of time to CUET-specific work: full mock tests (1-2 weekly, always analysed afterward, not just taken), General Test practice, and revising domain NCERT content specifically from a CUET question-style perspective.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        A realistic expectation: if you've genuinely built strong NCERT command through board preparation, focused additional CUET-specific effort typically takes around 2-3 months to convert that foundation into exam-day readiness — not a full second year of separate study.
+    </p>
+
+</section>
+<section id="cuet-preparation-mistakes">
+
+    <h2>
+        The Mistakes Students Make Preparing for This
+    </h2>
+
+    <p>
+        <strong>Skipping chapters, out of old habit.</strong> With all 50 questions now compulsory, the "I'll skip this chapter" strategy that worked in earlier CUET years no longer protects you. Every chapter in your chosen domain subjects is genuinely in play.
+    </p>
+
+    <p>
+        <strong>Treating CUET and boards as separate study tracks.</strong> This doubles study time for content that's 80-85% identical. Study once, test twice — descriptively for boards, then via MCQ for CUET.
+    </p>
+
+    <p>
+        <strong>Ignoring the General Test until the last month.</strong> It's the one section with no natural overlap with board prep, and it's frequently under-prepared as a result — exactly the opposite of what the lack of overlap should prompt.
+    </p>
+
+    <p>
+        <strong>Taking mocks without analysing them.</strong> A timed mock test you don't review afterward is just a stressful rehearsal, not real preparation. Every mock should end with an error log entry, not just a score.
+    </p>
+
+</section>
+<section id="cuet-genelis">
+
+    <h2>
+        The Same Weak-Area Data Serves Both Exams
+    </h2>
+
+    <p>
+        Since CUET domain subjects and board exams draw from the identical NCERT syllabus, a chapter-level weak-area map built for board preparation is directly useful for CUET too — you don't need a separate diagnostic system for each exam.
+    </p>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your chapter-level accuracy as you prepare for boards — and because CUET domain content is the same NCERT syllabus, that same accuracy data tells you exactly which chapters need CUET-specific MCQ practice too. Every wrong answer is logged to your <strong>wrong-question notebook</strong>, whether it came from a board-style question or an MCQ practice set, so gaps get closed once — not chased separately across two different preparation tracks.
+    </p>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=cuet2027&utm_content=cta-inline"
+    >
+        Build one weak-area map that serves both boards and CUET on Genelis — free →
+    </a>
+
+</section>
+<section id="cuet-quick-reference">
+
+    <h2>
+        Quick Reference: CUET at a Glance
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <h3>Conducted by</h3>
+            <p>National Testing Agency (NTA)</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Mode</h3>
+            <p>Fully Computer-Based Test (CBT)</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Sections</h3>
+            <p>Languages, Domain Subjects, General Test (GAT)</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Questions per paper</h3>
+            <p>50, all compulsory</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Duration per paper</h3>
+            <p>60 minutes</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Marking</h3>
+            <p>+5 correct, −1 wrong, 0 unattempted</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Max marks per paper</h3>
+            <p>250</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Max subjects selectable</h3>
+            <p>5 total, across all sections</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Domain subject syllabus</h3>
+            <p>Entirely Class 12 NCERT</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Eligibility</h3>
+            <p>Class 12 pass or appearing, any recognised board</p>
+        </div>
+
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What is CUET and why does it matter for Class 12 students?"
+            ),
+            "answer": (
+                "CUET (Common University Entrance Test) is a national-level "
+                "entrance exam conducted by the National Testing Agency (NTA) "
+                "for undergraduate admissions to 200+ participating universities "
+                "across India, including central universities like Delhi University, "
+                "Banaras Hindu University, and Jawaharlal Nehru University. Unlike "
+                "your board exam, which certifies your Class 12 completion, CUET is "
+                "what many universities actually use to decide admission and merit "
+                "— meaning strong board marks alone may not guarantee a seat at a "
+                "CUET-requiring university without a correspondingly strong CUET score."
+            )
+        },
+        {
+            "question": (
+                "What is the biggest change in CUET for the current session "
+                "that students should know about?"
+            ),
+            "answer": (
+                "From the most recent session, all 50 questions in every paper are "
+                "compulsory — there is no longer an option to skip a set number of "
+                "questions, as was previously allowed (such as attempting 40 out of "
+                "50). This is a major structural shift: previously, students could "
+                "strategically avoid 2-3 weaker chapters per subject. Now, "
+                "comprehensive preparation across the entire NCERT syllabus for each "
+                "chosen subject is unavoidable. Alongside this, the total number of "
+                "subject options was reduced from 63 to 37, and the maximum number "
+                "of subjects a student can select was reduced to 5."
+            )
+        },
+        {
+            "question": (
+                "How much of the CUET domain subject syllabus overlaps with "
+                "Class 12 boards?"
+            ),
+            "answer": (
+                "Very heavily — domain subject questions are based entirely on the "
+                "Class 12 NCERT syllabus, and an estimated 80-85% of domain-specific "
+                "questions come directly from NCERT textbook content. This means "
+                "genuine, thorough board exam preparation using NCERT already covers "
+                "the large majority of CUET domain subject preparation. The main "
+                "additional work required is adapting that same NCERT knowledge to a "
+                "fast, accurate, negative-marking-aware MCQ format, rather than "
+                "learning entirely separate content."
+            )
+        },
+        {
+            "question": (
+                "What is the CUET marking scheme, and how should it affect "
+                "my exam-day strategy?"
+            ),
+            "answer": (
+                "Each correct answer earns +5 marks, each incorrect answer costs "
+                "−1 mark, and unattempted questions earn zero — no penalty. Since "
+                "all 50 questions per paper are now compulsory, the old strategy of "
+                "skipping uncertain questions entirely no longer applies in the same "
+                "way, but the negative marking still means guessing randomly on "
+                "questions you have no idea about is a losing strategy on average. "
+                "Focus preparation on genuine accuracy across the full syllabus, "
+                "since every question must be attempted."
+            )
+        },
+        {
+            "question": (
+                "How should I balance preparing for Class 12 boards and CUET "
+                "at the same time?"
+            ),
+            "answer": (
+                "Use a blended approach rather than treating them as two separate "
+                "tracks: study each chapter thoroughly for boards first — full "
+                "concepts, definitions, and descriptive understanding — then "
+                "immediately follow up with CUET-style MCQ practice on that same "
+                "chapter while it's fresh. In the months before boards, weight your "
+                "time more heavily toward board preparation (with light, regular "
+                "CUET MCQ practice); after boards finish, shift the bulk of your "
+                "remaining time to CUET-specific practice, mock tests, and the "
+                "General Test, which has the least overlap with board content."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-board-exam-preparation-guide-cbse",
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ]
+},
+{
+    "slug": "cbse-datesheet-2027-class-10-12-prep-countdown",
+
+    "title": (
+        "CBSE Datesheet 2027: Class 10 & 12 Board Exam Schedule & "
+        "Prep Countdown"
+    ),
+
+    "meta_title": (
+        "CBSE Datesheet 2027: Class 10 & 12 Board Exam Schedule & "
+        "Prep Countdown | Genelis"
+    ),
+
+    "meta_description": (
+        "The CBSE 2027 datesheet hasn't been released yet — and won't be for "
+        "a few months. This guide covers exactly when to expect it based on "
+        "CBSE's own recent pattern, what the two-phase system means for "
+        "Class 10, and a genuine prep countdown you can start today, without "
+        "waiting for a single confirmed date."
+    ),
+
+    "excerpt": (
+        "No 2027 datesheet exists yet. Here's exactly when to expect it, "
+        "based on CBSE's actual recent pattern — and a countdown you can "
+        "start today regardless."
+    ),
+
+    "class": "general",
+
+    "subject": "CBSE",
+
+    "category": "Board Exam",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-22T09:00:00+05:30",
+
+    "updated_date": "2026-08-22T09:00:00+05:30",
+
+    "reading_time": "12 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "CBSE Datesheet 2027 Class 10 and Class 12 board exam schedule "
+        "and preparation countdown"
+    ),
+
+    "keywords": [
+        "CBSE datesheet 2027",
+        "CBSE board exam 2027 dates",
+        "CBSE class 10 12 exam schedule",
+        "CBSE two phase exam Class 10",
+        "CBSE datesheet release date expected",
+        "board exam prep countdown"
+    ],
+
+    "content": """
+    <section id="cbse-datesheet-2027-honest-opener">
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ The honest starting point: no CBSE 2027 datesheet exists yet
+        </h3>
+
+        <p>
+            If you're searching for the actual CBSE 2027 exam schedule, it hasn't been released — and based on CBSE's own recent pattern, it won't be for a few more months. Any page online showing specific subject-wise dates for "CBSE 2027" right now is either describing an older session or making dates up. This guide won't do that.
+        </p>
+
+        <p>
+            What it will do: show you exactly when CBSE has historically announced datesheets, what the confirmed 2025-26 pattern looked like as your most reliable reference point, and a genuine prep countdown you can start today — one that doesn't need a single confirmed date to be useful.
+        </p>
+
+    </div>
+
+</section>
+<section id="cbse-datesheet-2027-last-cycle">
+
+    <h2>
+        What Actually Happened Last Cycle — Your Best Reference Point
+    </h2>
+
+    <p>
+        The most reliable way to know what to expect for 2027 is to look at exactly what CBSE did for the most recent session. Here's the complete, confirmed timeline:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Sept 2025</strong>
+            </p>
+
+            <h3>
+                Tentative Datesheet
+            </h3>
+
+            <p>
+                CBSE announced a tentative schedule confirming exams would begin Feb 17, giving an early heads-up before the official release.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Oct 30, 2025</strong>
+            </p>
+
+            <h3>
+                Official Final Datesheet
+            </h3>
+
+            <p>
+                Full subject-wise timetable released — notably early, the first time CBSE released it before Diwali. Historically, this has often come later, closer to November-December.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Dec 30, 2025</strong>
+            </p>
+
+            <h3>
+                Revision Issued
+            </h3>
+
+            <p>
+                A small number of exam dates were shifted (originally set for March 3, moved later). Even a "final" datesheet can still see minor revisions.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Feb 17 – Apr 2026</strong>
+            </p>
+
+            <h3>
+                Main Exams (Phase 1)
+            </h3>
+
+            <p>
+                Class 10 concluded around March 10-11; Class 12 continued through early April. All papers at 10:30 AM, mostly 3-hour duration.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        For Class 10 specifically, this was followed by a second window — Phase 2 exams in May-June 2026 for students reattempting select subjects — with Phase 2 results announced on July 18, 2026.
+    </p>
+
+</section>
+<section id="cbse-datesheet-2027-expected-window">
+
+    <h2>
+        What to Realistically Expect for 2027
+    </h2>
+
+    <p>
+        Based on CBSE's typical cycle — datesheets generally released 70-90 days before exams, historically most often in November or December — multiple independent, currently-updated sources converge on a similar expectation for this session:
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                Class 10
+            </h3>
+
+            <p>
+                <strong>Datesheet: ~Nov-Dec 2026</strong>
+            </p>
+
+            <p>
+                Phase 1 (main exams) expected February-March 2027. Phase 2 (improvement window) expected May-June 2027, based on the current two-phase system continuing.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Class 12
+            </h3>
+
+            <p>
+                <strong>Datesheet: ~Nov-Dec 2026</strong>
+            </p>
+
+            <p>
+                Main exams expected to begin February 2027, based on the consistent recent pattern, continuing through March or early April.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+        ⚠️ These are reasoned expectations based on historical pattern, not confirmed dates. CBSE has shown it can release earlier (October 2025) or hold to a more typical November-December window in other years. Check cbse.gov.in directly once the actual notification is closer.
+    </div>
+
+</section>
+<section id="cbse-datesheet-2027-two-phase">
+
+    <h2>
+        The Two-Phase System — Class 10 Only, Not Class 12
+    </h2>
+
+    <p>
+        This is worth being precise about, since it's a common source of confusion: the twice-yearly exam structure currently applies specifically to Class 10, not Class 12.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Class 10</strong>
+            </p>
+
+            <h3>
+                Two exam windows
+            </h3>
+
+            <p>
+                Phase 1 (main exam, all subjects) followed by an optional Phase 2 a few months later, where students can reattempt select subjects to improve their score — the better of the two results counts.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <p>
+                <strong>Class 12</strong>
+            </p>
+
+            <h3>
+                Single main window
+            </h3>
+
+            <p>
+                One primary examination period, with separate compartment and improvement exams available afterward for students who specifically need them — not a built-in second full attempt window like Class 10's Phase 2.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="cbse-datesheet-2027-scheduling-pattern">
+
+    <h2>
+        The Pattern CBSE Follows Every Year — Regardless of Exact Dates
+    </h2>
+
+    <p>
+        Even without confirmed 2027 dates, CBSE's scheduling logic has stayed consistent across recent years, and understanding it helps you plan:
+    </p>
+
+    <p>
+        Theory examinations typically begin with smaller or elective subjects, while core subjects — Mathematics, Science, Social Science, and English — are usually scheduled later, giving students more built-in preparation time before the papers that carry the most weight in most academic paths. The full main examination window is generally completed within March or early April.
+    </p>
+
+    <div class="highlight-box">
+        💡 <strong>Practical use of this pattern:</strong> don't assume your major subjects will be the first exams you face. Historically, they've had more runway — which means your early prep weeks are better spent on foundational revision across all subjects rather than panic-cramming for whichever subject you assume comes first.
+    </div>
+
+</section>
+<section id="cbse-datesheet-2027-prep-countdown">
+
+    <h2>
+        The Prep Countdown That Doesn't Need a Confirmed Date
+    </h2>
+
+    <p>
+        The datesheet tells you the order and exact dates of your exams — it doesn't tell you what to study, since your full syllabus has been known for months already. Waiting for the datesheet before starting focused preparation simply wastes the time between now and its release.
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <p>
+                    <strong>Now – Oct/Nov</strong>
+                </p>
+
+                <h3>
+                    Full syllabus completion
+                </h3>
+
+                <p>
+                    Use this period, before any datesheet exists, to finish first-pass coverage of your entire syllabus across all subjects. This is your longest uninterrupted stretch — don't lose it to "waiting."
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <p>
+                    <strong>Datesheet drops</strong>
+                </p>
+
+                <h3>
+                    Convert to a subject-specific final countdown
+                </h3>
+
+                <p>
+                    Once the actual schedule is out, immediately map your remaining weeks against the real exam order — allocating more final revision time to subjects with exams later in the sequence.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <p>
+                    <strong>Final 6-8 weeks</strong>
+                </p>
+
+                <h3>
+                    Full-length timed mocks
+                </h3>
+
+                <p>
+                    Shift from content revision to exam-condition practice — timed, full papers, reviewed and corrected, not just attempted.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <p>
+                    <strong>Final week per subject</strong>
+                </p>
+
+                <h3>
+                    Formula sheets and quick-recall review only
+                </h3>
+
+                <p>
+                    No new content in the final days before each specific paper — pure consolidation of what you already know.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="cbse-datesheet-2027-mistake">
+
+    <h2>
+        The Mistake This Guide Is Built to Prevent
+    </h2>
+
+    <p>
+        <strong>Treating "the datesheet isn't out yet" as a reason to delay serious preparation.</strong> This is the single most common and costly mistake in the months before a board exam. The datesheet changes your schedule, not your syllabus — and the months before its release are typically your best, least time-pressured window for genuine foundational work.
+    </p>
+
+</section>
+<section id="cbse-datesheet-2027-genelis">
+
+    <h2>
+        A Countdown Doesn't Need a Confirmed Date to Start Working
+    </h2>
+
+    <p>
+        Whether the datesheet arrives in October, November, or December, the chapters you need to master don't change. What matters right now is knowing exactly where your own preparation genuinely stands across every subject — so that whenever the real countdown does start, you're adjusting a plan that's already in motion, not starting from zero.
+    </p>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your chapter-level accuracy across every subject right now, independent of any exam date — so your foundational prep during these pre-datesheet months is targeted at genuine gaps, not spent revisiting what you've already mastered. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt.
+    </p>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=cbse-datesheet-2027&utm_content=cta-inline"
+    >
+        Start your board exam countdown on Genelis today — free →
+    </a>
+
+</section>
+<section id="cbse-datesheet-2027-quick-reference">
+
+    <h2>
+        Quick Reference: What's Confirmed vs Expected
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <h3>CBSE 2027 official datesheet</h3>
+            <p>Not yet released</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Expected release window</h3>
+            <p>November–December 2026 (historical pattern)</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 10 Phase 1 exams</h3>
+            <p>Expected February–March 2027</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 10 Phase 2 exams</h3>
+            <p>Expected May–June 2027</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 12 main exams</h3>
+            <p>Expected to begin February 2027</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>2025-26 session final datesheet (reference)</h3>
+            <p>Released October 30, 2025 — confirmed, historical</p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>2025-26 session exam start (reference)</h3>
+            <p>February 17, 2026 — confirmed, historical</p>
+        </div>
+
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Has CBSE released the datesheet for the 2027 board exams?"
+            ),
+            "answer": (
+                "No. As of this writing, CBSE has not released an official "
+                "datesheet for the 2026-27 session board exams (referred to as "
+                "CBSE 2027). Based on CBSE's typical pattern, the datesheet is "
+                "generally expected to be announced in November or December "
+                "2026, though the exact date varies year to year and CBSE has "
+                "occasionally released it earlier. Always check the official "
+                "CBSE website, cbse.gov.in, for the confirmed release."
+            )
+        },
+        {
+            "question": (
+                "When did CBSE release the datesheet for the most recent "
+                "2025-26 session, and when did those exams happen?"
+            ),
+            "answer": (
+                "For the 2025-26 session, CBSE released a tentative datesheet "
+                "in September 2025, followed by the official final datesheet on "
+                "October 30, 2025 — notably earlier than usual, described as the "
+                "first time CBSE released it before Diwali. Exams began on "
+                "February 17, 2026, with Class 10 concluding around March 10-11 "
+                "and Class 12 continuing through early April. A revision was "
+                "issued in late December 2025, shifting a small number of exam dates."
+            )
+        },
+        {
+            "question": (
+                "What is the Class 10 two-phase exam system, and does it apply "
+                "to Class 12 as well?"
+            ),
+            "answer": (
+                "Since the 2025-26 session, CBSE conducts Class 10 board exams "
+                "in two phases: a main examination (Phase 1, typically February "
+                "to April) and a second examination (Phase 2, typically May to "
+                "June) that allows students to reattempt select subjects to improve "
+                "their score, with the better result counted. This system currently "
+                "applies to Class 10 only — Class 12 continues to follow a single "
+                "main examination window, alongside separate compartment and "
+                "improvement exams for students who need them."
+            )
+        },
+        {
+            "question": (
+                "In what order does CBSE typically schedule subjects across "
+                "the exam period?"
+            ),
+            "answer": (
+                "CBSE has a consistent, predictable pattern: theory examinations "
+                "typically begin with smaller or elective subjects, while core "
+                "subjects — Mathematics, Science, Social Science, and English — "
+                "are usually scheduled with more preparation time built in before "
+                "them. The full main examination period is generally completed "
+                "within March or early April. This pattern has held consistently "
+                "across recent years, even though the exact dates change annually."
+            )
+        },
+        {
+            "question": (
+                "Should I wait for the datesheet to be released before starting "
+                "serious board exam preparation?"
+            ),
+            "answer": (
+                "No. The datesheet tells you the order and specific dates of your "
+                "exams, but it doesn't change what you need to study — your full "
+                "syllabus is already known well in advance. Waiting for the "
+                "datesheet before starting focused preparation simply loses months "
+                "of available time. A more effective approach is to build your "
+                "preparation countdown around the historically consistent expected "
+                "window, and then adjust the fine details once the actual datesheet "
+                "is released."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-board-exam-preparation-guide-cbse",
+        "class-12-board-exam-preparation-guide-cbse",
+        "cbse-class-10-competency-based-questions-2027-preparation",
+        "how-to-use-mock-tests-board-exam-preparation"
+    ]
+},
+{
+    "slug": "class-12-physics-electrostatics-current-electricity-practice-set",
+
+    "title": (
+        "Class 12 Physics Numericals: Electrostatics & Current Electricity "
+        "Practice Set"
+    ),
+
+    "meta_title": (
+        "Class 12 Physics Numericals: Electrostatics & Current Electricity "
+        "Practice Set | Genelis"
+    ),
+
+    "meta_description": (
+        "14 original problems covering every numerical sub-type CBSE Class 12 "
+        "tests across Electrostatics and Current Electricity — Coulomb's Law, "
+        "dipole fields, capacitor combinations, Kirchhoff's laws, Wheatstone "
+        "bridge, and potentiometer — each with a complete, independently "
+        "verified step-by-step solution."
+    ),
+
+    "excerpt": (
+        "14 original problems, every numerical sub-type covered, every answer "
+        "independently verified. Attempt each one before revealing the solution."
+    ),
+
+    "class": "12",
+
+    "subject": "Physics",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-22T09:00:00+05:30",
+
+    "updated_date": "2026-08-22T09:00:00+05:30",
+
+    "reading_time": "18 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 12 Physics Electrostatics and Current Electricity numerical "
+        "practice set"
+    ),
+
+    "keywords": [
+        "class 12 physics electrostatics numericals",
+        "class 12 current electricity numericals",
+        "Kirchhoff's law solved problems",
+        "Wheatstone bridge numerical CBSE",
+        "electrostatics practice problems class 12",
+        "potentiometer numerical class 12"
+    ],
+
+    "content": """
+    <section>
+
+    <p>
+        Electrostatics and Current Electricity together carry some of the heaviest numerical weightage in Class 12 Physics — and both chapters cluster into a handful of recurring problem types once you've seen them mapped out. This is 14 original problems, one for every distinct sub-type across both chapters, each with a complete solution you can follow line by line.
+    </p>
+
+    <div class="highlight-box">
+
+        <p>
+            <strong>How to use this page:</strong> Read each problem, attempt it fully on paper first, then tap "Reveal Solution" to check your working — not just your final answer. Every calculation on this page was computed independently and verified before publishing.
+        </p>
+
+    </div>
+
+</section>
+<section id="class12-physics-practice-subtypes">
+
+    <h2>
+        Every Sub-Type Covered — Across Both Chapters
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E1</div>
+            <p>Coulomb's Law — force between charges</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E2</div>
+            <p>Electric field due to a point charge</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E3</div>
+            <p>Electric field on a dipole's axial line</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E4</div>
+            <p>Potential energy of a charge system</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E5</div>
+            <p>Field due to an infinite charged sheet</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E6</div>
+            <p>Parallel plate capacitance & charge</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">E7</div>
+            <p>Capacitors in series & parallel + energy</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C1</div>
+            <p>Resistance from resistivity & dimensions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C2</div>
+            <p>Series-parallel resistor combination</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C3</div>
+            <p>Kirchhoff's laws — multi-loop circuit</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C4</div>
+            <p>Wheatstone bridge balance condition</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C5</div>
+            <p>EMF, internal resistance & terminal voltage</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C6</div>
+            <p>Power dissipated in a resistor</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">C7</div>
+            <p>Potentiometer — comparing EMFs</p>
+        </div>
+
+    </div>
+
+</section>
+<section id="class12-physics-electrostatics">
+
+    <h2>
+        Electrostatics
+    </h2>
+
+    <div class="gdl-card problem-card-spacing">
+
+        <div class="gdl-prep-index">
+            E1
+        </div>
+
+        <h3>
+            Coulomb's Law
+        </h3>
+
+        <p>
+            Two point charges of +4 μC and +9 μC are placed 30 cm apart in air. Calculate the electrostatic force between them. (k = 9 × 10⁹ N·m²/C²)
+        </p>
+
+        <details>
+
+            <summary>
+                Reveal Solution
+            </summary>
+
+            <div class="highlight-box">
+                F = kq₁q₂/r²
+            </div>
+
+            <div class="gdl-prep-flow">
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Substitute
+                        </h3>
+
+                        <p>
+                            F = (9×10⁹ × 4×10⁻⁶ × 9×10⁻⁶) / (0.30)²
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="highlight-box">
+                ✓ <strong>F = 3.6 N (repulsive, since both charges are positive)</strong>
+            </div>
+
+            <div class="warn-box">
+                ⚠️ <strong>Common mistake:</strong> forgetting to convert cm to metres before squaring — using 30 instead of 0.30 gives an answer off by a factor of 10,000.
+            </div>
+
+        </details>
+
+    </div>
+    <div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E2
+    </div>
+
+    <h3>
+        Electric Field — Point Charge
+    </h3>
+
+    <p>
+        Calculate the electric field intensity at a point 20 cm from a point charge of +5 μC.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="highlight-box">
+            E = kq/r²
+        </div>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        E = (9×10⁹ × 5×10⁻⁶) / (0.20)²
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>E = 1.125 × 10⁶ N/C, directed radially outward (away from the positive charge)</strong>
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E3
+    </div>
+
+    <h3>
+        Dipole — Axial Field
+    </h3>
+
+    <p>
+        An electric dipole has a dipole moment of 4 × 10⁻⁸ C·m. Calculate the electric field at a point 10 cm from the centre of the dipole, on its axial line.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Identify the formula
+                    </h3>
+
+                    <p>
+                        For a short dipole, the axial field (at distance d, where d is large compared to the dipole's own length) is given by:
+                    </p>
+
+                    <div class="highlight-box">
+                        E<sub>axial</sub> = 2kp/d³
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        E = (2 × 9×10⁹ × 4×10⁻⁸) / (0.10)³
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>E = 7.2 × 10⁵ N/C, directed along the dipole axis (from −q to +q)</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> using the equatorial field formula (E = kp/d³, without the factor of 2) instead of the axial formula. Always check which line — axial or equatorial — the question specifies.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E4
+    </div>
+
+    <h3>
+        Potential Energy of a Charge System
+    </h3>
+
+    <p>
+        Three identical point charges of +2 μC each are placed at the corners of an equilateral triangle of side 10 cm. Calculate the total electrostatic potential energy of the system.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Identify the pairs
+                    </h3>
+
+                    <p>
+                        With three charges, there are 3 distinct pairs, and by symmetry every pair is separated by the same distance (10 cm), since all sides of an equilateral triangle are equal.
+                    </p>
+
+                    <div class="highlight-box">
+                        U = 3 × (kq²/a)
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        U = 3 × (9×10⁹ × (2×10⁻⁶)²) / 0.10
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>U = 1.08 J</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> calculating only one pair's energy and forgetting to multiply by 3 for all three pairs — or double-counting by using 6 instead of 3.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E5
+    </div>
+
+    <h3>
+        Field Due to an Infinite Sheet (Gauss's Law)
+    </h3>
+
+    <p>
+        An infinite plane sheet carries a uniform surface charge density of 2 μC/m². Calculate the electric field at a point near the sheet.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Apply the Gauss's law result for an infinite sheet
+                    </h3>
+
+                    <p>
+                        Using a Gaussian pillbox symmetric about the sheet gives a field independent of distance from the sheet.
+                    </p>
+
+                    <div class="highlight-box">
+                        E = σ / (2ε₀)
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        E = (2×10⁻⁶) / (2 × 8.854×10⁻¹²)
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>E ≈ 1.13 × 10⁵ N/C, directed perpendicular to and away from the sheet on both sides</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> using E = σ/ε₀ (the conductor-surface formula) instead of E = σ/(2ε₀) for a thin, non-conducting charged sheet — these are two different physical situations with different formulas.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E6
+    </div>
+
+    <h3>
+        Parallel Plate Capacitor
+    </h3>
+
+    <p>
+        A parallel plate capacitor has plates of area 200 cm² separated by 1 mm in air. Calculate (a) its capacitance, and (b) the charge stored when connected to a 200 V supply.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Convert units
+                    </h3>
+
+                    <p>
+                        A = 200 cm² = 200×10⁻⁴ m² = 0.02 m². d = 1 mm = 0.001 m.
+                    </p>
+
+                    <div class="highlight-box">
+                        C = ε₀A/d
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        C = (8.854×10⁻¹² × 0.02) / 0.001
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        (a) Capacitance
+                    </h3>
+
+                    <p>
+                        C ≈ 1.77 × 10⁻¹⁰ F = 177 pF
+                    </p>
+
+                    <div class="highlight-box">
+                        Q = CV
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        (b) Substitute
+                    </h3>
+
+                    <p>
+                        Q = 1.77×10⁻¹⁰ × 200
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>C ≈ 177 pF, Q ≈ 3.54 × 10⁻⁸ C = 35.4 nC</strong>
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        E7
+    </div>
+
+    <h3>
+        Capacitors in Series & Parallel + Energy
+    </h3>
+
+    <p>
+        Three capacitors of 2 μF, 3 μF, and 6 μF are connected such that the 3 μF and 6 μF are in series with each other, and this combination is in parallel with the 2 μF capacitor. Calculate (a) the total capacitance, and (b) the energy stored if the combination is connected to a 10 V supply.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Series combination first
+                    </h3>
+
+                    <div class="highlight-box">
+                        C<sub>series</sub> = (C₂×C₃)/(C₂+C₃) = (3×6)/(3+6) = 2 μF
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Add in parallel with the 2 μF capacitor
+                    </h3>
+
+                    <div class="highlight-box">
+                        C<sub>total</sub> = 2 μF + 2 μF = 4 μF
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Energy stored
+                    </h3>
+
+                    <div class="highlight-box">
+                        U = ½CV² = ½ × 4×10⁻⁶ × 10²
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>C<sub>total</sub> = 4 μF, U = 2 × 10⁻⁴ J = 0.2 mJ</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> adding all three capacitances directly as if they were all in parallel, ignoring that two of them are actually in series first. Always resolve the sub-combination before combining with the rest.
+        </div>
+
+    </details>
+
+</div>
+
+</section>
+<section id="class12-physics-current-electricity">
+
+    <h2>
+        Current Electricity
+    </h2>
+
+    <<div class="gdl-card problem-card-spacing">
+
+        <div class="gdl-prep-index">
+            C1
+        </div>
+
+        <h3>
+            Resistance from Resistivity
+        </h3>
+
+        <p>
+            A copper wire of length 10 m and cross-sectional area 2 mm² has a resistivity of 1.7 × 10⁻⁸ Ω·m. Calculate its resistance.
+        </p>
+
+        <details>
+
+            <summary>
+                Reveal Solution
+            </summary>
+
+            <div class="gdl-prep-flow">
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Convert units
+                        </h3>
+
+                        <p>
+                            A = 2 mm² = 2×10⁻⁶ m²
+                        </p>
+
+                        <div class="highlight-box">
+                            R = ρL/A
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="gdl-prep-item">
+
+                    <div class="gdl-prep-content">
+
+                        <h3>
+                            Substitute
+                        </h3>
+
+                        <p>
+                            R = (1.7×10⁻⁸ × 10) / (2×10⁻⁶)
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="highlight-box">
+                ✓ <strong>R = 0.085 Ω</strong>
+            </div>
+
+        </details>
+
+    </div>
+    <div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C2
+    </div>
+
+    <h3>
+        Series-Parallel Combination
+    </h3>
+
+    <p>
+        A resistor of 4 Ω is connected in series with a parallel combination of 6 Ω and 12 Ω resistors. Calculate the total equivalent resistance.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Resolve the parallel combination first
+                    </h3>
+
+                    <div class="highlight-box">
+                        R<sub>parallel</sub> = (6×12)/(6+12) = 4 Ω
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Add the series resistor
+                    </h3>
+
+                    <div class="highlight-box">
+                        R<sub>total</sub> = 4 Ω + 4 Ω
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>R<sub>total</sub> = 8 Ω</strong>
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C3
+    </div>
+
+    <h3>
+        Kirchhoff's Laws — Multi-Loop Circuit
+    </h3>
+
+    <p>
+        In a circuit, a 10 V cell drives current I₁ through a 2 Ω resistor, and a 4 V cell drives current I₂ through a 4 Ω resistor; both currents meet at a junction and flow together as I₃ through a shared 6 Ω resistor back to both cells. Using I₁ + I₂ = I₃, find all three currents.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 1 — Write the loop equations
+                    </h3>
+
+                    <p>
+                        Loop 1: 2I₁ + 6I₃ = 10. Loop 2: 4I₂ + 6I₃ = 4. Junction rule: I₁ + I₂ = I₃.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 2 — Substitute I₁ = I₃ − I₂ into Loop 1
+                    </h3>
+
+                    <p>
+                        2(I₃−I₂) + 6I₃ = 10 → 8I₃ − 2I₂ = 10
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 3 — Express I₂ from Loop 2 and substitute
+                    </h3>
+
+                    <p>
+                        I₂ = 1 − 1.5I₃. Substituting: 8I₃ − 2(1−1.5I₃) = 10 → 11I₃ = 12
+                    </p>
+
+                    <div class="highlight-box">
+                        I₃ = 12/11 ≈ 1.09 A
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Step 4 — Back-substitute
+                    </h3>
+
+                    <p>
+                        I₂ = 1 − 1.5(1.09) ≈ −0.64 A. I₁ = I₃ − I₂ ≈ 1.09 − (−0.64) ≈ 1.73 A
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>I₁ ≈ 1.73 A, I₂ ≈ −0.64 A, I₃ ≈ 1.09 A</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ I₂ comes out negative — this doesn't mean an error. It means the actual current in that branch flows opposite to the direction originally assumed. The magnitude, 0.64 A, is still correct; only the arrow direction flips. Always check both loop equations with your final values to confirm — here, 2(1.73)+6(1.09)=10 ✓ and 4(−0.64)+6(1.09)=4 ✓.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C4
+    </div>
+
+    <h3>
+        Wheatstone Bridge Balance
+    </h3>
+
+    <p>
+        In a balanced Wheatstone bridge, the resistances in three arms are P = 4 Ω, Q = 6 Ω, and R = 9 Ω. Calculate the unknown resistance S.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Apply the balance condition
+                    </h3>
+
+                    <p>
+                        At balance, no current flows through the galvanometer, giving:
+                    </p>
+
+                    <div class="highlight-box">
+                        P/Q = R/S → S = RQ/P
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        S = (9 × 6) / 4
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>S = 13.5 Ω</strong>
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C5
+    </div>
+
+    <h3>
+        EMF, Internal Resistance & Terminal Voltage
+    </h3>
+
+    <p>
+        A cell of EMF 12 V and internal resistance 0.5 Ω is connected to an external resistor of 5.5 Ω. Calculate (a) the current in the circuit, and (b) the terminal voltage of the cell.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <div class="highlight-box">
+                        I = E / (r + R)
+                    </div>
+
+                    <h3>
+                        (a) Substitute
+                    </h3>
+
+                    <p>
+                        I = 12 / (0.5 + 5.5)
+                    </p>
+
+                    <p>
+                        I = 2 A
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <div class="highlight-box">
+                        V = E − Ir
+                    </div>
+
+                    <h3>
+                        (b) Substitute
+                    </h3>
+
+                    <p>
+                        V = 12 − (2 × 0.5)
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>I = 2 A, V<sub>terminal</sub> = 11 V</strong>
+        </div>
+
+        <div class="warn-box">
+            ⚠️ <strong>Common mistake:</strong> forgetting to subtract the internal drop entirely and reporting the terminal voltage as equal to the EMF — terminal voltage always drops below EMF when current flows, due to the cell's own internal resistance.
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C6
+    </div>
+
+    <h3>
+        Power Dissipated
+    </h3>
+
+    <p>
+        A current of 2 A flows through a resistor of 10 Ω. Calculate the power dissipated in the resistor.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <div class="highlight-box">
+                        P = I²R
+                    </div>
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        P = (2)² × 10
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>P = 40 W</strong>
+        </div>
+
+    </details>
+
+</div>
+<div class="gdl-card problem-card-spacing">
+
+    <div class="gdl-prep-index">
+        C7
+    </div>
+
+    <h3>
+        Potentiometer — Comparing EMFs
+    </h3>
+
+    <p>
+        In a potentiometer experiment, a standard cell of known EMF 1.5 V gives a balance length of 340 cm. When replaced with a cell of unknown EMF, the balance length becomes 240 cm. Calculate the unknown EMF.
+    </p>
+
+    <details>
+
+        <summary>
+            Reveal Solution
+        </summary>
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Apply the potentiometer principle
+                    </h3>
+
+                    <p>
+                        Since potential drop along the wire is uniform per unit length, EMF is directly proportional to balance length.
+                    </p>
+
+                    <div class="highlight-box">
+                        E₂/E₁ = l₂/l₁
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="gdl-prep-item">
+
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Substitute
+                    </h3>
+
+                    <p>
+                        E₂ = 1.5 × (240/340)
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="highlight-box">
+            ✓ <strong>E₂ ≈ 1.06 V</strong>
+        </div>
+
+    </details>
+
+</div>
+
+</section>
+<section id="class12-physics-genelis">
+
+    <h2>
+        Which of These 14 Types Would You Actually Get Right Cold?
+    </h2>
+
+    <p>
+        Reading through 14 solved problems and being able to solve 14 fresh ones without the type labelled for you are different skills. The real exam test is recognising which sub-type a new question belongs to on sight.
+    </p>
+
+    <div class="gdl-analysis-section">
+
+        <div class="gdl-accuracy-panel">
+
+            <h4>
+                What a Genelis weak area map looks like after working through Electrostatics & Current Electricity problem sets
+            </h4>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Coulomb's Law & basic fields
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:85%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    85%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Series-parallel resistor networks
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:71%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    71%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Capacitor combinations & energy
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:52%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    52%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Kirchhoff's laws — multi-loop circuits
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:34%;"></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    34%
+                </div>
+
+            </div>
+
+            <p>
+                Next session: Kirchhoff's laws (34%) — not more Coulomb's Law practice. Genelis tracks accuracy by sub-type, not just by chapter, so it knows exactly which of these 14 patterns needs more reps.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled Physics problems across all 14 sub-types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Sub-type gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that type
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class12-physics-practice&utm_content=cta-inline"
+    >
+        Practise unlimited fresh Physics problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For the full formula reference and chapter strategy behind these problem types, see the <a href="/blog/class-12-physics-pyq-analysis-optics-electrostatics">complete Class 12 Physics guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What numerical types appear in CBSE Class 12 Electrostatics?"
+            ),
+            "answer": (
+                "Seven distinct numerical sub-types recur across CBSE Class 12 "
+                "Electrostatics: Coulomb's Law force calculation, electric field "
+                "due to a point charge, electric field on the axial line of a "
+                "dipole, potential energy of a system of point charges, electric "
+                "field due to an infinite charged sheet using Gauss's law, "
+                "parallel plate capacitance and charge calculation, and capacitors "
+                "combined in series and parallel with energy stored."
+            )
+        },
+        {
+            "question": (
+                "What numerical types appear in CBSE Class 12 Current Electricity?"
+            ),
+            "answer": (
+                "Seven recurring sub-types: resistance from resistivity and "
+                "dimensions, equivalent resistance for series-parallel combinations, "
+                "Kirchhoff's laws applied to multi-loop circuits, the Wheatstone "
+                "bridge balance condition, EMF and internal resistance affecting "
+                "terminal voltage, power dissipated in a resistor, and the "
+                "potentiometer method for comparing EMFs."
+            )
+        },
+        {
+            "question": (
+                "What does it mean when a current comes out negative in a "
+                "Kirchhoff's law problem?"
+            ),
+            "answer": (
+                "A negative current value doesn't mean the calculation is wrong — "
+                "it means the direction you initially assumed for that current was "
+                "opposite to its actual direction in the circuit. The magnitude of "
+                "the answer is still correct; you simply reverse the arrow you "
+                "originally drew for that branch. This is a common, expected outcome "
+                "in multi-loop Kirchhoff's law problems and is worth checking for "
+                "specifically rather than assuming a negative sign is an error."
+            )
+        },
+        {
+            "question": (
+                "Why is the Wheatstone bridge balance condition written as "
+                "P/Q = R/S?"
+            ),
+            "answer": (
+                "At balance, no current flows through the galvanometer connecting "
+                "the midpoints of the two arms, which means the potential at both "
+                "midpoints is equal. This condition mathematically simplifies to "
+                "the ratio of resistances in one arm equaling the ratio in the "
+                "other arm: P/Q = R/S. This is what allows an unknown resistance "
+                "to be calculated precisely once the bridge is balanced, without "
+                "needing to know the exact current values anywhere in the circuit."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-physics-pyq-analysis-optics-electrostatics",
+        "class-12-electrochemistry-numericals-practice-set",
+        "class-12-organic-chemistry-named-reactions-mechanisms-practice"
+    ]
+},
+{
+    "slug": "jee-main-2027-class-11-12-syllabus-overlap-timeline",
+
+    "title": (
+        "JEE Main 2027: Class 11–12 Syllabus Overlap & Preparation Timeline"
+    ),
+
+    "meta_title": (
+        "JEE Main 2027: Class 11–12 Syllabus Overlap & Preparation Timeline | Genelis"
+    ),
+
+    "meta_description": (
+        "Roughly 45% of JEE Main comes from Class 11, 55% from Class 12 — "
+        "meaning a Class-12-only prep strategy leaves nearly half the exam "
+        "under-prepared. This guide covers the current exam pattern, the exact "
+        "subject-wise Class 11 vs 12 split, high-weightage chapters, and a "
+        "month-by-month preparation timeline spanning both years."
+    ),
+
+    "excerpt": (
+        "45% Class 11, 55% Class 12 — nearly half the exam comes from a year "
+        "most students stop revising. The complete syllabus overlap and "
+        "preparation timeline."
+    ),
+
+    "class": "general",
+
+    "subject": "JEE Main",
+
+    "category": "Entrance Exam",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-23T09:00:00+05:30",
+
+    "updated_date": "2026-08-23T09:00:00+05:30",
+
+    "reading_time": "15 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "JEE Main 2027 Class 11 and Class 12 syllabus overlap "
+        "and preparation timeline"
+    ),
+
+    "keywords": [
+        "JEE Main 2027 syllabus",
+        "JEE Main class 11 vs class 12 weightage",
+        "JEE Main preparation timeline",
+        "JEE Main exam pattern 2026",
+        "JEE Main high weightage chapters",
+        "JEE Main Section B marking scheme"
+    ],
+
+    "content": """
+    <section id="jee-main-2027-introduction">
+
+    <p>
+        Most students unconsciously treat JEE Main as a "Class 12 exam" — something that ramps up once boards are behind them. The actual syllabus doesn't agree with that framing.
+    </p>
+
+    <div class="highlight-box">
+        <strong style="font-size:26px;">~45%</strong>
+        of JEE Main questions draw from Class 11 syllabus — meaning a Class-12-only prep strategy leaves nearly half the exam under-prepared, in a year most students stop actively revising.
+    </div>
+
+    <p>
+        This guide covers the current, verified JEE Main exam pattern, the exact Class 11 vs Class 12 split by subject, the chapters that carry the most weight based on recent trends, and a realistic preparation timeline that spans both years properly — rather than compressing everything into Class 12.
+    </p>
+
+</section>
+<section id="jee-main-2027-pattern-note">
+
+    <div class="gdl-card">
+
+        <p>
+            A note on "2027": NTA typically confirms each session's specific syllabus close to registration, and detailed 2027-specific notification wasn't separately available at the time of writing. What follows is built on the current, confirmed pattern — which multiple sources agree is expected to remain largely stable, since JEE Main's syllabus and structure see only minor year-to-year adjustments rather than the kind of major overhauls some other exams have seen recently.
+        </p>
+
+    </div>
+
+</section>
+<section id="jee-main-current-exam-structure">
+
+    <h2>
+        The Current Exam Structure
+    </h2>
+
+    <p>
+        JEE Main is conducted by the National Testing Agency (NTA) across two sessions each year — January and April — with your best score across both counted toward the final merit list. There are three separate papers: Paper 1 (B.E./B.Tech — the route into NITs, IIITs, and other CFTIs, and the JEE Advanced qualifier), Paper 2A (B.Arch), and Paper 2B (B.Planning).
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                Paper 1 (B.Tech)
+            </h3>
+
+            <h4>
+                75 Questions, 300 Marks
+            </h4>
+
+            <p>
+                Physics, Chemistry, and Mathematics — 100 marks each, 25 questions per subject. Entirely Computer-Based Test (CBT) mode.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Per Subject
+            </h3>
+
+            <h4>
+                Section A + Section B
+            </h4>
+
+            <p>
+                Section A: 20 compulsory MCQs. Section B: 5 numerical value questions, also compulsory.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ An outdated assumption that costs real marks
+        </h3>
+
+        <p>
+            Older prep material describes Section B as "choose any 5 out of 10, with no negative marking" — that rule no longer applies. All 5 Section B questions per subject are now mandatory, and standard negative marking (+4 correct, −1 incorrect) applies to Section B exactly as it does to Section A. Treating numerical questions as a safe, low-risk guessing zone under the old rule is a genuinely costly, avoidable mistake if your prep material hasn't been updated.
+        </p>
+
+    </div>
+
+</section>
+<section id="jee-main-class-11-vs-12-split">
+
+    <h2>
+        The Overall Split — And Why It Varies by Subject
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">
+                ~40-45%
+            </div>
+            <h3>
+                Class 11
+            </h3>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">
+                ~55-60%
+            </div>
+            <h3>
+                Class 12
+            </h3>
+        </div>
+
+    </div>
+
+    <p>
+        This headline split isn't uniform — it shifts meaningfully depending on the subject:
+    </p>
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Physics — close to balanced
+                </h3>
+
+                <div class="highlight-box">
+                    Class 11 ~45% &nbsp;&nbsp; | &nbsp;&nbsp; Class 12 ~55%
+                </div>
+
+                <p>
+                    Class 11 Mechanics is the conceptual backbone; Class 12 Electrodynamics and Optics carry slightly more direct question weight.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Chemistry — heavily Class 12
+                </h3>
+
+                <div class="highlight-box">
+                    Class 11 ~38% &nbsp;&nbsp; | &nbsp;&nbsp; Class 12 ~62%
+                </div>
+
+                <p>
+                    Organic Chemistry reactions and specific Inorganic topics (both Class 12-heavy) dominate — but Class 11's Chemical Bonding and General Organic Chemistry (GOC) are essential prerequisites for understanding them.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="gdl-prep-item">
+
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Mathematics — Class 12 Calculus-driven
+                </h3>
+
+                <div class="highlight-box">
+                    Class 11 ~42% &nbsp;&nbsp; | &nbsp;&nbsp; Class 12 ~58%
+                </div>
+
+                <p>
+                    Class 12 Calculus (differentiation, integration, differential equations) carries the most weight, but Class 11 Algebra, Trigonometry, and Coordinate Geometry are the groundwork everything else builds on.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 The pattern across all three subjects: Class 12 carries more direct marks, but Class 11 concepts are the prerequisite scaffolding for nearly every Class 12 topic. Weak Class 11 fundamentals don't just cost you Class 11 marks — they make Class 12 topics harder to learn properly too.
+    </div>
+
+</section>
+<section id="jee-main-high-weightage-chapters">
+
+    <h2>
+        Chapters That Consistently Carry the Most Weight
+    </h2>
+
+    <p>
+        Based on recent exam trends, these chapters recur most often across subjects:
+    </p>
+
+    <div class="three-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                📐 Physics
+            </h3>
+
+            <ul>
+                <li>Current Electricity</li>
+                <li>Ray Optics</li>
+                <li>Electrostatics</li>
+                <li>Rotational Motion</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                🧪 Chemistry
+            </h3>
+
+            <ul>
+                <li>Coordination Compounds</li>
+                <li>Aldehydes, Ketones & Carboxylic Acids</li>
+                <li>Chemical Equilibrium</li>
+                <li>Chemical Kinetics</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                ➗ Mathematics
+            </h3>
+
+            <ul>
+                <li>Three-Dimensional Geometry</li>
+                <li>Sequences & Series</li>
+                <li>Calculus (Integration & Differentiation)</li>
+                <li>Matrices & Determinants</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+    <p>
+        Notice Current Electricity and Electrostatics both appear here — if you've worked through our <a href="/blog/class-12-physics-electrostatics-current-electricity-practice-set">Class 12 Physics practice set on these exact chapters</a>, that same practice directly serves JEE preparation too.
+    </p>
+
+</section>
+<section id="jee-main-preparation-timeline">
+
+    <h2>
+        A Preparation Timeline That Spans Both Years Properly
+    </h2>
+
+    <p>
+        <strong>Class 11 — build Mechanics first, since it underpins everything that follows:</strong>
+    </p>
+
+    <div style="display:flex; flex-direction:column; gap:14px; margin-bottom:28px;">
+
+        <div class="gdl-card">
+            <h3>Months 1-2</h3>
+            <p>
+                Units & Measurements, Kinematics, Laws of Motion — the true foundation. Start topic-wise PYQ practice immediately after finishing each chapter, not later.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Months 3-4</h3>
+            <p>
+                Work-Energy-Power, Rotational Motion, Gravitation. Continue chapter-wise PYQ practice as you go.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Months 5-6</h3>
+            <p>
+                Thermodynamics, Kinetic Theory, Mechanical Properties of Solids & Fluids.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Months 7-8</h3>
+            <p>
+                Oscillations & Waves, plus a full revision pass across all of Mechanics. Full-length mock tests can begin once you've covered roughly 60% of the Class 11 syllabus — but don't wait that long to start PYQ practice.
+            </p>
+        </div>
+
+    </div>
+
+    <p>
+        <strong>Class 12 — continue in weightage-aligned order, while actively revising Class 11:</strong>
+    </p>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+            <h3>First 3 months</h3>
+            <p>
+                Electrostatics → Current Electricity → Magnetism → EMI & AC → EM Waves → Optics → Modern Physics — this sequence matches both your school pacing and JEE weightage priority.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Ongoing</h3>
+            <p>
+                Allocate roughly 30-40% of weekly subject time specifically to Class 11 revision — Mechanics core, Thermodynamics, and a light 30-minute weekly touch on Units & Measurement is enough to hold it.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Final 30 days</h3>
+            <p>
+                Shift weighting toward Class 12 high-frequency chapters specifically — Optics, Modern Physics, and Electrostatics have consistently dominated recent papers in the final stretch.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+<section id="jee-main-preparation-mistakes">
+
+    <h2>
+        The Mistakes This Guide Is Built to Prevent
+    </h2>
+
+    <p>
+        <strong>Treating Class 11 as "done" once boards-equivalent exams pass.</strong> Roughly 40-45% of JEE Main draws directly from it — abandoning revision here doesn't just cost Class 11 marks, it weakens the foundation Class 12 topics depend on.
+    </p>
+
+    <p>
+        <strong>Assuming Section B numerical questions are penalty-free.</strong> That rule changed — all 5 per subject are now compulsory with standard negative marking. Prep material describing the old rule needs to be double-checked against the current pattern.
+    </p>
+
+    <p>
+        <strong>Delaying mock tests until "syllabus is fully done."</strong> Topic-wise PYQ practice should start the moment you finish a chapter — full mocks can reasonably wait until 60% coverage, but chapter-level practice shouldn't wait for anything.
+    </p>
+
+</section>
+<section id="jee-main-genelis-weak-area-data">
+
+    <h2>
+        The Same Weak-Area Data Works Across Both Years
+    </h2>
+
+    <p>
+        Since JEE Main draws from both Class 11 and Class 12 NCERT content simultaneously, tracking your accuracy separately by chapter — regardless of which class year it technically belongs to — matters more here than for almost any other exam preparation.
+    </p>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your chapter-level accuracy across both Class 11 and Class 12 content continuously, so Class 11 topics don't quietly fade from view once you move on to Class 12 — a genuine risk given how much of JEE Main still depends on them. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt, regardless of which year the chapter is technically from.
+    </p>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=jee-main-2027&utm_content=cta-inline"
+    >
+        Track your JEE prep across both Class 11 and 12 on Genelis — free →
+    </a>
+
+</section>
+<section id="jee-main-weightage-reference">
+
+    <h2>
+        Quick Reference: Class 11 vs Class 12 Weightage
+    </h2>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table class="checklist-table">
+
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Class 11 Share</th>
+                        <th>Class 12 Share</th>
+                        <th>Class 12 Driver</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td><strong>Physics</strong></td>
+                        <td>~45%</td>
+                        <td>~55%</td>
+                        <td>Electrodynamics, Optics, Modern Physics</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Chemistry</strong></td>
+                        <td>~38%</td>
+                        <td>~62%</td>
+                        <td>Organic Chemistry, select Inorganic topics</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Mathematics</strong></td>
+                        <td>~42%</td>
+                        <td>~58%</td>
+                        <td>Calculus (Differentiation, Integration, Diff. Equations)</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Overall</strong></td>
+                        <td>~40-45%</td>
+                        <td>~55-60%</td>
+                        <td>—</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        Figures reflect analysis of recent exam trends and may shift slightly year to year — always cover the complete syllabus rather than relying solely on weightage to decide what to skip.
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What percentage of JEE Main comes from Class 11 versus "
+                "Class 12 syllabus?"
+            ),
+            "answer": (
+                "Based on analysis of recent JEE Main papers, the overall split "
+                "is approximately 45% Class 11 and 55% Class 12, though this "
+                "varies by subject. Physics is close to balanced, with Class 12 "
+                "topics like Electrodynamics and Optics carrying slightly more "
+                "weight than Class 11 Mechanics. Chemistry skews more heavily "
+                "toward Class 12, largely due to the dominance of Organic "
+                "Chemistry reactions and specific Inorganic Chemistry topics. "
+                "Mathematics leans toward Class 12 primarily because of Calculus, "
+                "though Class 11 Algebra and Trigonometry remain foundational "
+                "prerequisites."
+            )
+        },
+        {
+            "question": (
+                "What is the current JEE Main exam pattern for Paper 1?"
+            ),
+            "answer": (
+                "Paper 1 (B.E./B.Tech) covers Physics, Chemistry, and Mathematics, "
+                "each carrying 100 marks, for 300 marks total across 75 questions. "
+                "Each subject has two sections: Section A with 20 compulsory "
+                "multiple-choice questions (+4 for correct, −1 for incorrect), "
+                "and Section B with 5 numerical value questions per subject. "
+                "As of the current pattern, all 5 Section B questions per subject "
+                "are mandatory — there is no longer a choice of attempting 5 out "
+                "of 10 — and standard negative marking now applies to Section B "
+                "as well, the same as Section A."
+            )
+        },
+        {
+            "question": (
+                "Is it a mistake to assume Section B numerical questions are "
+                "safer because there's no negative marking?"
+            ),
+            "answer": (
+                "Yes, and this is one of the most common outdated assumptions "
+                "students carry into JEE Main preparation. Under an earlier "
+                "version of the exam pattern, Section B allowed choosing 5 out "
+                "of 10 questions with no penalty for a wrong attempt. That is "
+                "no longer the case — all 5 Section B questions per subject are "
+                "now compulsory, and incorrect answers are penalised exactly like "
+                "Section A. Relying on older prep material or coaching notes "
+                "describing the old rule can lead to a real, avoidable loss of "
+                "marks on exam day."
+            )
+        },
+        {
+            "question": (
+                "Should I wait until Class 12 to start serious JEE Main preparation?"
+            ),
+            "answer": (
+                "No. Since roughly 40-45% of the exam draws directly from "
+                "Class 11 topics, and Class 11 concepts like Mechanics and basic "
+                "Organic Chemistry form the foundation for harder Class 12 topics, "
+                "starting focused JEE-oriented practice from Class 11 gives a "
+                "significant structural advantage. Students who treat Class 11 "
+                "purely as a board-exam year and only begin JEE-specific preparation "
+                "in Class 12 typically end up trying to both learn new Class 12 "
+                "content and simultaneously relearn Class 11 fundamentals under "
+                "much greater time pressure."
+            )
+        },
+        {
+            "question": (
+                "How much weekly time should Class 12 JEE aspirants spend "
+                "revising Class 11 topics?"
+            ),
+            "answer": (
+                "A commonly recommended allocation is around 30-40% of weekly "
+                "subject-wise study time on Class 11 revision throughout most of "
+                "Class 12, tapering closer to Class 12 content in the final month "
+                "or two before the exam, when high-weightage Class 12 chapters "
+                "like Optics, Modern Physics, and Electrostatics deserve extra "
+                "focus based on recent exam trends."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "class-12-physics-electrostatics-current-electricity-practice-set",
+        "class-12-calculus-maths-formula-sheet-board-exam-cbse",
+        "class-12-organic-chemistry-named-reactions-mechanisms-practice"
+    ]
+},
     {
     "slug": "class-12-business-studies-case-studies-answer-writing-cbse",
 

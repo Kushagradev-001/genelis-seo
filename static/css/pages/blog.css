@@ -6931,3 +6931,6 @@ transform:rotate(90deg);
         line-height: 1.7;
     }
 }
+.problem-card-spacing {
+    margin-bottom: 20px;
+}
