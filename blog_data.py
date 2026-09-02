@@ -15443,6 +15443,4939 @@ student = {<span class="str">"name"</span>: <span class="str">"Rahul"</span>, <s
         "class-12-organic-chemistry-named-reactions-mechanisms-practice"
     ]
 },
+{
+    "slug": "neet-2027-biology-weightage-preparation-timeline",
+
+    "title": (
+        "NEET 2027: Biology Chapter Weightage & Preparation Timeline "
+        "for Class 11–12"
+    ),
+
+    "meta_title": (
+        "NEET 2027: Biology Chapter Weightage & Preparation Timeline "
+        "for Class 11–12 | Genelis"
+    ),
+
+    "meta_description": (
+        "Biology alone is worth 360 of NEET's 720 marks — exactly as much as "
+        "Physics and Chemistry combined — and 95-100% of Biology questions come "
+        "directly from NCERT lines, tables, and diagrams. This guide covers the "
+        "current exam structure, the Class 11 vs 12 Biology split, high-yield "
+        "chapters, and a preparation timeline spanning both years."
+    ),
+
+    "excerpt": (
+        "Biology is worth exactly as much as Physics and Chemistry combined — "
+        "and 95-100% of it comes straight from NCERT. The complete weightage "
+        "breakdown and preparation timeline."
+    ),
+
+    "class": "general",
+
+    "subject": "Biology",
+
+    "category": "Entrance Exam",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-24T09:00:00+05:30",
+
+    "updated_date": "2026-08-24T09:00:00+05:30",
+
+    "reading_time": "15 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "NEET 2027 Biology chapter weightage and Class 11 Class 12 "
+        "preparation timeline"
+    ),
+
+    "keywords": [
+        "NEET 2027 Biology weightage",
+        "NEET Biology chapter wise weightage",
+        "NEET class 11 vs class 12 Biology",
+        "NEET exam pattern 2026",
+        "NEET Botany Zoology high yield chapters",
+        "NEET preparation timeline"
+    ],
+
+    "content": """
+    <section id="neet-2027-introduction">
+
+    <p>
+        Every NEET aspirant knows Biology matters. Fewer realize by exactly how much.
+    </p>
+
+    <div class="highlight-box">
+
+        <div style="font-size:28px; font-weight:800; margin-bottom:6px;">
+            360 / 720
+        </div>
+
+        <p style="margin:0;">
+            Biology alone accounts for exactly half of NEET's total marks — exactly as much as Physics and Chemistry combined. It is, by a wide margin, the single highest-leverage subject in the entire exam.
+        </p>
+
+    </div>
+
+    <p>
+        This guide covers the current, verified NEET exam structure, exactly how Biology marks split between Class 11 and Class 12, the chapters that carry the most weight in both Botany and Zoology, and a preparation timeline that treats Class 11 Biology with the seriousness its actual weightage deserves.
+    </p>
+
+</section>
+<section id="neet-2027-pattern-note">
+
+    <div class="gdl-card">
+
+        <p>
+            A note on "2027": NTA typically confirms exam-specific details closer to registration, and separate 2027-specific notification wasn't available at the time of writing. What follows is built on the current, confirmed pattern, which is expected to remain largely stable based on recent trends.
+        </p>
+
+    </div>
+
+</section>
+<section id="neet-current-exam-structure">
+
+    <h2>
+        The Current Exam Structure
+    </h2>
+
+    <p>
+        NEET is conducted by the National Testing Agency (NTA), with the pattern prescribed by the National Medical Commission (NMC). Unlike JEE Main's twice-yearly, computer-based format, NEET is a single annual exam, conducted offline (pen-and-paper), typically in early May.
+    </p>
+
+    <div class="three-split">
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">180</div>
+            <h3>Physics</h3>
+            <p>45 questions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">180</div>
+            <h3>Chemistry</h3>
+            <p>45 questions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-stat-number">360</div>
+            <h3>Biology</h3>
+            <p>90 questions (Botany + Zoology)</p>
+        </div>
+
+    </div>
+
+    <p>
+        180 questions total, 720 marks total, +4 for a correct answer and −1 for an incorrect one, with no penalty for a question left unattempted. The full paper runs in a single 3-hour sitting with no sectional time limits.
+    </p>
+
+    <div class="warn-box">
+
+        <h3>
+            ⚠️ A real, recent change worth knowing
+        </h3>
+
+        <p>
+            Earlier NEET papers included an optional Section B — a choice of questions within each subject. That format has been removed. All 180 questions are now compulsory, with no internal choice anywhere in the paper. If your prep material or coaching notes describe an "attempt any X out of Y" structure, it's describing an outdated pattern.
+        </p>
+
+    </div>
+
+</section>
+<section id="neet-biology-class-11-vs-12-split">
+
+    <h2>
+        Inside Biology: The Class 11 vs Class 12 Split
+    </h2>
+
+    <p>
+        Based on analysis of recent NEET papers, Biology's internal Class 11 vs Class 12 split runs close to 45:55 — in both Botany and Zoology similarly. This means Class 11 still contributes nearly half of all Biology marks, even with Class 12 carrying a slight edge.
+    </p>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                🌿 Botany
+            </h3>
+
+            <div class="highlight-box">
+                <strong>Class 11 ~45%</strong>
+                &nbsp;&nbsp; | &nbsp;&nbsp;
+                <strong>Class 12 ~55%</strong>
+            </div>
+
+            <p>
+                Genetics-related chapters from Class 12 dominate, but Class 11 foundational chapters underpin them directly.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                🐾 Zoology
+            </h3>
+
+            <div class="highlight-box">
+                <strong>Class 11 ~45%</strong>
+                &nbsp;&nbsp; | &nbsp;&nbsp;
+                <strong>Class 12 ~55%</strong>
+            </div>
+
+            <p>
+                Class 12 Human Health and Reproduction carry weight, but Class 11 Human Physiology chapters are the direct foundation.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="neet-biology-high-weightage-chapters">
+
+    <h2>
+        The Chapters That Carry the Most Weight
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>
+                Class 11 — Foundational, High-Yield
+            </h3>
+
+            <ul>
+                <li>Cell: The Unit of Life</li>
+                <li>Biomolecules</li>
+                <li>Cell Cycle and Cell Division</li>
+                <li>Digestion and Absorption</li>
+                <li>Breathing and Exchange of Gases</li>
+                <li>Animal Kingdom & Plant Kingdom</li>
+            </ul>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <h3>
+                Class 12 — Direct High-Weightage
+            </h3>
+
+            <ul>
+                <li>Principles of Inheritance and Variation</li>
+                <li>Molecular Basis of Inheritance</li>
+                <li>Reproduction (Human & Plant)</li>
+                <li>Evolution</li>
+                <li>Human Health and Disease</li>
+                <li>Biotechnology</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+    <div class="highlight-box">
+        💡 Notice the direct dependency: Class 11's Digestion, Breathing, and Animal Kingdom chapters are exactly what Class 12's Human Physiology and Health topics build on. Genetics-related chapters — Principles of Inheritance and Variation, and Molecular Basis of Inheritance — consistently rank as the single highest-yield cluster in all of Biology.
+    </div>
+
+</section>
+<section id="neet-biology-ncert-dependency">
+
+    <h2>
+        The NCERT Dependency Is Even Higher Than You Think
+    </h2>
+
+    <div class="highlight-box">
+
+        <div style="font-size:28px; font-weight:800; margin-bottom:6px;">
+            95–100%
+        </div>
+
+        <p style="margin:0;">
+            of NEET Biology questions are directly or closely based on NCERT textbook content — not just concepts, but specific lines, tables, diagrams, and footnotes.
+        </p>
+
+    </div>
+
+    <p>
+        This is a notably higher NCERT-dependency than even Physics or Chemistry show within NEET, and higher than what's typically cited for JEE Main domain content too. The practical implication: reading NCERT Biology once, for concepts, isn't enough. High scorers read it multiple times specifically looking for details most students skip — footnotes, the fine print under diagrams, and summary boxes — since these regularly become direct, standalone questions.
+    </p>
+
+    <div class="warn-box">
+        ⚠️ Reference books and question banks are useful for practice volume, but they cannot replace direct, repeated NCERT reading for Biology specifically. A student who has read NCERT Biology five times thoroughly is typically better positioned than one who has read it once and moved to three different reference books.
+    </div>
+
+</section>
+<section id="neet-biology-preparation-timeline">
+
+    <h2>
+        A Preparation Timeline That Doesn't Shortchange Class 11
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+            <h3>Class 11, Term 1</h3>
+            <p>
+                Build the true foundation: Cell Biology, Biomolecules, and the classification chapters (Plant Kingdom, Animal Kingdom). Read each chapter's NCERT text at least twice before moving on.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 11, Term 2</h3>
+            <p>
+                Human Physiology foundations — Digestion, Breathing, and related systems. These chapters are direct prerequisites for Class 12's most heavily weighted Zoology content.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 12, First Half</h3>
+            <p>
+                Genetics cluster first — Principles of Inheritance and Variation, then Molecular Basis of Inheritance — since these consistently rank as the highest-yield chapters in all of Biology. Alongside this, revisit Class 11 Human Physiology in parallel, since Class 12's Human Health and Reproduction chapters build directly on it.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Class 12, Second Half</h3>
+            <p>
+                Evolution, Biotechnology, and Ecology. Begin full NCERT re-reads covering both Class 11 and Class 12 together, specifically hunting for footnotes, diagram labels, and summary-box details.
+            </p>
+        </div>
+
+        <div class="gdl-card">
+            <h3>Final 2 Months</h3>
+            <p>
+                Full-length timed mocks covering all four sections (Physics, Chemistry, Botany, Zoology) together, since NEET has no sectional timing and pacing across all four matters as much as knowing the content.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+<section id="neet-biology-mistakes">
+
+    <h2>
+        The Mistakes This Guide Is Built to Prevent
+    </h2>
+
+    <p>
+        <strong>Treating Class 11 Biology as "covered" once Class 12 starts.</strong> With Class 11 contributing nearly 45% of Biology's marks, and Class 12's highest-weightage chapters directly building on Class 11 foundations, letting Class 11 fade from active revision is a direct, measurable cost.
+    </p>
+
+    <p>
+        <strong>Reading NCERT once and moving to reference books.</strong> Given Biology's 95-100% NCERT dependency, this is close to the highest-leverage mistake possible in NEET preparation — repeated, detailed NCERT reading outperforms reference-book volume for this specific subject.
+    </p>
+
+    <p>
+        <strong>Practising sections in isolation.</strong> Since NEET has no sectional time limit, pacing across all four sections together — not just knowing each section's content — is a skill that only full, timed, combined mocks actually build.
+    </p>
+
+</section>
+<section id="neet-biology-genelis">
+
+    <h2>
+        A Subject Worth Half the Exam Deserves Chapter-Level Precision
+    </h2>
+
+    <p>
+        Given Biology alone determines half of your NEET score, knowing exactly which chapters — across both Class 11 and Class 12 — are genuinely solid versus merely familiar matters more here than for any other subject in your preparation.
+    </p>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your chapter-level accuracy across both Class 11 and Class 12 Biology continuously, so foundational Class 11 chapters don't quietly fade from view once Class 12 content takes over — a genuine risk given how directly Class 12's highest-weightage topics depend on them. Every wrong answer is logged to your <strong>wrong-question notebook</strong> and queued for reattempt, regardless of which year the chapter is from.
+    </p>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=neet-2027-biology&utm_content=cta-inline"
+    >
+        Track your NEET Biology prep across both Class 11 and 12 on Genelis — free →
+    </a>
+
+</section>
+<section id="neet-biology-quick-reference">
+
+    <h2>
+        Quick Reference: NEET Structure & Biology Weightage
+    </h2>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table class="checklist-table">
+
+                <thead>
+                    <tr>
+                        <th>Element</th>
+                        <th>Detail</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td><strong>Total questions / marks</strong></td>
+                        <td>180 questions, 720 marks, all compulsory</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Physics</strong></td>
+                        <td>45 questions, 180 marks</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Chemistry</strong></td>
+                        <td>45 questions, 180 marks</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Biology (Botany + Zoology)</strong></td>
+                        <td>90 questions, 360 marks — 50% of the exam</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Marking scheme</strong></td>
+                        <td>+4 correct, −1 incorrect, 0 unattempted</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Mode & duration</strong></td>
+                        <td>Offline (pen-and-paper), 3 hours, single sitting</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>Biology Class 11 vs 12 split</strong></td>
+                        <td>~45% Class 11, ~55% Class 12</td>
+                    </tr>
+
+                    <tr>
+                        <td><strong>NCERT dependency (Biology)</strong></td>
+                        <td>~95-100% of questions NCERT-direct</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "How much of the NEET exam is Biology, compared to Physics "
+                "and Chemistry?"
+            ),
+            "answer": (
+                "Biology accounts for exactly half of NEET's total marks — "
+                "360 out of 720 — through 90 questions (45 Botany and "
+                "45 Zoology), each worth 4 marks. Physics and Chemistry each "
+                "contribute 180 marks (45 questions each). This means Biology "
+                "alone carries as much weight as Physics and Chemistry combined, "
+                "making it the single highest-leverage subject for overall NEET "
+                "score improvement."
+            )
+        },
+        {
+            "question": (
+                "What is the current NEET exam pattern, and has it changed recently?"
+            ),
+            "answer": (
+                "NEET currently consists of 180 compulsory multiple-choice "
+                "questions across Physics (45), Chemistry (45), Botany (45), "
+                "and Zoology (45), for 720 total marks, with +4 for a correct "
+                "answer and −1 for an incorrect one. The exam is conducted "
+                "offline (pen-and-paper), typically in early May, in a single "
+                "3-hour sitting. A notable recent change: the previous format "
+                "included an optional Section B with a choice of questions; this "
+                "has been removed, and all 180 questions are now compulsory with "
+                "no internal choice."
+            )
+        },
+        {
+            "question": (
+                "What is the Class 11 versus Class 12 split within NEET Biology?"
+            ),
+            "answer": (
+                "Based on analysis of recent NEET papers, the split within "
+                "Biology is close to 45% Class 11 and 55% Class 12, in both "
+                "Botany and Zoology roughly similarly. This means Class 11 "
+                "Biology still contributes nearly half of all Biology marks, "
+                "even though Class 12 carries a slight edge — making it a mistake "
+                "to treat Class 11 Biology as a lower priority once Class 12 begins."
+            )
+        },
+        {
+            "question": (
+                "Which Biology chapters carry the highest weightage in NEET?"
+            ),
+            "answer": (
+                "In Botany, genetics-related chapters — Principles of Inheritance "
+                "and Variation and Molecular Basis of Inheritance — consistently "
+                "dominate as the highest-yield topics. In Zoology, Human Physiology "
+                "chapters carry significant weight, built directly on Class 11 "
+                "foundational chapters like Digestion and Absorption, Breathing "
+                "and Exchange of Gases, and the Animal Kingdom. Class 11 chapters "
+                "such as Cell: The Unit of Life and Biomolecules are also "
+                "consistently high-yield, since they underpin many Class 12 "
+                "topics as well."
+            )
+        },
+        {
+            "question": (
+                "Is NCERT enough for NEET Biology preparation?"
+            ),
+            "answer": (
+                "For Biology specifically, yes, to a greater degree than for "
+                "Physics or Chemistry. An estimated 95-100% of NEET Biology "
+                "questions are directly or closely based on NCERT textbook "
+                "content — including specific lines, tables, diagrams, and "
+                "footnotes, not just the main concepts. This makes a thorough, "
+                "repeated, line-by-line reading of NCERT Biology for both Class 11 "
+                "and Class 12 the single most effective use of preparation time "
+                "for this subject, more so than for any other NEET subject."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "jee-main-2027-class-11-12-syllabus-overlap-timeline",
+        "class-11-jee-neet-preparation-without-sacrificing-board-exams",
+        "class-12-biology-important-chapters-pyq-cbse-neet",
+        "class-11-biology-cell-structure-plant-physiology-cbse-neet"
+    ]
+},
+{
+    "slug": "class-10-quadratic-equations-important-competency-questions",
+
+    "title": (
+        "Class 10 Maths Quadratic Equations: Important Questions, "
+        "Competency Problems & Solutions"
+    ),
+
+    "meta_title": (
+        "Class 10 Maths Quadratic Equations: Important Questions, "
+        "Competency Problems & Solutions | Genelis"
+    ),
+
+    "meta_description": (
+        "32 traditional problems covering every Quadratic Equations question "
+        "type, plus 4 real-world competency scenarios matching CBSE's case-based "
+        "format — each with a complete, independently verified step-by-step "
+        "solution. Attempt each before revealing the answer."
+    ),
+
+    "excerpt": (
+        "32 traditional problems, every type covered, plus 4 real-world "
+        "competency case studies matching CBSE's actual format. "
+        "Every answer independently verified."
+    ),
+
+    "class": "10",
+
+    "subject": "Mathematics",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-26T09:00:00+05:30",
+
+    "updated_date": "2026-08-26T09:00:00+05:30",
+
+    "reading_time": "22 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Maths Quadratic Equations important questions "
+        "and competency-based problems with solutions"
+    ),
+
+    "keywords": [
+        "class 10 quadratic equations important questions",
+        "quadratic equations competency based questions",
+        "quadratic equations word problems CBSE",
+        "quadratic equations case study questions",
+        "class 10 maths quadratic equations solved"
+    ],
+
+    "content": """
+    <section id="class10-quadratic-introduction">
+
+    <p>
+        Quadratic Equations questions come in two genuinely different flavours, and most practice sets only give you one of them. There's the traditional skill — factorize this, find the discriminant of that, solve this word problem — and there's the newer competency-based format, where a single real-world scenario asks you to model a situation as a quadratic equation before you even start solving. Since 50% of CBSE Class 10 papers are now competency-based, both deserve real practice, not just the first one.
+    </p>
+
+    <div class="highlight-box">
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> Attempt each problem fully on paper before tapping "Reveal Solution" — for the case studies, work through all sub-questions before checking any of them. Every calculation on this page was computed and independently verified before publishing.
+        </p>
+    </div>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                32
+            </div>
+
+            <h3>
+                Part A — Important Questions
+            </h3>
+
+            <p>
+                8 core question types, 4 problems each — the traditional skills every quadratic equations paper tests.
+            </p>
+
+        </div>
+
+        <div class="gdl-card">
+
+            <div class="gdl-stat-number">
+                4 Case Studies
+            </div>
+
+            <h3>
+                Part B — Competency Scenarios
+            </h3>
+
+            <p>
+                12 linked sub-questions across 4 real-world case studies, matching CBSE's actual case-based format.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-core-types">
+
+    <h2>
+        Part A: The 8 Core Question Types
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">1</div>
+            <p>Nature of roots (discriminant)</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">2</div>
+            <p>Solving by factorization</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">3</div>
+            <p>Solving by the quadratic formula</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">4</div>
+            <p>Finding an unknown constant from root conditions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">5</div>
+            <p>Word problems — numbers</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">6</div>
+            <p>Word problems — ages</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">7</div>
+            <p>Word problems — speed, distance, time</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">8</div>
+            <p>Word problems — geometric / area</p>
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-1">
+
+    <h2>
+        Type 1 · Nature of Roots
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.1</div>
+
+            <h3>No Real Roots</h3>
+
+            <p>
+                Find the nature of the roots of 2x² − 4x + 3 = 0.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = b²−4ac = (−4)² − 4(2)(3) = 16 − 24 = −8
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>D &lt; 0 → No real roots exist.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.2</div>
+
+            <h3>Equal Roots</h3>
+
+            <p>
+                Find the nature of the roots of 4x² − 4x + 1 = 0. If real and equal, find the root.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = (−4)² − 4(4)(1) = 16 − 16 = 0
+                </div>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Since D = 0
+                            </h3>
+
+                            <p>
+                                Root = −b/2a = 4/8
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>D = 0 → Real and equal roots. Root = 1/2.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.3</div>
+
+            <h3>Rational Roots</h3>
+
+            <p>
+                Find the nature of the roots of 2x² − 5x + 3 = 0.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = (−5)² − 4(2)(3) = 25 − 24 = 1
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>D &gt; 0 and a perfect square → Real, distinct, rational roots (3/2 and 1).</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.4</div>
+
+            <h3>Irrational Roots</h3>
+
+            <p>
+                Find the nature of the roots of 2x² − 6x + 3 = 0.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = (−6)² − 4(2)(3) = 36 − 24 = 12
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>D &gt; 0 but not a perfect square → Real, distinct, irrational roots.</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: stopping at "D &gt; 0, so two real roots" without checking whether D is a perfect square — this distinction (rational vs irrational roots) is specifically what many questions ask for.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-2">
+
+    <h2>
+        Type 2 · Factorization
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.1</div>
+
+            <h3>Factorize</h3>
+
+            <p>
+                Solve by factorization: x² − 7x + 12 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find two numbers multiplying to 12, adding to −7
+                            </h3>
+
+                            <p>
+                                −3 and −4 work: (−3)×(−4)=12, (−3)+(−4)=−7
+                            </p>
+
+                            <div class="highlight-box">
+                                x² − 3x − 4x + 12 = 0 → x(x−3) − 4(x−3) = 0 → (x−3)(x−4) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 3 or x = 4</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.2</div>
+
+            <h3>Factorize</h3>
+
+            <p>
+                Solve by factorization: 2x² + 5x − 3 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find two numbers multiplying to (2×−3)=−6, adding to 5
+                            </h3>
+
+                            <p>
+                                6 and −1 work
+                            </p>
+
+                            <div class="highlight-box">
+                                2x² + 6x − x − 3 = 0 → 2x(x+3) − 1(x+3) = 0 → (x+3)(2x−1) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = −3 or x = 1/2</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.3</div>
+
+            <h3>Factorize</h3>
+
+            <p>
+                Solve by factorization: 6x² − x − 1 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find two numbers multiplying to (6×−1)=−6, adding to −1
+                            </h3>
+
+                            <p>
+                                −3 and 2 work
+                            </p>
+
+                            <div class="highlight-box">
+                                6x² − 3x + 2x − 1 = 0 → 3x(2x−1) + 1(2x−1) = 0 → (2x−1)(3x+1) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 1/2 or x = −1/3</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.4</div>
+
+            <h3>Factorize</h3>
+
+            <p>
+                Solve by factorization: x² − 3x − 10 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find two numbers multiplying to −10, adding to −3
+                            </h3>
+
+                            <p>
+                                −5 and 2 work
+                            </p>
+
+                            <div class="highlight-box">
+                                (x−5)(x+2) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 5 or x = −2</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-3">
+
+    <h2>
+        Type 3 · Quadratic Formula
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.1</div>
+
+            <h3>Formula Method</h3>
+
+            <p>
+                Solve using the quadratic formula: x² − 6x + 4 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = 36 − 16 = 20. x = (6 ± √20)/2
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 3 + √5 or x = 3 − √5</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.2</div>
+
+            <h3>Formula Method</h3>
+
+            <p>
+                Solve using the quadratic formula: x² − 2x − 6 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = 4 + 24 = 28. x = (2 ± √28)/2 = (2 ± 2√7)/2
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 1 + √7 or x = 1 − √7</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.3</div>
+
+            <h3>Formula Method</h3>
+
+            <p>
+                Solve using the quadratic formula: 2x² − 7x + 2 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = 49 − 16 = 33. x = (7 ± √33)/4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = (7+√33)/4 ≈ 3.19 or x = (7−√33)/4 ≈ 0.31</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Neither root is a "nice" number here, and that's fine — the quadratic formula exists precisely for equations like this one that don't factor cleanly.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.4</div>
+
+            <h3>Formula Method</h3>
+
+            <p>
+                Solve using the quadratic formula: x² + 4x − 4 = 0
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    D = 16 + 16 = 32. x = (−4 ± √32)/2 = (−4 ± 4√2)/2
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = −2 + 2√2 or x = −2 − 2√2</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-4">
+
+    <h2>
+        Type 4 · Finding an Unknown Constant
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.1</div>
+
+            <h3>Equal Roots Condition</h3>
+
+            <p>
+                Find the value of k for which kx² + 4x + 1 = 0 has equal roots.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Equal roots means D = 0
+                            </h3>
+
+                            <p>
+                                D = 4² − 4(k)(1) = 16 − 4k
+                            </p>
+
+                            <div class="highlight-box">
+                                16 − 4k = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>k = 4</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.2</div>
+
+            <h3>Given Root Value</h3>
+
+            <p>
+                If x = 3 is a root of 2x² + kx + 3 = 0, find k.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Substitute x=3 into the equation
+                            </h3>
+
+                            <p>
+                                2(3)² + k(3) + 3 = 0 → 18 + 3k + 3 = 0
+                            </p>
+
+                            <div class="highlight-box">
+                                3k = −21
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>k = −7</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.3</div>
+
+            <h3>Sum-Product Condition</h3>
+
+            <p>
+                For x² − (k+6)x + 2(2k−1) = 0, find k if the sum of the roots is half the product of the roots.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Identify sum and product
+                            </h3>
+
+                            <p>
+                                Sum = k+6, Product = 2(2k−1)
+                            </p>
+
+                            <div class="highlight-box">
+                                k+6 = (1/2) × 2(2k−1) → k+6 = 2k−1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>k = 7</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.4</div>
+
+            <h3>Sum-Product Condition</h3>
+
+            <p>
+                For 3x² + (2k+1)x + (k−5) = 0, find k if the product of the roots is twice the sum of the roots.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Identify sum and product
+                            </h3>
+
+                            <p>
+                                Sum = −(2k+1)/3, Product = (k−5)/3
+                            </p>
+
+                            <div class="highlight-box">
+                                (k−5)/3 = 2 × [−(2k+1)/3] → k−5 = −2(2k+1) → k−5 = −4k−2
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>k = 3/5</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-5">
+
+    <h2>
+        Type 5 · Word Problems — Numbers
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.1</div>
+
+            <h3>Consecutive Integers</h3>
+
+            <p>
+                The sum of the squares of two consecutive positive integers is 365. Find the integers.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let the integers be x and x+1
+                            </h3>
+
+                            <p>
+                                x² + (x+1)² = 365
+                            </p>
+
+                            <div class="highlight-box">
+                                2x² + 2x − 364 = 0 → x² + x − 182 = 0 → (x−13)(x+14) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 13 (rejecting x = −14 since integers are positive) → The integers are 13 and 14.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.2</div>
+
+            <h3>Consecutive Even Integers</h3>
+
+            <p>
+                The product of two consecutive positive even integers is 168. Find the integers.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let the integers be x and x+2
+                            </h3>
+
+                            <p>
+                                x(x+2) = 168
+                            </p>
+
+                            <div class="highlight-box">
+                                x² + 2x − 168 = 0 → (x−12)(x+14) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 12 (rejecting negative root) → The integers are 12 and 14.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.3</div>
+
+            <h3>Two Numbers</h3>
+
+            <p>
+                One number is 5 more than another. If their product is 176, find the numbers.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let the smaller number be x
+                            </h3>
+
+                            <p>
+                                x(x+5) = 176
+                            </p>
+
+                            <div class="highlight-box">
+                                x² + 5x − 176 = 0 → (x−11)(x+16) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 11 (rejecting negative root) → The numbers are 11 and 16.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.4</div>
+
+            <h3>Number & Reciprocal</h3>
+
+            <p>
+                The sum of a positive number and its reciprocal is 41/20. Find the number.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let the number be x
+                            </h3>
+
+                            <p>
+                                x + 1/x = 41/20 → 20x² − 41x + 20 = 0
+                            </p>
+
+                            <div class="highlight-box">
+                                (4x−5)(5x−4) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 5/4 or x = 4/5 (both valid — they're reciprocals of each other, so either is a correct "the number")</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-6">
+
+    <h2>
+        Type 6 · Word Problems — Ages
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.1</div>
+
+            <h3>Age Product</h3>
+
+            <p>
+                The product of a person's age 5 years ago and their age 8 years from now is 30. Find their present age.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let present age = x
+                            </h3>
+
+                            <p>
+                                (x−5)(x+8) = 30
+                            </p>
+
+                            <div class="highlight-box">
+                                x² + 3x − 40 − 30 = 0 → x² + 3x − 70 = 0 → (x−7)(x+10) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 7 (rejecting negative root) → Present age = 7 years.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.2</div>
+
+            <h3>Mother-Daughter</h3>
+
+            <p>
+                A mother's age is three times her daughter's age. The product of their ages is 300. Find the daughter's age.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let daughter's age = x, mother's age = 3x
+                            </h3>
+
+                            <p>
+                                x(3x) = 300 → 3x² = 300 → x² = 100
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 10 (rejecting negative root) → Daughter's age = 10 years, mother's age = 30 years.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.3</div>
+
+            <h3>Father-Son</h3>
+
+            <p>
+                The sum of a father's and son's present ages is 45 years. Five years ago, the product of their ages was 124. Find their present ages.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let son's present age = x, so father's = 45−x
+                            </h3>
+
+                            <p>
+                                5 years ago: (x−5) and (40−x). Product = 124
+                            </p>
+
+                            <div class="highlight-box">
+                                (40−x)(x−5) = 124 → −x²+45x−324 = 0 → x²−45x+324 = 0 → (x−9)(x−36) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Both x=9 and x=36 solve the equation — but only one fits the context
+                            </h3>
+
+                            <p>
+                                If son's age = 36, father's age would be 9, which is impossible for a father. So reject x=36.
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Son's age = 9 years, father's age = 36 years.</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ This is a genuinely important skill: both roots satisfy the equation mathematically, but only checking them against real-world logic (a father must be older than his son) tells you which one is the actual answer.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.4</div>
+
+            <h3>Woman-Son</h3>
+
+            <p>
+                Two years ago, a woman's age was three times the square of her son's age. Three years from now, her age will be four times her son's age. Find the son's present age.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let son's present age = x
+                            </h3>
+
+                            <p>
+                                2 years ago, son's age = x−2, woman's age then = 3(x−2)². So woman's present age = 3(x−2)²+2.
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                3 years from now
+                            </h3>
+
+                            <p>
+                                Woman's age = 3(x−2)²+5, son's age = x+3. Condition: woman's age = 4 × son's age.
+                            </p>
+
+                            <div class="highlight-box">
+                                3(x−2)²+5 = 4(x+3) → 3x²−16x+5 = 0 → (3x−1)(x−5) = 0
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Check both roots against context
+                            </h3>
+
+                            <p>
+                                x=1/3 would mean "2 years ago" the son's age was negative — impossible. Reject it.
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Son's present age = 5 years.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-7">
+
+    <h2>
+        Type 7 · Word Problems — Speed, Distance, Time
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.1</div>
+
+            <h3>Train Speed</h3>
+
+            <p>
+                A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the journey. Find the original speed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let original speed = x km/h
+                            </h3>
+
+                            <p>
+                                360/x − 360/(x+5) = 1
+                            </p>
+
+                            <div class="highlight-box">
+                                360(x+5) − 360x = x(x+5) → 1800 = x²+5x → x²+5x−1800=0 → (x−40)(x+45)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 40 (rejecting negative root) → Original speed = 40 km/h.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.2</div>
+
+            <h3>Boat Speed</h3>
+
+            <p>
+                A boat covers 24 km upstream and 24 km downstream in a total of 5 hours. The speed of the stream is 2 km/h. Find the boat's speed in still water.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let boat's speed in still water = x km/h
+                            </h3>
+
+                            <p>
+                                Upstream speed = x−2, downstream speed = x+2
+                            </p>
+
+                            <div class="highlight-box">
+                                24/(x−2) + 24/(x+2) = 5 → 24(x+2)+24(x−2) = 5(x−2)(x+2) → 48x = 5x²−20
+                            </div>
+
+                            <p>
+                                5x² − 48x − 20 = 0 → (5x+2)(x−10) = 0
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 10 (rejecting negative root) → Boat's speed in still water = 10 km/h.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.3</div>
+
+            <h3>Car Speed</h3>
+
+            <p>
+                A car covers a distance of 600 km. Had the speed been 10 km/h less, it would have taken 2 hours more for the same journey. Find the original speed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let original speed = x km/h
+                            </h3>
+
+                            <p>
+                                600/(x−10) − 600/x = 2
+                            </p>
+
+                            <div class="highlight-box">
+                                600x − 600(x−10) = 2x(x−10) → 6000 = 2x²−20x → x²−10x−3000=0 → (x−60)(x+50)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 60 (rejecting negative root) → Original speed = 60 km/h.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.4</div>
+
+            <h3>Pipes Filling a Tank</h3>
+
+            <p>
+                Two pipes together can fill a tank in 6 hours. If used separately, one pipe takes 5 hours more than the other. Find the time each pipe takes separately.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let the faster pipe take x hours; the slower takes x+5 hours
+                            </h3>
+
+                            <p>
+                                1/x + 1/(x+5) = 1/6
+                            </p>
+
+                            <div class="highlight-box">
+                                6(x+5) + 6x = x(x+5) → 12x+30 = x²+5x → x²−7x−30=0 → (x−10)(x+3)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 10 (rejecting negative root) → Faster pipe: 10 hours, Slower pipe: 15 hours.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-type-8">
+
+    <h2>
+        Type 8 · Word Problems — Geometric / Area
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.1</div>
+
+            <h3>Rectangle</h3>
+
+            <p>
+                The length of a rectangular field is 3 m more than its breadth. If the area is 154 sq. m, find the breadth.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let breadth = x, length = x+3
+                            </h3>
+
+                            <p>
+                                x(x+3) = 154
+                            </p>
+
+                            <div class="highlight-box">
+                                x²+3x−154=0 → (x−11)(x+14)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 11 (rejecting negative root) → Breadth = 11 m, Length = 14 m.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.2</div>
+
+            <h3>Right Triangle</h3>
+
+            <p>
+                The hypotenuse of a right triangle is 13 cm. One leg is 7 cm more than the other. Find the length of the shorter leg.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let shorter leg = x, longer leg = x+7
+                            </h3>
+
+                            <p>
+                                x² + (x+7)² = 13² (Pythagoras)
+                            </p>
+
+                            <div class="highlight-box">
+                                2x²+14x+49=169 → 2x²+14x−120=0 → x²+7x−60=0 → (x−5)(x+12)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 5 (rejecting negative root) → Shorter leg = 5 cm, longer leg = 12 cm.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.3</div>
+
+            <h3>Garden Dimensions</h3>
+
+            <p>
+                A rectangular garden has a perimeter of 44 m and an area of 112 sq. m. Find its dimensions.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                From perimeter: length + breadth = 22
+                            </h3>
+
+                            <p>
+                                Let breadth = x, length = 22−x. Area: x(22−x) = 112
+                            </p>
+
+                            <div class="highlight-box">
+                                22x−x²=112 → x²−22x+112=0 → (x−8)(x−14)=0
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Breadth = 8 m, Length = 14 m (the two roots simply correspond to which side you call "breadth" vs "length").</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.4</div>
+
+            <h3>Two Squares</h3>
+
+            <p>
+                The sum of the perimeters of two squares is 64 cm, and the difference of their areas is 32 sq. cm. Find the side of the larger square.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                From perimeter: sides sum to 16
+                            </h3>
+
+                            <p>
+                                Let larger side = x, smaller side = 16−x. Difference of areas: x² − (16−x)² = 32
+                            </p>
+
+                            <div class="highlight-box">
+                                x²−(256−32x+x²)=32 → 32x−256=32 → 32x=288
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>x = 9 → Larger square's side = 9 cm, smaller square's side = 7 cm.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-quadratic-competency">
+
+    <h2>
+        Part B · Competency-Based Case Studies
+    </h2>
+
+    <p>
+        Each scenario below is a single real-world situation with three linked questions — exactly the format CBSE uses for competency-based, case-based questions. Work through all three sub-questions for a scenario before revealing any of the answers.
+    </p>
+
+
+    <div class="gdl-card">
+
+        <p style="margin:0 0 8px; font-size:13px; font-weight:700; color:#2a78d6;">
+            Case Study 1
+        </p>
+
+        <h3>
+            The Bookshop
+        </h3>
+
+        <p>
+            A shopkeeper buys a certain number of books for ₹80 in total. If he had bought 4 more books for the same ₹80, each book would have cost him ₹1 less than what he actually paid.
+        </p>
+
+
+        <div class="gdl-prep-flow">
+
+            <div class="gdl-prep-item">
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Sub-question (i)
+                    </h3>
+
+                    <p>
+                        Form the quadratic equation representing this situation, taking the original number of books as x.
+                    </p>
+
+                    <details>
+                        <summary>Reveal Answer</summary>
+
+                        <p>
+                            Cost per book originally = 80/x. Cost per book with 4 more books = 80/(x+4). The difference is ₹1: 80/x − 80/(x+4) = 1
+                        </p>
+
+                        <div class="highlight-box">
+                            ✓ <strong>Simplifying: x² + 4x − 320 = 0</strong>
+                        </div>
+
+                    </details>
+
+                </div>
+            </div>
+
+
+            <div class="gdl-prep-item">
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Sub-question (ii)
+                    </h3>
+
+                    <p>
+                        Solve the equation to find the original number of books.
+                    </p>
+
+                    <details>
+                        <summary>Reveal Answer</summary>
+
+                        <div class="highlight-box">
+                            x²+4x−320=0 → (x−16)(x+20)=0
+                        </div>
+
+                        <div class="highlight-box">
+                            ✓ <strong>x = 16 (rejecting the negative root) → 16 books originally.</strong>
+                        </div>
+
+                    </details>
+
+                </div>
+            </div>
+
+
+            <div class="gdl-prep-item">
+                <div class="gdl-prep-content">
+
+                    <h3>
+                        Sub-question (iii)
+                    </h3>
+
+                    <p>
+                        Find the original cost per book.
+                    </p>
+
+                    <details>
+                        <summary>Reveal Answer</summary>
+
+                        <div class="highlight-box">
+                            Cost per book = 80/16
+                        </div>
+
+                        <div class="highlight-box">
+                            ✓ <strong>₹5 per book (check: with 20 books, cost/book = 80/20 = ₹4, exactly ₹1 less ✓)</strong>
+                        </div>
+
+                    </details>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+<div class="gdl-card">
+
+    <p style="margin:0 0 8px; font-size:13px; font-weight:700; color:#2a78d6;">
+        Case Study 2
+    </p>
+
+    <h3>
+        The Bookshop
+    </h3>
+
+    <p>
+        A ball is thrown upward from ground level. Its height h (in metres) after t seconds is modelled by h(t) = −5t² + 30t.
+    </p>
+
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (i)
+                </h3>
+
+                <p>
+                    After how many seconds does the ball return to the ground?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <p>
+                        The ball is at ground level when h(t) = 0: −5t²+30t = 0 → −5t(t−6) = 0
+                    </p>
+
+                    <div class="highlight-box">
+                        ✓ <strong>t = 0 (the start) or t = 6. The ball returns to the ground at t = 6 seconds.</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (ii)
+                </h3>
+
+                <p>
+                    At what time(s) does the ball reach a height of 40 m?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        −5t²+30t = 40 → −5t²+30t−40=0 → t²−6t+8=0 → (t−2)(t−4)=0
+                    </div>
+
+                    <div class="highlight-box">
+                        ✓ <strong>t = 2 seconds AND t = 4 seconds — both are valid, since the ball passes 40 m once on the way up and again on the way down.</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (iii)
+                </h3>
+
+                <p>
+                    Why does this problem have two valid answers for part (ii), while most word problems reject one root as impossible?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        ✓ <strong>Because both moments are physically real — the ball genuinely passes through 40 m twice on its full path (once rising, once falling). This is different from problems like ages or lengths, where only one root fits reality; here, the situation itself has two real, meaningful events.</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<div class="gdl-card">
+
+    <p style="margin:0 0 8px; font-size:13px; font-weight:700; color:#2a78d6;">
+        Case Study 3
+    </p>
+
+    <h3>
+        The Bookshop
+    </h3>
+
+    <p>
+        A municipal committee is designing a rectangular park. The length is planned to be 3 m more than twice its breadth. The total area available is 65 sq. m. The committee also needs to fence the park at a cost of ₹50 per metre.
+    </p>
+
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (i)
+                </h3>
+
+                <p>
+                    Form the quadratic equation for the breadth, b.
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <p>
+                        Length = 2b+3. Area = b(2b+3) = 65
+                    </p>
+
+                    <div class="highlight-box">
+                        ✓ <strong>2b² + 3b − 65 = 0</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (ii)
+                </h3>
+
+                <p>
+                    Find the breadth and length of the park.
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        2b²+3b−65=0 → (2b+13)(b−5)=0
+                    </div>
+
+                    <div class="highlight-box">
+                        ✓ <strong>b = 5 (rejecting the negative root) → Breadth = 5 m, Length = 2(5)+3 = 13 m.</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (iii)
+                </h3>
+
+                <p>
+                    Calculate the total fencing cost for the park.
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <p>
+                        Perimeter = 2(length+breadth) = 2(13+5) = 36 m
+                    </p>
+
+                    <div class="highlight-box">
+                        Cost = 36 × ₹50
+                    </div>
+
+                    <div class="highlight-box">
+                        ✓ <strong>Total fencing cost = ₹1,800</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<div class="gdl-card">
+
+    <p style="margin:0 0 8px; font-size:13px; font-weight:700; color:#2a78d6;">
+        Case Study 4
+    </p>
+
+    <h3>
+        The Bookshop
+    </h3>
+
+    <p>
+        A rectangular photograph measuring 16 cm by 8 cm is mounted on a rectangular cardboard sheet, leaving a uniform border of width x cm on all four sides. The total area of the cardboard sheet (photo plus border) is 240 sq. cm.
+    </p>
+
+
+    <div class="gdl-prep-flow">
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (i)
+                </h3>
+
+                <p>
+                    Form the quadratic equation for the border width, x.
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <p>
+                        With the border, the total dimensions become (16+2x) by (8+2x), since the border adds x on both sides of each dimension.
+                    </p>
+
+                    <div class="highlight-box">
+                        ✓ <strong>(16+2x)(8+2x) = 240</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (ii)
+                </h3>
+
+                <p>
+                    Solve for the border width.
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        128+32x+16x+4x²=240 → 4x²+48x−112=0 → x²+12x−28=0 → (x−2)(x+14)=0
+                    </div>
+
+                    <div class="highlight-box">
+                        ✓ <strong>x = 2 (rejecting the negative root) → Border width = 2 cm.</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+
+        <div class="gdl-prep-item">
+            <div class="gdl-prep-content">
+
+                <h3>
+                    Sub-question (iii)
+                </h3>
+
+                <p>
+                    What are the outer dimensions of the cardboard sheet?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        Outer length = 16+2(2) = 20 cm. Outer breadth = 8+2(2) = 12 cm.
+                    </div>
+
+                    <div class="highlight-box">
+                        ✓ <strong>20 cm × 12 cm (check: 20×12 = 240 sq. cm ✓)</strong>
+                    </div>
+
+                </details>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+</section>
+
+<section id="class10-quadratic-genelis">
+
+    <h2>
+        The Skill Isn't Just Solving — It's Modelling and Interpreting Too
+    </h2>
+
+    <p>
+        A student who can solve x²+4x−320=0 correctly might still struggle to set up that exact equation from the Bookshop scenario, or fail to reject the impossible root in an ages problem. These are three separate skills — modelling, solving, and interpreting — and a single overall score doesn't tell you which one is actually weak.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h3>
+            What a Genelis weak area map looks like after working through Quadratic Equations practice
+        </h3>
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Factorization & quadratic formula
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div class="gdl-accuracy-fill gdl-accuracy-fill--strong" style="width:85%;"></div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                85%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Word problems — solving once modelled
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div class="gdl-accuracy-fill gdl-accuracy-fill--good" style="width:68%;"></div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                68%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Rejecting inadmissible roots
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div class="gdl-accuracy-fill gdl-accuracy-fill--average" style="width:47%;"></div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                47%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Competency case studies — modelling from scratch
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div class="gdl-accuracy-fill gdl-accuracy-fill--weak" style="width:29%;"></div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                29%
+            </div>
+
+        </div>
+
+        <p>
+            Next session: competency case-study modelling (29%) — the exact skill a strong "solving" score can hide entirely. Genelis tracks these as separate skills, not one combined topic score.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh problems across both traditional question types and competency case studies, tracking modelling, solving, and interpretation as distinct skills. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Step 1</div>
+            <p>Attempt fresh problems</p>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Step 2</div>
+            <p>Skill-level gap detected</p>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Step 3</div>
+            <p>AI notes for weak pattern</p>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Step 4</div>
+            <p>Wrong Qs auto-logged</p>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Step 5</div>
+            <p>Reattempt that skill</p>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <div class="gdl-loop-number">Result</div>
+            <p>Gap closed. Map updates. ✓</p>
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-quadratic&utm_content=cta-inline">
+        Practise unlimited fresh Quadratic Equations problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For chapter strategy and the complete competency-question format used across CBSE, see our <a href="/blog/cbse-class-10-competency-based-questions-2027-preparation">Class 10 Competency-Based Questions guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What question types appear in CBSE Class 10 "
+                "Quadratic Equations?"
+            ),
+            "answer": (
+                "Eight traditional types recur most often: determining the "
+                "nature of roots using the discriminant, solving by factorization, "
+                "solving using the quadratic formula, finding an unknown constant "
+                "from a condition on the roots, and four categories of word "
+                "problems — numbers, ages, speed-distance-time, and geometric or "
+                "area-based problems. Beyond these, CBSE also tests competency-based "
+                "case study questions, which present a real-world scenario and ask "
+                "you to first model it as a quadratic equation before solving it."
+            )
+        },
+        {
+            "question": (
+                "What is a competency-based question in Quadratic Equations, "
+                "and how is it different from a word problem?"
+            ),
+            "answer": (
+                "A competency-based question presents a single real-world scenario "
+                "followed by two or three linked sub-questions, testing not just "
+                "your ability to solve a quadratic equation but your ability to "
+                "model a situation into one, interpret the result in context, and "
+                "sometimes extend the answer to a further calculation. A traditional "
+                "word problem usually asks for one final answer; a competency case "
+                "study typically asks you to form the equation, solve it, and then "
+                "apply the result — for example, using a park's dimensions to "
+                "calculate a fencing cost."
+            )
+        },
+        {
+            "question": (
+                "Why do some quadratic word problems have two mathematical "
+                "solutions but only one correct answer?"
+            ),
+            "answer": (
+                "A quadratic equation always has two roots (or one repeated root), "
+                "but not every root makes sense within the real-world context the "
+                "problem describes. For example, an age, a length, or a positive "
+                "quantity in the past cannot be negative — if one root produces a "
+                "negative age or a negative length, it must be rejected as "
+                "inadmissible, even though it is mathematically correct as a "
+                "solution to the equation itself. Checking both roots against the "
+                "real-world context is a required, frequently-tested step, not an "
+                "optional one."
+            )
+        },
+        {
+            "question": (
+                "How do I know whether to use factorization or the quadratic "
+                "formula to solve an equation?"
+            ),
+            "answer": (
+                "Try factorization first by looking for two numbers that multiply "
+                "to give a×c and add to give b — if these numbers are easy to spot, "
+                "factorization is faster. If the equation does not factor neatly "
+                "with integer or simple fractional numbers, or if you cannot quickly "
+                "identify the factor pair, switch to the quadratic formula, which "
+                "works for every quadratic equation regardless of whether it "
+                "factors nicely."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-trigonometry-40-important-questions",
+        "cbse-class-10-competency-based-questions-2027-preparation"
+    ]
+},
+{
+    "slug": "class-10-trigonometry-40-important-questions",
+
+    "title": (
+        "Class 10 Maths Trigonometry: 40 Important Questions "
+        "with Step-by-Step Solutions"
+    ),
+
+    "meta_title": (
+        "Class 10 Maths Trigonometry: 40 Important Questions "
+        "with Step-by-Step Solutions | Genelis"
+    ),
+
+    "meta_description": (
+        "40 original Trigonometry problems covering every question type CBSE "
+        "Class 10 tests — trig ratios, standard angle values, complementary "
+        "angles, identity proofs, and heights & distances (single angle, two "
+        "angles, and angle of depression) — each with a complete, independently "
+        "verified step-by-step solution."
+    ),
+
+    "excerpt": (
+        "40 original problems, every question type covered, every answer "
+        "independently verified. Attempt each one before revealing the solution."
+    ),
+
+    "class": "10",
+
+    "subject": "Mathematics",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-25T09:00:00+05:30",
+
+    "updated_date": "2026-08-25T09:00:00+05:30",
+
+    "reading_time": "20 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Maths Trigonometry 40 important questions "
+        "with step-by-step solutions"
+    ),
+
+    "keywords": [
+        "class 10 trigonometry important questions",
+        "trigonometry heights and distances problems",
+        "class 10 trigonometry identities",
+        "trigonometry solved questions CBSE",
+        "class 10 maths trigonometry practice set"
+    ],
+
+    "content": """
+    <section id="class10-trigonometry-introduction">
+
+    <p>
+        Trigonometry in Class 10 clusters into a small number of recurring question types — once you've seen all of them mapped out, "important questions" stops feeling like a vague label and starts looking like a checklist. This is 40 original problems, 5 for every distinct type, each with a complete solution you can follow line by line.
+    </p>
+
+    <div class="highlight-box">
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> Read each problem, attempt it fully on paper first, then tap "Reveal Solution" to check your working — not just your final answer. Every single calculation on this page was computed and independently verified before publishing.
+        </p>
+    </div>
+
+</section>
+<section id="class10-trigonometry-question-types">
+
+    <h2>
+        Every Question Type Covered
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">1</div>
+            <p>Finding all trig ratios from one given ratio</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">2</div>
+            <p>Evaluating expressions using standard angle values</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">3</div>
+            <p>Using complementary angle relationships</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">4</div>
+            <p>Proving trigonometric identities</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">5</div>
+            <p>Simplifying trigonometric expressions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">6</div>
+            <p>Heights & Distances — single angle of elevation</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">7</div>
+            <p>Heights & Distances — two angles or two positions</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">8</div>
+            <p>Heights & Distances — angle of depression</p>
+        </div>
+
+    </div>
+
+    <p>
+    <strong>Quick reference — standard angle values used throughout:</strong>
+</p>
+
+<div class="gdl-card">
+
+    <div class="table-wrap">
+
+        <table
+            class="checklist-table"
+            style="width:100%; table-layout:fixed; text-align:center;"
+        >
+
+            <thead>
+                <tr>
+                    <th style="width:16%;">Angle</th>
+                    <th>0°</th>
+                    <th>30°</th>
+                    <th>45°</th>
+                    <th>60°</th>
+                    <th>90°</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+                    <td><strong>sin</strong></td>
+                    <td>0</td>
+                    <td>1/2</td>
+                    <td>1/√2</td>
+                    <td>√3/2</td>
+                    <td>1</td>
+                </tr>
+
+                <tr>
+                    <td><strong>cos</strong></td>
+                    <td>1</td>
+                    <td>√3/2</td>
+                    <td>1/√2</td>
+                    <td>1/2</td>
+                    <td>0</td>
+                </tr>
+
+                <tr>
+                    <td><strong>tan</strong></td>
+                    <td>0</td>
+                    <td>1/√3</td>
+                    <td>1</td>
+                    <td>√3</td>
+                    <td>undefined</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+</section>
+<section id="class10-trigonometry-type-1">
+
+    <h2>
+        Type 1 · Finding Trig Ratios
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.1</div>
+
+            <h3>
+                Given sinA
+            </h3>
+
+            <p>
+                If sinA = 3/5, find cosA and tanA.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up the triangle
+                            </h3>
+
+                            <p>
+                                sinA = opposite/hypotenuse = 3/5. Let opposite = 3, hypotenuse = 5.
+                            </p>
+
+                            <div class="highlight-box">
+                                adjacent² = hyp² − opp² = 5² − 3² = 16 → adjacent = 4
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>cosA = 4/5, tanA = 3/4</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.2</div>
+
+            <h3>
+                Given cosA
+            </h3>
+
+            <p>
+                If cosA = 12/13, find sinA and tanA.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up the triangle
+                            </h3>
+
+                            <p>
+                                cosA = adjacent/hypotenuse = 12/13.
+                            </p>
+
+                            <div class="highlight-box">
+                                opposite² = 13² − 12² = 25 → opposite = 5
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>sinA = 5/13, tanA = 5/12</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.3</div>
+
+            <h3>
+                Given tanA
+            </h3>
+
+            <p>
+                If tanA = 4/3, find sinA and cosA.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up the triangle
+                            </h3>
+
+                            <p>
+                                tanA = opposite/adjacent = 4/3.
+                            </p>
+
+                            <div class="highlight-box">
+                                hypotenuse² = 4² + 3² = 25 → hypotenuse = 5
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>sinA = 4/5, cosA = 3/5</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: confusing tanA's numerator/denominator with sinA's — tan uses opposite/adjacent, not opposite/hypotenuse.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.4</div>
+
+            <h3>
+                Given cotA
+            </h3>
+
+            <p>
+                If cotA = 15/8, find sinA and cosA.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up the triangle
+                            </h3>
+
+                            <p>
+                                cotA = adjacent/opposite = 15/8, so adjacent = 15, opposite = 8.
+                            </p>
+
+                            <div class="highlight-box">
+                                hypotenuse² = 15² + 8² = 289 → hypotenuse = 17
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>sinA = 8/17, cosA = 15/17</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.5</div>
+
+            <h3>
+                Given secA
+            </h3>
+
+            <p>
+                If secA = 25/24, find sinA and tanA.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up the triangle
+                            </h3>
+
+                            <p>
+                                secA = hypotenuse/adjacent = 25/24, so hypotenuse = 25, adjacent = 24.
+                            </p>
+
+                            <div class="highlight-box">
+                                opposite² = 25² − 24² = 49 → opposite = 7
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>sinA = 7/25, tanA = 7/24</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-2">
+
+    <h2>
+        Type 2 · Standard Angle Expressions
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.1</div>
+
+            <h3>
+                Evaluate
+            </h3>
+
+            <p>
+                Evaluate: sin30°cos60° + cos30°sin60°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    (1/2)(1/2) + (√3/2)(√3/2) = 1/4 + 3/4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.2</div>
+
+            <h3>
+                Evaluate
+            </h3>
+
+            <p>
+                Evaluate: 2cos²45° − 1
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    2 × (1/√2)² − 1 = 2 × (1/2) − 1 = 1 − 1
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 0</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.3</div>
+
+            <h3>
+                Evaluate
+            </h3>
+
+            <p>
+                Evaluate: sin²30° + cos²30°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    (1/2)² + (√3/2)² = 1/4 + 3/4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1 (confirms the Pythagorean identity at this specific angle)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.4</div>
+
+            <h3>
+                Evaluate
+            </h3>
+
+            <p>
+                Evaluate: tan60°/tan30°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    √3 ÷ (1/√3) = √3 × √3
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 3</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.5</div>
+
+            <h3>
+                Evaluate
+            </h3>
+
+            <p>
+                Evaluate: cos60°cos30° − sin60°sin30°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    (1/2)(√3/2) − (√3/2)(1/2) = √3/4 − √3/4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 0</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-3">
+
+    <h2>
+        Type 3 · Complementary Angles
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.1</div>
+
+            <h3>
+                Complementary Ratio
+            </h3>
+
+            <p>
+                Evaluate: sin65° / cos25°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Key relation
+                            </h3>
+
+                            <p>
+                                Since 25° = 90° − 65°, cos25° = cos(90°−65°) = sin65°.
+                            </p>
+
+                            <div class="highlight-box">
+                                sin65° / sin65° = 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.2</div>
+
+            <h3>
+                Complementary Ratio
+            </h3>
+
+            <p>
+                Evaluate: tan48° × tan42°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Key relation
+                            </h3>
+
+                            <p>
+                                42° = 90° − 48°, so tan42° = cot48°.
+                            </p>
+
+                            <div class="highlight-box">
+                                tan48° × cot48° = 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.3</div>
+
+            <h3>
+                Complementary Ratio
+            </h3>
+
+            <p>
+                Evaluate: cosec31° / sec59°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Key relation
+                            </h3>
+
+                            <p>
+                                59° = 90° − 31°, so sec59° = cosec31°.
+                            </p>
+
+                            <div class="highlight-box">
+                                cosec31° / cosec31° = 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.4</div>
+
+            <h3>
+                Complementary Ratio
+            </h3>
+
+            <p>
+                Evaluate: tan15° × tan75°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Key relation
+                            </h3>
+
+                            <p>
+                                75° = 90° − 15°, so tan75° = cot15°.
+                            </p>
+
+                            <div class="highlight-box">
+                                tan15° × cot15° = 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: trying to evaluate tan15° and tan75° individually using half-angle formulas — spotting the complementary pair first avoids that entirely.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.5</div>
+
+            <h3>
+                Complementary Ratio
+            </h3>
+
+            <p>
+                Evaluate: sin²35° + sin²55°
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Key relation
+                            </h3>
+
+                            <p>
+                                55° = 90° − 35°, so sin55° = cos35°.
+                            </p>
+
+                            <div class="highlight-box">
+                                sin²35° + cos²35° = 1 (Pythagorean identity)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-4">
+
+    <h2>
+        Type 4 · Proving Identities
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.1</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: (secθ − tanθ)(secθ + tanθ) = 1
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Expand as a difference of squares
+                            </h3>
+
+                            <p>
+                                LHS = sec²θ − tan²θ
+                            </p>
+
+                            <div class="highlight-box">
+                                Using the identity 1 + tan²θ = sec²θ, we get sec²θ − tan²θ = 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = 1 = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.2</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: sinθ/(1+cosθ) + (1+cosθ)/sinθ = 2cosecθ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Combine over a common denominator
+                            </h3>
+
+                            <p>
+                                LHS = [sin²θ + (1+cosθ)²] / [sinθ(1+cosθ)]
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Expand the numerator
+                            </h3>
+
+                            <p>
+                                sin²θ + 1 + 2cosθ + cos²θ = (sin²θ+cos²θ) + 1 + 2cosθ = 1 + 1 + 2cosθ = 2 + 2cosθ = 2(1+cosθ)
+                            </p>
+
+                            <div class="highlight-box">
+                                LHS = 2(1+cosθ) / [sinθ(1+cosθ)] = 2/sinθ = 2cosecθ
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = 2cosecθ = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.3</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: (1+tan²θ)/(1+cot²θ) = tan²θ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Use both Pythagorean identities
+                            </h3>
+
+                            <p>
+                                1+tan²θ = sec²θ, and 1+cot²θ = cosec²θ
+                            </p>
+
+                            <div class="highlight-box">
+                                LHS = sec²θ/cosec²θ = (1/cos²θ)/(1/sin²θ) = sin²θ/cos²θ = tan²θ
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = tan²θ = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.4</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: cosθ/(1−tanθ) + sinθ/(1−cotθ) = sinθ + cosθ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Rewrite tanθ and cotθ in terms of sin and cos
+                            </h3>
+
+                            <p>
+                                First term: cosθ/(1−sinθ/cosθ) = cos²θ/(cosθ−sinθ)
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Second term
+                            </h3>
+
+                            <p>
+                                sinθ/(1−cosθ/sinθ) = sin²θ/(sinθ−cosθ) = −sin²θ/(cosθ−sinθ)
+                            </p>
+
+                            <div class="highlight-box">
+                                LHS = [cos²θ − sin²θ]/(cosθ−sinθ) = (cosθ−sinθ)(cosθ+sinθ)/(cosθ−sinθ) = cosθ+sinθ
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = sinθ+cosθ = RHS. Proved.</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: sign errors when combining the two fractions — carefully track that the second term's denominator becomes negative of the first's.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.5</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: (cosecθ − sinθ)(secθ − cosθ)(tanθ + cotθ) = 1
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Simplify each bracket separately
+                            </h3>
+
+                            <p>
+                                cosecθ−sinθ = 1/sinθ − sinθ = (1−sin²θ)/sinθ = cos²θ/sinθ
+                            </p>
+
+                            <p>
+                                secθ−cosθ = 1/cosθ − cosθ = (1−cos²θ)/cosθ = sin²θ/cosθ
+                            </p>
+
+                            <p>
+                                tanθ+cotθ = sinθ/cosθ + cosθ/sinθ = (sin²θ+cos²θ)/(sinθcosθ) = 1/(sinθcosθ)
+                            </p>
+
+                            <div class="highlight-box">
+                                LHS = (cos²θ/sinθ) × (sin²θ/cosθ) × 1/(sinθcosθ) = (cos²θ·sin²θ)/(sinθ·cosθ·sinθ·cosθ)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1 = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-5">
+
+    <h2>
+        Type 5 · Simplifying Expressions
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.1</div>
+
+            <h3>Simplify</h3>
+
+            <p>
+                Simplify: sin⁴θ − cos⁴θ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Factor as a difference of squares
+                            </h3>
+
+                            <p>
+                                sin⁴θ−cos⁴θ = (sin²θ−cos²θ)(sin²θ+cos²θ)
+                            </p>
+
+                            <div class="highlight-box">
+                                Since sin²θ+cos²θ = 1, this reduces directly
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= sin²θ − cos²θ</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.2</div>
+
+            <h3>Simplify</h3>
+
+            <p>
+                Simplify: (1 − cos²θ) × cosec²θ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Use the Pythagorean identity
+                            </h3>
+
+                            <p>
+                                1−cos²θ = sin²θ
+                            </p>
+
+                            <div class="highlight-box">
+                                sin²θ × cosec²θ = sin²θ × (1/sin²θ)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= 1</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.3</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: tanθ + cotθ = secθ × cosecθ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Write in terms of sin and cos
+                            </h3>
+
+                            <p>
+                                LHS = sinθ/cosθ + cosθ/sinθ = (sin²θ+cos²θ)/(sinθcosθ) = 1/(sinθcosθ)
+                            </p>
+
+                            <div class="highlight-box">
+                                RHS = secθ×cosecθ = (1/cosθ)×(1/sinθ) = 1/(sinθcosθ)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.4</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: (sinθ + cosecθ)² + (cosθ + secθ)² = 7 + tan²θ + cot²θ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Expand both squares
+                            </h3>
+
+                            <p>
+                                = sin²θ + 2 + cosec²θ + cos²θ + 2 + sec²θ
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Group terms
+                            </h3>
+
+                            <p>
+                                = (sin²θ+cos²θ) + 4 + cosec²θ + sec²θ = 1 + 4 + (1+cot²θ) + (1+tan²θ)
+                            </p>
+
+                            <div class="highlight-box">
+                                = 5 + 1 + cot²θ + 1 + tan²θ = 7 + tan²θ + cot²θ
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>LHS = RHS. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.5</div>
+
+            <h3>Prove</h3>
+
+            <p>
+                Prove that: √[(1+sinθ)/(1−sinθ)] = secθ + tanθ
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Multiply inside the root by (1+sinθ)/(1+sinθ)
+                            </h3>
+
+                            <p>
+                                = √[(1+sinθ)²/((1−sinθ)(1+sinθ))] = √[(1+sinθ)²/(1−sin²θ)]
+                            </p>
+
+                            <div class="highlight-box">
+                                = √[(1+sinθ)²/cos²θ] = (1+sinθ)/cosθ = 1/cosθ + sinθ/cosθ
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>= secθ + tanθ. Proved.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-6">
+
+    <h2>
+        Type 6 · Heights & Distances — Single Angle
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.1</div>
+
+            <h3>Elevation</h3>
+
+            <p>
+                The distance from the foot of a tower to a point on the ground is 20√3 m. If the angle of elevation of the top of the tower from this point is 30°, find the height of the tower.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    tan30° = height/base → height = 20√3 × tan30° = 20√3 × (1/√3)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height = 20 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.2</div>
+
+            <h3>Elevation</h3>
+
+            <p>
+                A point is 15√3 m from the base of a tower. The angle of elevation to the top of the tower is 60°. Find the tower's height.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    height = 15√3 × tan60° = 15√3 × √3
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height = 45 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.3</div>
+
+            <h3>Elevation → Shadow</h3>
+
+            <p>
+                A pole is 10 m tall. When the sun's angle of elevation is 45°, find the length of the pole's shadow.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    tan45° = height/shadow → shadow = height/tan45° = 10/1
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Shadow length = 10 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.4</div>
+
+            <h3>Elevation</h3>
+
+            <p>
+                The foot of a ladder leaning against a wall is 8√3 m from the wall, making a 30° angle of elevation with the ground. Find how high up the wall the ladder reaches.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    height = 8√3 × tan30° = 8√3 × (1/√3)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height on wall = 8 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.5</div>
+
+            <h3>Elevation → Distance</h3>
+
+            <p>
+                A tower is 30 m tall. Find the distance of a point on the ground from the base of the tower, if the angle of elevation of the top from that point is 60°.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    distance = height/tan60° = 30/√3 = 30/√3 × (√3/√3)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Distance = 10√3 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-7">
+
+    <h2>
+        Type 7 · Heights & Distances — Two Angles
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.1</div>
+
+            <h3>Two Positions</h3>
+
+            <p>
+                From a point on the ground, the angle of elevation to the top of a tower is 30°. Moving 20 m closer, the angle becomes 60°. Find the height of the tower.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Let height = h, near distance = d</h3>
+
+                            <p>
+                                From the near point: tan60° = h/d → d = h/√3
+                            </p>
+
+                            <p>
+                                From the far point: tan30° = h/(d+20) → d+20 = h√3
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting: h√3 − h/√3 = 20 → h(3−1)/√3 = 20 → h = 10√3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of tower = 10√3 m ≈ 17.32 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.2</div>
+
+            <h3>Two Positions</h3>
+
+            <p>
+                From a point, the angle of elevation to a tower's top is 30°. From a point 10(√3−1) m closer, it's 45°. Find the tower's height.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Set up both equations</h3>
+
+                            <p>
+                                Near: tan45° = h/d → d = h. Far: tan30° = h/(d+10(√3−1)) → d+10(√3−1) = h√3
+                            </p>
+
+                            <div class="highlight-box">
+                                Substituting d=h: h + 10(√3−1) = h√3 → 10(√3−1) = h(√3−1)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of tower = 10 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.3</div>
+
+            <h3>Two Positions</h3>
+
+            <p>
+                The angle of elevation to a tower's top is 45° from one point and 60° from a point 20 m closer. Find the tower's height.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Set up both equations</h3>
+
+                            <p>
+                                Near: tan60° = h/d → d = h/√3. Far: tan45° = h/(d+20) → d+20 = h
+                            </p>
+
+                            <div class="highlight-box">
+                                Substituting: h/√3 + 20 = h → 20 = h(1−1/√3) = h(√3−1)/√3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of tower = 10√3 + 30 m ≈ 47.32 m</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ This one doesn't simplify to as clean a number as the others — that's realistic. Not every heights-and-distances answer is a whole number; rationalising the denominator carefully still matters even when the final form has a surd in it.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.4</div>
+
+            <h3>Building & Tower</h3>
+
+            <p>
+                From the top of a 20 m building, the angle of elevation to the top of a nearby tower is 60°, and the angle of depression to its base is 45°. Find the height of the tower and the distance between the building and tower.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find the horizontal distance first, using the depression angle
+                            </h3>
+
+                            <p>
+                                tan45° = 20/d → d = 20 m
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find the extra height above the building, using the elevation angle
+                            </h3>
+
+                            <p>
+                                tan60° = extra/d → extra = 20 × √3 = 20√3 m
+                            </p>
+
+                            <div class="highlight-box">
+                                Total tower height = building height + extra = 20 + 20√3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Tower height = 20 + 20√3 m ≈ 54.64 m; distance between them = 20 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.5</div>
+
+            <h3>Two Towers</h3>
+
+            <p>
+                Two towers stand on either side of a 30 m wide road. From the base of one tower, the angle of elevation to the top of the other is 60°, and from the base of the second, the angle of elevation to the top of the first is 30°. Find both heights.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Each tower forms its own right triangle with the full road width as base
+                            </h3>
+
+                            <p>
+                                Tower A: tan30° = height_A/30 → height_A = 30 × (1/√3)
+                            </p>
+
+                            <p>
+                                Tower B: tan60° = height_B/30 → height_B = 30 × √3
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of Tower A = 10√3 m ≈ 17.32 m; Height of Tower B = 30√3 m ≈ 51.96 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-type-8">
+
+    <h2>
+        Type 8 · Heights & Distances — Angle of Depression
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.1</div>
+
+            <h3>Depression</h3>
+
+            <p>
+                From the top of a 60 m cliff, the angle of depression to a boat is 30°. Find the boat's distance from the base of the cliff.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                The angle of depression equals the angle of elevation from the boat (alternate angles)
+                            </h3>
+
+                            <p>
+                                tan30° = 60/distance
+                            </p>
+
+                            <div class="highlight-box">
+                                distance = 60/tan30° = 60 × √3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Distance = 60√3 m ≈ 103.92 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.2</div>
+
+            <h3>Depression</h3>
+
+            <p>
+                From the top of a 75√3 m lighthouse, the angle of depression to a ship is 45°. Find the ship's distance from the lighthouse.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    distance = 75√3/tan45° = 75√3/1
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Distance = 75√3 m ≈ 129.9 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.3</div>
+
+            <h3>Depression — Two Boats</h3>
+
+            <p>
+                From the top of a 100 m lighthouse, the angles of depression to two boats in line with its base are 30° and 45°. Find the distance between the two boats.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find each boat's distance separately
+                            </h3>
+
+                            <p>
+                                Far boat (30°): distance = 100/tan30° = 100√3. Near boat (45°): distance = 100/tan45° = 100
+                            </p>
+
+                            <div class="highlight-box">
+                                Distance between boats = 100√3 − 100
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Distance between boats = 100(√3−1) m ≈ 73.21 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.4</div>
+
+            <h3>Depression — Pole & Tower</h3>
+
+            <p>
+                From the top of a tower, the angle of depression to the foot of a 10 m pole standing at some distance is 60°, and to the top of the same pole is 30°. Find the height of the tower.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Let tower height = H, horizontal distance = d
+                            </h3>
+
+                            <p>
+                                To pole foot: tan60° = H/d. To pole top: tan30° = (H−10)/d
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Divide the two heights by d and subtract
+                            </h3>
+
+                            <p>
+                                H − (H−10) = d(tan60° − tan30°) → 10 = d(√3 − 1/√3) = d(2/√3)
+                            </p>
+
+                            <div class="highlight-box">
+                                d = 5√3, then H = d × tan60° = 5√3 × √3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of tower = 15 m</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: using the same angle for both the pole's foot and top — they're genuinely different lines of sight from the same tower-top point, giving two different angles.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.5</div>
+
+            <h3>Depression + Elevation</h3>
+
+            <p>
+                From a window 15 m above the ground, the angle of elevation to the top of a building across the road is 30°, and the angle of depression to its base is 45°. Find the height of the building.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find the horizontal distance using the depression angle
+                            </h3>
+
+                            <p>
+                                tan45° = 15/d → d = 15 m
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Find the extra height above the window using the elevation angle
+                            </h3>
+
+                            <p>
+                                tan30° = extra/d → extra = 15 × (1/√3) = 5√3
+                            </p>
+
+                            <div class="highlight-box">
+                                Total building height = window height + extra = 15 + 5√3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Height of building = 15 + 5√3 m ≈ 23.66 m</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-trigonometry-genelis">
+
+    <h2>
+        Which of These 8 Types Would You Actually Recognise Without the Label?
+    </h2>
+
+    <p>
+        Reading 40 solved problems and being able to solve fresh ones without the type named for you are different skills. The real exam test is spotting which of these 8 patterns a new question belongs to on sight.
+    </p>
+
+    <div class="gdl-analysis-section">
+
+        <div class="gdl-accuracy-panel">
+
+            <h4>
+                What a Genelis weak area map looks like after working through Trigonometry practice sets
+            </h4>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Finding ratios & standard angles
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                        style="width:84%;"
+                    ></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    84%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Identity proofs & simplification
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                        style="width:66%;"
+                    ></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    66%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Heights & distances — single angle
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                        style="width:53%;"
+                    ></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    53%
+                </div>
+
+            </div>
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Heights & distances — two angles
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                        style="width:31%;"
+                    ></div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    31%
+                </div>
+
+            </div>
+
+            <p>
+                Next session: two-angle heights & distances (31%) — not more standard-angle drilling. Genelis tracks accuracy by type, not just by topic, so it knows exactly which of these 8 patterns needs more reps.
+            </p>
+
+        </div>
+
+    </div>
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled Trigonometry problems across all 8 types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Type-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that type
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-trigonometry&utm_content=cta-inline"
+    >
+        Practise unlimited fresh Trigonometry problems on Genelis — free →
+    </a>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What question types appear in CBSE Class 10 Trigonometry?"
+            ),
+            "answer": (
+                "Eight distinct types recur across CBSE Class 10 Trigonometry: "
+                "finding all trigonometric ratios when one is given, evaluating "
+                "expressions using standard angle values (0°, 30°, 45°, 60°, 90°), "
+                "using complementary angle relationships, proving trigonometric "
+                "identities, simplifying trigonometric expressions, and three "
+                "variations of Heights and Distances — a single angle of elevation, "
+                "two angles from two positions, and angle of depression problems."
+            )
+        },
+        {
+            "question": (
+                "What is the fastest way to find all trigonometric ratios "
+                "when only one is given?"
+            ),
+            "answer": (
+                "Draw a right triangle and label the given ratio's numerator and "
+                "denominator as two of the three sides (for example, if sinA = 3/5, "
+                "label the opposite side 3 and the hypotenuse 5). Use the "
+                "Pythagorean theorem to find the third side, then read off every "
+                "other ratio directly from the triangle. This is faster and less "
+                "error-prone than manipulating identities algebraically for this "
+                "specific question type."
+            )
+        },
+        {
+            "question": (
+                "What is the difference between angle of elevation and "
+                "angle of depression?"
+            ),
+            "answer": (
+                "Angle of elevation is measured upward from the horizontal, from "
+                "an observer looking up at an object above them. Angle of depression "
+                "is measured downward from the horizontal, from an observer looking "
+                "down at an object below them. Both angles are measured from a "
+                "horizontal line, not from the ground or from vertical — a common "
+                "source of error is measuring from the wrong reference line entirely."
+            )
+        },
+        {
+            "question": (
+                "How do I solve a heights and distances problem involving "
+                "two different angles from two points?"
+            ),
+            "answer": (
+                "Set up two separate right-triangle equations using tan(angle) = "
+                "height/distance for each of the two points, then solve them as "
+                "simultaneous equations. Since the height is the same in both "
+                "equations, express both distances in terms of height using "
+                "cotangent, and use the known difference between the two distances "
+                "to solve for height directly, typically using the relation "
+                "height = (distance between the two points) / "
+                "(cot of the smaller angle − cot of the larger angle)."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-electrochemistry-numericals-practice-set",
+        "class-12-physics-electrostatics-current-electricity-practice-set"
+    ]
+},
     {
     "slug": "class-12-business-studies-case-studies-answer-writing-cbse",
 
