@@ -18185,6 +18185,6724 @@ student = {<span class="str">"name"</span>: <span class="str">"Rahul"</span>, <s
     ]
 },
 {
+    "slug": "class-10-arithmetic-progressions-35-important-questions",
+
+    "title": (
+        "Class 10 Maths Arithmetic Progressions: "
+        "35 Important Questions by Question Type"
+    ),
+
+    "meta_title": (
+        "Class 10 Maths Arithmetic Progressions: "
+        "35 Important Questions by Question Type | Genelis"
+    ),
+
+    "meta_description": (
+        "35 original Arithmetic Progressions problems covering every question "
+        "type CBSE Class 10 tests — nth term, number of terms, sum of n terms, "
+        "finding an AP from two conditions, terms from the end, verifying an AP, "
+        "and word problems — each with a complete, independently verified "
+        "step-by-step solution."
+    ),
+
+    "excerpt": (
+        "35 original problems, every question type covered, every answer "
+        "independently verified. Attempt each one before revealing the solution."
+    ),
+
+    "class": "10",
+    "subject": "Mathematics",
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-27T09:00:00+05:30",
+    "updated_date": "2026-08-27T09:00:00+05:30",
+
+    "reading_time": "19 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Maths Arithmetic Progressions 35 important questions "
+        "with step-by-step solutions"
+    ),
+
+    "keywords": [
+        "class 10 arithmetic progressions important questions",
+        "AP nth term problems",
+        "AP sum of n terms",
+        "arithmetic progression word problems CBSE",
+        "class 10 maths AP solved questions"
+    ],
+
+    "content": """
+    <section id="class10-ap-introduction">
+
+    <p>
+        Arithmetic Progressions questions repeat across a small, identifiable set of patterns once you've seen the full landscape mapped out. This is 35 original problems, 5 for every distinct type, each with a complete solution you can follow line by line.
+    </p>
+
+    <div class="highlight-box">
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> Attempt each problem fully on paper before tapping "Reveal Solution" — check your working, not just your final number. Every calculation on this page was computed and independently verified before publishing.
+        </p>
+    </div>
+
+
+    <p>
+        <strong>Quick formula reference used throughout:</strong>
+    </p>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table class="checklist-table" style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th style="width:38%;">What it finds</th>
+                        <th>Formula</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>nth term</td>
+                        <td>a<sub>n</sub> = a + (n−1)d</td>
+                    </tr>
+
+                    <tr>
+                        <td>Sum of n terms</td>
+                        <td>S<sub>n</sub> = n/2 [2a + (n−1)d]</td>
+                    </tr>
+
+                    <tr>
+                        <td>mth term from the end</td>
+                        <td>l − (m−1)d, where l is the last term</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section><section id="class10-ap-question-types">
+
+    <h2>
+        Every Question Type Covered
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">1</div>
+            <p>Finding the nth term</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">2</div>
+            <p>Number of terms / which term equals a value</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">3</div>
+            <p>Sum of n terms</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">4</div>
+            <p>Finding an AP from two given terms</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">5</div>
+            <p>mth term from the end</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">6</div>
+            <p>Verifying an AP from its general term</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">7</div>
+            <p>Word problems</p>
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-1">
+
+    <h2>
+        Type 1 · Finding the nth Term
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.1</div>
+
+            <h3>Direct Term</h3>
+
+            <p>
+                Find the 15th term of the AP: 3, 7, 11, 15, ...
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Identify a and d</h3>
+
+                            <p>
+                                a = 3, d = 4
+                            </p>
+
+                            <div class="highlight-box">
+                                a₁₅ = 3 + (15−1)×4 = 3 + 56
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>15th term = 59</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.2</div>
+
+            <h3>Negative Common Difference</h3>
+
+            <p>
+                Find the 22nd term of the AP: 8, 3, −2, −7, ...
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Identify a and d</h3>
+
+                            <p>
+                                a = 8, d = −5
+                            </p>
+
+                            <div class="highlight-box">
+                                a₂₂ = 8 + (22−1)×(−5) = 8 − 105
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>22nd term = −97</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.3</div>
+
+            <h3>Direct Term</h3>
+
+            <p>
+                If a = 5 and d = 6, find the 10th term.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    a₁₀ = 5 + (10−1)×6 = 5 + 54
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>10th term = 59</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.4</div>
+
+            <h3>Solving for Term Number</h3>
+
+            <p>
+                Which term of the AP 3, 8, 13, 18, ... is 78?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Set up the equation</h3>
+
+                            <p>
+                                a = 3, d = 5. Solve 3 + (n−1)×5 = 78
+                            </p>
+
+                            <div class="highlight-box">
+                                (n−1)×5 = 75 → n−1 = 15
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 16 (the 16th term is 78)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.5</div>
+
+            <h3>Direct Term</h3>
+
+            <p>
+                If a = 10 and d = 4, find the 30th term.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    a₃₀ = 10 + (30−1)×4 = 10 + 116
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>30th term = 126</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-2">
+
+    <h2>
+        Type 2 · Number of Terms
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.1</div>
+
+            <h3>Given Last Term</h3>
+
+            <p>
+                How many terms are in the AP: 7, 13, 19, ..., 205?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a = 7, d = 6, last term = 205
+                            </h3>
+
+                            <p>
+                                Solve 7 + (n−1)×6 = 205
+                            </p>
+
+                            <div class="highlight-box">
+                                (n−1)×6 = 198 → n−1 = 33
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 34 terms</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.2</div>
+
+            <h3>Counting a Set</h3>
+
+            <p>
+                How many two-digit numbers are divisible by 3?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                The sequence is 12, 15, 18, ..., 99
+                            </h3>
+
+                            <p>
+                                a = 12, d = 3, last term = 99
+                            </p>
+
+                            <div class="highlight-box">
+                                12 + (n−1)×3 = 99 → n−1 = 29
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 30 two-digit numbers</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.3</div>
+
+            <h3>Counting a Set</h3>
+
+            <p>
+                How many multiples of 4 lie between 10 and 250?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                The sequence is 12, 16, 20, ..., 248
+                            </h3>
+
+                            <p>
+                                a = 12, d = 4, last term = 248
+                            </p>
+
+                            <div class="highlight-box">
+                                12 + (n−1)×4 = 248 → n−1 = 59
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 60 multiples</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.4</div>
+
+            <h3>Solving for Term Number</h3>
+
+            <p>
+                In an AP with a = 5 and d = 3, find n such that the nth term is 101.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    5 + (n−1)×3 = 101 → (n−1)×3 = 96 → n−1 = 32
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 33</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ If solving this kind of equation gives a non-integer n, it means the target value simply isn't a term of that AP at all — double-check the target number and the AP's terms before assuming a calculation error.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.5</div>
+
+            <h3>Two Valid Answers</h3>
+
+            <p>
+                How many terms of the AP 63, 60, 57, ... are needed to give a sum of 693?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a = 63, d = −3. Set up the sum equation
+                            </h3>
+
+                            <p>
+                                n/2 [2(63) + (n−1)(−3)] = 693
+                            </p>
+
+                            <div class="highlight-box">
+                                Simplifying gives a quadratic in n, with solutions n = 21 and n = 22
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Check why both work
+                            </h3>
+
+                            <p>
+                                The 22nd term = 63 + 21×(−3) = 0. Adding a term equal to zero doesn't change the sum — so S₂₁ and S₂₂ are both exactly 693.
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 21 or n = 22 (both genuinely correct)</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ This isn't a mistake in the algebra — whenever a sum-based equation for an AP gives two positive integer solutions for n, check whether one of the terms between them equals zero. If it does, both values are legitimately correct.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-3">
+
+    <h2>
+        Type 3 · Sum of n Terms
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.1</div>
+
+            <h3>Direct Sum</h3>
+
+            <p>
+                Find the sum of the first 20 terms of the AP: 2, 7, 12, 17, ...
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a = 2, d = 5, n = 20
+                            </h3>
+
+                            <div class="highlight-box">
+                                S₂₀ = 20/2 × [2(2) + (20−1)(5)] = 10 × [4+95]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>S₂₀ = 990</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.2</div>
+
+            <h3>Negative Terms</h3>
+
+            <p>
+                Find the sum of the first 15 terms of the AP: 8, 5, 2, −1, ...
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a = 8, d = −3, n = 15
+                            </h3>
+
+                            <div class="highlight-box">
+                                S₁₅ = 15/2 × [2(8) + (15−1)(−3)] = 7.5 × [16−42]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>S₁₅ = −195</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.3</div>
+
+            <h3>Multiples</h3>
+
+            <p>
+                Find the sum of the first 40 positive multiples of 6.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a = 6, d = 6, n = 40
+                            </h3>
+
+                            <div class="highlight-box">
+                                S₄₀ = 40/2 × [2(6) + (40−1)(6)] = 20 × [12+234]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>S₄₀ = 4920</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.4</div>
+
+            <h3>Sum of a Range</h3>
+
+            <p>
+                Find the sum of all natural numbers from 1 and 100 that are divisible by 4.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Sequence: 4, 8, ..., 100. a=4, d=4, last term=100
+                            </h3>
+
+                            <p>
+                                Find n first: 4+(n−1)4=100 → n=25
+                            </p>
+
+                            <div class="highlight-box">
+                                S₂₅ = 25/2 × (4+100) = 12.5 × 104
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Sum = 1300</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.5</div>
+
+            <h3>Direct Sum</h3>
+
+            <p>
+                If a = 7 and d = 4, find the sum of the first 25 terms.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    S₂₅ = 25/2 × [2(7) + (25−1)(4)] = 12.5 × [14+96]
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>S₂₅ = 1375</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-4">
+
+    <h2>
+        Type 4 · Finding an AP from Two Given Terms
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.1</div>
+
+            <h3>Two Conditions</h3>
+
+            <p>
+                The 3rd term of an AP is 16 and the 7th term is 32. Find the AP.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up two equations
+                            </h3>
+
+                            <p>
+                                a+2d=16 ... (i), a+6d=32 ... (ii)
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting (i) from (ii): 4d=16 → d=4. Then a=16−2(4)=8
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>a = 8, d = 4 → AP: 8, 12, 16, 20, ...</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.2</div>
+
+            <h3>Two Conditions</h3>
+
+            <p>
+                The 4th term of an AP is 0 and the 9th term is 20. Find the AP.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up two equations
+                            </h3>
+
+                            <p>
+                                a+3d=0 ... (i), a+8d=20 ... (ii)
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting: 5d=20 → d=4. Then a=−3(4)=−12
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>a = −12, d = 4 → AP: −12, −8, −4, 0, 4, ...</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.3</div>
+
+            <h3>Two Conditions</h3>
+
+            <p>
+                The 6th term of an AP is 12 and the 10th term is 20. Find the AP.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up two equations
+                            </h3>
+
+                            <p>
+                                a+5d=12 ... (i), a+9d=20 ... (ii)
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting: 4d=8 → d=2. Then a=12−5(2)=2
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>a = 2, d = 2 → AP: 2, 4, 6, 8, ...</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.4</div>
+
+            <h3>Two Conditions</h3>
+
+            <p>
+                The 5th term of an AP is 19 and the 12th term is 47. Find the AP.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up two equations
+                            </h3>
+
+                            <p>
+                                a+4d=19 ... (i), a+11d=47 ... (ii)
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting: 7d=28 → d=4. Then a=19−4(4)=3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>a = 3, d = 4 → AP: 3, 7, 11, 15, ...</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.5</div>
+
+            <h3>Two Conditions</h3>
+
+            <p>
+                The 8th term of an AP is 39 and the 15th term is 74. Find the AP.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Set up two equations
+                            </h3>
+
+                            <p>
+                                a+7d=39 ... (i), a+14d=74 ... (ii)
+                            </p>
+
+                            <div class="highlight-box">
+                                Subtracting: 7d=35 → d=5. Then a=39−7(5)=4
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>a = 4, d = 5 → AP: 4, 9, 14, 19, ...</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-5">
+
+    <h2>
+        Type 5 · mth Term from the End
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.1</div>
+
+            <h3>From the End</h3>
+
+            <p>
+                Find the 10th term from the end of the AP: 3, 8, 13, ..., 253.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    mth from end = last term − (m−1)d = 253 − (10−1)×5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>10th from end = 208</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.2</div>
+
+            <h3>From the End</h3>
+
+            <p>
+                Find the 6th term from the end of the AP: 17, 14, 11, ..., −40.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    6th from end = −40 − (6−1)×(−3) = −40 + 15
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>6th from end = −25</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.3</div>
+
+            <h3>From the End</h3>
+
+            <p>
+                Find the 12th term from the end of the AP: 5, 9, 13, ..., 185.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    12th from end = 185 − (12−1)×4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>12th from end = 141</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.4</div>
+
+            <h3>From the End</h3>
+
+            <p>
+                Find the 5th term from the end of the AP: 21, 18, 15, ..., −81.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    5th from end = −81 − (5−1)×(−3) = −81 + 12
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>5th from end = −69</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.5</div>
+
+            <h3>From the End</h3>
+
+            <p>
+                Find the 15th term from the end of the AP: 2, 7, 12, ..., 152.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    15th from end = 152 − (15−1)×5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>15th from end = 82</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: applying the standard a+(n-1)d formula counting from the start instead of using the "from the end" version — the direction of d effectively flips when counting backward from the last term.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-6">
+
+    <h2>
+        Type 6 · Verifying an AP from Its General Term
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.1</div>
+
+            <h3>Is It an AP?</h3>
+
+            <p>
+                Is the sequence with nth term aₙ = 3n + 5 an AP? If so, find a and d.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Compute the first three terms</h3>
+
+                            <p>
+                                a₁=8, a₂=11, a₃=14
+                            </p>
+
+                            <div class="highlight-box">
+                                Common difference: 11−8=3, and 14−11=3 — constant
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Yes, it's an AP. a = 8, d = 3.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.2</div>
+
+            <h3>Is It an AP?</h3>
+
+            <p>
+                Is the sequence with nth term aₙ = 7 − 4n an AP? If so, find a and d.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Compute the first three terms</h3>
+
+                            <p>
+                                a₁=3, a₂=−1, a₃=−5
+                            </p>
+
+                            <div class="highlight-box">
+                                Common difference: −1−3=−4, and −5−(−1)=−4 — constant
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Yes, it's an AP. a = 3, d = −4.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.3</div>
+
+            <h3>Is It NOT an AP?</h3>
+
+            <p>
+                Is the sequence with nth term aₙ = n² + 1 an AP?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Compute the first three terms</h3>
+
+                            <p>
+                                a₁=2, a₂=5, a₃=10
+                            </p>
+
+                            <div class="highlight-box">
+                                Difference: 5−2=3, but 10−5=5 — NOT constant
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>No, this is not an AP (the difference changes from 3 to 5).</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ A quadratic expression in n (with an n² term) never produces an AP — only a linear expression in n (of the form An+B) does. Spotting the n² term immediately tells you this can't be an AP without even calculating terms.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.4</div>
+
+            <h3>Is It an AP?</h3>
+
+            <p>
+                Is the sequence with nth term aₙ = (2n/3) + 1 an AP? If so, find a and d.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Compute the first three terms</h3>
+
+                            <p>
+                                a₁=5/3, a₂=7/3, a₃=3
+                            </p>
+
+                            <div class="highlight-box">
+                                Common difference: 7/3−5/3=2/3, and 3−7/3=2/3 — constant
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Yes, it's an AP. a = 5/3, d = 2/3 (an AP doesn't require whole-number terms).</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.5</div>
+
+            <h3>Is It an AP?</h3>
+
+            <p>
+                Is the sequence with nth term aₙ = 9 − 5n an AP? If so, find a and d.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Compute the first three terms</h3>
+
+                            <p>
+                                a₁=4, a₂=−1, a₃=−6
+                            </p>
+
+                            <div class="highlight-box">
+                                Common difference: −1−4=−5, and −6−(−1)=−5 — constant
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Yes, it's an AP. a = 4, d = −5.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-type-7">
+
+    <h2>
+        Type 7 · Word Problems
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.1</div>
+
+            <h3>Salary Increment</h3>
+
+            <p>
+                A person's starting salary is ₹20,000 per year, with an annual increment of ₹2,000. Find their salary in the 10th year.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                This is a direct nth-term application
+                            </h3>
+
+                            <p>
+                                a=20000, d=2000
+                            </p>
+
+                            <div class="highlight-box">
+                                a₁₀ = 20000 + (10−1)×2000
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Salary in the 10th year = ₹38,000</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.2</div>
+
+            <h3>Stadium Seating</h3>
+
+            <p>
+                In an auditorium, the first row has 20 seats, and each subsequent row has 4 more seats than the one before it. Find the total number of seats in the first 15 rows.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                This is a sum-of-n-terms application
+                            </h3>
+
+                            <p>
+                                a=20, d=4, n=15
+                            </p>
+
+                            <div class="highlight-box">
+                                S₁₅ = 15/2 × [2(20) + (15−1)(4)] = 7.5 × [40+56]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Total seats in first 15 rows = 720</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.3</div>
+
+            <h3>Loan Repayment</h3>
+
+            <p>
+                A loan is repaid in monthly instalments. The first instalment is ₹1,000, and each subsequent instalment increases by ₹100. Find the total amount repaid in 12 months.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a=1000, d=100, n=12
+                            </h3>
+
+                            <div class="highlight-box">
+                                S₁₂ = 12/2 × [2(1000) + (12−1)(100)] = 6 × [2000+1100]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Total repaid in 12 months = ₹18,600</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.4</div>
+
+            <h3>Stacked Logs</h3>
+
+            <p>
+                Logs are stacked so that the bottom row has 20 logs, and each row above has 1 fewer log than the row below, with the top row having exactly 1 log. Find the number of rows and the total number of logs.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a=20, d=−1, last term=1. First find n
+                            </h3>
+
+                            <p>
+                                20+(n−1)(−1)=1 → n=20
+                            </p>
+
+                            <div class="highlight-box">
+                                S₂₀ = 20/2 × (20+1) = 10 × 21
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>20 rows, total logs = 210</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.5</div>
+
+            <h3>Annual Production</h3>
+
+            <p>
+                A company produces 800 units in its first year of operation, and increases production by 60 units every following year. Find the production in the 12th year, and the total production over the first 12 years.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                a=800, d=60
+                            </h3>
+
+                            <div class="highlight-box">
+                                a₁₂ = 800+(12−1)(60) = 800+660. S₁₂ = 12/2 × [2(800)+(12−1)(60)] = 6×[1600+660]
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Production in the 12th year = 1,460 units. Total over 12 years = 13,560 units.</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-ap-genelis">
+
+    <h2>
+        Which of These 7 Types Would You Actually Recognise on Sight?
+    </h2>
+
+    <p>
+        Reading through 35 solved problems and being able to solve fresh ones without the type named for you are different skills. The real exam test is spotting which of these 7 patterns a new question belongs to.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <div class="gdl-accuracy-header">
+
+            <span class="gdl-accuracy-eyebrow">
+                Genelis Performance Map
+            </span>
+
+            <h3>
+                What a Genelis weak area map looks like after working through Arithmetic Progressions practice
+            </h3>
+
+        </div>
+
+
+        <div class="gdl-accuracy-list">
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    nth term &amp; number of terms
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                        style="width:82%">
+                    </div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                    82%
+                </div>
+
+            </div>
+
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Sum of n terms
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                        style="width:70%">
+                    </div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                    70%
+                </div>
+
+            </div>
+
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Finding AP from two conditions
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                        style="width:54%">
+                    </div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                    54%
+                </div>
+
+            </div>
+
+
+            <div class="gdl-accuracy-row">
+
+                <div class="gdl-accuracy-label">
+                    Word problems — modelling from scratch
+                </div>
+
+                <div class="gdl-accuracy-track">
+                    <div
+                        class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                        style="width:33%">
+                    </div>
+                </div>
+
+                <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                    33%
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <p class="gdl-accuracy-note">
+            Next session: word-problem modelling (33%) — not more direct nth-term drilling. Genelis tracks accuracy by type, not just by topic, so it knows exactly which pattern needs more reps.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled Arithmetic Progressions problems across all 7 types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            <strong>Attempt fresh problems</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            <strong>Type-level gap detected</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            <strong>AI notes for weak pattern</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            <strong>Wrong Qs auto-logged</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            <strong>Reattempt that type</strong>
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            <strong>Gap closed. Map updates. ✓</strong>
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-ap&utm_content=cta-inline">
+        Practise unlimited fresh Arithmetic Progressions problems on Genelis — free →
+    </a>
+
+</section>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What question types appear in CBSE Class 10 "
+                "Arithmetic Progressions?"
+            ),
+            "answer": (
+                "Seven types recur most often: finding the nth term using the "
+                "general term formula, finding the number of terms or which term "
+                "equals a given value, finding the sum of n terms, determining an "
+                "AP's first term and common difference from two given terms, "
+                "finding a term counted from the end, verifying whether a given "
+                "general term expression represents an AP, and word problems "
+                "modelling real-world scenarios as an AP."
+            )
+        },
+        {
+            "question": (
+                "Can finding the number of terms in an AP give two different "
+                "valid answers?"
+            ),
+            "answer": (
+                "Yes, in a specific situation: if a term in the sequence happens "
+                "to equal exactly zero, then the sum up to that term and the sum "
+                "up to the term just before it are identical, since adding zero "
+                "doesn't change a total. This means two different values of n can "
+                "both correctly satisfy a given sum — both are valid answers, and "
+                "this is a genuine mathematical result, not an error in the working."
+            )
+        },
+        {
+            "question": (
+                "How do I find the first term and common difference when given "
+                "two specific terms of an AP?"
+            ),
+            "answer": (
+                "Write the general term formula for each given term as a separate "
+                "equation in terms of the first term (a) and common difference (d), "
+                "then solve the two equations simultaneously. Subtracting one "
+                "equation from the other eliminates a and isolates d directly, "
+                "after which substituting back gives a."
+            )
+        },
+        {
+            "question": (
+                "How do I check whether a given expression for the nth term "
+                "actually represents an arithmetic progression?"
+            ),
+            "answer": (
+                "Calculate the first three terms by substituting n=1, n=2, and "
+                "n=3 into the expression, then check whether the difference "
+                "between consecutive terms is the same both times. If the common "
+                "difference is constant, the expression represents an AP; if the "
+                "difference changes between the first pair and the second pair, "
+                "it does not, regardless of how similar the expression might look "
+                "to a typical AP formula."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-trigonometry-40-important-questions",
+        "class-10-quadratic-equations-important-competency-questions"
+    ]
+},
+{
+    "slug": "class-10-carbon-compounds-reactions-revision-sheet",
+
+    "title": (
+        "Class 10 Science Carbon and Its Compounds: Reactions, "
+        "Important Questions & Revision Sheet"
+    ),
+
+    "meta_title": (
+        "Class 10 Science Carbon and Its Compounds: Reactions, "
+        "Important Questions & Revision Sheet | Genelis"
+    ),
+
+    "meta_description": (
+        "Every key reaction in Carbon and Its Compounds — combustion, "
+        "oxidation, addition, substitution, esterification, and the specific "
+        "reactions of ethanol and ethanoic acid — verified balanced, alongside "
+        "important conceptual questions and a complete revision sheet covering "
+        "functional groups and homologous series."
+    ),
+
+    "excerpt": (
+        "Every key reaction, verified balanced. Every concept examiners ask "
+        "about. One consolidated revision sheet for the night before the exam."
+    ),
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "Study Guide",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-28T09:00:00+05:30",
+
+    "updated_date": "2026-08-28T09:00:00+05:30",
+
+    "reading_time": "17 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Science Carbon and Its Compounds reactions, "
+        "important questions and revision sheet"
+    ),
+
+    "keywords": [
+        "class 10 carbon compounds reactions",
+        "ethanol ethanoic acid reactions",
+        "carbon compounds important questions CBSE",
+        "homologous series class 10",
+        "soap detergent cleansing action",
+        "class 10 carbon compounds revision sheet"
+    ],
+
+    "content": """
+    <section id="class10-carbon-introduction">
+
+    <p>
+        Carbon and Its Compounds is the chapter where students most often mix up which reaction applies to which type of compound — addition versus substitution, or which specific reagent turns ethanol into ethanoic acid. Every equation on this page has been checked atom by atom for correct balance before being included, and the topics covered here remain part of the current CBSE Class 10 Science curriculum.
+    </p>
+
+    <div class="highlight-box">
+
+        <p style="margin:0;">
+            <strong>How this guide is organised:</strong> Reactions first, grouped by type so the underlying pattern is clear — then the conceptual questions examiners actually ask, and finally a consolidated revision sheet for quick recall before the exam.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-carbon-key-reactions">
+
+    <h2>
+        Key Reactions of Carbon Compounds
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Combustion</h3>
+
+            <p>
+                <strong>Saturated &amp; Unsaturated</strong>
+            </p>
+
+            <div class="highlight-box">
+                CH₄ + 2O₂ → CO₂ + 2H₂O + heat &amp; light
+            </div>
+
+            <p>
+                Carbon compounds such as hydrocarbons burn in oxygen to give carbon dioxide and water during complete combustion, releasing heat and light — this is the basis of using hydrocarbons as fuels. A saturated hydrocarbon generally burns with a clean blue flame when sufficient oxygen is available; an unsaturated one tends to burn with a yellow, sooty flame.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Oxidation</h3>
+
+            <p>
+                <strong>Alcohols</strong>
+            </p>
+
+            <div class="highlight-box">
+                C₂H₅OH + 2[O] → CH₃COOH + H₂O
+            </div>
+
+            <p>
+                Ethanol is oxidised to ethanoic acid in the presence of an oxidising agent such as alkaline potassium permanganate or acidified potassium dichromate — both act as a source of the oxygen atom [O]. This is the reaction that turns wine sour when exposed to air over time.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Addition Reaction</h3>
+
+            <p>
+                <strong>Unsaturated Only</strong>
+            </p>
+
+            <div class="highlight-box">
+                CH₂=CH₂ + H₂ --(Ni catalyst)--> CH₃−CH₃
+            </div>
+
+            <p>
+                Hydrogenation adds hydrogen directly across a carbon-carbon double bond in the presence of a catalyst (nickel or palladium), converting an unsaturated compound into a saturated one. This specific reaction — converting vegetable oils into solid fats (vanaspati) — is a well-known real-world application.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Substitution Reaction</h3>
+
+            <p>
+                <strong>Saturated Only</strong>
+            </p>
+
+            <div class="highlight-box">
+                CH₄ + Cl₂ --(sunlight)--> CH₃Cl + HCl
+            </div>
+
+            <p>
+                In the presence of sunlight, chlorine substitutes for hydrogen atoms in methane one at a time. Since saturated hydrocarbons have no double or triple bond to add across, substitution — rather than addition — is their characteristic reaction type.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-carbon-ethanol-ethanoic-reactions-part-1">
+
+    <h2>
+        Reactions of Ethanol &amp; Ethanoic Acid
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Ethanol + Sodium</h3>
+
+            <p>
+                <strong>Alcohol</strong>
+            </p>
+
+            <div class="highlight-box">
+                2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑
+            </div>
+
+            <p>
+                Sodium ethoxide and hydrogen gas are produced. The evolution of hydrogen gas can be tested with a burning splint, giving a characteristic pop sound. This reaction demonstrates the reaction of ethanol with an active metal such as sodium.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Esterification</h3>
+
+            <p>
+                <strong>Acid + Alcohol</strong>
+            </p>
+
+            <div class="highlight-box">
+                CH₃COOH + C₂H₅OH --(conc. H₂SO₄)--> CH₃COOC₂H₅ + H₂O
+            </div>
+
+            <p>
+                An ester forms when a carboxylic acid reacts with an alcohol in the presence of concentrated sulphuric acid as a catalyst. Esters are typically sweet-smelling and are widely used in perfumes and as flavouring agents.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Saponification</h3>
+
+            <p>
+                <strong>Ester + Base</strong>
+            </p>
+
+            <div class="highlight-box">
+                Ester + NaOH → Sodium salt of carboxylic acid + Alcohol
+            </div>
+
+            <p>
+                An ester is hydrolysed by a base to regenerate the alcohol and produce the sodium salt of the corresponding carboxylic acid. When fats or oils — esters of long-chain fatty acids — undergo this reaction, the sodium salts produced are soaps, which is why this base-driven hydrolysis is called saponification.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-carbon-ethanoic-acid-reactions">
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Ethanoic Acid + Sodium</h3>
+
+            <p>
+                <strong>Carboxylic Acid</strong>
+            </p>
+
+            <div class="highlight-box">
+                2CH₃COOH + 2Na → 2CH₃COONa + H₂↑
+            </div>
+
+            <p>
+                Sodium ethanoate and hydrogen gas form, analogous to the reaction of ethanol with sodium — but ethanoic acid, being a stronger acid, reacts noticeably more vigorously.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Ethanoic Acid + Sodium Hydroxide</h3>
+
+            <p>
+                <strong>Neutralisation</strong>
+            </p>
+
+            <div class="highlight-box">
+                CH₃COOH + NaOH → CH₃COONa + H₂O
+            </div>
+
+            <p>
+                A standard acid-base neutralisation, producing sodium ethanoate (a salt) and water.
+            </p>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Ethanoic Acid + Sodium Carbonate / Bicarbonate</h3>
+
+            <p>
+                <strong>Carbonate Test</strong>
+            </p>
+
+            <div class="highlight-box">
+                2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑
+                <br>
+                CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑
+            </div>
+
+            <p>
+                Both reactions release carbon dioxide gas, which turns limewater milky — this brisk effervescence with a carbonate or bicarbonate is a standard test used to confirm the presence of a carboxylic acid (-COOH) group.
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-carbon-important-conceptual-questions">
+
+    <h2>
+        Important Conceptual Questions
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does carbon form covalent bonds rather than ionic bonds?
+            </h3>
+
+            <p>
+                Carbon has 4 valence electrons. Gaining 4 electrons to complete its octet would create a highly unstable, highly charged anion, and losing all 4 would require far too much energy. Sharing electrons through covalent bonds achieves a stable octet without either problem, which is why carbon compounds are overwhelmingly covalent.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is catenation, and why is carbon exceptionally good at it?
+            </h3>
+
+            <p>
+                Catenation is an element's ability to bond with other atoms of itself, forming chains, branches, or rings. Carbon's C-C bond is unusually strong and stable, allowing extremely long, stable chains to form — a property that underlies the sheer size and diversity of organic chemistry.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is a homologous series, and what are its key features?
+            </h3>
+
+            <p>
+                A homologous series is a group of compounds with the same general formula and similar chemical properties, where each successive member differs from the one before it by a -CH₂- unit. Members show a gradual, predictable change in physical properties (like melting and boiling points) as molecular mass increases, but can generally be prepared by similar methods and undergo similar reactions.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does ethanoic acid turn blue litmus red, but ethanol does not?
+            </h3>
+
+            <p>
+                Ethanoic acid contains a -COOH (carboxylic acid) functional group, which can release a hydrogen ion in solution, making it acidic and able to turn blue litmus red. Ethanol's -OH group does not ionise to release a hydrogen ion in the same way, so it does not behave as an acid toward litmus.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                How does soap actually clean oily dirt from clothes or skin?
+            </h3>
+
+            <p>
+                A soap molecule has two distinct ends: a hydrocarbon "tail" that is attracted to oil and grease (hydrophobic), and an ionic "head" that is attracted to water (hydrophilic). In water, soap molecules arrange themselves into clusters called micelles, with their oil-loving tails pointing inward to trap grease and dirt, and their water-loving heads facing outward. This traps the dirt inside the micelle, which can then be rinsed away with water.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does soap fail to lather properly in hard water?
+            </h3>
+
+            <p>
+                Hard water contains dissolved calcium and magnesium ions. These react with soap to form an insoluble precipitate (scum) instead of allowing the soap to dissolve and form micelles effectively. This wastes soap on precipitate formation before any real cleansing action can occur.
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-carbon-revision-sheet">
+
+    <h2>
+        Revision Sheet
+    </h2>
+
+    <h3>
+        Common Functional Groups
+    </h3>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table
+                class="checklist-table"
+                style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th>Functional Group</th>
+                        <th>Formula</th>
+                        <th>Class of Compound</th>
+                        <th>Example</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Hydroxyl</td>
+                        <td>−OH</td>
+                        <td>Alcohol</td>
+                        <td>Ethanol, C₂H₅OH</td>
+                    </tr>
+
+                    <tr>
+                        <td>Aldehyde</td>
+                        <td>−CHO</td>
+                        <td>Aldehyde</td>
+                        <td>Ethanal, CH₃CHO</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ketone</td>
+                        <td>&gt;C=O</td>
+                        <td>Ketone</td>
+                        <td>Propanone, CH₃COCH₃</td>
+                    </tr>
+
+                    <tr>
+                        <td>Carboxyl</td>
+                        <td>−COOH</td>
+                        <td>Carboxylic acid</td>
+                        <td>Ethanoic acid, CH₃COOH</td>
+                    </tr>
+
+                    <tr>
+                        <td>Halogen</td>
+                        <td>−X (Cl, Br, I)</td>
+                        <td>Haloalkane</td>
+                        <td>Chloromethane, CH₃Cl</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-carbon-homologous-series">
+
+    <h3>
+        Homologous Series — General Formulas
+    </h3>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table
+                class="checklist-table"
+                style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th>Series</th>
+                        <th>General Formula</th>
+                        <th>Bond Type</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Alkanes</td>
+                        <td>CₙH₂ₙ₊₂</td>
+                        <td>Saturated, single bonds only</td>
+                    </tr>
+
+                    <tr>
+                        <td>Alkenes</td>
+                        <td>CₙH₂ₙ</td>
+                        <td>Unsaturated, one double bond</td>
+                    </tr>
+
+                    <tr>
+                        <td>Alkynes</td>
+                        <td>CₙH₂ₙ₋₂</td>
+                        <td>Unsaturated, one triple bond</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-carbon-soap-vs-detergent">
+
+    <h3>
+        Soap vs Detergent — Quick Comparison
+    </h3>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <h3>🧼 Soap</h3>
+
+            <ul>
+                <li>
+                    Sodium/potassium salt of a long-chain carboxylic acid
+                </li>
+
+                <li>
+                    Forms insoluble precipitate (scum) with hard water
+                </li>
+
+                <li>
+                    Biodegradable
+                </li>
+
+                <li>
+                    Less effective in hard or acidic water
+                </li>
+            </ul>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>🧴 Detergent</h3>
+
+            <ul>
+                <li>
+                    Generally sodium salts of long-chain sulphonic acids or ammonium salts with long hydrocarbon chains
+                </li>
+
+                <li>
+                    Forms soluble compounds with hard water — no scum
+                </li>
+
+                <li>
+                    Often not biodegradable, environmental concern
+                </li>
+
+                <li>
+                    Works effectively even in hard water
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+
+    <div class="highlight-box">
+        💡 <strong>The one-line summary examiners want:</strong> Micelle formation is what cleans (soap and detergent both work this way) — a key difference is that soap forms insoluble precipitates with calcium/magnesium ions in hard water, while detergents remain effective.
+    </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Reactions, Concepts, and Reagent Recall Are Three Different Skills
+    </h2>
+
+    <p>
+        A student who can correctly explain catenation might still mix up which reagent oxidises ethanol, or confuse when to use addition versus substitution. A single chapter score doesn't reveal which of these specific gaps exists.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after working through Carbon Compounds practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Bonding &amp; catenation concepts
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:84%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                84%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Ethanol &amp; ethanoic acid reactions
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:67%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                67%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Addition vs substitution — when to apply
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:49%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                49%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Soap &amp; detergent cleansing mechanism
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:31%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                31%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: soap and detergent cleansing mechanism (31%) — not more bonding-concept revision. Genelis tracks reaction recall and conceptual understanding as separate skills.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across bonding concepts, specific named reactions, and application-based questions, so a strong overall score never hides a specific reagent or mechanism you keep getting wrong. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Concept-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak reaction
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that reaction
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div
+            class="gdl-loop-step"
+            style="border-color:#1baf7a;">
+
+            <span
+                class="gdl-loop-number"
+                style="color:#1baf7a;">
+                Result
+            </span>
+
+            Gap closed. Map updates. ✓
+
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-carbon&utm_content=cta-inline">
+        Practise unlimited fresh Carbon Compounds problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For chapter strategy and the complete Class 10 Science formula reference, see the <a href="/blog/class-10-science-high-yield-topics-cbse-2026">complete Class 10 Science guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Why does carbon form covalent bonds instead of ionic bonds?"
+            ),
+            "answer": (
+                "Carbon has 4 electrons in its outermost shell. To achieve a "
+                "stable, complete octet, it would need to either gain or lose "
+                "4 electrons. Gaining 4 electrons would create a highly "
+                "unstable anion with a large negative charge, and losing "
+                "4 electrons would require an enormous amount of energy to "
+                "remove electrons held reasonably close to the nucleus. "
+                "Sharing electrons through covalent bonds achieves stability "
+                "without either of these energy costs, which is why carbon "
+                "almost exclusively forms covalent compounds."
+            )
+        },
+        {
+            "question": (
+                "What is catenation, and why is carbon exceptionally good at it?"
+            ),
+            "answer": (
+                "Catenation is the ability of an atom to form bonds with other "
+                "atoms of the same element, creating long chains, branches, or "
+                "rings. Carbon is exceptionally good at this because the "
+                "carbon-carbon bond is unusually strong and stable, comparable "
+                "in strength to carbon's bonds with other elements. This allows "
+                "carbon to form extremely long, stable chains — a property not "
+                "shared to nearly the same extent by any other element, and "
+                "it's the direct reason organic chemistry is such a vast field."
+            )
+        },
+        {
+            "question": (
+                "What is the difference between an addition reaction and a "
+                "substitution reaction in carbon compounds?"
+            ),
+            "answer": (
+                "An addition reaction occurs in unsaturated hydrocarbons "
+                "(those with a double or triple bond), where a new atom or "
+                "group of atoms adds directly across the multiple bond without "
+                "removing anything — hydrogenation of an alkene is a classic "
+                "example. A substitution reaction occurs in saturated "
+                "hydrocarbons, where an atom (typically hydrogen) is replaced "
+                "by another atom or group, such as when methane reacts with "
+                "chlorine in sunlight. Substitution requires removing something "
+                "first; addition does not."
+            )
+        },
+        {
+            "question": (
+                "Why does soap fail to lather properly in hard water, "
+                "while detergents work fine?"
+            ),
+            "answer": (
+                "Hard water contains calcium and magnesium ions, which react "
+                "with soap to form insoluble salts commonly seen as scum. "
+                "This consumes soap and reduces effective cleansing. Synthetic "
+                "detergents generally contain long-chain alkyl sulphonate or "
+                "sulphate groups whose calcium and magnesium salts remain "
+                "sufficiently soluble, so detergents continue to work "
+                "effectively in hard water."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-science-high-yield-topics-cbse-2026"
+
+        # Add once confirmed in the current blog_data.py:
+        # "class-10-light-ray-diagrams-numericals",
+        # "class-12-organic-chemistry-named-reactions-mechanisms-practice"
+    ]
+},
+{
+    "slug": "class-10-light-ray-diagrams-numericals",
+
+    "title": (
+        "Class 10 Science Light: Ray Diagrams, Numericals "
+        "& Important Questions"
+    ),
+
+    "meta_title": (
+        "Class 10 Science Light: Ray Diagrams, Numericals "
+        "& Important Questions | Genelis"
+    ),
+
+    "meta_description": (
+        "9 geometrically constructed ray diagrams covering key concave-mirror, "
+        "convex-mirror, and convex-lens cases for CBSE Class 10, plus 10 solved "
+        "numericals and important conceptual questions on reflection, "
+        "refraction, and lenses."
+    ),
+
+    "excerpt": (
+        "9 geometrically accurate ray diagrams, 10 solved numericals, "
+        "and the conceptual questions that decide board marks. "
+        "Every diagram built from the real formulas."
+    ),
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "Study Guide",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-28T09:00:00+05:30",
+
+    "updated_date": "2026-08-28T09:00:00+05:30",
+
+    "reading_time": "20 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Science Light ray diagrams, numericals and "
+        "important questions for CBSE"
+    ),
+
+    "keywords": [
+        "class 10 light ray diagrams",
+        "concave mirror image formation",
+        "convex lens ray diagram",
+        "class 10 light numericals",
+        "mirror formula lens formula solved",
+        "class 10 science light important questions"
+    ],
+
+    "content": """
+    <section id="class10-light-introduction">
+
+    <p>
+        Every diagram on this page was built the same way a real image forms — by actually solving the mirror or lens formula for a specific object position first, then drawing the rays to converge exactly where that calculation says they should. Not illustrative sketches redrawn from memory, but geometry that matches the numbers.
+    </p>
+
+    <div class="highlight-box">
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> For the ray diagrams, try predicting the image type (real/virtual, magnified/diminished) before reading the caption. For the numericals, attempt each on paper before revealing the solution. Every calculation and every diagram's geometry was independently verified before publishing.
+        </p>
+    </div>
+
+
+    <p>
+        <strong>Quick formula reference used throughout:</strong>
+    </p>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table class="checklist-table" style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th style="width:38%;">What it finds</th>
+                        <th>Formula</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Mirror formula</td>
+                        <td>1/v + 1/u = 1/f</td>
+                    </tr>
+
+                    <tr>
+                        <td>Lens formula</td>
+                        <td>1/v − 1/u = 1/f</td>
+                    </tr>
+
+                    <tr>
+                        <td>Magnification</td>
+                        <td>m = −v/u (mirror) or m = v/u (lens)</td>
+                    </tr>
+
+                    <tr>
+                        <td>Power of a lens</td>
+                        <td>P = 1/f (f in metres, P in dioptres)</td>
+                    </tr>
+
+                    <tr>
+                        <td>Refractive index</td>
+                        <td>n = c/v = sin i / sin r</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-concave-mirror-ray-diagrams">
+
+    <h2>
+        Ray Diagrams · Concave Mirror
+    </h2>
+
+    <p>
+        All four diagrams use the same concave mirror (F at 10 units, C at 20 units) — only the object's position changes.
+    </p>
+
+
+    <div style="display:flex; flex-direction:column; gap:18px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Object Beyond C</h3>
+
+            <p>
+                <strong>Real</strong> · Inverted · Diminished
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+                    <path
+                        d="M 240 40 Q 222 130 240 220"
+                        stroke="#2a78d6"
+                        stroke-width="3"
+                        fill="none"/>
+
+
+                    <circle cx="180" cy="130" r="2.5" fill="#e04848"/>
+
+                    <text
+                        x="180" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <circle cx="120" cy="130" r="2.5" fill="#eda100"/>
+
+                    <text
+                        x="120" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        C
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="60" y1="130"
+                        x2="60" y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="56,110 64,110 60,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="150" y1="130"
+                        x2="150" y2="142"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="146,138 154,138 150,146"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel to principal axis, then through F -->
+                    <line
+                        x1="60" y1="106"
+                        x2="240" y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="106"
+                        x2="150" y2="142"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through F, then parallel to principal axis -->
+                    <line
+                        x1="60" y1="106"
+                        x2="240" y2="142"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="142"
+                        x2="150" y2="142"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+
+                    <text
+                        x="240" y="235"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#888">
+                        Object at u = 3f → image between F and C
+                    </text>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                Ray 1 (parallel to axis → through F after reflection) and Ray 2 (through F → parallel to axis after reflection) meet between F and C. This is the case used in devices like reflecting telescopes.
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Object At C</h3>
+
+            <p>
+                <strong>Real</strong> · Inverted · Same Size
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+                    <path
+                        d="M 240 40 Q 222 130 240 220"
+                        stroke="#2a78d6"
+                        stroke-width="3"
+                        fill="none"/>
+
+
+                    <circle cx="180" cy="130" r="2.5" fill="#e04848"/>
+
+                    <text
+                        x="180" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <circle cx="120" cy="130" r="2.5" fill="#eda100"/>
+
+                    <text
+                        x="115" y="118"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        C
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="120" y1="130"
+                        x2="120" y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="116,110 124,110 120,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="120" y1="130"
+                        x2="120" y2="154"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="116,150 124,150 120,158"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel to axis, then through F -->
+                    <line
+                        x1="120" y1="106"
+                        x2="240" y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="106"
+                        x2="120" y2="154"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through F, then parallel -->
+                    <line
+                        x1="120" y1="106"
+                        x2="240" y2="154"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="154"
+                        x2="120" y2="154"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+
+                    <text
+                        x="240" y="235"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#888">
+                        Object at u = 2f → image also at C, inverted
+                    </text>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                Ray 1 travels parallel to the principal axis and reflects through F. Ray 2 passes through F before reflection and emerges parallel to the principal axis. The two reflected rays meet at C, producing an inverted image of the same size as the object.
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-concave-mirror-ray-diagrams-part-2">
+
+    <div style="display:flex; flex-direction:column; gap:18px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Object Between C and F</h3>
+
+            <p>
+                <strong>Real</strong> · Inverted · Magnified
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+                    <path
+                        d="M 240 30 Q 222 130 240 230"
+                        stroke="#2a78d6"
+                        stroke-width="3"
+                        fill="none"/>
+
+
+                    <circle cx="180" cy="130" r="2.5" fill="#e04848"/>
+
+                    <text
+                        x="180" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <circle cx="120" cy="130" r="2.5" fill="#eda100"/>
+
+                    <text
+                        x="120" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        C
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="150" y1="130"
+                        x2="150" y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="146,110 154,110 150,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="60" y1="130"
+                        x2="60" y2="178"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="56,174 64,174 60,182"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel to axis, reflected through F -->
+                    <line
+                        x1="150" y1="106"
+                        x2="240" y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="106"
+                        x2="60" y2="178"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through F, reflected parallel to axis -->
+                    <line
+                        x1="150" y1="106"
+                        x2="240" y2="178"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="178"
+                        x2="60" y2="178"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+
+                    <text
+                        x="240" y="245"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#888">
+                        Object between F and C → image beyond C, larger
+                    </text>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                The image now forms beyond C and is noticeably larger than the object — this is the principle behind concave mirrors used by dentists and for shaving/makeup.
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Object Between F and Pole</h3>
+
+            <p>
+                <strong>Virtual</strong> · Erect · Magnified
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+                    <path
+                        d="M 240 40 Q 222 130 240 220"
+                        stroke="#2a78d6"
+                        stroke-width="3"
+                        fill="none"/>
+
+
+                    <circle cx="180" cy="130" r="2.5" fill="#e04848"/>
+
+                    <text
+                        x="180" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <circle cx="120" cy="130" r="2.5" fill="#eda100"/>
+
+                    <text
+                        x="120" y="145"
+                        font-size="11"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        C
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="210" y1="130"
+                        x2="210" y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="206,110 214,110 210,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Virtual image -->
+                    <line
+                        x1="300" y1="130"
+                        x2="300" y2="82"
+                        stroke="#c62828"
+                        stroke-width="2.5"
+                        stroke-dasharray="4,3"/>
+
+                    <polygon
+                        points="296,88 304,88 300,80"
+                        fill="#c62828"
+                        opacity="0.85"/>
+
+
+                    <!-- Ray 1: parallel to axis -->
+                    <line
+                        x1="210" y1="106"
+                        x2="240" y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <!-- Reflected ray through F -->
+                    <line
+                        x1="240" y1="106"
+                        x2="120" y2="154"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <!-- Backward extension -->
+                    <line
+                        x1="240" y1="106"
+                        x2="300" y2="82"
+                        stroke="#2a3a6a"
+                        stroke-width="1"
+                        stroke-dasharray="3,2"/>
+
+
+                    <!-- Ray 2: incident at pole -->
+                    <line
+                        x1="210" y1="106"
+                        x2="240" y2="130"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <!-- Reflected symmetrically from pole -->
+                    <line
+                        x1="240" y1="130"
+                        x2="180" y2="178"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <!-- Backward extension -->
+                    <line
+                        x1="240" y1="130"
+                        x2="300" y2="82"
+                        stroke="#8b6fcb"
+                        stroke-width="1"
+                        stroke-dasharray="3,2"/>
+
+
+                    <text
+                        x="240" y="235"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#888">
+                        Object between P and F → virtual image behind mirror
+                    </text>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                The reflected rays diverge rather than meet — the dashed lines behind the mirror show where they <em>appear</em> to come from. This is exactly how a shaving or makeup mirror works.
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-convex-mirror-ray-diagram">
+
+    <h2>
+        Ray Diagrams · Convex Mirror &amp; Convex Lens
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>Convex Mirror — Any Object Position</h3>
+
+        <p>
+            <strong>Virtual</strong> · Erect · Diminished
+        </p>
+
+        <div style="width:100%; overflow-x:auto;">
+
+            <svg
+                viewBox="0 0 480 260"
+                xmlns="http://www.w3.org/2000/svg"
+                style="display:block; width:100%; height:auto;">
+
+                <!-- Principal axis -->
+                <line
+                    x1="10" y1="130"
+                    x2="470" y2="130"
+                    stroke="#bbb"
+                    stroke-width="1"
+                    stroke-dasharray="4,3"/>
+
+
+                <!-- Convex mirror -->
+                <path
+                    d="M 240 220 Q 258 130 240 40"
+                    stroke="#2a78d6"
+                    stroke-width="3"
+                    fill="none"/>
+
+
+                <!-- Focus -->
+                <circle
+                    cx="300"
+                    cy="130"
+                    r="2.5"
+                    fill="#e04848"/>
+
+                <text
+                    x="300"
+                    y="145"
+                    font-size="11"
+                    text-anchor="middle"
+                    fill="#e04848">
+                    F
+                </text>
+
+
+                <!-- Object -->
+                <line
+                    x1="120"
+                    y1="130"
+                    x2="120"
+                    y2="106"
+                    stroke="#1baf7a"
+                    stroke-width="2.5"/>
+
+                <polygon
+                    points="116,110 124,110 120,102"
+                    fill="#1baf7a"/>
+
+
+                <!-- Virtual image -->
+                <line
+                    x1="280"
+                    y1="130"
+                    x2="280"
+                    y2="122"
+                    stroke="#c62828"
+                    stroke-width="2"
+                    stroke-dasharray="4,3"/>
+
+                <polygon
+                    points="276,126 284,126 280,118"
+                    fill="#c62828"
+                    opacity="0.85"/>
+
+
+                <!-- Ray 1: parallel incident ray -->
+                <line
+                    x1="120"
+                    y1="106"
+                    x2="240"
+                    y2="106"
+                    stroke="#2a3a6a"
+                    stroke-width="1.3"/>
+
+                <!-- Actual reflected ray -->
+                <line
+                    x1="240"
+                    y1="106"
+                    x2="80"
+                    y2="42"
+                    stroke="#2a3a6a"
+                    stroke-width="1.3"/>
+
+                <!-- Backward extension through F -->
+                <line
+                    x1="240"
+                    y1="106"
+                    x2="300"
+                    y2="130"
+                    stroke="#2a3a6a"
+                    stroke-width="1"
+                    stroke-dasharray="3,2"/>
+
+
+                <!-- Ray 2: directed towards F -->
+                <line
+                    x1="120"
+                    y1="106"
+                    x2="240"
+                    y2="122"
+                    stroke="#8b6fcb"
+                    stroke-width="1.3"/>
+
+                <!-- Extension of incident ray toward F -->
+                <line
+                    x1="240"
+                    y1="122"
+                    x2="300"
+                    y2="130"
+                    stroke="#8b6fcb"
+                    stroke-width="1"
+                    stroke-dasharray="3,2"/>
+
+                <!-- Actual reflected ray parallel to axis -->
+                <line
+                    x1="240"
+                    y1="122"
+                    x2="70"
+                    y2="122"
+                    stroke="#8b6fcb"
+                    stroke-width="1.3"/>
+
+                <!-- Backward extension of reflected ray -->
+                <line
+                    x1="240"
+                    y1="122"
+                    x2="300"
+                    y2="122"
+                    stroke="#8b6fcb"
+                    stroke-width="1"
+                    stroke-dasharray="3,2"/>
+
+
+                <text
+                    x="240"
+                    y="235"
+                    font-size="10"
+                    text-anchor="middle"
+                    fill="#888">
+                    Convex mirror: image always behind, small, upright
+                </text>
+
+            </svg>
+
+        </div>
+
+
+        <div class="highlight-box">
+            Unlike a concave mirror, a convex mirror gives this exact same image type — virtual, erect, diminished — no matter how far or close the object is. This wide, undistorted field of view is why convex mirrors are used for vehicle side mirrors.
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-convex-lens-ray-diagrams-part-1">
+
+    <div style="display:flex; flex-direction:column; gap:18px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Convex Lens — Beyond 2F</h3>
+
+            <p>
+                <strong>Real</strong> · Diminished
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <!-- Principal axis -->
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+
+                    <!-- Convex lens -->
+                    <line
+                        x1="240" y1="30"
+                        x2="240" y2="230"
+                        stroke="#2a78d6"
+                        stroke-width="3"/>
+
+                    <path
+                        d="M 235 30 L 240 40 L 245 30"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+                    <path
+                        d="M 235 230 L 240 220 L 245 230"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+
+                    <!-- F -->
+                    <circle
+                        cx="300"
+                        cy="130"
+                        r="2"
+                        fill="#e04848"/>
+
+                    <text
+                        x="300"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <!-- 2F -->
+                    <circle
+                        cx="360"
+                        cy="130"
+                        r="2"
+                        fill="#eda100"/>
+
+                    <text
+                        x="360"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        2F
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="60"
+                        y1="130"
+                        x2="60"
+                        y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="56,110 64,110 60,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="330"
+                        y1="130"
+                        x2="330"
+                        y2="142"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="326,138 334,138 330,146"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel, then through F -->
+                    <line
+                        x1="60"
+                        y1="106"
+                        x2="240"
+                        y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240"
+                        y1="106"
+                        x2="330"
+                        y2="142"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through optical centre -->
+                    <line
+                        x1="60"
+                        y1="106"
+                        x2="330"
+                        y2="142"
+                        stroke="#8b6fcb"
+                        stroke-width="1.1"/>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                Image forms between F and 2F on the far side — real, inverted, smaller. This is how a camera lens forms an image of a distant scene.
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Convex Lens — At 2F</h3>
+
+            <p>
+                <strong>Real</strong> · Same Size
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <!-- Principal axis -->
+                    <line
+                        x1="10"
+                        y1="130"
+                        x2="470"
+                        y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+
+                    <!-- Convex lens -->
+                    <line
+                        x1="240"
+                        y1="30"
+                        x2="240"
+                        y2="230"
+                        stroke="#2a78d6"
+                        stroke-width="3"/>
+
+                    <path
+                        d="M 235 30 L 240 40 L 245 30"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+                    <path
+                        d="M 235 230 L 240 220 L 245 230"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+
+                    <!-- F -->
+                    <circle
+                        cx="300"
+                        cy="130"
+                        r="2"
+                        fill="#e04848"/>
+
+                    <text
+                        x="300"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <!-- 2F -->
+                    <circle
+                        cx="120"
+                        cy="130"
+                        r="2"
+                        fill="#eda100"/>
+
+                    <text
+                        x="112"
+                        y="118"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        2F
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="120"
+                        y1="130"
+                        x2="120"
+                        y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="116,110 124,110 120,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="360"
+                        y1="130"
+                        x2="360"
+                        y2="154"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="356,150 364,150 360,158"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel, then through F -->
+                    <line
+                        x1="120"
+                        y1="106"
+                        x2="240"
+                        y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240"
+                        y1="106"
+                        x2="360"
+                        y2="154"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through optical centre -->
+                    <line
+                        x1="120"
+                        y1="106"
+                        x2="360"
+                        y2="154"
+                        stroke="#8b6fcb"
+                        stroke-width="1.1"/>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                Object and image both sit exactly at 2F on either side — same size, real, inverted. This is the one position where magnification equals exactly −1.
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-convex-lens-ray-diagrams-part-2">
+
+    <div style="display:flex; flex-direction:column; gap:18px;">
+
+
+        <div class="gdl-card">
+
+            <h3>Convex Lens — Between F and 2F</h3>
+
+            <p>
+                <strong>Real</strong> · Magnified
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <!-- Principal axis -->
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+
+                    <!-- Convex lens -->
+                    <line
+                        x1="240" y1="30"
+                        x2="240" y2="230"
+                        stroke="#2a78d6"
+                        stroke-width="3"/>
+
+                    <path
+                        d="M 235 30 L 240 40 L 245 30"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+                    <path
+                        d="M 235 230 L 240 220 L 245 230"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+
+                    <!-- F -->
+                    <circle
+                        cx="300"
+                        cy="130"
+                        r="2"
+                        fill="#e04848"/>
+
+                    <text
+                        x="300"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <!-- 2F -->
+                    <circle
+                        cx="360"
+                        cy="130"
+                        r="2"
+                        fill="#eda100"/>
+
+                    <text
+                        x="360"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#eda100">
+                        2F
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="150" y1="130"
+                        x2="150" y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="146,110 154,110 150,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Image -->
+                    <line
+                        x1="420" y1="130"
+                        x2="420" y2="178"
+                        stroke="#c62828"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="416,172 424,172 420,182"
+                        fill="#c62828"/>
+
+
+                    <!-- Ray 1: parallel, then through F -->
+                    <line
+                        x1="150" y1="106"
+                        x2="240" y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240" y1="106"
+                        x2="420" y2="178"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+
+                    <!-- Ray 2: through optical centre -->
+                    <line
+                        x1="150" y1="106"
+                        x2="420" y2="178"
+                        stroke="#8b6fcb"
+                        stroke-width="1.1"/>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                Image forms beyond 2F — real, inverted, and now larger than the object. This is the principle behind a slide/film projector.
+            </div>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <h3>Convex Lens — Between O and F</h3>
+
+            <p>
+                <strong>Virtual</strong> · Erect · Magnified
+            </p>
+
+            <div style="width:100%; overflow-x:auto;">
+
+                <svg
+                    viewBox="0 0 480 260"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="display:block; width:100%; height:auto;">
+
+                    <!-- Principal axis -->
+                    <line
+                        x1="10" y1="130"
+                        x2="470" y2="130"
+                        stroke="#bbb"
+                        stroke-width="1"
+                        stroke-dasharray="4,3"/>
+
+
+                    <!-- Convex lens -->
+                    <line
+                        x1="240" y1="30"
+                        x2="240" y2="230"
+                        stroke="#2a78d6"
+                        stroke-width="3"/>
+
+                    <path
+                        d="M 235 30 L 240 40 L 245 30"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+                    <path
+                        d="M 235 230 L 240 220 L 245 230"
+                        fill="none"
+                        stroke="#2a78d6"
+                        stroke-width="2"/>
+
+
+                    <!-- Left focal point -->
+                    <circle
+                        cx="180"
+                        cy="130"
+                        r="2"
+                        fill="#e04848"/>
+
+                    <text
+                        x="180"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <!-- Right focal point -->
+                    <circle
+                        cx="300"
+                        cy="130"
+                        r="2"
+                        fill="#e04848"/>
+
+                    <text
+                        x="300"
+                        y="145"
+                        font-size="10"
+                        text-anchor="middle"
+                        fill="#e04848">
+                        F
+                    </text>
+
+
+                    <!-- Object -->
+                    <line
+                        x1="210"
+                        y1="130"
+                        x2="210"
+                        y2="106"
+                        stroke="#1baf7a"
+                        stroke-width="2.5"/>
+
+                    <polygon
+                        points="206,110 214,110 210,102"
+                        fill="#1baf7a"/>
+
+
+                    <!-- Virtual image -->
+                    <line
+                        x1="180"
+                        y1="130"
+                        x2="180"
+                        y2="82"
+                        stroke="#c62828"
+                        stroke-width="2"
+                        stroke-dasharray="4,3"/>
+
+                    <polygon
+                        points="176,88 184,88 180,80"
+                        fill="#c62828"
+                        opacity="0.85"/>
+
+
+                    <!-- Ray 1: parallel to axis -->
+                    <line
+                        x1="210"
+                        y1="106"
+                        x2="240"
+                        y2="106"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <!-- Actual refracted ray through right F -->
+                    <line
+                        x1="240"
+                        y1="106"
+                        x2="420"
+                        y2="178"
+                        stroke="#2a3a6a"
+                        stroke-width="1.3"/>
+
+                    <!-- Backward extension -->
+                    <line
+                        x1="240"
+                        y1="106"
+                        x2="180"
+                        y2="82"
+                        stroke="#2a3a6a"
+                        stroke-width="1"
+                        stroke-dasharray="3,2"/>
+
+
+                    <!-- Ray 2: through optical centre -->
+                    <line
+                        x1="210"
+                        y1="106"
+                        x2="240"
+                        y2="130"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <line
+                        x1="240"
+                        y1="130"
+                        x2="360"
+                        y2="226"
+                        stroke="#8b6fcb"
+                        stroke-width="1.3"/>
+
+                    <!-- Backward extension -->
+                    <line
+                        x1="240"
+                        y1="130"
+                        x2="180"
+                        y2="82"
+                        stroke="#8b6fcb"
+                        stroke-width="1"
+                        stroke-dasharray="3,2"/>
+
+                </svg>
+
+            </div>
+
+
+            <div class="highlight-box">
+                The refracted rays diverge — the dashed lines show where they appear to originate, on the same side as the object. This is exactly how a magnifying glass works.
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-complete-reference">
+
+    <h2>
+        Complete Reference — All Cases Including the "At F" Position
+    </h2>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table
+                class="checklist-table"
+                style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th>Object Position</th>
+                        <th>Concave Mirror Image</th>
+                        <th>Convex Lens Image</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Beyond C / 2F</td>
+                        <td>Real, inverted, diminished (between F,C)</td>
+                        <td>Real, inverted, diminished (between F,2F)</td>
+                    </tr>
+
+                    <tr>
+                        <td>At C / 2F</td>
+                        <td>Real, inverted, same size, at C</td>
+                        <td>Real, inverted, same size, at 2F</td>
+                    </tr>
+
+                    <tr>
+                        <td>Between C/2F and F</td>
+                        <td>Real, inverted, magnified, beyond C</td>
+                        <td>Real, inverted, magnified, beyond 2F</td>
+                    </tr>
+
+                    <tr>
+                        <td>At F</td>
+                        <td>Image at infinity, highly magnified</td>
+                        <td>Image at infinity, highly magnified</td>
+                    </tr>
+
+                    <tr>
+                        <td>Between F and pole/centre</td>
+                        <td>Virtual, erect, magnified, behind mirror</td>
+                        <td>Virtual, erect, magnified, same side as object</td>
+                    </tr>
+
+                    <tr>
+                        <td>Convex mirror / Concave lens</td>
+                        <td colspan="2">
+                            Always virtual, erect, diminished — regardless of object position
+                        </td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-numericals-part-1">
+
+    <h2>
+        Numericals
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N1</div>
+
+            <h3>Mirror Formula</h3>
+
+            <p>
+                A concave mirror has a focal length of 15 cm. An object is placed 20 cm in front of it. Find the image distance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Apply sign convention</h3>
+
+                            <p>
+                                f = −15 cm, u = −20 cm
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    1/v = 1/f − 1/u = 1/(−15) − 1/(−20) = −4/60+3/60 = −1/60
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>v = −60 cm (real image, 60 cm in front of the mirror)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N2</div>
+
+            <h3>Mirror Formula — Find f</h3>
+
+            <p>
+                An object placed 30 cm from a mirror forms a real image 10 cm from the mirror. Find the focal length.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Both real, so both negative</h3>
+
+                            <p>
+                                u = −30 cm, v = −10 cm
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    1/f = 1/v + 1/u = 1/(−10)+1/(−30) = −4/30
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>f = −7.5 cm (concave mirror)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N3</div>
+
+            <h3>Magnification</h3>
+
+            <p>
+                An object at 20 cm from a mirror forms an image at 40 cm. Find the magnification and describe the image.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    m = −v/u = −(−40)/(−20)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>m = −2 (inverted, real, magnified — twice the object's size)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N4</div>
+
+            <h3>Lens Formula</h3>
+
+            <p>
+                A convex lens of focal length 20 cm forms an image of an object placed 30 cm from it. Find the image distance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <p>
+                                f = +20 cm, u = −30 cm
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    1/v = 1/f + 1/u = 1/20 + 1/(−30) = 3/60−2/60 = 1/60
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>v = 60 cm (real image, on the far side of the lens)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N5</div>
+
+            <h3>Power of a Lens</h3>
+
+            <p>
+                A convex lens has a focal length of 25 cm. Find its power.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <p>
+                                Convert to metres: f = 0.25 m
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    P = 1/f = 1/0.25
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = +4 D</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-numericals-part-2">
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N6</div>
+
+            <h3>Power of a Concave Lens</h3>
+
+            <p>
+                A concave lens has a focal length of −40 cm. Find its power.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = 1/f = 1/(−0.40)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = −2.5 D</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: dropping the negative sign. A concave lens always has negative focal length and negative power — this sign is part of the answer, not an error to "fix."
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N7</div>
+
+            <h3>Focal Length from Power</h3>
+
+            <p>
+                A lens has a power of +4 D. Find its focal length in cm.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    f = 1/P = 1/4 m = 0.25 m
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>f = 25 cm</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N8</div>
+
+            <h3>Refractive Index</h3>
+
+            <p>
+                Light travels at 2×10⁸ m/s in a certain medium. Find its refractive index. (Speed of light in vacuum = 3×10⁸ m/s)
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    n = c/v = (3×10⁸)/(2×10⁸)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>n = 1.5</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N9</div>
+
+            <h3>Snell's Law</h3>
+
+            <p>
+                Light travelling from air into glass (refractive index 1.5) has an angle of incidence of 30°. Find the angle of refraction.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    n = sin i / sin r → sin r = sin 30° / 1.5 = 0.5/1.5 = 0.333
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>r ≈ 19.5° (bends toward the normal, since it's entering a denser medium)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">N10</div>
+
+            <h3>Combination of Lenses</h3>
+
+            <p>
+                Two lenses of focal length +20 cm and −10 cm are placed in contact. Find the combined power.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <p>
+                                Powers of lenses in contact simply add.
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    P = 1/0.20 + 1/(−0.10) = 5 + (−10)
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Combined power = −5 D (net effect is like a concave lens)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-light-important-conceptual-questions">
+
+    <h2>
+        Important Conceptual Questions
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does a convex mirror always form a virtual image, regardless of object distance?
+            </h3>
+
+            <p>
+                A convex mirror curves away from the object, so reflected rays always diverge rather than converge — they never actually cross in front of the mirror. The image is formed only where these diverging rays appear to meet when extended backward behind the mirror, which is by definition a virtual image.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is the difference between the focal length of a concave mirror and a convex mirror in terms of sign convention?
+            </h3>
+
+            <p>
+                By the Cartesian sign convention, distances measured in the direction of incident light are positive, and against it are negative. A concave mirror's focus lies in front of it (same side as the object), so its focal length is taken as negative. A convex mirror's focus lies behind it, so its focal length is taken as positive.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does light bend when passing from one medium to another?
+            </h3>
+
+            <p>
+                Light bends because its speed changes when it enters a medium of different optical density — this change in speed at the boundary between two media causes the direction of travel to change, provided the light isn't hitting the boundary exactly perpendicular. This bending is what we call refraction.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is the power of a lens, and why is it measured in dioptres?
+            </h3>
+
+            <p>
+                Power measures how strongly a lens converges or diverges light, and is defined as the reciprocal of the focal length in metres. It's measured in dioptres (D) specifically because using metres for focal length gives power values that are convenient, practical numbers for real lenses — such as those used in spectacles — rather than the very large or small numbers that would result from other length units.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why is the image formed by a plane mirror always virtual, erect, and the same size as the object?
+            </h3>
+
+            <p>
+                A plane mirror has zero curvature, meaning it doesn't converge or diverge reflected rays at all — every ray simply reflects at an equal angle without bending toward or away from any focus. This means the image always forms exactly as far behind the mirror as the object is in front, at the same size and orientation, and can only be located by extending the reflected rays backward — making it inherently virtual.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                A student wants to obtain a real, magnified image using a concave mirror. Where should the object be placed?
+            </h3>
+
+            <p>
+                The object should be placed between the centre of curvature (C) and the focus (F). In this range, the image forms beyond C, is real, inverted, and larger than the object. Placing it exactly at F would send the image to infinity, and placing it closer than F would switch to a virtual, erect image instead.
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Ray Diagrams and Numericals Test Different Skills — Track Them Separately
+    </h2>
+
+    <p>
+        A student who can solve the mirror formula correctly might still struggle to sketch the right ray diagram for the same scenario, or vice versa. These are genuinely separate skills, and a single chapter score won't tell you which one needs more work.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after working through Light practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Numericals — mirror &amp; lens formula
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:83%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                83%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Power &amp; refractive index problems
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:68%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                68%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Ray diagram construction
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:46%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                46%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Identifying image type from position
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:30%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                30%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: identifying image type from object position (30%) — not more formula drilling. Genelis tracks diagram and numerical skills separately, since strength in one doesn't guarantee strength in the other.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy across numericals, conceptual questions, and diagram-based reasoning separately for Light, so gaps in visual understanding don't hide behind a strong numerical score. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Skill-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that skill
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-light&utm_content=cta-inline">
+        Practise unlimited fresh Light problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For chapter strategy and the complete Class 10 Science formula reference, see the <a href="/blog/class-10-science-high-yield-topics-cbse-2026">complete Class 10 Science guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What are the different image cases for a concave mirror?"
+            ),
+            "answer": (
+                "A concave mirror produces five distinct cases depending on "
+                "object position: beyond the centre of curvature C (real, "
+                "inverted, diminished image between C and F), at C (real, "
+                "inverted, same size, at C), between C and F (real, inverted, "
+                "magnified, beyond C), at F (image forms at infinity, highly "
+                "magnified), and between F and the pole (virtual, erect, "
+                "magnified image formed behind the mirror). A convex mirror, "
+                "by contrast, always produces a virtual, erect, diminished "
+                "image regardless of object position."
+            )
+        },
+        {
+            "question": (
+                "What are the different image cases for a convex lens?"
+            ),
+            "answer": (
+                "A convex lens produces five cases depending on object position: "
+                "beyond 2F (real, inverted, diminished image between F and 2F "
+                "on the other side), at 2F (real, inverted, same size, at 2F "
+                "on the other side), between F and 2F (real, inverted, "
+                "magnified image beyond 2F), at F (image at infinity), and "
+                "between the optical centre and F (virtual, erect, magnified "
+                "image on the same side as the object). A concave lens always "
+                "produces a virtual, erect, diminished image between the "
+                "optical centre and F, regardless of object position."
+            )
+        },
+        {
+            "question": (
+                "Why do ray diagrams use two specific rays instead of just one?"
+            ),
+            "answer": (
+                "A single ray only shows one path light could take — it doesn't "
+                "pin down where the image actually forms. Using two rays with "
+                "known, predictable behaviour (one parallel to the principal "
+                "axis that passes through the focus after reflection or "
+                "refraction, and one passing through the centre of curvature "
+                "for a mirror or the optical centre for a lens that continues "
+                "undeviated) means their intersection point uniquely determines "
+                "the image location. A third ray through the focus, emerging "
+                "parallel to the axis, is often added only to double-check "
+                "the construction."
+            )
+        },
+        {
+            "question": (
+                "How can I tell from a ray diagram whether an image is "
+                "real or virtual?"
+            ),
+            "answer": (
+                "If the actual reflected or refracted rays physically converge "
+                "and cross at a point, the image is real and can be captured "
+                "on a screen at that location — this is drawn with solid lines "
+                "all the way to the intersection. If the rays instead diverge "
+                "after reflection or refraction, no real crossing point exists; "
+                "the image is virtual, formed only where the rays appear to "
+                "come from when extended backward, which is drawn using dashed "
+                "lines behind the mirror or on the object's side of the lens."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-electricity-numericals-40-solved-problems",
+        "class-10-science-high-yield-topics-cbse-2026"
+
+        # Add after the Carbon blog is published:
+        # "class-10-carbon-compounds-reactions-revision-sheet"
+    ]
+},
+{
+    "slug": "class-10-electricity-numericals-40-solved-problems",
+
+    "title": (
+        "Class 10 Science Electricity Numericals: "
+        "40 Solved Problems for CBSE 2027"
+    ),
+
+    "meta_title": (
+        "Class 10 Science Electricity Numericals: "
+        "40 Solved Problems for CBSE 2027 | Genelis"
+    ),
+
+    "meta_description": (
+        "40 original Electricity problems covering every numerical type "
+        "CBSE Class 10 tests — Ohm's Law, resistance from resistivity, "
+        "series and parallel circuits, combination circuits, electric power, "
+        "energy cost calculations, and the heating effect — each with a "
+        "complete, independently verified step-by-step solution."
+    ),
+
+    "excerpt": (
+        "40 original problems, every numerical type covered, every answer "
+        "independently verified. Attempt each one before revealing the solution."
+    ),
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-27T09:00:00+05:30",
+
+    "updated_date": "2026-08-27T09:00:00+05:30",
+
+    "reading_time": "21 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Science Electricity numericals with "
+        "40 solved problems for CBSE 2027"
+    ),
+
+    "keywords": [
+        "class 10 electricity numericals",
+        "Ohm's law solved problems",
+        "series parallel circuit numericals class 10",
+        "electrical energy cost calculation",
+        "heating effect of current numericals",
+        "class 10 science electricity CBSE 2027"
+    ],
+
+    "content": """
+    <section id="class10-electricity-introduction">
+
+    <p>
+        Electricity numericals in Class 10 Science cluster into a handful of recurring formulas — once you've seen the full landscape mapped out, "which formula do I use here" stops being the hard part. This is 40 original problems, 5 for every distinct type, each with a complete solution you can follow line by line.
+    </p>
+
+    <div class="highlight-box">
+        <p style="margin:0;">and the Electricity topics covered on this page remain part of the current CBSE Class 10 Science curriculum, so every topic here remains examinable.
+            <strong>How to use this page:</strong> Attempt each problem fully on paper before tapping "Reveal Solution" — check your working, not just your final number. Every single calculation on this page was computed and independently verified before publishing, and , so every topic here remains fully examinable.
+        </p>
+    </div>
+
+
+    <p>
+        <strong>Quick formula reference used throughout:</strong>
+    </p>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table class="checklist-table" style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th style="width:38%;">What it finds</th>
+                        <th>Formula</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Ohm's Law</td>
+                        <td>V = IR</td>
+                    </tr>
+
+                    <tr>
+                        <td>Resistance from resistivity</td>
+                        <td>R = ρL/A</td>
+                    </tr>
+
+                    <tr>
+                        <td>Series resistors</td>
+                        <td>R = R₁ + R₂ + R₃ + ...</td>
+                    </tr>
+
+                    <tr>
+                        <td>Parallel resistors</td>
+                        <td>1/R = 1/R₁ + 1/R₂ + 1/R₃ + ...</td>
+                    </tr>
+
+                    <tr>
+                        <td>Power</td>
+                        <td>P = VI = I²R = V²/R</td>
+                    </tr>
+
+                    <tr>
+                        <td>Electrical energy</td>
+                        <td>E (kWh) = Power(kW) × Time(h)</td>
+                    </tr>
+
+                    <tr>
+                        <td>Heat produced</td>
+                        <td>H = I²Rt</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-question-types">
+
+    <h2>
+        Every Numerical Type Covered
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">1</div>
+            <p>Ohm's Law — direct application</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">2</div>
+            <p>Resistance from resistivity</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">3</div>
+            <p>Resistors in series</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">4</div>
+            <p>Resistors in parallel</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">5</div>
+            <p>Combination circuits</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">6</div>
+            <p>Electric power</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">7</div>
+            <p>Electrical energy &amp; cost</p>
+        </div>
+
+        <div class="gdl-card">
+            <div class="gdl-prep-index">8</div>
+            <p>Heating effect of current</p>
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-1">
+
+    <h2>
+        Type 1 · Ohm's Law
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.1</div>
+
+            <h3>Find V</h3>
+
+            <p>
+                A current of 2 A flows through a resistor of 5 Ω. Find the voltage across it.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    V = IR = 2 × 5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>V = 10 V</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.2</div>
+
+            <h3>Find I</h3>
+
+            <p>
+                A resistor of 4 Ω is connected to a 12 V battery. Find the current flowing through it.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    I = V/R = 12/4
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>I = 3 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.3</div>
+
+            <h3>Find R</h3>
+
+            <p>
+                A 24 V source drives a current of 3 A through a resistor. Find the resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R = V/I = 24/3
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R = 8 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.4</div>
+
+            <h3>Find V</h3>
+
+            <p>
+                A current of 0.5 A flows through a 20 Ω resistor. Find the voltage across it.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    V = IR = 0.5 × 20
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>V = 10 V</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.5</div>
+
+            <h3>Find R</h3>
+
+            <p>
+                A household appliance draws 2 A of current from a 220 V mains supply. Find its resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R = V/I = 220/2
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R = 110 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-2">
+
+    <h2>
+        Type 2 · Resistance from Resistivity
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.1</div>
+
+            <h3>R = ρL/A</h3>
+
+            <p>
+                A copper wire of length 5 m has a cross-sectional area of 1 mm². Given the resistivity of copper is 1.7×10⁻⁸ Ω·m, find its resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Convert area to m²</h3>
+
+                            <p>
+                                1 mm² = 1×10⁻⁶ m²
+                            </p>
+
+                            <div class="highlight-box">
+                                R = ρL/A = (1.7×10⁻⁸ × 5) / (1×10⁻⁶)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R = 0.085 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.2</div>
+
+            <h3>R = ρL/A</h3>
+
+            <p>
+                A nichrome wire of length 2 m has a cross-sectional area of 0.5 mm². Given resistivity 1.1×10⁻⁶ Ω·m, find its resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Convert area</h3>
+
+                            <p>
+                                0.5 mm² = 0.5×10⁻⁶ m²
+                            </p>
+
+                            <div class="highlight-box">
+                                R = (1.1×10⁻⁶ × 2) / (0.5×10⁻⁶)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R = 4.4 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.3</div>
+
+            <h3>R = ρL/A</h3>
+
+            <p>
+                An iron wire of length 10 m has a cross-sectional area of 2 mm². Given resistivity 1.0×10⁻⁷ Ω·m, find its resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Convert area</h3>
+
+                            <p>
+                                2 mm² = 2×10⁻⁶ m²
+                            </p>
+
+                            <div class="highlight-box">
+                                R = (1.0×10⁻⁷ × 10) / (2×10⁻⁶)
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R = 0.5 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.4</div>
+
+            <h3>Effect of Stretching</h3>
+
+            <p>
+                A wire of resistance 10 Ω is stretched uniformly until its length is doubled (volume stays constant). Find its new resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Volume is constant, so if length doubles, area halves
+                            </h3>
+
+                            <p>
+                                New R = ρ(2L)/(A/2) = 4 × ρL/A = 4 × original R
+                            </p>
+
+                            <div class="highlight-box">
+                                New R = 4 × 10
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>New resistance = 40 Ω</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: assuming resistance simply doubles when length doubles. Because area also changes (to keep volume constant), the actual increase is by a factor of 4, not 2.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.5</div>
+
+            <h3>Ratio Problem</h3>
+
+            <p>
+                Two wires are made of the same material and have the same length, but their radii are in the ratio 1:2. Find the ratio of their resistances.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Resistance is inversely proportional to area, and area ∝ radius²
+                            </h3>
+
+                            <p>
+                                R ∝ 1/r²
+                            </p>
+
+                            <div class="highlight-box">
+                                R₁:R₂ = (1/r₁²) : (1/r₂²) = r₂² : r₁² = 4 : 1
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Resistance ratio = 4:1 (the thinner wire has 4 times the resistance)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-3">
+
+    <h2>
+        Type 3 · Resistors in Series
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.1</div>
+
+            <h3>Series Circuit</h3>
+
+            <p>
+                Resistors of 2 Ω, 3 Ω, and 5 Ω are connected in series to a 20 V battery. Find the total resistance and the current flowing.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R_total = 2+3+5 = 10 Ω. I = V/R = 20/10
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 10 Ω, I = 2 A (same through every resistor)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.2</div>
+
+            <h3>Series Circuit</h3>
+
+            <p>
+                Resistors of 4 Ω, 6 Ω, and 10 Ω are connected in series to a 40 V battery. Find the current and the voltage drop across the 10 Ω resistor.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R_total = 4+6+10 = 20 Ω. I = 40/20 = 2 A
+                </div>
+
+                <p>
+                    Voltage across 10Ω resistor = I×R = 2×10
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>I = 2 A, voltage across 10Ω resistor = 20 V</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.3</div>
+
+            <h3>Series Circuit</h3>
+
+            <p>
+                Four resistors of 1 Ω, 2 Ω, 3 Ω, and 4 Ω are connected in series to a 20 V battery. Find the current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R_total = 1+2+3+4 = 10 Ω. I = 20/10
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>I = 2 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.4</div>
+
+            <h3>Series Circuit</h3>
+
+            <p>
+                Two resistors, 5 Ω and 15 Ω, are connected in series to a 40 V battery. Find the current and the voltage drop across each.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R_total = 5+15 = 20 Ω. I = 40/20 = 2 A
+                </div>
+
+                <p>
+                    Voltage drops: 2×5=10V across the 5Ω, and 2×15=30V across the 15Ω
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>I = 2 A. Voltage drops: 10 V and 30 V (sum = 40 V, matching the battery ✓)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.5</div>
+
+            <h3>Series Circuit</h3>
+
+            <p>
+                Four identical 3 Ω resistors are connected in series to a 24 V battery. Find the current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    R_total = 3×4 = 12 Ω. I = 24/12
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>I = 2 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section><section id="class10-electricity-type-4">
+
+    <h2>
+        Type 4 · Resistors in Parallel
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.1</div>
+
+            <h3>Parallel Circuit</h3>
+
+            <p>
+                Resistors of 2 Ω and 3 Ω are connected in parallel to a 12 V battery. Find the equivalent resistance and total current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    1/R = 1/2 + 1/3 = 5/6 → R = 6/5 = 1.2 Ω
+                </div>
+
+                <p>
+                    Total current = V/R = 12/1.2
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_equivalent = 1.2 Ω, Total current = 10 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.2</div>
+
+            <h3>Parallel Circuit</h3>
+
+            <p>
+                Three identical 4 Ω resistors are connected in parallel to an 8 V battery. Find the equivalent resistance and the current through each resistor.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    1/R = 1/4+1/4+1/4 = 3/4 → R = 4/3 Ω
+                </div>
+
+                <p>
+                    Current through each (same V across each) = 8/4 = 2 A
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_equivalent = 4/3 Ω ≈ 1.33 Ω, current through each resistor = 2 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.3</div>
+
+            <h3>Parallel Circuit</h3>
+
+            <p>
+                Resistors of 6 Ω and 3 Ω are connected in parallel to a 6 V battery. Find the equivalent resistance and the current through each.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    1/R = 1/6+1/3 = 1/2 → R = 2 Ω
+                </div>
+
+                <p>
+                    Current through 6Ω = 6/6 = 1A. Current through 3Ω = 6/3 = 2A
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_equivalent = 2 Ω. Currents: 1 A and 2 A (total = 3 A)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.4</div>
+
+            <h3>Parallel Circuit</h3>
+
+            <p>
+                Resistors of 10 Ω, 15 Ω, and 30 Ω are connected in parallel to a 30 V battery. Find the equivalent resistance.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    1/R = 1/10+1/15+1/30 = 3/30+2/30+1/30 = 6/30 = 1/5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_equivalent = 5 Ω</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.5</div>
+
+            <h3>Parallel Circuit</h3>
+
+            <p>
+                Resistors of 5 Ω and 20 Ω are connected in parallel to a 20 V battery. Find the current through each resistor.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Same voltage (20V) across each resistor in parallel
+                            </h3>
+
+                            <p>
+                                Current through 5Ω = 20/5 = 4A. Current through 20Ω = 20/20 = 1A
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Currents: 4 A and 1 A (total current from battery = 5 A)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-5">
+
+    <h2>
+        Type 5 · Combination Circuits
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.1</div>
+
+            <h3>Series + Parallel</h3>
+
+            <p>
+                A 4 Ω resistor is connected in series with a parallel combination of 6 Ω and 3 Ω resistors, all connected to an 18 V battery. Find the total resistance, total current, and voltage across the parallel section.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Step 1 — Resolve the parallel section</h3>
+
+                            <p>
+                                1/R = 1/6+1/3 = 1/2 → R_parallel = 2 Ω
+                            </p>
+
+                            <div class="highlight-box">
+                                R_total = 4 (series) + 2 (parallel) = 6 Ω
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Total current</h3>
+
+                            <p>
+                                I = 18/6 = 3 A
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Voltage across the parallel section</h3>
+
+                            <p>
+                                V = I × R_parallel = 3 × 2
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 6 Ω, I = 3 A, Voltage across parallel section = 6 V</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.2</div>
+
+            <h3>Series + Parallel</h3>
+
+            <p>
+                A 2 Ω resistor is in series with a parallel combination of two 4 Ω resistors, connected to a 10 V battery. Find the total resistance and total current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Parallel section</h3>
+
+                            <p>
+                                1/R = 1/4+1/4 = 1/2 → R_parallel = 2 Ω
+                            </p>
+
+                            <div class="highlight-box">
+                                R_total = 2+2 = 4 Ω. I = 10/4
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 4 Ω, I = 2.5 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.3</div>
+
+            <h3>Series + Parallel</h3>
+
+            <p>
+                A 5 Ω resistor is in series with a parallel combination of two 10 Ω resistors, connected to a 15 V battery. Find the total resistance and total current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Parallel section</h3>
+
+                            <p>
+                                1/R = 1/10+1/10 = 1/5 → R_parallel = 5 Ω
+                            </p>
+
+                            <div class="highlight-box">
+                                R_total = 5+5 = 10 Ω. I = 15/10
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 10 Ω, I = 1.5 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.4</div>
+
+            <h3>Series + Parallel</h3>
+
+            <p>
+                A 3 Ω resistor is in series with a parallel combination of two 8 Ω resistors, connected to a 14 V battery. Find the total resistance and total current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Parallel section</h3>
+
+                            <p>
+                                1/R = 1/8+1/8 = 1/4 → R_parallel = 4 Ω
+                            </p>
+
+                            <div class="highlight-box">
+                                R_total = 3+4 = 7 Ω. I = 14/7
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 7 Ω, I = 2 A</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.5</div>
+
+            <h3>Series + Parallel</h3>
+
+            <p>
+                A 1 Ω resistor is in series with a parallel combination of 6 Ω and 3 Ω resistors, connected to a 9 V battery. Find the total resistance and total current.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Parallel section</h3>
+
+                            <p>
+                                1/R = 1/6+1/3 = 1/2 → R_parallel = 2 Ω
+                            </p>
+
+                            <div class="highlight-box">
+                                R_total = 1+2 = 3 Ω. I = 9/3
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>R_total = 3 Ω, I = 3 A</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: adding all resistors as if they were all in series, or all in parallel, without first identifying which specific resistors are grouped together. Always resolve the smaller sub-combination first, exactly as you would with brackets in an arithmetic expression.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-6">
+
+    <h2>
+        Type 6 · Electric Power
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.1</div>
+
+            <h3>P = VI</h3>
+
+            <p>
+                An appliance operates at 220 V and draws a current of 5 A. Find the power consumed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = VI = 220 × 5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = 1100 W</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.2</div>
+
+            <h3>P = I²R</h3>
+
+            <p>
+                A current of 2 A flows through a 10 Ω resistor. Find the power dissipated.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = I²R = 2² × 10
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = 40 W</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.3</div>
+
+            <h3>P = V²/R</h3>
+
+            <p>
+                A resistor of 55 Ω is connected to a 110 V supply. Find the power consumed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = V²/R = 110²/55 = 12100/55
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = 220 W</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.4</div>
+
+            <h3>P = VI</h3>
+
+            <p>
+                A torch bulb operates at 12 V and draws 0.5 A of current. Find its power rating.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = VI = 12 × 0.5
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = 6 W</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">6.5</div>
+
+            <h3>P = I²R</h3>
+
+            <p>
+                A current of 3 A flows through a 20 Ω heating coil. Find the power dissipated.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    P = I²R = 3² × 20
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>P = 180 W</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-7">
+
+    <h2>
+        Type 7 · Electrical Energy &amp; Cost
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.1</div>
+
+            <h3>Energy Cost</h3>
+
+            <p>
+                A 1000 W heater is used for 5 hours a day for 30 days. Find the electrical energy consumed in kWh and the cost at ₹6 per unit.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Energy = (1000/1000) × 5 × 30 = 150 kWh
+                </div>
+
+                <p>
+                    Cost = 150 × 6
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>Energy = 150 kWh (units), Cost = ₹900</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.2</div>
+
+            <h3>Energy Cost</h3>
+
+            <p>
+                A 60 W bulb is used for 6 hours a day for 30 days. Find the electrical energy consumed and the cost at ₹8 per unit.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Energy = (60/1000) × 6 × 30 = 10.8 kWh
+                </div>
+
+                <p>
+                    Cost = 10.8 × 8
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>Energy = 10.8 kWh, Cost = ₹86.40</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.3</div>
+
+            <h3>Energy Cost</h3>
+
+            <p>
+                A 1500 W geyser is used for 4 hours a day for 20 days. Find the electrical energy consumed and the cost at ₹5 per unit.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Energy = (1500/1000) × 4 × 20 = 120 kWh
+                </div>
+
+                <p>
+                    Cost = 120 × 5
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>Energy = 120 kWh, Cost = ₹600</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.4</div>
+
+            <h3>Energy Cost</h3>
+
+            <p>
+                A 100 W device is used for 10 hours a day for 30 days. Find the electrical energy consumed and the cost at ₹7 per unit.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Energy = (100/1000) × 10 × 30 = 30 kWh
+                </div>
+
+                <p>
+                    Cost = 30 × 7
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>Energy = 30 kWh, Cost = ₹210</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">7.5</div>
+
+            <h3>Energy Cost</h3>
+
+            <p>
+                A 2000 W appliance is used for 3 hours a day for 25 days. Find the electrical energy consumed and the cost at ₹6 per unit.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Energy = (2000/1000) × 3 × 25 = 150 kWh
+                </div>
+
+                <p>
+                    Cost = 150 × 6
+                </p>
+
+                <div class="highlight-box">
+                    ✓ <strong>Energy = 150 kWh, Cost = ₹900</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: forgetting to convert watts to kilowatts before multiplying by hours. The commercial "unit" of electricity is the kilowatt-hour, not the watt-hour — always divide power by 1000 first.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-electricity-type-8">
+
+    <h2>
+        Type 8 · Heating Effect of Current
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.1</div>
+
+            <h3>H = I²Rt</h3>
+
+            <p>
+                A current of 2 A flows through a 5 Ω resistor for 60 seconds. Find the heat produced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    H = I²Rt = 2² × 5 × 60
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H = 1200 J</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.2</div>
+
+            <h3>H = I²Rt</h3>
+
+            <p>
+                A current of 5 A flows through a 4 Ω heating element for 2 minutes. Find the heat produced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Convert time to seconds</h3>
+
+                            <p>
+                                2 minutes = 120 s
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    H = 5² × 4 × 120
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H = 12000 J</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.3</div>
+
+            <h3>H = I²Rt</h3>
+
+            <p>
+                A current of 1 A flows through a 10 Ω resistor for 5 minutes. Find the heat produced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>Convert time</h3>
+
+                            <p>
+                                5 minutes = 300 s
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    H = 1² × 10 × 300
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H = 3000 J</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.4</div>
+
+            <h3>H = I²Rt</h3>
+
+            <p>
+                A current of 3 A flows through an 8 Ω resistor for 100 seconds. Find the heat produced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    H = 3² × 8 × 100
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H = 7200 J</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">8.5</div>
+
+            <h3>H = I²Rt</h3>
+
+            <p>
+                A current of 4 A flows through a 2 Ω resistor for 150 seconds. Find the heat produced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    H = 4² × 2 × 150
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H = 4800 J</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: forgetting to square the current — H depends on I², not I, so doubling the current quadruples the heat produced, not just doubles it.
+                </div>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Which of These 8 Types Would You Actually Recognise Cold?
+    </h2>
+
+    <p>
+        Reading 40 solved problems and being able to solve fresh ones without the formula named for you are different skills. The real exam test is knowing which of these 8 patterns a new question belongs to, and which formula variant fits the data given.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after working through Electricity practice sets
+        </h4>
+
+        <div class="gdl-accuracy-row">
+            <div class="gdl-accuracy-label">
+                Ohm's Law &amp; resistivity
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:86%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                86%
+            </div>
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+            <div class="gdl-accuracy-label">
+                Series &amp; parallel circuits
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:69%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                69%
+            </div>
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+            <div class="gdl-accuracy-label">
+                Power &amp; energy cost
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:55%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                55%
+            </div>
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+            <div class="gdl-accuracy-label">
+                Combination circuits
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:32%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                32%
+            </div>
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: combination circuits (32%) — not more basic Ohm's Law practice. Genelis tracks accuracy by type, not just by chapter, so it knows exactly which pattern needs more reps.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled Electricity problems across all 8 types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Type-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that type
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step gdl-loop-step--result">
+            <span class="gdl-loop-number">Result</span>
+            Gap closed. Map updates. ✓
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-electricity&utm_content=cta-inline">
+        Practise unlimited fresh Electricity problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For chapter strategy and the complete Class 10 Science formula reference, see the <a href="/blog/class-10-science-high-yield-topics-cbse-2026">complete Class 10 Science guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What numerical types appear in CBSE Class 10 Electricity?"
+            ),
+            "answer": (
+                "Eight distinct types recur across CBSE Class 10 Electricity: "
+                "direct application of Ohm's Law, finding resistance from "
+                "resistivity and wire dimensions, resistors combined in series, "
+                "resistors combined in parallel, combination circuits mixing both, "
+                "electric power using its three equivalent formulas, electrical "
+                "energy and cost calculations for household appliances, and the "
+                "heating effect of current."
+            )
+        },
+        {
+            "question": (
+                "How does resistance change when a wire is stretched "
+                "to a different length?"
+            ),
+            "answer": (
+                "If a wire is stretched so that its length changes while its "
+                "total volume stays constant, its cross-sectional area must change "
+                "inversely to keep volume fixed. Since resistance is directly "
+                "proportional to length and inversely proportional to area, "
+                "stretching a wire to double its length (which halves its area, "
+                "since volume is constant) increases its resistance by a factor "
+                "of four, not just two — both the increased length and the "
+                "decreased area work in the same direction to raise resistance."
+            )
+        },
+        {
+            "question": (
+                "Is current the same or different across resistors connected "
+                "in series versus parallel?"
+            ),
+            "answer": (
+                "In a series circuit, the same current flows through every "
+                "resistor, since there is only one path for charge to flow, while "
+                "the voltage divides across each resistor according to its "
+                "resistance. In a parallel circuit, the situation is reversed — "
+                "the same voltage appears across every resistor, since each is "
+                "connected directly across the same two points, while the current "
+                "divides between the branches according to each resistor's value."
+            )
+        },
+        {
+            "question": (
+                "What is the difference between the three formulas for electric "
+                "power, and when should each be used?"
+            ),
+            "answer": (
+                "P=VI is the most general formula, usable whenever both voltage "
+                "and current are known. P=I²R is most useful when current and "
+                "resistance are known but voltage isn't directly given, such as "
+                "in a series circuit. P=V²/R is most useful when voltage and "
+                "resistance are known but current isn't directly given, such as "
+                "when calculating the power rating of a household appliance from "
+                "its voltage and resistance. All three are mathematically "
+                "equivalent and follow directly from combining P=VI with Ohm's Law."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-12-physics-electrostatics-current-electricity-practice-set",
+        "class-10-trigonometry-40-important-questions",
+        "class-10-science-high-yield-topics-cbse-2026"
+    ]
+},
+{
     "slug": "class-10-trigonometry-40-important-questions",
 
     "title": (
