@@ -1690,6 +1690,2382 @@ Whether your current score is 65%, 75%, or 85%, the next few months can look com
             "weak-area-detection-board-exams"
         ]
     },
+    {
+    "slug": "class-10-chemical-reactions-equations-practice-set",
+
+    "title": (
+        "Class 10 Science Chemical Reactions and Equations: "
+        "Practice Set with Solutions"
+    ),
+
+    "meta_title": (
+        "Class 10 Science Chemical Reactions and Equations: "
+        "Practice Set with Solutions | Genelis"
+    ),
+
+    "meta_description": (
+        "23 original problems covering every question type CBSE Class 10 "
+        "tests in Chemical Reactions and Equations — balancing equations, "
+        "identifying reaction types, predicting products, oxidation-reduction, "
+        "and double displacement — with step-by-step solutions."
+    ),
+
+    "excerpt": (
+        "23 original problems across five question types, with balanced "
+        "equations and step-by-step solutions. Attempt each one before "
+        "revealing the answer."
+    ),
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-29T09:00:00+05:30",
+
+    "updated_date": "2026-08-29T09:00:00+05:30",
+
+    "reading_time": "18 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Chemical Reactions and Equations practice set "
+        "with balancing, reaction types and solved questions"
+    ),
+
+    "keywords": [
+        "class 10 chemical reactions and equations practice",
+        "balancing chemical equations class 10",
+        "types of chemical reactions CBSE",
+        "oxidation reduction class 10",
+        "double displacement reaction examples"
+    ],
+
+    "content": """
+    <section id="class10-chemical-reactions-introduction">
+
+    <p>
+        Chemical Reactions and Equations rewards pattern recognition more than memorisation — once you can reliably classify a reaction and predict what it produces, balancing the equation is almost mechanical. This is 23 original problems across 5 question types, and every single equation used here has been checked atom-by-atom for correct balance before publishing.
+    </p>
+
+    <div class="highlight-box">
+
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> Attempt each problem fully before tapping "Reveal Solution." For classification questions, name the type before checking; for balancing questions, write out your own balanced equation first.
+        </p>
+
+    </div>
+
+
+    <p>
+        <strong>Quick reference — the five reaction types:</strong>
+    </p>
+
+    <div class="gdl-card">
+
+        <div class="table-wrap">
+
+            <table
+                class="checklist-table"
+                style="width:100%; table-layout:fixed;">
+
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th>Pattern</th>
+                        <th>Example</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Combination</td>
+                        <td>A + B → AB</td>
+                        <td>2Mg + O₂ → 2MgO</td>
+                    </tr>
+
+                    <tr>
+                        <td>Decomposition</td>
+                        <td>AB → A + B</td>
+                        <td>CaCO₃ → CaO + CO₂</td>
+                    </tr>
+
+                    <tr>
+                        <td>Displacement</td>
+                        <td>A + BC → AC + B</td>
+                        <td>Fe + CuSO₄ → FeSO₄ + Cu</td>
+                    </tr>
+
+                    <tr>
+                        <td>Double Displacement</td>
+                        <td>AB + CD → AD + CB</td>
+                        <td>Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl</td>
+                    </tr>
+
+                    <tr>
+                        <td>Oxidation-Reduction</td>
+                        <td>Gain/loss of oxygen or hydrogen</td>
+                        <td>CuO + H₂ → Cu + H₂O</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-question-types">
+
+    <h2>
+        Every Question Type Covered
+    </h2>
+
+    <div class="two-split">
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1</div>
+
+            <h3>
+                Balancing chemical equations
+            </h3>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2</div>
+
+            <h3>
+                Identifying the reaction type
+            </h3>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3</div>
+
+            <h3>
+                Predicting products &amp; writing equations
+            </h3>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4</div>
+
+            <h3>
+                Identifying oxidation and reduction
+            </h3>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5</div>
+
+            <h3>
+                Double displacement &amp; precipitates
+            </h3>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-type-1-balancing">
+
+    <h2>
+        Type 1 · Balancing Equations
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.1</div>
+
+            <h3>Balance</h3>
+
+            <p>
+                Balance the equation: Fe + H₂O → Fe₃O₄ + H₂
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Balance Fe first, then O, then H
+                            </h3>
+
+                            <p>
+                                3 Fe atoms and 4 O atoms are needed to match Fe₃O₄
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    3Fe + 4H₂O → Fe₃O₄ + 4H₂
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Check: Fe(3=3), H(8=8), O(4=4) — balanced</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.2</div>
+
+            <h3>Balance</h3>
+
+            <p>
+                Balance the equation: Al + O₂ → Al₂O₃
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                O₂ comes in pairs, Al₂O₃ needs 3 oxygens — find the LCM approach
+                            </h3>
+
+                            <p>
+                                Using 2 Al₂O₃ needs 6 O atoms, so 3 O₂ molecules; then 4 Al atoms needed
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    4Al + 3O₂ → 2Al₂O₃
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Check: Al(4=4), O(6=6) — balanced</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.3</div>
+
+            <h3>Balance</h3>
+
+            <p>
+                Balance the equation: NaOH + H₂SO₄ → Na₂SO₄ + H₂O
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Na₂SO₄ needs 2 Na, so use 2 NaOH; this releases 2 H₂O
+                            </h3>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Check: Na(2=2), O(6=6), H(4=4), S(1=1) — balanced</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.4</div>
+
+            <h3>Balance</h3>
+
+            <p>
+                Balance the equation: BaCl₂ + Al₂(SO₄)₃ → BaSO₄ + AlCl₃
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                3 sulphate groups need 3 BaCl₂; 2 Al atoms need 2 AlCl₃
+                            </h3>
+
+                            <p>
+                                Check chlorine: 3 BaCl₂ gives 6 Cl, matching 2 AlCl₃'s 6 Cl
+                            </p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    3BaCl₂ + Al₂(SO₄)₃ → 3BaSO₄ + 2AlCl₃
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Check: Ba(3=3), Cl(6=6), Al(2=2), S(3=3), O(12=12) — balanced</strong>
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Common mistake: balancing one element at a time without rechecking earlier elements — always do a full final atom count across every element before finalising.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">1.5</div>
+
+            <h3>Balance</h3>
+
+            <p>
+                Balance the equation: Pb(NO₃)₂ → PbO + NO₂ + O₂
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Start with 2 Pb(NO₃)₂ to get an even number of N and O to balance
+                            </h3>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Check: Pb(2=2), N(4=4), O(12=12) — balanced</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-type-2-identifying">
+
+    <h2>
+        Type 2 · Identifying Reaction Type
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.1</div>
+
+            <h3>Classify</h3>
+
+            <p>
+                CaO + H₂O → Ca(OH)₂ — Identify the type of reaction.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ <strong>Combination reaction</strong> — two reactants (CaO and H₂O) combine to form a single product.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.2</div>
+
+            <h3>Classify</h3>
+
+            <p>
+                2AgCl --(sunlight)--> 2Ag + Cl₂ — Identify the type of reaction, and its specific sub-type.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ <strong>Decomposition reaction, specifically photolytic decomposition</strong> — one compound breaks into two products using light energy.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.3</div>
+
+            <h3>Classify</h3>
+
+            <p>
+                Zn + CuSO₄ → ZnSO₄ + Cu — Identify the type of reaction.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ <strong>Displacement reaction</strong> — zinc, being more reactive than copper, displaces it from copper sulphate.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.4</div>
+
+            <h3>Classify</h3>
+
+            <p>
+                Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl — Identify the type of reaction.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ <strong>Double displacement reaction</strong> — the two compounds exchange ions (Na↔Ba), and since BaSO₄ is insoluble, it also forms a precipitate.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">2.5</div>
+
+            <h3>Classify</h3>
+
+            <p>
+                2H₂O --(electricity)--> 2H₂ + O₂ — Identify the type of reaction and its specific sub-type.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ <strong>Decomposition reaction, specifically electrolytic decomposition</strong> — water breaks down using electrical energy.
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-type-3-predicting-products">
+
+    <h2>
+        Type 3 · Predicting Products
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.1</div>
+
+            <h3>Predict &amp; Write</h3>
+
+            <p>
+                Predict the products and write the balanced equation when iron reacts with copper sulphate solution.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Iron is more reactive than copper, so it displaces copper
+                            </h3>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    Fe + CuSO₄ → FeSO₄ + Cu
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Products:</strong> iron sulphate (pale green solution) and copper (reddish-brown deposit)
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.2</div>
+
+            <h3>Predict &amp; Write</h3>
+
+            <p>
+                Predict the products and write the balanced equation when zinc granules react with dilute hydrochloric acid.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Zn + 2HCl → ZnCl₂ + H₂↑
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Products:</strong> zinc chloride and hydrogen gas (confirmed by the characteristic pop sound with a burning splint)
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.3</div>
+
+            <h3>Predict &amp; Write</h3>
+
+            <p>
+                Predict the products and write the balanced equation when calcium carbonate is heated strongly.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    CaCO₃ --(heat)--> CaO + CO₂
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Products:</strong> calcium oxide (quicklime) and carbon dioxide — this is the industrial process for making lime.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.4</div>
+
+            <h3>Predict &amp; Write</h3>
+
+            <p>
+                Predict the products and write the balanced equation when solutions of lead nitrate and potassium iodide are mixed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Pb(NO₃)₂ + 2KI → PbI₂↓ + 2KNO₃
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Products:</strong> lead iodide, a bright yellow precipitate, and potassium nitrate (remains in solution)
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">3.5</div>
+
+            <h3>Predict &amp; Write</h3>
+
+            <p>
+                Predict the products and write the balanced equation when hydrogen gas is passed over heated copper(II) oxide.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    CuO + H₂ → Cu + H₂O
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Products:</strong> copper metal (the black CuO turns reddish-brown) and water vapour
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-type-4-oxidation-reduction">
+
+    <h2>
+        Type 4 · Oxidation and Reduction
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.1</div>
+
+            <h3>Identify Oxidised/Reduced</h3>
+
+            <p>
+                In the reaction CuO + H₂ → Cu + H₂O, identify which substance is oxidised and which is reduced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Check oxygen gain/loss for each reactant
+                            </h3>
+
+                            <p>
+                                H₂ gains oxygen to become H₂O — this is oxidation. CuO loses oxygen to become Cu — this is reduction.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>H₂ is oxidised (to H₂O); CuO is reduced (to Cu)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.2</div>
+
+            <h3>Identify Oxidised/Reduced</h3>
+
+            <p>
+                In the reaction ZnO + C → Zn + CO, identify which substance is oxidised and which is reduced.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="gdl-prep-flow">
+
+                    <div class="gdl-prep-item">
+
+                        <div class="gdl-prep-content">
+
+                            <h3>
+                                Track oxygen for each substance
+                            </h3>
+
+                            <p>
+                                Carbon gains oxygen to form CO — oxidation. ZnO loses oxygen to form Zn — reduction.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Carbon is oxidised (to CO); ZnO is reduced (to Zn)</strong>
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.3</div>
+
+            <h3>Real-World Oxidation</h3>
+
+            <p>
+                Explain, in terms of oxidation, why iron articles develop a reddish-brown coating over time when left exposed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ This is rusting — iron slowly reacts with oxygen (and moisture) in the air, gaining oxygen to form hydrated iron oxide (rust). This is a slow oxidation reaction occurring at ordinary temperature, rather than combustion.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">4.4</div>
+
+            <h3>Real-World Oxidation</h3>
+
+            <p>
+                Why do packaged fatty and oily foods often have nitrogen gas flushed into the packet before sealing?
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ Fats and oils undergo oxidation when exposed to air, producing rancidity — an unpleasant smell and taste. Nitrogen is an unreactive (inert) gas, so flushing it into the packet displaces oxygen and prevents this oxidation from occurring, keeping the food fresh for longer.
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-chemical-reactions-type-5-double-displacement">
+
+    <h2>
+        Type 5 · Double Displacement &amp; Precipitates
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.1</div>
+
+            <h3>Identify Precipitate</h3>
+
+            <p>
+                Silver nitrate solution is mixed with sodium chloride solution. Write the balanced equation and identify the precipitate formed.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    AgNO₃ + NaCl → AgCl↓ + NaNO₃
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Precipitate:</strong> silver chloride (white) — this reaction is the basis of the classic test for chloride ions.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.2</div>
+
+            <h3>Identify Precipitate</h3>
+
+            <p>
+                Sodium carbonate solution is mixed with calcium chloride solution. Write the balanced equation and identify the precipitate.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    Na₂CO₃ + CaCl₂ → CaCO₃↓ + 2NaCl
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Precipitate:</strong> calcium carbonate (white)
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.3</div>
+
+            <h3>Identify Precipitate</h3>
+
+            <p>
+                Barium chloride solution reacts with sodium sulphate solution. Write the balanced equation and identify the precipitate.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    BaCl₂ + Na₂SO₄ → BaSO₄↓ + 2NaCl
+                </div>
+
+                <div class="highlight-box">
+                    ✓ <strong>Precipitate:</strong> barium sulphate (white) — used as the basis for confirming sulphate ions.
+                </div>
+
+            </details>
+
+        </div>
+
+
+
+        <div class="gdl-card">
+
+            <div class="gdl-prep-index">5.4</div>
+
+            <h3>No Precipitate Case</h3>
+
+            <p>
+                Sodium chloride solution is mixed with potassium nitrate solution. Will a precipitate form? Explain.
+            </p>
+
+            <details>
+                <summary>Reveal Solution</summary>
+
+                <div class="highlight-box">
+                    ✓ No precipitate forms. Both possible new combinations — sodium nitrate and potassium chloride — are soluble in water, so the ions simply remain dissolved and no insoluble solid separates out.
+                </div>
+
+                <div class="warn-box">
+                    ⚠️ Since all the ions remain dissolved in solution, there is no net ionic reaction. A precipitation reaction occurs only when the exchanged ions form an insoluble product.
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Classifying, Balancing, and Predicting Are Three Separate Skills
+    </h2>
+
+    <p>
+        A student who can balance an equation correctly might still misclassify the reaction type, or fail to predict the right products for an unfamiliar reactant pair. A single chapter score doesn't reveal which of these specific gaps exists.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after working through Chemical Reactions practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Balancing equations
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:85%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                85%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Identifying reaction type
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:70%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                70%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Predicting products from scratch
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:51%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                51%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Oxidation-reduction identification
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:33%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                33%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: oxidation-reduction identification (33%) — not more equation balancing. Genelis tracks accuracy by skill, not just by chapter, so it knows exactly which pattern needs more reps.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> generates fresh, unlabelled reaction problems across all 5 types, tracks your accuracy on each specifically, and logs every wrong answer to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Skill-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that type
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div
+            class="gdl-loop-step"
+            style="border-color:#1baf7a;">
+
+            <span
+                class="gdl-loop-number"
+                style="color:#1baf7a;">
+                Result
+            </span>
+
+            Gap closed. Map updates. ✓
+
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-chemreactions&utm_content=cta-inline">
+        Practise unlimited fresh Chemical Reactions problems on Genelis — free →
+    </a>
+    <div class="highlight-box">
+    💡 For chapter strategy and the complete Class 10 Science formula reference, see the <a href="/blog/class-10-science-high-yield-topics-cbse-2026">complete Class 10 Science guide</a>.
+</div>
+
+</section>
+    """,
+
+    "faq": [
+    {
+        "question": (
+            "What are the main types of chemical reactions tested "
+            "in CBSE Class 10?"
+        ),
+        "answer": (
+            "Five main types: combination reactions (two or more substances "
+            "combine to form one product), decomposition reactions (one "
+            "substance breaks down into two or more, further classified as "
+            "thermal, electrolytic, or photolytic based on the energy source), "
+            "displacement reactions (a more reactive element displaces a less "
+            "reactive one from its compound), double displacement reactions "
+            "(two compounds exchange ions, often forming a precipitate), and "
+            "oxidation-reduction reactions (one substance gains oxygen or "
+            "loses hydrogen while another loses oxygen or gains hydrogen)."
+        )
+    },
+    {
+        "question": (
+            "How do I identify which reactant is oxidised and which "
+            "is reduced in a reaction?"
+        ),
+        "answer": (
+            "At Class 10 level, oxidation is defined as the gain of oxygen "
+            "or the loss of hydrogen, and reduction is the loss of oxygen "
+            "or the gain of hydrogen. Look at each reactant individually: "
+            "if a substance has oxygen added to it or hydrogen removed from "
+            "it going from reactant to product, it has been oxidised. If a "
+            "substance loses oxygen or gains hydrogen, it has been reduced. "
+            "Since oxidation and reduction always happen together, one "
+            "reactant is oxidised while the other is simultaneously reduced."
+        )
+    },
+    {
+        "question": (
+            "How can I tell if a double displacement reaction will "
+            "form a precipitate?"
+        ),
+        "answer": (
+            "A precipitate forms when the ions exchanged between the two "
+            "reactants combine to create a new compound that is insoluble "
+            "in water. Common examples tested at Class 10 level include "
+            "barium sulphate (from barium and sulphate ions), lead iodide "
+            "(bright yellow, from lead and iodide ions), silver chloride "
+            "(white, from silver and chloride ions), and calcium carbonate. "
+            "If neither possible new combination of ions is insoluble, no "
+            "precipitate forms and the reaction is simply an exchange of "
+            "ions in solution."
+        )
+    },
+    {
+        "question": (
+            "What is the difference between thermal, electrolytic, "
+            "and photolytic decomposition?"
+        ),
+        "answer": (
+            "All three are decomposition reactions where one compound breaks "
+            "into two or more products, differing only in the energy source "
+            "that drives the breakdown. Thermal decomposition uses heat, such "
+            "as calcium carbonate breaking into calcium oxide and carbon "
+            "dioxide when heated. Electrolytic decomposition uses electricity, "
+            "such as water breaking into hydrogen and oxygen gas. Photolytic "
+            "decomposition uses light, such as silver chloride breaking into "
+            "silver and chlorine when exposed to sunlight — this is also why "
+            "silver chloride is used in photographic film."
+        )
+    }
+],
+    "related_posts": [
+        "class-10-science-high-yield-topics-cbse-2026"
+
+        # Activate after checking your latest local blog_data.py:
+        # "class-10-carbon-compounds-reactions-revision-sheet",
+        # "class-10-light-ray-diagrams-numericals"
+    ]
+},
+{
+    "slug": "class-10-life-processes-diagrams-competency-practice",
+
+    "title": (
+        "Class 10 Science Life Processes: Diagrams, "
+        "Important Questions & Competency Practice"
+    ),
+
+    "meta_title": (
+        "Class 10 Science Life Processes: Diagrams, "
+        "Important Questions & Competency Practice | Genelis"
+    ),
+
+    "meta_description": (
+        "Labelled diagrams of the human heart and nephron with correct blood "
+        "flow direction, important conceptual questions on nutrition, "
+        "respiration, transportation and excretion, and real-world competency "
+        "case studies — everything Life Processes actually tests, in one place."
+    ),
+
+    "excerpt": (
+        "The heart and nephron, correctly labelled with blood flow direction. "
+        "The conceptual questions examiners actually ask. Real-world "
+        "competency scenarios."
+    ),
+
+    "class": "10",
+
+    "subject": "Science",
+
+    "category": "Study Guide",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-29T09:00:00+05:30",
+
+    "updated_date": "2026-08-29T09:00:00+05:30",
+
+    "reading_time": "18 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Life Processes human heart and nephron diagrams "
+        "with important questions and competency practice"
+    ),
+
+    "keywords": [
+        "class 10 life processes diagram",
+        "human heart labelled diagram class 10",
+        "nephron structure diagram",
+        "class 10 life processes important questions",
+        "double circulation human heart",
+        "excretory system class 10"
+    ],
+
+    "content": """
+    <section id="class10-life-processes-introduction">
+
+    <p>
+        Life Processes is the chapter where a correctly labelled diagram often carries as much weight as a well-written paragraph. This guide covers two important diagrams from the chapter — the human heart and the nephron — labelled with the correct blood flow direction and structure, alongside the conceptual questions examiners actually ask and real-world competency scenarios.
+    </p>
+
+    <div class="highlight-box">
+
+        <p style="margin:0;">
+            <strong>A note on the heart diagram's orientation:</strong> Anatomical diagrams are drawn as if you're facing the person — so the heart's right side (right atrium, right ventricle) appears on the <em>left</em> of the diagram, and vice versa. This trips up more students than any other part of this topic, so it's worth internalising early.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-life-processes-human-heart">
+
+    <h2>
+        Diagram · Human Heart
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>
+            Structure of the Human Heart with Blood Flow Direction
+        </h3>
+
+        <div style="padding:14px; background:#fafbfd; border-radius:10px;">
+
+<svg
+    viewBox="0 0 760 520"
+    xmlns="http://www.w3.org/2000/svg"
+    style="width:100%; height:auto; display:block;">
+
+    <!-- Background -->
+    <rect x="0" y="0" width="760" height="520" rx="18" fill="#fafbfd"/>
+
+    <!-- Heart body -->
+    <path
+        d="M 190 135
+           C 145 95, 95 110, 95 180
+           C 95 255, 175 315, 380 440
+           C 585 315, 665 255, 665 180
+           C 665 110, 615 95, 570 135
+           C 520 95, 450 105, 380 175
+           C 310 105, 240 95, 190 135 Z"
+        fill="#fbe1e1"
+        stroke="#cf2f2f"
+        stroke-width="4"/>
+
+    <!-- Septum -->
+    <line
+        x1="380"
+        y1="150"
+        x2="380"
+        y2="405"
+        stroke="#cf2f2f"
+        stroke-width="3"
+        stroke-dasharray="7 7"/>
+
+    <!-- Atria/ventricle divider -->
+    <line
+        x1="150"
+        y1="235"
+        x2="610"
+        y2="235"
+        stroke="#cf2f2f"
+        stroke-width="3"
+        stroke-dasharray="7 7"/>
+
+    <!-- Chamber labels -->
+    <text x="255" y="180" font-size="22" font-weight="700" text-anchor="middle" fill="#1f66cc">
+        Right Atrium
+    </text>
+
+    <text x="255" y="330" font-size="22" font-weight="700" text-anchor="middle" fill="#1f66cc">
+        Right Ventricle
+    </text>
+
+    <text x="505" y="180" font-size="22" font-weight="700" text-anchor="middle" fill="#cf2f2f">
+        Left Atrium
+    </text>
+
+    <text x="505" y="330" font-size="22" font-weight="700" text-anchor="middle" fill="#cf2f2f">
+        Left Ventricle
+    </text>
+
+    <!-- Vena Cava -->
+    <line x1="175" y1="55" x2="175" y2="145" stroke="#1f66cc" stroke-width="8"/>
+    <polygon points="175,165 160,140 190,140" fill="#1f66cc"/>
+
+    <text x="110" y="52" font-size="18" font-weight="600" fill="#1f66cc">Vena Cava</text>
+    <text x="110" y="74" font-size="14" fill="#7b7b7b">(deoxygenated, from body)</text>
+
+    <!-- Pulmonary artery -->
+    <line x1="280" y1="235" x2="280" y2="70" stroke="#1f66cc" stroke-width="8"/>
+    <polygon points="280,48 265,73 295,73" fill="#1f66cc"/>
+
+    <text x="300" y="58" font-size="18" font-weight="600" fill="#1f66cc">Pulmonary Artery</text>
+    <text x="300" y="80" font-size="14" fill="#7b7b7b">(to lungs)</text>
+
+    <!-- Pulmonary vein -->
+    <line x1="490" y1="55" x2="490" y2="145" stroke="#cf2f2f" stroke-width="8"/>
+    <polygon points="490,165 475,140 505,140" fill="#cf2f2f"/>
+
+    <text x="535" y="52" font-size="18" font-weight="600" text-anchor="end" fill="#cf2f2f">Pulmonary Vein</text>
+    <text x="535" y="74" font-size="14" text-anchor="end" fill="#7b7b7b">(from lungs)</text>
+
+    <!-- Aorta -->
+    <path
+        d="M 585 235
+           L 585 95
+           C 585 70, 605 60, 630 60"
+        fill="none"
+        stroke="#cf2f2f"
+        stroke-width="8"/>
+
+    <polygon points="650,60 622,48 627,72" fill="#cf2f2f"/>
+
+    <text x="635" y="52" font-size="18" font-weight="600" fill="#cf2f2f">Aorta</text>
+    <text x="635" y="74" font-size="14" fill="#7b7b7b">(to body)</text>
+
+    <!-- Valves -->
+    <circle cx="255" cy="235" r="8" fill="#eda100"/>
+    <text x="255" y="267" font-size="15" font-weight="600" text-anchor="middle" fill="#e67e00">
+        Tricuspid
+    </text>
+
+    <circle cx="505" cy="235" r="8" fill="#eda100"/>
+    <text x="505" y="267" font-size="15" font-weight="600" text-anchor="middle" fill="#e67e00">
+        Bicuspid
+    </text>
+
+    <!-- Flow guide arrows inside heart -->
+    <line x1="210" y1="190" x2="240" y2="220" stroke="#1f66cc" stroke-width="4"/>
+    <polygon points="248,228 228,223 238,213" fill="#1f66cc"/>
+
+    <line x1="470" y1="190" x2="510" y2="220" stroke="#cf2f2f" stroke-width="4"/>
+    <polygon points="518,228 498,223 508,213" fill="#cf2f2f"/>
+
+    <!-- Orientation note -->
+    <text x="380" y="490" font-size="15" text-anchor="middle" fill="#8a8a8a">
+        Viewed as if facing the person — right side of the heart is on the left of the image
+    </text>
+
+</svg>
+
+
+            <div style="display:flex; gap:16px; margin:10px 0; flex-wrap:wrap; font-size:11px; color:#555;">
+
+                <span>
+                    <span style="width:10px; height:10px; border-radius:50%; background:#1565c0; display:inline-block; margin-right:5px;"></span>
+                    Deoxygenated blood (right side)
+                </span>
+
+                <span>
+                    <span style="width:10px; height:10px; border-radius:50%; background:#c62828; display:inline-block; margin-right:5px;"></span>
+                    Oxygenated blood (left side)
+                </span>
+
+                <span>
+                    <span style="width:10px; height:10px; border-radius:50%; background:#eda100; display:inline-block; margin-right:5px;"></span>
+                    Valves
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <p>
+            <strong>Blood flow path:</strong> Deoxygenated blood from the body enters the right atrium via the vena cava → passes through the tricuspid valve into the right ventricle → is pumped through the pulmonary artery to the lungs. Oxygenated blood returns via the pulmonary vein into the left atrium → passes through the bicuspid (mitral) valve into the left ventricle → is pumped through the aorta to the rest of the body.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-life-processes-nephron">
+
+    <h2>
+        Diagram · Nephron
+    </h2>
+
+    <div class="gdl-card">
+
+        <h3>
+            Structure of a Nephron
+        </h3>
+
+
+        <div style="padding:14px; background:#fafbfd; border-radius:10px;">
+
+            <svg
+                viewBox="0 0 760 520"
+                xmlns="http://www.w3.org/2000/svg"
+                style="width:100%; height:auto; display:block;">
+
+                <!-- Background -->
+                <rect
+                    x="0"
+                    y="0"
+                    width="760"
+                    height="520"
+                    rx="18"
+                    fill="#fafbfd"/>
+
+
+                <!-- ======================================
+                     DIAGRAM TITLE / FLOW REFERENCE
+                ======================================= -->
+
+                <text
+                    x="380"
+                    y="42"
+                    font-size="18"
+                    font-weight="700"
+                    text-anchor="middle"
+                    fill="#172033">
+                    Filtrate Flow Through the Nephron
+                </text>
+
+                <text
+                    x="380"
+                    y="67"
+                    font-size="14"
+                    text-anchor="middle"
+                    fill="#7b7b7b">
+                    Bowman's capsule → PCT → Loop of Henle → DCT → Collecting duct
+                </text>
+
+
+                <!-- ======================================
+                     BOWMAN'S CAPSULE
+                ======================================= -->
+
+                <path
+                    d="
+                        M 145 125
+                        C 105 115, 82 145, 85 185
+                        C 88 225, 115 250, 150 240
+                        C 178 232, 192 210, 192 180
+                        C 192 145, 175 128, 145 125 Z
+                    "
+                    fill="#fff3e0"
+                    stroke="#eda100"
+                    stroke-width="4"/>
+
+
+                <!-- Glomerulus -->
+
+                <circle
+                    cx="138"
+                    cy="177"
+                    r="16"
+                    fill="none"
+                    stroke="#c62828"
+                    stroke-width="3"/>
+
+                <circle
+                    cx="125"
+                    cy="166"
+                    r="15"
+                    fill="none"
+                    stroke="#c62828"
+                    stroke-width="3"/>
+
+                <circle
+                    cx="150"
+                    cy="164"
+                    r="15"
+                    fill="none"
+                    stroke="#c62828"
+                    stroke-width="3"/>
+
+                <circle
+                    cx="128"
+                    cy="188"
+                    r="15"
+                    fill="none"
+                    stroke="#c62828"
+                    stroke-width="3"/>
+
+                <circle
+                    cx="151"
+                    cy="188"
+                    r="15"
+                    fill="none"
+                    stroke="#c62828"
+                    stroke-width="3"/>
+
+
+                <!-- Bowman label -->
+
+                <text
+                    x="140"
+                    y="275"
+                    font-size="18"
+                    font-weight="700"
+                    text-anchor="middle"
+                    fill="#e67e00">
+                    Bowman's Capsule
+                </text>
+
+                <text
+                    x="140"
+                    y="297"
+                    font-size="14"
+                    text-anchor="middle"
+                    fill="#7b7b7b">
+                    with glomerulus
+                </text>
+
+
+                <!-- ======================================
+                     AFFERENT ARTERIOLE
+                ======================================= -->
+
+                <line
+                    x1="35"
+                    y1="150"
+                    x2="105"
+                    y2="168"
+                    stroke="#c62828"
+                    stroke-width="7"/>
+
+                <polygon
+                    points="108,168 91,157 94,177"
+                    fill="#c62828"/>
+
+                <text
+                    x="35"
+                    y="110"
+                    font-size="16"
+                    font-weight="600"
+                    fill="#c62828">
+                    Afferent arteriole
+                </text>
+
+                <text
+                    x="35"
+                    y="132"
+                    font-size="13"
+                    fill="#7b7b7b">
+                    blood enters
+                </text>
+
+
+                <!-- ======================================
+                     EFFERENT ARTERIOLE
+                ======================================= -->
+
+                <line
+                    x1="171"
+                    y1="160"
+                    x2="245"
+                    y2="135"
+                    stroke="#e04848"
+                    stroke-width="6"/>
+
+                <polygon
+                    points="251,133 231,128 237,147"
+                    fill="#e04848"/>
+
+                <text
+                    x="215"
+                    y="105"
+                    font-size="16"
+                    font-weight="600"
+                    fill="#e04848">
+                    Efferent arteriole
+                </text>
+
+                <text
+                    x="215"
+                    y="125"
+                    font-size="13"
+                    fill="#7b7b7b">
+                    blood leaves
+                </text>
+
+
+                <!-- ======================================
+                     PROXIMAL CONVOLUTED TUBULE
+                ======================================= -->
+
+                <path
+                    d="
+                        M 180 220
+                        C 220 245, 235 210, 265 235
+                        C 295 260, 260 290, 295 310
+                    "
+                    fill="none"
+                    stroke="#2a78d6"
+                    stroke-width="7"
+                    stroke-linecap="round"/>
+
+                <polygon
+                    points="297,310 278,299 283,320"
+                    fill="#2a78d6"/>
+
+                <text
+                    x="275"
+                    y="215"
+                    font-size="17"
+                    font-weight="700"
+                    fill="#1565c0">
+                    Proximal Convoluted Tubule
+                </text>
+
+                <text
+                    x="275"
+                    y="236"
+                    font-size="14"
+                    fill="#7b7b7b">
+                    PCT
+                </text>
+
+
+                <!-- ======================================
+                     LOOP OF HENLE
+                ======================================= -->
+
+                <path
+                    d="
+                        M 295 310
+                        L 340 310
+                        L 340 420
+                        Q 340 445 365 445
+                        Q 390 445 390 420
+                        L 390 310
+                        L 435 310
+                    "
+                    fill="none"
+                    stroke="#1baf7a"
+                    stroke-width="7"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"/>
+
+                <polygon
+                    points="390,300 379,321 401,321"
+                    fill="#1baf7a"/>
+
+                <text
+                    x="365"
+                    y="478"
+                    font-size="18"
+                    font-weight="700"
+                    text-anchor="middle"
+                    fill="#1b5e20">
+                    Loop of Henle
+                </text>
+
+
+                <!-- ======================================
+                     DISTAL CONVOLUTED TUBULE
+                ======================================= -->
+
+                <path
+                    d="
+                        M 435 310
+                        C 470 280, 500 320, 525 280
+                        C 545 248, 525 225, 555 205
+                    "
+                    fill="none"
+                    stroke="#8b6fcb"
+                    stroke-width="7"
+                    stroke-linecap="round"/>
+
+                <polygon
+                    points="558,203 538,202 549,220"
+                    fill="#8b6fcb"/>
+
+                <text
+                    x="485"
+                    y="350"
+                    font-size="17"
+                    font-weight="700"
+                    fill="#6a1b9a">
+                    Distal Convoluted Tubule
+                </text>
+
+                <text
+                    x="485"
+                    y="372"
+                    font-size="14"
+                    fill="#7b7b7b">
+                    DCT
+                </text>
+
+
+                <!-- ======================================
+                     COLLECTING DUCT
+                ======================================= -->
+
+                <line
+                    x1="585"
+                    y1="135"
+                    x2="585"
+                    y2="405"
+                    stroke="#e65100"
+                    stroke-width="8"
+                    stroke-linecap="round"/>
+
+                <!-- DCT connects to collecting duct -->
+
+                <line
+                    x1="555"
+                    y1="205"
+                    x2="585"
+                    y2="205"
+                    stroke="#8b6fcb"
+                    stroke-width="7"
+                    stroke-linecap="round"/>
+
+
+                <!-- Downward flow toward ureter -->
+
+                <polygon
+                    points="585,432 569,402 601,402"
+                    fill="#e65100"/>
+
+                <text
+                    x="610"
+                    y="170"
+                    font-size="18"
+                    font-weight="700"
+                    fill="#e65100">
+                    Collecting Duct
+                </text>
+
+                <text
+                    x="610"
+                    y="194"
+                    font-size="13"
+                    fill="#7b7b7b">
+                    collects urine
+                </text>
+
+                <text
+                    x="610"
+                    y="430"
+                    font-size="14"
+                    fill="#7b7b7b">
+                    toward ureter → bladder
+                </text>
+
+            </svg>
+
+        </div>
+
+
+        <p>
+            <strong>How it works:</strong> Blood enters via the afferent arteriole into the glomerulus, where filtration occurs and the filtrate enters the Bowman's capsule — small molecules and waste pass out, while blood cells and large proteins stay in the blood. The filtrate then travels through the PCT, Loop of Henle, and DCT, where most useful substances (glucose, amino acids, most water) are reabsorbed back into the surrounding blood vessels. What remains becomes urine, collected by the collecting duct.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-life-processes-important-conceptual-questions">
+
+    <h2>
+        Important Conceptual Questions
+    </h2>
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why does the human heart have four chambers instead of two?
+            </h3>
+
+            <p>
+                Four chambers keep oxygenated and deoxygenated blood completely separate — the right side handles only deoxygenated blood (body → lungs), and the left side handles only oxygenated blood (lungs → body). This separation lets the body receive fully oxygenated blood at high pressure, which is essential for maintaining a high, stable metabolic rate in warm-blooded animals.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is double circulation, and why do humans need it?
+            </h3>
+
+            <p>
+                Blood passes through the heart twice per full circuit — once through pulmonary circulation (heart↔lungs) and once through systemic circulation (heart↔body). This prevents oxygenated and deoxygenated blood from mixing and allows the heart to re-pressurise blood before sending it to the body, ensuring efficient oxygen delivery.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why is the left ventricle's wall thicker than the right ventricle's?
+            </h3>
+
+            <p>
+                The left ventricle pumps blood at high pressure over the much longer distance to the entire body, against greater resistance, while the right ventricle only pumps the short distance to the lungs. This greater workload requires more muscle, making the left ventricle's wall noticeably thicker.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is the difference between transport in xylem and phloem in plants?
+            </h3>
+
+            <p>
+                Xylem transports water and dissolved minerals upward from roots to leaves, driven mainly by transpiration pull (evaporation of water from leaf surfaces creating a continuous pull upward) — this movement is unidirectional. Phloem transports food (mainly sucrose) made in leaves to all parts of the plant, including storage organs and growing regions, and this movement can occur in multiple directions depending on where food is needed, using energy actively in a process called translocation.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Why is diffusion sufficient for gas exchange in Amoeba, but not in humans?
+            </h3>
+
+            <p>
+                Amoeba is a single, small cell with its entire surface in direct contact with the surrounding water, so oxygen and carbon dioxide can diffuse directly across the cell membrane fast enough to meet its needs. Humans are large, multicellular organisms where most cells are far from the body surface — diffusion alone would be far too slow to supply oxygen to deep tissues, which is why a specialised respiratory and circulatory system is needed to actively transport gases to and from every cell.
+            </p>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                What is the functional difference between arteries and veins?
+            </h3>
+
+            <p>
+                Arteries carry blood away from the heart, typically at high pressure, and have thick, elastic, muscular walls to withstand this pressure. Veins carry blood back toward the heart at lower pressure, have thinner walls, and contain valves to prevent the backflow of blood, since the pressure driving the blood forward is much weaker by the time it reaches the veins.
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-life-processes-competency-practice">
+
+    <h2>
+        Competency-Based Practice
+    </h2>
+
+    <p>
+        Each scenario below presents a real-world situation with linked sub-questions — the format CBSE uses for competency-based, case-based questions.
+    </p>
+
+
+    <div class="gdl-card" style="border:2px solid #ffcc80;">
+
+        <div class="highlight-box">
+            <strong>Case Study 1</strong>
+            <h3 style="margin-bottom:0;">
+                Heart Rate During Exercise
+            </h3>
+        </div>
+
+
+        <p>
+            A student's resting heart rate is measured at 72 beats per minute. After 10 minutes of vigorous running, their heart rate rises to 150 beats per minute, and their breathing rate also increases noticeably.
+        </p>
+
+
+        <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+            <div class="gdl-card">
+
+                <h3>
+                    Sub-question (i)
+                </h3>
+
+                <p>
+                    Why does heart rate increase during exercise?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        ✓ Exercising muscles need more oxygen and glucose to release energy at a faster rate, and also produce more carbon dioxide as waste. The heart beats faster to circulate blood more quickly, delivering oxygen and removing waste at the rate the muscles now demand.
+                    </div>
+
+                </details>
+
+            </div>
+
+
+            <div class="gdl-card">
+
+                <h3>
+                    Sub-question (ii)
+                </h3>
+
+                <p>
+                    Why does breathing rate also increase alongside heart rate?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        ✓ Faster, more frequent breathing brings more oxygen into the lungs and expels carbon dioxide more quickly, matching the increased gas exchange demand created by faster cellular respiration in the working muscles.
+                    </div>
+
+                </details>
+
+            </div>
+
+
+            <div class="gdl-card">
+
+                <h3>
+                    Sub-question (iii)
+                </h3>
+
+                <p>
+                    If the student's muscles start to ache during very intense exercise, what process might be occurring, and why?
+                </p>
+
+                <details>
+                    <summary>Reveal Answer</summary>
+
+                    <div class="highlight-box">
+                        ✓ This likely indicates anaerobic respiration is occurring in the muscles — when oxygen supply cannot keep up with the muscles' demand during very intense activity, cells switch to breaking down glucose without oxygen, producing lactic acid, which builds up and causes the sensation of muscle fatigue and cramping.
+                    </div>
+
+                </details>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+<div class="gdl-card" style="border:2px solid #ffcc80;">
+
+    <div class="highlight-box">
+        <strong>Case Study 2</strong>
+        <h3 style="margin-bottom:0;">
+            Kidney Dialysis
+        </h3>
+    </div>
+
+
+    <p>
+        A patient whose kidneys have stopped functioning properly needs regular dialysis treatment. During dialysis, the patient's blood is passed through a machine that filters out waste products before returning the cleaned blood to the body.
+    </p>
+
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Sub-question (i)
+            </h3>
+
+            <p>
+                Which normal body process is dialysis artificially replacing?
+            </p>
+
+            <details>
+                <summary>Reveal Answer</summary>
+
+                <div class="highlight-box">
+                    ✓ Dialysis replaces the filtration function normally carried out by the nephrons in the kidneys — removing waste products like urea from the blood, which the patient's own kidneys can no longer do effectively.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Sub-question (ii)
+            </h3>
+
+            <p>
+                Name the specific structure within the nephron responsible for this filtration in a healthy kidney.
+            </p>
+
+            <details>
+                <summary>Reveal Answer</summary>
+
+                <div class="highlight-box">
+                    ✓ The Bowman's capsule, along with its glomerulus (the tangled network of blood capillaries within it), is where blood filtration occurs in a healthy nephron.
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Sub-question (iii)
+            </h3>
+
+            <p>
+                Why can't dialysis simply remove all substances from the blood indiscriminately?
+            </p>
+
+            <details>
+                <summary>Reveal Answer</summary>
+
+                <div class="highlight-box">
+                    ✓ Just as the nephron selectively reabsorbs useful substances like glucose and amino acids after filtration, dialysis must be carefully controlled to remove only waste products and excess substances while preserving the blood's necessary components, such as blood cells, proteins, and the correct balance of essential ions and nutrients the body still needs.
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</div>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Diagrams, Concepts, and Application Are Three Different Skills
+    </h2>
+
+    <p>
+        A student who can label the heart's chambers correctly might still struggle to explain double circulation in their own words, or apply nephron function to a real scenario like dialysis. A single chapter score won't reveal which specific gap exists.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after working through Life Processes practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Nutrition &amp; digestion concepts
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:82%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                82%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Heart structure &amp; blood flow
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:65%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                65%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Nephron structure &amp; function
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:48%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                48%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Competency application scenarios
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:30%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                30%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: competency application scenarios (30%) — not more diagram labelling. Genelis tracks diagram recall and real-world application as separate skills.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across diagram-based recall, conceptual understanding, and competency application for Life Processes, so a strong overall score never hides a specific weak structure or concept. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh problems
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Skill-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak concept
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that skill
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div
+            class="gdl-loop-step"
+            style="border-color:#1baf7a;">
+
+            <span
+                class="gdl-loop-number"
+                style="color:#1baf7a;">
+                Result
+            </span>
+
+            Gap closed. Map updates. ✓
+
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-lifeprocesses&utm_content=cta-inline">
+        Practise unlimited fresh Life Processes problems on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For chapter strategy and the complete Class 10 Science formula reference, see the <a href="/blog/class-10-science-high-yield-topics-cbse-2026">complete Class 10 Science guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "Why does the human heart have four chambers instead of two?"
+            ),
+            "answer": (
+                "Four chambers allow the heart to completely separate "
+                "oxygenated and deoxygenated blood, which a two-chambered "
+                "heart cannot do. The right side of the heart (right atrium "
+                "and right ventricle) handles only deoxygenated blood returning "
+                "from the body and sends it to the lungs, while the left side "
+                "(left atrium and left ventricle) handles only oxygenated blood "
+                "from the lungs and sends it to the body. This separation is "
+                "essential for warm-blooded animals like humans, since it "
+                "allows blood delivered to the body to be fully oxygenated "
+                "and at high pressure, supporting a high, stable metabolic rate."
+            )
+        },
+        {
+            "question": (
+                "What is double circulation, and why do humans need it?"
+            ),
+            "answer": (
+                "Double circulation means blood passes through the heart twice "
+                "in one complete circuit around the body — once through the "
+                "pulmonary circulation (heart to lungs and back) and once "
+                "through the systemic circulation (heart to the rest of the "
+                "body and back). This is necessary because it keeps oxygenated "
+                "and deoxygenated blood from mixing, and it allows blood to be "
+                "re-pressurised by the heart before it's sent to the body, "
+                "ensuring efficient oxygen delivery to tissues with high "
+                "energy demands."
+            )
+        },
+        {
+            "question": (
+                "What is the basic functional unit of the kidney, "
+                "and what does it do?"
+            ),
+            "answer": (
+                "The nephron is the basic structural and functional unit of "
+                "the kidney. Each nephron filters blood at the Bowman's capsule, "
+                "where small molecules and wastes pass out of the blood while "
+                "blood cells and large proteins are retained. As this filtrate "
+                "travels along the tubule — through the proximal convoluted "
+                "tubule, the loop of Henle, and the distal convoluted tubule — "
+                "useful substances like glucose, amino acids, and much of the "
+                "water are selectively reabsorbed back into the blood, leaving "
+                "urine to be collected and passed to the ureter."
+            )
+        },
+        {
+            "question": (
+                "Why is the left ventricle's wall thicker than the "
+                "right ventricle's wall?"
+            ),
+            "answer": (
+                "The left ventricle must pump blood at high pressure all the "
+                "way to the rest of the body, overcoming greater resistance "
+                "over a much longer distance than the right ventricle, which "
+                "only needs to pump blood the relatively short distance to the "
+                "lungs. This higher workload requires more muscular force, "
+                "which is why the left ventricle's wall is noticeably thicker "
+                "and more muscular than the right ventricle's."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-chemical-reactions-equations-practice-set",
+        "class-10-carbon-compounds-reactions-revision-sheet",
+        "class-10-science-high-yield-topics-cbse-2026"
+    ]
+},
 
         {
         "slug": "introducing-genelis-ai-learning-platform",
