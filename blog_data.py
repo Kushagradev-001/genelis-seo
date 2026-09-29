@@ -4066,6 +4066,2594 @@ Whether your current score is 65%, 75%, or 85%, the next few months can look com
         "class-10-science-high-yield-topics-cbse-2026"
     ]
 },
+{
+    "slug": "class-10-social-science-source-based-map-work-practice",
+
+    "title": (
+        "Class 10 Social Science: Source-Based Questions "
+        "& Map Work Practice Set"
+    ),
+
+    "meta_title": (
+        "Class 10 Social Science: Source-Based Questions "
+        "& Map Work Practice Set | Genelis"
+    ),
+
+    "meta_description": (
+        "Practise Class 10 Social Science map work with a structured "
+        "History and Geography checklist, plus source-based and case-based "
+        "questions across all four SST disciplines with full model answers "
+        "showing how to structure high-scoring responses."
+    ),
+
+    "excerpt": (
+        "Actual Social Science practice — structured map work, "
+        "source-based questions, case-based questions, and model answers "
+        "across History, Geography, Political Science, and Economics."
+    ),
+
+    "class": "10",
+
+    "subject": "Social Science",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-30T09:00:00+05:30",
+
+    "updated_date": "2026-08-30T09:00:00+05:30",
+
+    "reading_time": "17 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 Social Science source-based questions and "
+        "map work practice for History, Geography, Political Science "
+        "and Economics"
+    ),
+
+    "keywords": [
+        "class 10 social science map work practice",
+        "class 10 SST source based questions",
+        "nationalism in india map locations",
+        "class 10 case based questions social science",
+        "class 10 SST model answers"
+    ],
+
+    "content": """
+    <section id="class10-sst-source-map-introduction">
+
+    <p>
+        Our <a href="/blog/class-10-social-science-chapter-strategy-map-work-cbse">Class 10 Social Science strategy guide</a> told you exactly where the marks are — which chapters carry the most weight, and which specific topics map work draws from. This is the follow-through: an actual practice checklist for map work, organised so you can self-test without a teacher checking your outline map, plus real source-based and case-based questions with full model answers showing exactly how a high-scoring response is structured.
+    </p>
+
+    <div class="highlight-box">
+
+        <p style="margin:0;">
+            <strong>A note on the map section:</strong> Rather than a single drawn reference map (which can't substitute for practising on your own outline map anyway), this is a structured checklist by region — the actual skill is recalling and marking locations from memory, which only works if you practise that recall yourself.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-sst-map-work-practice">
+
+    <h2>
+        Map Work Practice Checklist
+    </h2>
+
+    <p>
+        Work through one region at a time on your own blank outline map. Mark every location without checking a reference first, then verify against your atlas or textbook — and note down specifically which ones you got wrong, so your next round of practice targets those directly.
+    </p>
+
+
+    <!-- =====================================================
+         HISTORY
+    ====================================================== -->
+
+    <h3>
+        History — Nationalism in India
+    </h3>
+
+    <div class="two-split">
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Indian National Congress Sessions
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Calcutta</strong> — September 1920 Congress session
+                </li>
+
+                <li>
+                    <strong>Nagpur</strong> — December 1920 Congress session
+                </li>
+
+                <li>
+                    <strong>Madras</strong> — 1927 Congress session
+                </li>
+            </ul>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Satyagraha Movements
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Champaran</strong> — movement of indigo cultivators
+                </li>
+
+                <li>
+                    <strong>Kheda</strong> — peasant satyagraha
+                </li>
+
+                <li>
+                    <strong>Ahmedabad</strong> — mill workers' satyagraha
+                </li>
+            </ul>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Jallianwala Bagh
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Amritsar</strong> — Jallianwala Bagh
+                </li>
+            </ul>
+
+        </div>
+
+
+        <div class="gdl-card">
+
+            <h3>
+                Civil Disobedience Movement
+            </h3>
+
+            <ul>
+                <li>
+                    <strong>Dandi</strong> — endpoint associated with the Dandi March
+                </li>
+            </ul>
+
+        </div>
+
+
+    </div>
+
+
+    <!-- =====================================================
+         GEOGRAPHY
+    ====================================================== -->
+
+    <h3>
+        Geography
+    </h3>
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Resources and Development
+        </h3>
+
+        <p>
+            Practise identifying the <strong>major soil types of India</strong> on an outline map.
+        </p>
+
+    </div>
+
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Water Resources — Major Dams
+        </h3>
+
+        <div class="two-split">
+
+            <ul>
+                <li>Salal</li>
+                <li>Bhakra Nangal</li>
+                <li>Tehri</li>
+                <li>Rana Pratap Sagar</li>
+            </ul>
+
+            <ul>
+                <li>Sardar Sarovar</li>
+                <li>Hirakund</li>
+                <li>Nagarjun Sagar</li>
+                <li>Tungabhadra</li>
+            </ul>
+
+        </div>
+
+    </div>
+
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Agriculture
+        </h3>
+
+        <ul>
+            <li>
+                Identify the major areas of <strong>rice</strong> cultivation.
+            </li>
+
+            <li>
+                Identify the major areas of <strong>wheat</strong> cultivation.
+            </li>
+
+            <li>
+                Identify the largest/major producer states of
+                <strong>sugarcane, tea, coffee, rubber, cotton and jute</strong>.
+            </li>
+        </ul>
+
+    </div>
+
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Minerals and Energy Resources
+        </h3>
+
+        <div class="two-split">
+
+
+            <div>
+
+                <h4>
+                    Iron Ore Mines
+                </h4>
+
+                <ul>
+                    <li>Mayurbhanj</li>
+                    <li>Durg</li>
+                    <li>Bailadila</li>
+                    <li>Bellary</li>
+                    <li>Kudremukh</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    Coal Mines
+                </h4>
+
+                <ul>
+                    <li>Raniganj</li>
+                    <li>Bokaro</li>
+                    <li>Talcher</li>
+                    <li>Neyveli</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    Oil Fields
+                </h4>
+
+                <ul>
+                    <li>Digboi</li>
+                    <li>Naharkatia</li>
+                    <li>Mumbai High</li>
+                    <li>Bassien</li>
+                    <li>Kalol</li>
+                    <li>Ankaleshwar</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    Thermal Power Plants
+                </h4>
+
+                <ul>
+                    <li>Namrup</li>
+                    <li>Singrauli</li>
+                    <li>Ramagundam</li>
+                </ul>
+
+                <h4>
+                    Nuclear Power Plants
+                </h4>
+
+                <ul>
+                    <li>Narora</li>
+                    <li>Kakrapara</li>
+                    <li>Tarapur</li>
+                    <li>Kalpakkam</li>
+                </ul>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Manufacturing Industries
+        </h3>
+
+        <div class="two-split">
+
+
+            <div>
+
+                <h4>
+                    Cotton Textile Industries
+                </h4>
+
+                <ul>
+                    <li>Mumbai</li>
+                    <li>Indore</li>
+                    <li>Surat</li>
+                    <li>Kanpur</li>
+                    <li>Coimbatore</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    Iron and Steel Plants
+                </h4>
+
+                <ul>
+                    <li>Durgapur</li>
+                    <li>Bokaro</li>
+                    <li>Jamshedpur</li>
+                    <li>Bhilai</li>
+                    <li>Vijayanagar</li>
+                    <li>Salem</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    Software Technology Parks
+                </h4>
+
+                <ul>
+                    <li>Noida</li>
+                    <li>Gandhinagar</li>
+                    <li>Mumbai</li>
+                    <li>Pune</li>
+                    <li>Hyderabad</li>
+                    <li>Bengaluru</li>
+                    <li>Chennai</li>
+                    <li>Thiruvananthapuram</li>
+                </ul>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+    <div
+        class="gdl-card"
+        style="margin-bottom:14px;">
+
+        <h3>
+            Lifelines of National Economy
+        </h3>
+
+        <div class="two-split">
+
+
+            <div>
+
+                <h4>
+                    Major Sea Ports
+                </h4>
+
+                <ul>
+                    <li>Kandla</li>
+                    <li>Mumbai</li>
+                    <li>Marmagao</li>
+                    <li>New Mangalore</li>
+                    <li>Kochi</li>
+                    <li>Tuticorin</li>
+                    <li>Chennai</li>
+                    <li>Visakhapatnam</li>
+                    <li>Paradip</li>
+                    <li>Haldia</li>
+                </ul>
+
+            </div>
+
+
+            <div>
+
+                <h4>
+                    International Airports
+                </h4>
+
+                <ul>
+                    <li>
+                        Amritsar — Raja Sansi / Sri Guru Ram Das Ji
+                    </li>
+
+                    <li>
+                        Delhi — Indira Gandhi
+                    </li>
+
+                    <li>
+                        Mumbai — Chhatrapati Shivaji
+                    </li>
+
+                    <li>
+                        Chennai — Meenambakkam
+                    </li>
+
+                    <li>
+                        Kolkata — Netaji Subhas Chandra Bose
+                    </li>
+
+                    <li>
+                        Hyderabad — Rajiv Gandhi
+                    </li>
+                </ul>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+    <div class="highlight-box">
+        💡 <strong>Efficient self-testing method:</strong> Practise one region's checklist daily rather than the whole map at once. A location you can mark correctly three times in a row on three different days is genuinely learned — one correct attempt today doesn't mean it will still be there in three weeks.
+    </div>
+
+</section>
+<section id="class10-sst-source-based-practice">
+
+    <h2>
+        Source-Based &amp; Case-Based Practice
+    </h2>
+
+
+    <div class="gdl-card" style="border:2px solid #90caf9;">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            History — Source-Based
+        </p>
+
+        <h3>
+            The Salt March
+        </h3>
+
+
+        <div
+            class="highlight-box"
+            style="
+                background:#f8fbff;
+                border-color:#90caf9;
+                color:#333;
+                font-style:italic;
+            ">
+
+            Source: "Mahatma Gandhi began the Salt March in March 1930, walking over 240 miles from Sabarmati to the coastal town of Dandi. On reaching Dandi, he broke the salt law by making salt from sea water, an act that gave the movement its symbolic focus and encouraged thousands of Indians to defy the law in their own regions."
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (i) Why was salt specifically chosen as the focus of this movement, according to the source and your understanding of the period?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        Salt was something every Indian household needed daily, yet its production and sale under British law was a state monopoly, making it illegal for ordinary people to make their own. Choosing salt turned an everyday necessity into a direct, easily understood symbol of unjust colonial control, allowing widespread participation regardless of class or region.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (ii) Based on the source, what made this act of breaking the salt law significant beyond the act itself?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        The source states it "encouraged thousands of Indians to defy the law in their own regions" — meaning the significance lay in its power to inspire mass, decentralised civil disobedience across the country, not just the single act of law-breaking at Dandi itself.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-sst-geography-data-based">
+
+    <div class="gdl-card" style="border:2px solid #90caf9;">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Geography — Data-Based
+        </p>
+
+        <h3>
+            Mineral Production
+        </h3>
+
+
+        <p>
+            Study the following data showing the share of India's iron ore production by major producing states in 2021–22, and answer the questions that follow.
+        </p>
+
+
+        <div class="gdl-card">
+
+            <div class="table-wrap">
+
+                <table
+                    class="checklist-table"
+                    style="width:100%; table-layout:fixed;">
+
+                    <thead>
+                        <tr>
+                            <th>State</th>
+                            <th>Share of India's Iron Ore Production</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>Odisha</td>
+                            <td>53.8%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Chhattisgarh</td>
+                            <td>16.3%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Karnataka</td>
+                            <td>15.9%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Jharkhand</td>
+                            <td>9.7%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Other States</td>
+                            <td>4.3%</td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+            <p style="font-size:11px; color:#777; margin:10px 0 0;">
+                Source: Indian Bureau of Mines, Indian Minerals Yearbook 2022. Data refers to iron ore production in 2021–22.
+            </p>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (i) What kind of geological feature would you expect to find in the state with the highest iron ore production, based on general patterns of mineral distribution in India?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        The table shows that Odisha has the highest share of iron ore production. Major iron ore deposits in India are commonly associated with ancient crystalline rock formations in the Peninsular plateau region. Such old geological formations contain substantial metallic mineral deposits, including iron ore.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (ii) Why might a state with high mineral production not necessarily have a correspondingly high level of industrial development?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        Industrial development depends on more than raw material availability — it also requires adequate infrastructure, power supply, skilled labour, capital investment, and market access. A state may export its raw minerals to be processed and manufactured elsewhere, meaning the economic value addition and associated industrial growth occurs in a different region entirely.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-sst-political-science-case-based">
+
+    <div class="gdl-card" style="border:2px solid #90caf9;">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Political Science — Case-Based
+        </p>
+
+        <h3>
+            Power Sharing
+        </h3>
+
+
+        <div
+            class="highlight-box"
+            style="
+                background:#f8fbff;
+                border-color:#90caf9;
+                color:#333;
+            ">
+
+            Case: In a certain country, the government has recently introduced a law requiring that decisions on resource allocation to different linguistic communities be made only after consultation with each community's elected representatives, rather than by a single central authority acting alone.
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (i) Identify the form of power sharing being described in this case.
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        This describes power sharing among different social groups — in this case, linguistic communities. Their elected representatives are included in decisions affecting resource allocation rather than allowing a single central authority to make those decisions alone.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (ii) Why might this form of power sharing be considered prudent for a country with diverse linguistic communities?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        Power sharing of this kind helps prevent the domination of one community over others, reduces the risk of social conflict, and generally leads to more stable, legitimate outcomes since decisions affecting a community are made with that community's actual input, rather than imposed externally.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-sst-economics-case-based">
+
+    <div class="gdl-card" style="border:2px solid #90caf9;">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Economics — Case-Based
+        </p>
+
+        <h3>
+            Money and Credit
+        </h3>
+
+
+        <div
+            class="highlight-box"
+            style="
+                background:#f8fbff;
+                border-color:#90caf9;
+                color:#333;
+            ">
+
+            Source: A farmer takes a loan from an informal moneylender at a very high interest rate to purchase seeds for the season, since the farmer lacks the paperwork required for a formal bank loan.
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (i) What term describes the source of credit the farmer has used in this case?
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        This is an informal source of credit — moneylenders operate outside the regulatory oversight of the Reserve Bank of India, unlike banks and cooperative societies, which are formal sources.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                (ii) Explain one specific disadvantage this farmer faces by relying on this source rather than a formal one.
+            </h3>
+
+            <details>
+
+                <summary>
+                    Reveal Model Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <strong>Model Answer</strong>
+
+                    <p>
+                        Informal lenders typically charge much higher interest rates than formal institutions, with no regulatory cap on what they can charge. This significantly increases the farmer's repayment burden and can trap them in a cycle of debt, especially if the harvest is poor and repayment becomes difficult.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section class="gdl-analysis-section">
+
+    <h2>
+        Recalling a Location and Interpreting a Source Are Different Skills From Knowing the Content
+    </h2>
+
+    <p>
+        A student who has read every chapter thoroughly can still struggle to place Champaran correctly on a blank map, or fail to extract the specific detail a source-based question is actually asking about. These are separate, practisable skills — not automatic side effects of content knowledge.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after SST source and map practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Content knowledge — all disciplines
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:83%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                83%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                History map locations
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:64%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                64%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Geography map locations
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:45%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                45%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Source-based interpretation
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:29%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                29%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: source-based interpretation (29%) — not more content revision. Genelis tracks map recall and source interpretation as distinct skills from raw content knowledge.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across content knowledge, map recall, and source interpretation for Social Science, so a strong content score never hides a specific weak skill. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh practice
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Skill-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak area
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that skill
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div
+            class="gdl-loop-step"
+            style="border-color:#1baf7a;">
+
+            <span
+                class="gdl-loop-number"
+                style="color:#1baf7a;">
+                Result
+            </span>
+
+            Gap closed. Map updates. ✓
+
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-sst-practice&utm_content=cta-inline">
+        Practise unlimited fresh SST source-based questions on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For the full chapter-wise weightage and answer-writing strategy behind this practice, see the <a href="/blog/class-10-social-science-chapter-strategy-map-work-cbse">complete Class 10 Social Science guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "How should I practise map work if I don't have "
+                "a teacher checking my outline maps?"
+            ),
+            "answer": (
+                "Self-testing works well if you're systematic about it: "
+                "keep a blank outline map of India, work through one regional "
+                "checklist at a time, mark every location without looking at "
+                "a reference, then check each one against an atlas or your "
+                "textbook map afterward. Track which specific locations you "
+                "get wrong repeatedly, and revisit only those in your next "
+                "practice round rather than redoing the entire map every time."
+            )
+        },
+        {
+            "question": (
+                "What makes a source-based answer different from "
+                "a regular short-answer question?"
+            ),
+            "answer": (
+                "A source-based answer must directly reference specific "
+                "details from the given source — a quotation, a data point, "
+                "a map feature — rather than relying purely on general "
+                "knowledge of the topic. Even if you know the broader concept "
+                "well, an answer that doesn't engage with the specific source "
+                "provided will lose marks, since the question is specifically "
+                "testing your ability to read and interpret that source, not "
+                "just recall the topic."
+            )
+        },
+        {
+            "question": (
+                "How long should a case-based answer in "
+                "Political Science actually be?"
+            ),
+            "answer": (
+                "Case-based answers should be concise and directly tied to "
+                "the case — typically 2 to 4 sentences per sub-part is "
+                "sufficient, provided each sentence adds a genuinely new "
+                "point rather than restating the question. Naming the correct "
+                "concept clearly, then connecting it explicitly to a specific "
+                "detail from the case, matters far more than length."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-social-science-chapter-strategy-map-work-cbse",
+        "cbse-class-10-competency-based-questions-2027-preparation",
+        "class-10-board-exam-preparation-guide-cbse"
+    ]
+},
+{
+    "slug": "class-10-english-grammar-writing-practice",
+
+    "title": (
+        "Class 10 English: Grammar Practice "
+        "& Writing Format Model Answers"
+    ),
+
+    "meta_title": (
+        "Class 10 English: Grammar Practice "
+        "& Writing Format Model Answers | Genelis"
+    ),
+
+    "meta_description": (
+        "Actual practice, not just strategy — 20 grammar exercises "
+        "covering applied grammar and reported speech, plus annotated "
+        "model answers for formal-letter and analytical-paragraph writing "
+        "tasks for CBSE Class 10 English."
+    ),
+
+    "excerpt": (
+        "20 Class 10 English grammar exercises with explanations, "
+        "plus annotated formal-letter and analytical-paragraph model "
+        "answers showing how strong responses are structured."
+    ),
+
+    "class": "10",
+
+    "subject": "English",
+
+    "category": "Practice Set",
+
+    "author": "Genelis Team",
+
+    "published_date": "2026-08-30T09:00:00+05:30",
+
+    "updated_date": "2026-08-30T09:00:00+05:30",
+
+    "reading_time": "18 min read",
+
+    "featured": False,
+
+    "image": "",
+
+    "image_alt": (
+        "Class 10 English grammar practice exercises and "
+        "writing format model answers for CBSE"
+    ),
+
+    "keywords": [
+        "class 10 english grammar practice",
+        "editing exercises class 10 CBSE",
+        "reported speech transformation practice",
+        "class 10 formal letter format",
+        "analytical paragraph model answer"
+    ],
+
+    "content": """
+    <section id="class10-english-grammar-writing-introduction">
+
+    <p>
+        Our <a href="/blog/class-10-english-language-literature-scoring-strategy-cbse">Class 10 English strategy guide</a> made the case that grammar is tested through application, not rule recitation — and that writing marks are lost to format errors as often as to weak language. This is the practice that follows from both: grammar exercises focused on applied practice, and complete model answers with important structural elements clearly highlighted.
+    </p>
+
+    <div class="highlight-box">
+
+        <p style="margin:0;">
+            <strong>How to use this page:</strong> Attempt each grammar exercise before revealing the answer — and read the "why" explanation even when you get it right, since the reasoning is what transfers to unfamiliar sentences. For the writing formats, study the highlighted structural elements before reading the content itself.
+        </p>
+
+    </div>
+
+</section>
+<section id="class10-english-grammar-gap-filling">
+
+    <h2>
+        Grammar Practice — Gap Filling
+    </h2>
+
+    <p>
+        <strong>Tenses, Subject-Verb Agreement, Modals &amp; Determiners</strong>
+    </p>
+
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <!-- QUESTION 1 -->
+        <div class="gdl-card">
+
+            <h3>
+                1. Tense
+            </h3>
+
+            <p>
+                By the time we reached the station, the train
+                <strong>_____</strong> (leave).
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> had left
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> Two past events, one completed before the other. The past perfect ("had left") marks the earlier action; the simple past ("reached") marks the later one.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 2 -->
+        <div class="gdl-card">
+
+            <h3>
+                2. Subject-Verb Agreement
+            </h3>
+
+            <p>
+                Neither of the two answers
+                <strong>_____</strong> (be) correct.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> is
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Neither" is singular, so it takes a singular verb — the plural noun "answers" that follows doesn't change this. A common trap in exam questions.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 3 -->
+        <div class="gdl-card">
+
+            <h3>
+                3. Tense
+            </h3>
+
+            <p>
+                She <strong>_____</strong> (work) at this company since 2019.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> has been working
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Since" with an ongoing action starting in the past and continuing to now calls for the present perfect continuous.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 4 -->
+        <div class="gdl-card">
+
+            <h3>
+                4. Modal
+            </h3>
+
+            <p>
+                You <strong>_____</strong> wear a helmet while riding a two-wheeler — it is required by law.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> must
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Must" expresses strong obligation, which fits a legal requirement. "Should" would express advice rather than obligation, and "may" would express permission — neither matches the context clue "required by law."
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 5 -->
+        <div class="gdl-card">
+
+            <h3>
+                5. Determiner
+            </h3>
+
+            <p>
+                There isn't <strong>_____</strong> sugar left in the jar.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> much
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Sugar" is an uncountable noun, so it takes "much" rather than "many." In a negative sentence, "much" is the natural choice.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 6 -->
+        <div class="gdl-card">
+
+            <h3>
+                6. Subject-Verb Agreement
+            </h3>
+
+            <p>
+                The list of participants <strong>_____</strong> (have) been displayed on the notice board.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> has
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> The subject is "the list" (singular), not "participants." The prepositional phrase "of participants" doesn't change the subject — a very frequently tested trap.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-english-editing-omission">
+
+    <h2>
+        Editing &amp; Omission
+    </h2>
+
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <!-- QUESTION 7 -->
+        <div class="gdl-card">
+
+            <h3>
+                7. Error Correction
+            </h3>
+
+            <p>
+                Identify and correct the error:
+                <em>"She don't like travelling by bus."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> don't → doesn't
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "She" is third person singular, requiring "doesn't" rather than "don't."
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 8 -->
+        <div class="gdl-card">
+
+            <h3>
+                8. Error Correction
+            </h3>
+
+            <p>
+                Identify and correct the error:
+                <em>"He is one of the best player in the team."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> player → players
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "One of the" is always followed by a plural noun — he is one among several players.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 9 -->
+        <div class="gdl-card">
+
+            <h3>
+                9. Error Correction
+            </h3>
+
+            <p>
+                Identify and correct the error:
+                <em>"The teacher explained us the lesson clearly."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> explained us → explained to us
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Explain" takes the preposition "to" before the person receiving the explanation. Unlike verbs such as "tell," it cannot take an indirect object directly.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 10 -->
+        <div class="gdl-card">
+
+            <h3>
+                10. Omission
+            </h3>
+
+            <p>
+                A word has been omitted. Identify where and what:
+                <em>"She has been living here ^ the last five years."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> Insert "for" → "living here for the last five years"
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "For" is used with a duration of time ("five years"), while "since" is used with a starting point ("2019"). This distinction is tested frequently.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 11 -->
+        <div class="gdl-card">
+
+            <h3>
+                11. Error Correction
+            </h3>
+
+            <p>
+                Identify and correct the error:
+                <em>"If I would have known, I would have come earlier."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> If I would have known → If I had known
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> In a third conditional sentence, the "if" clause uses the past perfect ("had known"), while only the main clause uses "would have." Using "would have" in both clauses is a very common error.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 12 -->
+        <div class="gdl-card">
+
+            <h3>
+                12. Error Correction
+            </h3>
+
+            <p>
+                Identify and correct the error:
+                <em>"Each of the students were given a certificate."</em>
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> were → was
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Each" is singular and governs the verb, regardless of the plural noun that follows it.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-english-sentence-transformation">
+
+    <h2>
+        Sentence Transformation
+    </h2>
+
+
+    <div style="display:flex; flex-direction:column; gap:14px;">
+
+
+        <!-- QUESTION 13 -->
+        <div class="gdl-card">
+
+            <h3>
+                13. Reported Speech — Statement
+            </h3>
+
+            <p>
+                Report: She said, "I am feeling unwell today."
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> She said that she was feeling unwell that day.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> Three changes happen together — the pronoun shifts (I→she), the tense backshifts (am→was), and the time reference changes (today→that day).
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 14 -->
+        <div class="gdl-card">
+
+            <h3>
+                14. Reported Speech — Question
+            </h3>
+
+            <p>
+                Report: He asked me, "Where do you live?"
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> He asked me where I lived.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> The reporting verb becomes "asked," the auxiliary "do" is dropped as word order reverts to statement form, the tense backshifts (live→lived), and the question mark disappears.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 15 -->
+        <div class="gdl-card">
+
+            <h3>
+                15. Reported Speech — Yes/No Question
+            </h3>
+
+            <p>
+                Report: She asked, "Have you finished your homework?"
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> She asked whether I had finished my homework.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> With no question word present, "whether" (or "if") is needed to connect the clause. The tense backshifts from present perfect to past perfect.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 16 -->
+        <div class="gdl-card">
+
+            <h3>
+                16. Reported Speech — Command
+            </h3>
+
+            <p>
+                Report: The teacher said to the students, "Submit your assignments by Friday."
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> The teacher told the students to submit their assignments by Friday.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> Commands use "told...to" with the infinitive, replacing the imperative form entirely. Note the pronoun change (your→their).
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <div class="highlight-box">
+            <strong>Supplementary transformation practice:</strong>
+            Questions 17–19 below are retained as useful active/passive voice practice. Treat them as additional language-skill exercises rather than part of the core grammar topics listed for the current CBSE Class 10 English Language &amp; Literature syllabus.
+        </div>
+
+
+        <!-- QUESTION 17 -->
+        <div class="gdl-card">
+
+            <h3>
+                17. Active to Passive
+            </h3>
+
+            <p>
+                Change to passive voice: The committee has approved the new proposal.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> The new proposal has been approved by the committee.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> The object becomes the subject, the verb takes the "has been + past participle" form (matching the original present perfect tense), and the original subject moves to a "by" phrase.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 18 -->
+        <div class="gdl-card">
+
+            <h3>
+                18. Active to Passive
+            </h3>
+
+            <p>
+                Change to passive voice: Someone is repairing the road.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> The road is being repaired.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> Present continuous passive uses "is/are being + past participle." Since "someone" is an unknown, unspecified agent, the "by" phrase is dropped entirely.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 19 -->
+        <div class="gdl-card">
+
+            <h3>
+                19. Passive to Active
+            </h3>
+
+            <p>
+                Change to active voice: The letter was written by Meera yesterday.
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> Meera wrote the letter yesterday.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> The agent in the "by" phrase becomes the subject, and the verb reverts to simple past active form.
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+        <!-- QUESTION 20 -->
+        <div class="gdl-card">
+
+            <h3>
+                20. Reported Speech — Request
+            </h3>
+
+            <p>
+                Report: He said to her, "Please help me with this problem."
+            </p>
+
+            <details>
+
+                <summary>
+                    Reveal Answer
+                </summary>
+
+                <div class="highlight-box">
+
+                    <p>
+                        <strong>Answer:</strong> He requested her to help him with that problem.
+                    </p>
+
+                    <p>
+                        <strong>Why:</strong> "Please" signals a request rather than a command, so the reporting verb becomes "requested" instead of "told." The demonstrative also shifts (this→that).
+                    </p>
+
+                </div>
+
+            </details>
+
+        </div>
+
+
+    </div>
+
+</section>
+<section id="class10-english-writing-formal-letter">
+
+    <h2>
+        Writing Formats — Annotated Model Answers
+    </h2>
+
+    <div class="gdl-card">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Formal Letter · Format + Content + Language
+        </p>
+
+        <h3>
+            Letter to the Editor
+        </h3>
+
+
+        <div class="highlight-box">
+
+            <strong>Task:</strong> You are Rohan Sharma of 42, Green Park, Delhi. Write a letter to the Editor of a national daily, drawing attention to the problem of increasing traffic congestion in your locality.
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Model Answer
+            </h3>
+
+
+            <p>
+                <strong>42, Green Park<br>
+                New Delhi – 110016</strong>
+            </p>
+
+            <p>
+                <strong>15 August 2026</strong>
+            </p>
+
+            <p>
+                <strong>
+                    The Editor<br>
+                    The National Daily<br>
+                    New Delhi
+                </strong>
+            </p>
+
+            <p>
+                <strong>
+                    Subject: Increasing traffic congestion in Green Park locality
+                </strong>
+            </p>
+
+            <p>
+                <strong>Sir/Madam,</strong>
+            </p>
+
+            <p>
+                Through the columns of your esteemed newspaper, I wish to draw the attention of the concerned authorities to the worsening traffic congestion in the Green Park area.
+            </p>
+
+            <p>
+                Over the past year, the volume of vehicles passing through our main road has increased considerably, while the road width has remained unchanged. During peak hours, commuters routinely spend thirty minutes covering a distance that should take five. The absence of designated parking has worsened matters, as vehicles parked along both sides of the road reduce the usable width even further.
+            </p>
+
+            <p>
+                I would urge the authorities to consider introducing designated parking zones and reviewing the traffic signal timings at the main intersection. Prompt action would bring considerable relief to the residents of this locality.
+            </p>
+
+            <p>
+                <strong>
+                    Yours faithfully,<br>
+                    Rohan Sharma
+                </strong>
+            </p>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Structure to Notice
+            </h3>
+
+            <ul>
+
+                <li>
+                    <strong>Sender's address</strong> — top left, no name above it
+                </li>
+
+                <li>
+                    <strong>Date</strong> — below sender's address
+                </li>
+
+                <li>
+                    <strong>Receiver's designation and address</strong> — "The Editor" comes before the publication name
+                </li>
+
+                <li>
+                    <strong>Subject line</strong> — one line, states the issue directly
+                </li>
+
+                <li>
+                    <strong>Salutation</strong> — "Sir/Madam," for an unnamed recipient
+                </li>
+
+                <li>
+                    <strong>Closing</strong> — "Yours faithfully" pairs with "Sir/Madam"; use "Yours sincerely" only when you've addressed a named person
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-english-writing-analytical-paragraph">
+
+    <div class="gdl-card">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Analytical Paragraph · Data Interpretation
+        </p>
+
+        <h3>
+            Analytical Paragraph — Based on a Chart or Data
+        </h3>
+
+
+        <div class="highlight-box">
+
+            <strong>Task:</strong> The given data shows how students in a school spend their free time. Write an analytical paragraph in 100–120 words.
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Data for Analysis
+            </h3>
+
+            <div class="table-wrap">
+
+                <table
+                    class="checklist-table"
+                    style="width:100%; table-layout:fixed;">
+
+                    <thead>
+                        <tr>
+                            <th>Activity</th>
+                            <th>Share of Students' Free Time</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>Digital Entertainment</td>
+                            <td>40%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Reading</td>
+                            <td>25%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Outdoor Games</td>
+                            <td>20%</td>
+                        </tr>
+
+                        <tr>
+                            <td>Creative Hobbies</td>
+                            <td>15%</td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Model Answer
+            </h3>
+
+            <p>
+                <strong>
+                    The given data illustrates how students in the school spend their free time across four activities.
+                </strong>
+            </p>
+
+            <p>
+                <strong>
+                    The most striking feature is that digital entertainment accounts for the largest share, considerably ahead of every other category. Reading and outdoor games occupy intermediate positions, with a noticeable gap between them, while creative hobbies account for the smallest proportion of students' free time.
+                </strong>
+            </p>
+
+            <p>
+                <strong>
+                    Overall, the data suggests a clear preference for screen-based leisure over physical and creative activities, which may warrant attention from both parents and school authorities.
+                </strong>
+            </p>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Structure to Notice
+            </h3>
+
+            <ul>
+
+                <li>
+                    <strong>Opening</strong> — states what the data shows, without copying the task wording verbatim
+                </li>
+
+                <li>
+                    <strong>Body</strong> — describes the most significant feature first, then compares the remaining categories using comparative language
+                </li>
+
+                <li>
+                    <strong>Conclusion</strong> — draws an overall inference; never simply restates the numbers again
+                </li>
+
+            </ul>
+
+        </div>
+
+
+        <div class="highlight-box">
+            💡 An analytical paragraph interprets data — it doesn't just list it. Phrases like "the most striking feature," "considerably ahead of," and "overall, the data suggests" are what turn description into analysis.
+        </div>
+
+    </div>
+
+</section>
+<section id="class10-english-writing-informal-letter">
+
+    <div class="highlight-box">
+        <strong>Supplementary Writing Practice:</strong>
+        The informal letter below is useful for developing tone, organisation, and personal correspondence skills, but it should not be treated as one of the current core CBSE Class 10 board-exam writing tasks.
+    </div>
+
+
+    <div class="gdl-card">
+
+        <p
+            style="
+                margin:0 0 6px;
+                font-size:11px;
+                font-weight:700;
+                color:#1565c0;
+                text-transform:uppercase;
+                letter-spacing:.05em;
+            ">
+            Informal Letter · Personal Tone
+        </p>
+
+        <h3>
+            Informal Letter
+        </h3>
+
+
+        <div class="highlight-box">
+
+            <strong>Task:</strong> Write a letter to your younger cousin congratulating them on their success in a science competition.
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Model Answer
+            </h3>
+
+            <p>
+                <strong>
+                    42, Green Park<br>
+                    New Delhi – 110016
+                </strong>
+            </p>
+
+            <p>
+                <strong>15 August 2026</strong>
+            </p>
+
+            <p>
+                <strong>Dear Aarav,</strong>
+            </p>
+
+            <p>
+                I was delighted to hear about your first place in the inter-school science competition. Congratulations! Your mother told me about the working model you built, and it sounds genuinely impressive — especially given how little time you had to prepare.
+            </p>
+
+            <p>
+                What pleases me most is that you chose a difficult topic rather than an easy one. That willingness to take on a challenge will serve you far better in the long run than any single prize.
+            </p>
+
+            <p>
+                Do write back and tell me what you plan to work on next. I'm looking forward to hearing about it.
+            </p>
+
+            <p>
+                <strong>
+                    With love,<br>
+                    Rohan
+                </strong>
+            </p>
+
+        </div>
+
+
+        <div
+            class="gdl-card"
+            style="margin-top:14px;">
+
+            <h3>
+                Structure to Notice
+            </h3>
+
+            <ul>
+
+                <li>
+                    <strong>Address and date</strong> — still required, same as a formal letter
+                </li>
+
+                <li>
+                    <strong>Salutation</strong> — "Dear [first name]," rather than "Sir/Madam"
+                </li>
+
+                <li>
+                    <strong>Closing</strong> — personal closings like "With love" or "Yours affectionately" — never "Yours faithfully"
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</section>
+<section
+    id="class10-english-grammar-writing-genelis"
+    class="gdl-analysis-section">
+
+    <h2>
+        Knowing a Rule and Applying It Under Time Pressure Are Different Things
+    </h2>
+
+    <p>
+        A student who can explain what past perfect tense means may still miss it in an editing exercise, or forget the subject-verb trap in "the list of participants." Grammar marks can be lost to application errors even when the underlying rule is already understood.
+    </p>
+
+
+    <div class="gdl-accuracy-panel">
+
+        <h4>
+            What a Genelis weak area map looks like after English grammar and writing practice
+        </h4>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Tenses &amp; modals — gap filling
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--strong"
+                    style="width:84%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--strong">
+                84%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Supplementary active-passive transformation
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--good"
+                    style="width:67%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--good">
+                67%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Reported speech — questions &amp; commands
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--average"
+                    style="width:48%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--average">
+                48%
+            </div>
+
+        </div>
+
+
+        <div class="gdl-accuracy-row">
+
+            <div class="gdl-accuracy-label">
+                Writing format compliance
+            </div>
+
+            <div class="gdl-accuracy-track">
+                <div
+                    class="gdl-accuracy-fill gdl-accuracy-fill--weak"
+                    style="width:31%;">
+                </div>
+            </div>
+
+            <div class="gdl-accuracy-value gdl-accuracy-value--weak">
+                31%
+            </div>
+
+        </div>
+
+
+        <p style="font-size:11px; color:#888; margin:10px 0 0;">
+            Next session: writing format compliance (31%) — the marks lost silently, regardless of how well the content itself is written. Genelis tracks format errors separately from language quality.
+        </p>
+
+    </div>
+
+
+    <p>
+        Genelis is an AI-powered personalized learning platform built on <strong>Adaptive Personalized Intelligence</strong>. The <strong>Genelis learning system</strong> tracks your accuracy separately across grammar application, writing format compliance, and language expression — so a strong vocabulary never hides a recurring format error that's quietly costing you marks. Every wrong answer is logged to your <strong>wrong-question notebook</strong> for reattempt.
+    </p>
+
+
+    <div class="gdl-learning-loop">
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 1</span>
+            Attempt fresh practice
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 2</span>
+            Skill-level gap detected
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 3</span>
+            AI notes for weak pattern
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 4</span>
+            Wrong Qs auto-logged
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div class="gdl-loop-step">
+            <span class="gdl-loop-number">Step 5</span>
+            Reattempt that skill
+        </div>
+
+        <div class="gdl-loop-arrow">→</div>
+
+        <div
+            class="gdl-loop-step"
+            style="border-color:#1baf7a;">
+
+            <span
+                class="gdl-loop-number"
+                style="color:#1baf7a;">
+                Result
+            </span>
+
+            Gap closed. Map updates. ✓
+
+        </div>
+
+    </div>
+
+
+    <a
+        class="gdl-inline-cta"
+        href="https://app.genelis.in/?utm_source=blog&utm_medium=article&utm_campaign=class10-english-practice&utm_content=cta-inline">
+        Practise unlimited fresh grammar and writing tasks on Genelis — free →
+    </a>
+
+</section>
+<div class="highlight-box">
+    💡 For the full section-wise weightage and scoring strategy behind this practice, see the <a href="/blog/class-10-english-language-literature-scoring-strategy-cbse">complete Class 10 English guide</a>.
+</div>
+    """,
+
+    "faq": [
+        {
+            "question": (
+                "What grammar topics does CBSE Class 10 English "
+                "actually test?"
+            ),
+            "answer": (
+                "The core grammar topics include determiners, tenses, "
+                "modals, subject-verb concord, and reported speech covering "
+                "commands and requests, statements, and questions. These are "
+                "tested through applied questions in context rather than by "
+                "asking students simply to define or explain grammar rules."
+            )
+        },
+        {
+            "question": (
+                "What is the correct way to convert a question "
+                "into reported speech?"
+            ),
+            "answer": (
+                "Three things change together. First, the reporting verb "
+                "becomes asked or enquired rather than said. Second, the "
+                "question word order reverts to normal statement order, so "
+                "the auxiliary verb no longer comes before the subject. "
+                "Third, if the original question has no question word, you "
+                "introduce whether or if to connect the clause. The question "
+                "mark is also dropped, since a reported question is no "
+                "longer a direct question."
+            )
+        },
+        {
+            "question": (
+                "Why do students lose marks in writing tasks even "
+                "when the content is good?"
+            ),
+            "answer": (
+                "Writing is assessed on more than content alone. In a formal "
+                "letter, format, content, organisation of ideas, and language "
+                "accuracy are assessed separately, so missing required "
+                "structural elements can cost marks even when the message is "
+                "strong. Analytical paragraphs similarly require relevant "
+                "content, logical organisation, and accurate language rather "
+                "than simply listing the information provided."
+            )
+        }
+    ],
+
+    "related_posts": [
+        "class-10-english-language-literature-scoring-strategy-cbse",
+        "class-10-social-science-source-based-map-work-practice",
+        "class-10-board-exam-preparation-guide-cbse"
+    ]
+},
 
         {
         "slug": "introducing-genelis-ai-learning-platform",
